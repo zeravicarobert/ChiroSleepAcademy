@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-21
+**Last updated:** 2026-05-21 (added mentor ecosystem, Protect Your Income / Stay-at-Home patient architecture)
 
 ---
 
@@ -488,5 +488,107 @@ Still open:
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
+- **Stay-at-Home 12-Module Program** — pricing, delivery format (live cohort? on-demand? Zoom?), enrollment cadence, refund policy. Currently undefined (§17).
+- **Protect Your Income (SDI certification) pricing** — Mandossian's blueprint estimates $400 initial certification + $525 ongoing coaching = $1,925 LTV with referral revenue. Confirm Robert's actual fees and CA telehealth scope (§17).
+- **Mike Barron video team scope** — which assets are first in queue (Hot Springs/VAET, SDI telehealth, Stay-at-Home modules)? (§16).
 
 When any of these are resolved, update this file.
+
+---
+
+## 16. Mentor Ecosystem
+
+Robert has three active mentors guiding different parts of the CSA ecosystem.
+Claude should keep these straight when interpreting Robert's priorities and
+when drafting work that "belongs" to one mentor's lane.
+
+### Mentor 1 — Mike Barron (Done-for-You Marketing)
+- Building done-for-you marketing for Robert.
+- Trains Robert's videographer + video editor team.
+- Lanes he covers:
+  - Marketing for **Hot Springs / VAET** services (§7–§8).
+  - Marketing for Robert as a **Telehealth provider for CA W2 workers**
+    seeking certification for **CA EDD SDI** claims (§17).
+- Practical implication: video assets and ad/funnel creative for both
+  lanes flow through Mike's team.
+
+### Mentor 2 — Simon Severino (90 Day Sprint / Sprint Club)
+- Operating in the Jay Abraham lineage, via Brian Oney.
+- Primary focus: **Chiropractic Sleep Academy** itself (the doctor-facing
+  category-building work in §1–§14).
+- Also: helping Robert start and set up **Claude Code** (this tool).
+- Practical implication: Simon is the mentor closest to this repo and to
+  the CSA productized pathway.
+
+### Mentor 3 — Alex Mandossian (CA EDD SDI Growth)
+- Helping Robert grow the **CA EDD SDI** patient-acquisition side of the
+  business.
+- Produced the *Protect Your Income™ — 90-Day Patient Acquisition Plan*
+  for Dr. Z, saved at
+  `mentors/mandossian-2026-protect-your-income-blueprint.md`.
+- Practical implication: Mandossian's plan is the source of truth for the
+  SDI-side acquisition strategy (attorney, union rep, urgent-care
+  channels; CA union trade workers as the first niche).
+
+---
+
+## 17. Patient-Facing Offer Architecture (Ecosystem Spine)
+
+Sections 7 and 8 describe the **doctor-facing** offer ("Heal the Healer
+First"). This section describes the **patient-facing** offer that runs
+underneath the same CSA umbrella. They share the same operator (Robert),
+the same brand voice (§4), the same non-negotiables (§5), and ultimately
+feed each other.
+
+### The patient flow
+
+> **Mental Financial Stress (ICD-10)** → **Protect Your Income (CA EDD SDI claim)**
+> → **12-Module Stay-at-Home Program (1 module / month, year-long, sleep-focused)**
+> → **optional VAET continuity** (after VAET, the 12-Module program continues as the spine)
+
+1. **Entry diagnosis: Mental Financial Stress.**
+   The patient arrives stressed — financially, physically, often both.
+   The clinical entry point is the Mental Financial Stress ICD-10
+   diagnosis.
+
+2. **Protect Your Income (CA EDD SDI certification).**
+   Treatment plan starts by filing a CA EDD SDI claim so the patient has
+   income protection while they recover. This is the "Protect Your
+   Income™" line that Mandossian's blueprint targets. Robert delivers it
+   as a CA telehealth provider for W2 workers. Primary niche per
+   Mandossian: **California union trade workers**. Primary acquisition
+   channels: disability attorneys, union reps / shop stewards, urgent
+   care & occupational clinics.
+
+3. **12-Module Stay-at-Home Program (the spine).**
+   Year-long, one module per month. Focused on improving sleep. Designed
+   to be delivered remotely so it works at scale and pairs with the SDI
+   leave. **Standalone** — patients can do it without VAET — but also
+   serves as the continuity layer after VAET.
+
+4. **Optional VAET continuity.**
+   For patients who travel for the Tecopa VAET treatment experience
+   (§8 Step 4), the 12-Module Stay-at-Home Program kicks in afterward as
+   the long-term care plan. VAET is the high-bandwidth event; the
+   Stay-at-Home program is the year of follow-through.
+
+### How this dovetails with the doctor-facing offer
+
+- **VAET (§8 Step 4)** appears in both stacks: doctors live the model at
+  Tecopa, and patients receive it as the high-bandwidth conversion event.
+- **The 12-Module Stay-at-Home Program** is the patient-side equivalent of
+  what CSA gives doctors: a structured, paced, year-long path.
+- **Mike Barron's video team (§16)** produces marketing assets for both
+  the Hot Springs/VAET lane and the SDI/telehealth lane — one production
+  pipeline, two audiences.
+
+### What's *not* yet defined (open in §15)
+
+- Pricing and delivery format of the 12-Module Stay-at-Home Program.
+- Robert's actual fee schedule for the SDI certification work (Mandossian's
+  $400 + $525 + $1,000 LTV is an estimate, not a quote).
+- Whether the 12-Module Program ever has a DC-facing version, or stays
+  patient-only.
+
+Until those are locked, treat this section as the *architecture* of the
+ecosystem, not a price list.
