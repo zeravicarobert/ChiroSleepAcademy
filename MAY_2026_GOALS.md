@@ -1,112 +1,186 @@
-# ChiroSleepAcademy — May 2026 Goals
+# ChiroSleepAcademy — May 2026 Visual Project Tracker
 
 **Month:** May 1–31, 2026
-**Theme:** Build the foundation. Ship one polished offering, grow the audience, and establish weekly operating rhythm.
+**Owner:** Robert
+**Last updated:** 2026-05-21
 
 ---
 
-## North-Star Metric for the Month
-Reach **100 paying members** (or equivalent course sales) by May 31.
+## Overall Progress
+
+```
+Total goals: 6
+[░░░░░░░░░░░░░░░░░░░░]  0%   (0 / 6 complete)
+```
+
+| # | Goal | Status | Progress |
+|---|---|---|---|
+| 1 | 1 patient: HST + CBCT | Not started | `[░░░░░░░░░░] 0%` |
+| 2 | DC database outreach (28 opt-ins) | Not started | `[░░░░░░░░░░] 0%` |
+| 3 | Mentee — deliver LOE | Not started | `[░░░░░░░░░░] 0%` |
+| 4 | 2 Zoom calls with DCs about sleep | Not started | `[░░░░░░░░░░] 0%` |
+| 5 | 1 DC to Hot Springs for VAET treatment | Not started | `[░░░░░░░░░░] 0%` |
+| 6 | Landing page / website live | Not started | `[░░░░░░░░░░] 0%` |
+
+Legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
 
 ---
 
-## Objective 1 — Launch & Sell the Core Offering
-**Why it matters:** Until something is shipped and bought, everything else is noise.
+## Goal 1 — 1 Patient: HST + CBCT
+**Why:** Prove the workflow on a real case. Foundation for patient #2 and the Academy story.
+**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%`
 
-| # | Key Result | Target |
-|---|---|---|
-| 1.1 | Publish the flagship "Sleep for Chiropractors" course (or signature program) | Live on site by **May 14** |
-| 1.2 | Onboard paying members/customers | **100 paid** by **May 31** |
-| 1.3 | Collect testimonials from early members | **10 written / 3 video** |
-| 1.4 | Average customer rating | **≥ 4.5 / 5** |
+### Steps
+- [ ] Define ideal candidate criteria (symptoms, willingness, budget)
+- [ ] Review current patient list / pull 3–5 candidates
+- [ ] Reach out to top candidate(s) and confirm consent
+- [ ] Schedule HST (device handoff + instructions)
+- [ ] Schedule CBCT (referral / imaging center confirmed)
+- [ ] Collect HST results
+- [ ] Collect CBCT images + report
+- [ ] Document case (de-identified) for future teaching use
 
-**Stretch:** 150 paid members; one B2B clinic license sold.
-
----
-
-## Objective 2 — Grow the Audience
-**Why it matters:** Sales follow attention. Build the top of the funnel now.
-
-| # | Key Result | Target |
-|---|---|---|
-| 2.1 | Email list net new subscribers | **+1,000** |
-| 2.2 | Instagram / TikTok followers | **+2,000 combined** |
-| 2.3 | Publish short-form videos | **20 in May** (≈ 5/week) |
-| 2.4 | Long-form content (blog post, podcast, or YouTube) | **4 published** (1/week) |
-| 2.5 | One podcast guest appearance booked | **1 confirmed** |
+**Target completion:** May 31
 
 ---
 
-## Objective 3 — Content & Curriculum Depth
-**Why it matters:** A reputable academy needs real depth, not just marketing.
+## Goal 2 — DC Database Outreach (28 Opt-ins)
+**Why:** Warm audience already raised their hand. Re-engage and offer real value (HST + CBCT).
+**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%` (0 / 28 contacted)
 
-| # | Key Result | Target |
-|---|---|---|
-| 3.1 | Modules fully scripted + recorded | **6 modules** |
-| 3.2 | Downloadable resources (PDFs, protocols, checklists) | **5 polished** |
-| 3.3 | Cite peer-reviewed sources in every module | **100% coverage** |
-| 3.4 | Beta-tester feedback cycles | **2 rounds completed** |
+### Steps
+- [ ] Pull and clean the list of 28 opted-in DCs
+- [ ] Draft outreach message (mission, message, HST offer, CBCT ask)
+- [ ] Send wave 1 — 10 DCs
+- [ ] Send wave 2 — 10 DCs
+- [ ] Send wave 3 — 8 DCs
+- [ ] Track replies in a simple spreadsheet (name · responded · interested · scheduled)
+- [ ] Follow up with non-responders after 7 days
+
+### Outreach Tracker
+```
+Contacted:    [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  0 / 28
+Responded:    [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  0 / 28
+HST offered:  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  0 / 28
+CBCT asked:   [░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  0 / 28
+```
+
+**Target completion:** all 28 contacted by **May 24**, follow-ups by **May 31**
 
 ---
 
-## Objective 4 — Operations & Foundation
-**Why it matters:** A weekly rhythm beats heroic sprints. Set the system this month.
+## Goal 3 — Deliver LOE to Mentee
+**Why:** Mentee has explicitly asked. Highest-trust relationship in the database.
+**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%`
 
-| # | Key Result | Target |
-|---|---|---|
-| 4.1 | Define weekly cadence (content day, sales day, build day) | Locked by **May 7** |
-| 4.2 | Track KPIs in one dashboard (subs, MRR, traffic) | Live by **May 10** |
-| 4.3 | Brand assets finalized (logo, colors, type, voice doc) | Done by **May 14** |
-| 4.4 | Legal: terms, privacy, refund policy reviewed | Done by **May 21** |
+### Steps
+- [ ] Confirm scope of mentorship (frequency, topics, duration, fee?)
+- [ ] Draft LOE
+- [ ] Internal review / sleep on it
+- [ ] Send LOE to mentee
+- [ ] Get signed acknowledgement
+- [ ] Schedule first mentee session
+
+**Target completion:** LOE sent by **May 14**
 
 ---
 
-## Weekly Breakdown
+## Goal 4 — 2 Zoom Calls with DCs About Their Sleep
+**Why:** Real conversations beat broadcasts. Learn the language, sharpen the offer.
+**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%` (0 / 2)
 
-### Week 1 — May 1–3 (kickoff weekend)
-- [ ] Finalize course outline + pricing
-- [ ] Set up KPI dashboard
-- [ ] Lock weekly cadence
+### Steps
+- [ ] Identify 4–6 candidate DCs from outreach replies
+- [ ] Send Calendly / scheduling link
+- [ ] **Call 1** — held, notes captured
+- [ ] **Call 2** — held, notes captured
+- [ ] Write 1-page synthesis of what you heard (themes, language, objections)
+
+**Target completion:** May 31 (aim for first call by May 17)
+
+---
+
+## Goal 5 — 1 DC to Hot Springs for VAET Treatment
+**Why:** A live treatment experience is the highest-bandwidth conversion event you have.
+**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%`
+
+### Steps
+- [ ] Identify the right DC candidate from the database / Zoom calls
+- [ ] Make the invitation (what's covered, what's expected, travel logistics)
+- [ ] Confirm dates with Hot Springs facility / treatment provider
+- [ ] DC books travel
+- [ ] Treatment completed
+- [ ] Post-treatment debrief + testimonial / case capture
+
+**Target completion:** booked in May, treatment in May or scheduled by May 31
+
+---
+
+## Goal 6 — Landing Page / Website
+**Why:** Outreach needs a place to send people. The Academy needs a public address.
+**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%`
+
+### Steps
+- [ ] Lock domain (chirosleepacademy.com or final choice)
+- [ ] Pick platform (Carrd / Webflow / WordPress / Framer)
+- [ ] Write copy: mission, who it's for, the offer, CTA
+- [ ] Hero image / brand visuals
+- [ ] Email capture wired up (where do leads go?)
+- [ ] Page published & tested on mobile
+- [ ] Link added to email signature + outreach messages
+
+**Target completion:** **May 17** (so outreach in weeks 3–5 can use it)
+
+---
+
+## Weekly Rhythm
+
+### Week 1 — May 1–3 (kickoff)
+- [ ] Pull DC list (28) and clean it
+- [ ] Define HST+CBCT ideal candidate criteria
+- [ ] Lock domain + pick site platform
+- [ ] Draft mentee LOE scope
 
 ### Week 2 — May 4–10
-- [ ] Record modules 1–3
-- [ ] Publish 5 short-form videos + 1 long-form
-- [ ] Soft-launch waitlist (target: 200 signups)
+- [ ] Send LOE to mentee
+- [ ] Send outreach wave 1 (10 DCs)
+- [ ] Build landing page draft
+- [ ] Identify HST+CBCT candidate(s)
 
 ### Week 3 — May 11–17
-- [ ] **Launch course (May 14)**
-- [ ] Record modules 4–6
-- [ ] Email sequence: 5 launch emails
-- [ ] First 30 paying members
+- [ ] **Landing page live (May 17)**
+- [ ] Outreach wave 2 (10 DCs)
+- [ ] Schedule HST + CBCT for selected patient
+- [ ] Hold Zoom call #1 with a DC
 
 ### Week 4 — May 18–24
-- [ ] Open beta-tester feedback round 1
-- [ ] Podcast guest appearance recorded
-- [ ] Reach 70 paying members
-- [ ] Collect first 5 testimonials
+- [ ] Outreach wave 3 (final 8 DCs)
+- [ ] HST completed for patient
+- [ ] CBCT completed for patient
+- [ ] Hold Zoom call #2 with a DC
+- [ ] Confirm Hot Springs DC + dates
 
 ### Week 5 — May 25–31
-- [ ] Feedback round 2 + iterate
-- [ ] Hit **100 paying members**
-- [ ] Write May retrospective
-- [ ] Draft June goals
+- [ ] Follow up on all 28 outreach messages
+- [ ] Case documentation written up
+- [ ] Hot Springs treatment held (or firmly scheduled)
+- [ ] May retrospective + June goals draft
 
 ---
 
-## Personal / Founder Goals
-- [ ] Sleep ≥ 7 hours/night, 25+ nights in May (practice what you preach)
-- [ ] Two no-work days per week
-- [ ] One learning hour daily (research, books, peers)
+## Risks & Blockers (update as they appear)
+- [ ] _e.g. CBCT imaging access — confirmed?_
+- [ ] _e.g. HST device availability_
+- [ ] _e.g. Hot Springs facility scheduling lead time_
 
 ---
 
-## Definition of a Great Month
-By **May 31, 2026**, ChiroSleepAcademy has:
-1. A live, paid course with **≥ 100 members**.
-2. **+1,000 email subscribers** and a real content engine running weekly.
-3. Six modules of evidence-based curriculum and early proof (testimonials, ratings).
-4. A repeatable weekly operating rhythm and a dashboard that tells the truth.
+## How to Use This Tracker
+1. Sunday evening: update progress bars and check off completed steps.
+2. Move blockers into the Risks section so they don't get buried.
+3. Don't add new goals mid-month. Park new ideas in a "June ideas" note.
+4. A goal at 80% done at month-end is a win. Honesty > optics.
 
 ---
 
-*Review weekly on Sunday evening. Adjust, don't abandon.*
+*Edit freely — this is a working doc, not a contract.*
