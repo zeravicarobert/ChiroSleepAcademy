@@ -60,6 +60,17 @@ Patients are the downstream beneficiary, but the direct customer is the DC.
 When in doubt: write like a respected clinician explaining something
 important to a peer.
 
+### Price Positioning
+
+CSA is **premium-tiered**, not cheap:
+
+> Free to explore. Affordable to test. Premium to implement.
+> High-ticket for full transformation.
+
+CSA should never feel gimmicky or low-ticket-only. It attracts serious
+DCs who understand that sleep, airway, and biomechanics can become a
+high-value clinical division — not just another commodity service.
+
 ---
 
 ## 5. Non-Negotiables (Red Lines)
@@ -147,11 +158,80 @@ messaging, and which claims are/aren't legitimate.
 ### Pathway
 > DC as patient → Zoom consult → airway exam → HST → ROF → personal care plan → patient-base rollout → CSA training → independent representation.
 
-Pricing for each phase is still TBD (see section 14).
+Pricing for the productized pathway is in section 8.
 
 ---
 
-## 8. 30-Day Goals (May 2026)
+## 8. Productized Pathway & Pricing (2026)
+
+The "Heal the Healer First" model (section 7) is sold as a stepped
+pathway. Each step has its own price and its own purpose. The DC
+moves deeper into CSA at their own pace; the deeper the relationship,
+the higher the price.
+
+### Pathway Overview
+
+> Free Alignment Call → $300 Sleep Baseline → $500 Airway Baseline →
+> ~$5,500 Tecopa VAET Trial Experience → Full CSA Guided Case Plan →
+> CSA Doctor Training / Representation
+
+### Step 1 — CSA Doctor Alignment Call
+**Price:** Free
+A short Zoom call. Screens whether the DC is a fit as:
+1. a patient,
+2. a business-builder,
+3. or both.
+
+This is the front door. It is **not** a sales call disguised as a
+consult — it is a real alignment conversation.
+
+### Step 2 — CSA Sleep Baseline
+**Price:** $300 total
+- $200 Home Sleep Test
+- $100 doctor Report Review
+
+The DC begins as a patient. HST is the sleep-and-airway equivalent of
+the X-ray (see section 7).
+
+### Step 3 — CSA Airway Baseline
+**Price:** $500
+CBCT imaging + airway-focused report review.
+
+### Step 4 — Tecopa VAET Trial Experience
+**Price:** ~$5,500 all-in
+Includes the $3,500 VAET test adjustment plus estimated travel, food,
+lodging, and ground transportation to Hot Springs / Tecopa.
+
+This is the highest-bandwidth conversion event in the pathway: the DC
+lives the model.
+
+### Step 5 — Full CSA Guided Case Plan
+**Price:** Higher-ticket — TBD per case
+Dr. Z as quarterback. May include SOT, CBP, orthotics, DDS liaison,
+optional bloodwork coordination, documentation, and ongoing case
+management.
+
+### Step 6 — CSA Doctor Training / Representation
+For DCs who want to bring CSA to their own patient base. Tiered:
+- **CSA Doctor Membership** — $297/month
+- **CSA Onboarding / Setup** — $1,500–$3,500 (one-time)
+- **6-Month Implementation Program** — $10,000
+- **CSA Inner Circle** — $25,000
+
+### Revenue Model Summary
+
+Two sides:
+1. **Patient revenue** (Steps 2–5) — Sleep Baseline, Airway Baseline,
+   VAET Trial, Guided Case Plan.
+2. **Doctor training revenue** (Step 6) — Membership, onboarding,
+   implementation, Inner Circle.
+
+CSA is both a clinical pathway and a doctor education / implementation
+business.
+
+---
+
+## 9. 30-Day Goals (May 2026)
 
 From `MAY_2026_GOALS.md`:
 
@@ -164,7 +244,7 @@ From `MAY_2026_GOALS.md`:
 
 ---
 
-## 9. 90-Day Goals (by August 31, 2026)
+## 10. 90-Day Goals (by August 31, 2026)
 
 By end of August, three things must be true:
 
@@ -180,7 +260,7 @@ CSA must move from idea/project into a market-facing system.
 
 ---
 
-## 10. Year Vision (December 31, 2026)
+## 11. Year Vision (December 31, 2026)
 
 Winning by Dec 31, 2026 means CSA is no longer an idea — it is a real
 market-facing movement with doctors, patients, partners, content, and revenue.
@@ -196,7 +276,7 @@ Specifically:
 
 ---
 
-## 11. Claude's Role Across Sessions
+## 12. Claude's Role Across Sessions
 
 Claude is Robert's strategic execution partner for CSA.
 
@@ -217,7 +297,7 @@ accountability partner.
 
 ---
 
-## 12. Working Agreements (How Claude Operates Here)
+## 13. Working Agreements (How Claude Operates Here)
 
 - Default branch for development: `claude/may-2026-goals-GJDLg`. Don't push
   to other branches without explicit permission.
@@ -238,7 +318,7 @@ Claude should:
 
 ---
 
-## 13. Repo Conventions
+## 14. Repo Conventions
 
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
@@ -249,23 +329,21 @@ Claude should:
 
 ---
 
-## 14. Open Questions to Revisit in Future Sessions
+## 15. Open Questions to Revisit in Future Sessions
 
 Resolved during intake:
 - ~~Final domain~~ → **www.ChiropracticSleepAcademy.net**
 - ~~Site platform~~ → **ClickFunnels 2.0**
 - ~~Weekly cadence~~ → **Daily, often multiple times per day**
 - ~~Offer structure~~ → **"Heal the Healer First" (see section 7)**
+- ~~Productized pathway & pricing~~ → **6 steps, $0 → $25K (see section 8)**
 
 Still open:
-- **Pricing** for each phase of the offer:
-  - Phase 1 Zoom Sleep & Airway Consultation — $?
-  - Phase 2 HST pathway (DC as patient) — $? (and who pays for the HST device/read)
-  - Phase 3 ROF / case presentation — included or separate?
-  - Phase 4 patient-base implementation support — $/month? $/case? retainer?
-  - Phase 5 full CSA training / certification — $? one-time or cohort?
+- **Step 5 (Full CSA Guided Case Plan)** — concrete price ranges by case complexity
 - **Specific outreach copy and templates** (database re-engagement, cold DC outreach, dentist/HST/CBCT partner intros)
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
+- **HST device logistics** — who buys, ships, processes the reads?
+- **Tecopa VAET Trial** — what's included in the $5,500 (lodging, meals, ground transport, number of treatment days)?
 
 When any of these are resolved, update this file.
