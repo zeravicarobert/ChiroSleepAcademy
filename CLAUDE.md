@@ -200,6 +200,47 @@ This partner-driven model protects CSA from inventory, shipping, and
 device-management overhead while keeping Dr. Z in control of the
 clinical pathway and data strategy.
 
+**Margin target:** Max ~$50 vendor cost per test. At a $300 patient
+price, that leaves ~$250 gross to CSA for Dr. Z's review time, admin,
+data, and follow-up. Vendors above this cost ceiling either require a
+$397 standard rate, an insurance/Medicare path, or shouldn't be the
+default vendor.
+
+**Vendors evaluated / in pipeline:**
+
+1. **Sleep Doctor (sleepdoctor.com)** — Partnership active since
+   March 2026 (contacts: Mark D'Amelio, David Amato). WatchPAT device,
+   board-certified MD reads in 2–3 business days, PDF in their portal.
+   Covered by most private insurance and Medicare (in-network with
+   Aetna, BCBS, Cigna, UHC). **Cash-pay rate: $189.** Strong fit when
+   insurance pays. At $189 cash-pay, it eats most of the $300 margin —
+   so cash-pay Sleep Doctor would push CSA to the $397 standard rate
+   or to a different vendor.
+
+2. **Self-supplied HST + Will Spriggs read** — Alice PDx (Respironics)
+   device Robert already owns; reads done by Will Spriggs, RPSGT/RST
+   at Sleep Center Services (St. George, UT). Useful for Robert's own
+   case and 1-off DC patients; not scalable as the CSA standard
+   pathway.
+
+3. **Other HST vendors being researched** — one vendor has offered
+   **free DC testing**, meaning if the patient pays $300, CSA retains
+   the full $300. Open lane worth pursuing alongside Sleep Doctor.
+
+4. **SleepImage** — on the radar; comparison pending.
+
+**Data ownership requirement:** Whatever vendor CSA uses, CSA must have
+the right to access, store, export, analyze, and publish de-identified
+outcomes from CSA patients. CSA does not need proprietary raw device
+data — de-identified before/after AHI/ODI/key metrics are enough.
+
+**Dr. Z's role in the read:** Dr. Z does not perform the sleep
+physician interpretation. That is handled by the vendor's reading
+physician (Sleep Doctor's MDs, Will Spriggs as RPSGT/RST, etc.).
+Dr. Z's job is to order, coordinate, explain the findings to the
+patient/DC through the structural-airway lens, and integrate results
+into the CSA / VAET clinical pathway.
+
 ### Step 3 — CSA Airway Baseline
 **Price:** $500
 CBCT imaging + airway-focused report review.
@@ -365,12 +406,17 @@ Resolved during intake:
 - ~~Step 5 price range~~ → **$15K–$25K depending on complexity**
 - ~~Tecopa $5,500 scope~~ → **$3,500 VAET + ~$2,000 travel; everything else à la carte (see section 8)**
 - ~~HST device logistics~~ → **Partner-driven; CSA does not inventory devices (see section 8)**
+- ~~HST vendor candidates~~ → **Sleep Doctor (active), self-supplied + Will Spriggs (existing), unnamed free-DC-testing vendor, SleepImage (researching) — see section 8**
 
 Still open:
-- **HST partner vendor** — which specific vendor(s) will CSA use? What's the per-test cost, so the $300/$397 margin holds?
+- **HST vendor decision** — which vendor becomes the CSA *default*? The
+  $50 cost ceiling vs. Sleep Doctor's $189 cash-pay creates a margin
+  tension that needs a clear answer (insurance-first model, $397
+  standard rate, or switch to the free-DC-testing vendor).
 - **Specific outreach copy and templates** (database re-engagement, cold DC outreach, dentist/HST/CBCT partner intros)
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
+- **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
 
 When any of these are resolved, update this file.
