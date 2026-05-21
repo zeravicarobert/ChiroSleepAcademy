@@ -99,10 +99,54 @@ post, page, or pitch.
 - Audience: ~28 opted-in DCs in a warm database, 1 active mentee asking for a Letter of Engagement
 - Clinical: ready to run HST + CBCT on real patients
 - Public face: landing page / website not yet live
-- Offer structure: defined (see section 7) — pricing still TBD
+- Offer structure: defined (see section 7) — pricing locked (see section 8)
 - Funnel: not yet built
 
 Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
+
+### Google account map (Claude's reach in this environment)
+
+Robert uses three Google accounts; each MCP integration is currently
+authenticated to a *different* one:
+
+| Integration | Account |
+|---|---|
+| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` |
+| Calendar (primary) | `robertzeravica91324@gmail.com` |
+| Drive (file owner) | `zeravicarobert@gmail.com` |
+
+Implications:
+- Email scans run against `DrZeravicaOffice` only. To search the other
+  two inboxes, Robert must connect them in Claude Code on the web →
+  Settings → Connections.
+- Drive files searched/read here are those owned by or shared with
+  `zeravicarobert@gmail.com`.
+- Calendar events live on `robertzeravica91324@gmail.com`.
+
+### Existing CSA assets discovered
+
+- **`CSA Relationship Strategies`** (Google Sheet, owned by
+  `zeravicarobert@gmail.com`) — real contact list across three sheets:
+  - *Sheet1:* high-priority DCs and adjacent pros — Clint Steele DC,
+    Ted Carrick DC, Datis Kharrazian DC, Deed Harrison DC,
+    Heidi Haavik DC PhD, Dan Murphy DC, Peter Martone DC,
+    Robert Silverman DC; Ben Miraglia DDS, Steve Carstensen DDS,
+    Barry Glassman DDS, Gilles Lavigne DDS PhD, Victor Cooley DDS,
+    Mark Cruz DDS; Steven Park MD, Barry Krakow MD,
+    Christian Guilleminault MD; Patrick McKeown, Konstantin Buteyko MD.
+  - *Outreach:* Restfull / International Academy of Sleep (IAOS).
+  - *Parker:* DCs met at Parker Las Vegas — several already want HSTs
+    via Sleep Doctor (e.g., Dr. Wally Unruh DC, Glen Nisivoccia DC,
+    Kai Bennett DC, Dino O'Mara DC, Jonathan Bullock DC).
+
+  → This is the warm bench for Goal 2 outreach. Combine with the
+  ~28-opt-in database.
+
+- **Sleep Doctor charge of $160.65 on 11/26/25** (Capital One
+  Quicksilver, per `Monthly Bills Elimination Project` sheet) — likely
+  Robert's own HST through Sleep Doctor in Nov 2025. Confirms Robert
+  has personally been through the Sleep Doctor patient workflow,
+  which strengthens the "Heal the Healer First" credibility story.
 
 ---
 
@@ -208,14 +252,39 @@ default vendor.
 
 **Vendors evaluated / in pipeline:**
 
-1. **Sleep Doctor (sleepdoctor.com)** — Partnership active since
-   March 2026 (contacts: Mark D'Amelio, David Amato). WatchPAT device,
-   board-certified MD reads in 2–3 business days, PDF in their portal.
+1. **Sleep Doctor (sleepdoctor.com)** — Relationship active since
+   **November 2025**:
+   - 11/12/25: First setup info from David Amato; partner portal
+     invite from `partners@sleepdoctor.com`.
+   - 11/18/25: Group "Welcome to Sleep Doctor" sent to ~13 providers
+     including Robert (Robert was part of a batch onboarding cohort).
+   - 11/26/25: $160.65 charge to Sleep Doctor on Capital One — likely
+     Robert's own HST as a patient. Phase-1-as-patient already done.
+   - 3/5–3/9/26: Re-engagement with Mark D'Amelio as new BD rep;
+     David Amato moves to Partnerships Manager. Partner Portal Setup
+     Guide PDF delivered (still in Gmail attachments, not Drive).
+   - 4/30/26: Mark's polished re-pitch with two PDFs (Setup Guide +
+     `SD-25-254_HSTPartner_Brochure_8.5x11.pdf`).
+   - 5/4/26: Welcome to Provider Referral Program email.
+
+   **Mechanics:** WatchPAT device, board-certified MD reads in 2–3
+   business days, PDF delivered through `portal.sleepdoctor.com`.
    Covered by most private insurance and Medicare (in-network with
-   Aetna, BCBS, Cigna, UHC). **Cash-pay rate: $189.** Strong fit when
-   insurance pays. At $189 cash-pay, it eats most of the $300 margin —
-   so cash-pay Sleep Doctor would push CSA to the $397 standard rate
-   or to a different vendor.
+   Aetna, BCBS, Cigna, UHC). **Cash-pay rate: $189.** *Partnership
+   itself is free for medical practices* — "Free" in the 4/30 subject
+   line refers to the partner program cost, not the test cost.
+
+   **Margin tension:** At $189 cash-pay, Sleep Doctor eats most of the
+   $300 patient margin (only ~$111 left vs. $50 vendor-cost target).
+   Cash-pay Sleep Doctor pushes CSA toward the $397 standard rate, an
+   insurance-first model, or a different default vendor.
+
+   **Open items with Sleep Doctor:** Whether CSA can bill the patient
+   $300 for clinical coordination + report review *separately* from
+   Sleep Doctor's $189 test fee or insurance billing; whether a
+   referring-provider rebate / partner-tier program exists; whether
+   the portal exports de-identified outcomes data. Email to David
+   Amato drafted at `outreach/2026-05-21-sleepdoctor-david-amato.md`.
 
 2. **Self-supplied HST + Will Spriggs read** — Alice PDx (Respironics)
    device Robert already owns; reads done by Will Spriggs, RPSGT/RST
@@ -224,8 +293,9 @@ default vendor.
    pathway.
 
 3. **Other HST vendors being researched** — one vendor has offered
-   **free DC testing**, meaning if the patient pays $300, CSA retains
-   the full $300. Open lane worth pursuing alongside Sleep Doctor.
+   **free testing for the referring DC** (Robert's own test), meaning
+   if the patient pays $300, CSA retains the full $300. Vendor name
+   still TBD. Open lane worth pursuing alongside Sleep Doctor.
 
 4. **SleepImage** — on the radar; comparison pending.
 
