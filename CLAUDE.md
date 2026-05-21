@@ -172,7 +172,7 @@ the higher the price.
 ### Pathway Overview
 
 > Free Alignment Call → $300 Sleep Baseline → $500 Airway Baseline →
-> ~$5,500 Tecopa VAET Trial Experience → Full CSA Guided Case Plan →
+> ~$5,500 Tecopa VAET Trial → $15K–$25K Full CSA Guided Case Plan →
 > CSA Doctor Training / Representation
 
 ### Step 1 — CSA Doctor Alignment Call
@@ -186,30 +186,55 @@ This is the front door. It is **not** a sales call disguised as a
 consult — it is a real alignment conversation.
 
 ### Step 2 — CSA Sleep Baseline
-**Price:** $300 total
-- $200 Home Sleep Test
-- $100 doctor Report Review
+**Price:** $300 founding rate (room to move to $397 standard if vendor margins require)
+- HST ordered through CSA
+- Device + processing handled by an HST partner (CSA does **not** buy or inventory devices)
+- Dr. Z reviews the report through the structural-airway lens
+- Result anchors the case as the sleep-and-airway equivalent of the X-ray (see section 7)
 
-The DC begins as a patient. HST is the sleep-and-airway equivalent of
-the X-ray (see section 7).
+**Division of labor:**
+- **HST partner:** owns device, ships, handles returns, processes data, generates report/read, provides physician interpretation per vendor model
+- **CSA / Dr. Z:** screens the DC/patient, coordinates the order, collects payment, reviews the report, stores data for long-term outcomes tracking, plans next step
+
+This partner-driven model protects CSA from inventory, shipping, and
+device-management overhead while keeping Dr. Z in control of the
+clinical pathway and data strategy.
 
 ### Step 3 — CSA Airway Baseline
 **Price:** $500
 CBCT imaging + airway-focused report review.
 
 ### Step 4 — Tecopa VAET Trial Experience
-**Price:** ~$5,500 all-in
-Includes the $3,500 VAET test adjustment plus estimated travel, food,
-lodging, and ground transportation to Hot Springs / Tecopa.
+**Price:** ~$5,500 estimated total
+This is a **test adjustment experience**, not a full case plan. It is
+the highest-bandwidth conversion event in the pathway: the DC lives
+the model.
 
-This is the highest-bandwidth conversion event in the pathway: the DC
-lives the model.
+**Included in the $5,500 estimate:**
+- **$3,500 — Dr. Z's VAET / CFR-BNS treatment fee** (2 days, 2 sessions/day, direct clinical attention, sleep/airway education, treatment-day documentation)
+- **~$2,000 — travel support estimate:** airfare to Las Vegas (~$500), transport to Tecopa (~$500), food + lodging (~$1,000)
+
+**NOT included (à la carte or part of Step 5):**
+Extra nights or treatment days, SOT care, CBP care, Disc Centers of
+America care, Foot Levelers, Dr. Copesky custom orthotics, CBCT, DDS
+fees, HST fees, blood labs, blood chemistry review, supplements,
+additional provider visits, ongoing case management, emergency or
+medical/dental/surgical care outside Dr. Z's scope.
+
+These exclusions must be stated in writing in every Tecopa proposal so
+no DC is blindsided.
 
 ### Step 5 — Full CSA Guided Case Plan
-**Price:** Higher-ticket — TBD per case
-Dr. Z as quarterback. May include SOT, CBP, orthotics, DDS liaison,
-optional bloodwork coordination, documentation, and ongoing case
-management.
+**Price:** $15,000–$25,000 depending on complexity
+Dr. Z as quarterback for a high-ticket, doctor-led case plan.
+
+- **Lower end ($15K):** simpler cases with fewer outside providers
+- **Higher end ($25K):** complex cases involving Tecopa VAET, SOT, CBP,
+  DDS liaison, CBCT review, orthotics, bloodwork coordination, case
+  management, and multi-provider coordination
+
+Price reflects how much provider coordination, travel, imaging,
+therapy, and ongoing case management is required.
 
 ### Step 6 — CSA Doctor Training / Representation
 For DCs who want to bring CSA to their own patient base. Tiered:
@@ -337,13 +362,15 @@ Resolved during intake:
 - ~~Weekly cadence~~ → **Daily, often multiple times per day**
 - ~~Offer structure~~ → **"Heal the Healer First" (see section 7)**
 - ~~Productized pathway & pricing~~ → **6 steps, $0 → $25K (see section 8)**
+- ~~Step 5 price range~~ → **$15K–$25K depending on complexity**
+- ~~Tecopa $5,500 scope~~ → **$3,500 VAET + ~$2,000 travel; everything else à la carte (see section 8)**
+- ~~HST device logistics~~ → **Partner-driven; CSA does not inventory devices (see section 8)**
 
 Still open:
-- **Step 5 (Full CSA Guided Case Plan)** — concrete price ranges by case complexity
+- **HST partner vendor** — which specific vendor(s) will CSA use? What's the per-test cost, so the $300/$397 margin holds?
 - **Specific outreach copy and templates** (database re-engagement, cold DC outreach, dentist/HST/CBCT partner intros)
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
-- **HST device logistics** — who buys, ships, processes the reads?
-- **Tecopa VAET Trial** — what's included in the $5,500 (lodging, meals, ground transport, number of treatment days)?
+- **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 
 When any of these are resolved, update this file.
