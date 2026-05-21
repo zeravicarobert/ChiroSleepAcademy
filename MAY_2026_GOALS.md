@@ -2,7 +2,7 @@
 
 **Month:** May 1–31, 2026
 **Owner:** Robert
-**Last updated:** 2026-05-21
+**Last updated:** 2026-05-21 (mid-month sweep, Week 4)
 
 ---
 
@@ -10,17 +10,17 @@
 
 ```
 Total goals: 6
-[░░░░░░░░░░░░░░░░░░░░]  0%   (0 / 6 complete)
+[███░░░░░░░░░░░░░░░░░] 15%   (0 / 6 complete, 4 / 6 in motion)
 ```
 
 | # | Goal | Status | Progress |
 |---|---|---|---|
-| 1 | 1 patient: HST + CBCT | Not started | `[░░░░░░░░░░] 0%` |
-| 2 | DC database outreach (28 opt-ins) | Not started | `[░░░░░░░░░░] 0%` |
-| 3 | Mentee — deliver LOE | Not started | `[░░░░░░░░░░] 0%` |
-| 4 | 2 Zoom calls with DCs about sleep | Not started | `[░░░░░░░░░░] 0%` |
-| 5 | 1 DC to Hot Springs for VAET treatment | Not started | `[░░░░░░░░░░] 0%` |
-| 6 | Landing page / website live | Not started | `[░░░░░░░░░░] 0%` |
+| 1 | 1 patient: HST + CBCT | 🟨 In progress | `[██░░░░░░░░] 25%` |
+| 2 | DC database outreach (28 opt-ins) | 🟨 In progress | `[██░░░░░░░░] 20%` |
+| 3 | Mentee — deliver LOE | ⬜ Not started | `[░░░░░░░░░░] 0%` |
+| 4 | 2 Zoom calls with DCs about sleep | 🟨 In progress | `[█░░░░░░░░░] 15%` |
+| 5 | 1 DC to Hot Springs for VAET treatment | ⬜ Not started | `[░░░░░░░░░░] 0%` |
+| 6 | Landing page / website live | 🟨 In progress | `[██░░░░░░░░] 25%` |
 
 Legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
 
@@ -28,11 +28,11 @@ Legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
 
 ## Goal 1 — 1 Patient: HST + CBCT
 **Why:** Prove the workflow on a real case. Foundation for patient #2 and the Academy story.
-**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%`
+**Status:** 🟨 In progress · `[██░░░░░░░░] 25%`
 
 ### Steps
-- [ ] Define ideal candidate criteria (symptoms, willingness, budget)
-- [ ] Review current patient list / pull 3–5 candidates
+- [x] Define ideal candidate criteria (symptoms, willingness, budget)
+- [x] Review current patient list / pull 3–5 candidates
 - [ ] Reach out to top candidate(s) and confirm consent
 - [ ] Schedule HST (device handoff + instructions)
 - [ ] Schedule CBCT (referral / imaging center confirmed)
@@ -46,12 +46,12 @@ Legend: ⬜ Not started · 🟨 In progress · ✅ Done · 🟥 Blocked
 
 ## Goal 2 — DC Database Outreach (28 Opt-ins)
 **Why:** Warm audience already raised their hand. Re-engage and offer real value (HST + CBCT).
-**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%` (0 / 28 contacted)
+**Status:** 🟨 In progress · `[██░░░░░░░░] 20%` (some sent — exact count TBD)
 
 ### Steps
-- [ ] Pull and clean the list of 28 opted-in DCs
-- [ ] Draft outreach message (mission, message, HST offer, CBCT ask)
-- [ ] Send wave 1 — 10 DCs
+- [x] Pull and clean the list of 28 opted-in DCs
+- [x] Draft outreach message (mission, message, HST offer, CBCT ask)
+- [~] Send wave 1 — 10 DCs *(partial — fill in count)*
 - [ ] Send wave 2 — 10 DCs
 - [ ] Send wave 3 — 8 DCs
 - [ ] Track replies in a simple spreadsheet (name · responded · interested · scheduled)
@@ -87,10 +87,10 @@ CBCT asked:   [░░░░░░░░░░░░░░░░░░░░░�
 
 ## Goal 4 — 2 Zoom Calls with DCs About Their Sleep
 **Why:** Real conversations beat broadcasts. Learn the language, sharpen the offer.
-**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%` (0 / 2)
+**Status:** 🟨 In progress · `[█░░░░░░░░░] 15%` (0 / 2 held; 1 candidate identified)
 
 ### Steps
-- [ ] Identify 4–6 candidate DCs from outreach replies
+- [~] Identify 4–6 candidate DCs from outreach replies *(1 of 4–6 so far)*
 - [ ] Send Calendly / scheduling link
 - [ ] **Call 1** — held, notes captured
 - [ ] **Call 2** — held, notes captured
@@ -118,11 +118,11 @@ CBCT asked:   [░░░░░░░░░░░░░░░░░░░░░�
 
 ## Goal 6 — Landing Page / Website
 **Why:** Outreach needs a place to send people. The Academy needs a public address.
-**Status:** ⬜ Not started · `[░░░░░░░░░░] 0%`
+**Status:** 🟨 In progress · `[██░░░░░░░░] 25%` — past May 17 target, copy work next
 
 ### Steps
-- [ ] Lock domain (chirosleepacademy.com or final choice)
-- [ ] Pick platform (Carrd / Webflow / WordPress / Framer)
+- [x] Lock domain — **www.ChiropracticSleepAcademy.net**
+- [x] Pick platform — **ClickFunnels 2.0**
 - [ ] Write copy: mission, who it's for, the offer, CTA
 - [ ] Hero image / brand visuals
 - [ ] Email capture wired up (where do leads go?)
@@ -133,27 +133,38 @@ CBCT asked:   [░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
+## Adjacent Foundational Work (May, not on the 6-goal list)
+
+Work that isn't a goal but materially supports several of them:
+- [x] Pricing locked — 6-step productized pathway, $0 → $25K (CLAUDE.md §8)
+- [x] "Heal the Healer First" offer model defined (CLAUDE.md §7)
+- [x] HST vendor pipeline documented; $50 cost ceiling and data-ownership rule set
+- [x] Sleep Doctor partnership email drafted (`outreach/2026-05-21-sleepdoctor-david-amato.md`)
+- [x] Google account map logged so future sessions know what Claude can see
+
+---
+
 ## Weekly Rhythm
 
 ### Week 1 — May 1–3 (kickoff)
-- [ ] Pull DC list (28) and clean it
-- [ ] Define HST+CBCT ideal candidate criteria
-- [ ] Lock domain + pick site platform
+- [x] Pull DC list (28) and clean it
+- [x] Define HST+CBCT ideal candidate criteria
+- [x] Lock domain + pick site platform
 - [ ] Draft mentee LOE scope
 
 ### Week 2 — May 4–10
 - [ ] Send LOE to mentee
-- [ ] Send outreach wave 1 (10 DCs)
+- [~] Send outreach wave 1 (10 DCs) *(partial)*
 - [ ] Build landing page draft
-- [ ] Identify HST+CBCT candidate(s)
+- [x] Identify HST+CBCT candidate(s)
 
 ### Week 3 — May 11–17
-- [ ] **Landing page live (May 17)**
+- [ ] **Landing page live (May 17)** — missed, reschedule
 - [ ] Outreach wave 2 (10 DCs)
 - [ ] Schedule HST + CBCT for selected patient
 - [ ] Hold Zoom call #1 with a DC
 
-### Week 4 — May 18–24
+### Week 4 — May 18–24  *(current week)*
 - [ ] Outreach wave 3 (final 8 DCs)
 - [ ] HST completed for patient
 - [ ] CBCT completed for patient
