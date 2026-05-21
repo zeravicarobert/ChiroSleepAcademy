@@ -82,18 +82,76 @@ post, page, or pitch.
 
 ## 6. Current State (May 2026)
 
-- Domain / brand: Chiropractic Sleep Academy
+- Brand: Chiropractic Sleep Academy
+- Domain: **www.ChiropracticSleepAcademy.net**
+- Site platform: **ClickFunnels 2.0**
 - Audience: ~28 opted-in DCs in a warm database, 1 active mentee asking for a Letter of Engagement
 - Clinical: ready to run HST + CBCT on real patients
 - Public face: landing page / website not yet live
-- Offer: not yet productized
+- Offer structure: defined (see section 7) — pricing still TBD
 - Funnel: not yet built
 
 Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
 
 ---
 
-## 7. 30-Day Goals (May 2026)
+## 7. The CSA Offer (2026) — "Heal the Healer First"
+
+CSA 2026 helps the doctor first. Dr. Z helps the chiropractor sleep
+and breathe better, then helps that chiropractor bring the same model
+to their patient base.
+
+**The simple plan:** Heal the doctor → Teach the doctor → Help the
+doctor help patients.
+
+### Phase 1 — Heal the Healer
+The chiropractor starts as the patient. Dr. Z runs a 1-on-1 Zoom
+Sleep & Airway Consultation:
+- Sleep and airway history (snoring, witnessed apnea, gasping, mouth-breathing, fatigue)
+- CPAP / oral appliance / prior HST / prior CBCT history
+- SnoreLab or sleep-app tracking
+- Epworth, STOP-BANG, CSA questionnaire
+- Mallampati score, tongue scalloping
+- Visual cranial-postural screen (frontal, zygomatic, TMJ/earlobe, occipital, FHP)
+
+### Phase 2 — HST-Based Case Development
+Replace the old DC flow (Consult → Exam → X-ray → ROF) with:
+
+> Consult → Structural Airway Exam → **Home Sleep Test** → Report of Findings
+
+The HST is the sleep-and-airway equivalent of the X-ray. It provides
+the objective data that anchors the clinical conversation.
+
+### Phase 3 — Report of Findings & Case Presentation
+Dr. Z walks the DC through sleep history, airway exam, HST, posture
+and cranial findings, next steps, referral needs, and what structural
+airway care may be appropriate. AMC-style flow:
+Consult → Exam → Objective Findings → Report → Case Presentation → Ethical Financial Close.
+
+### Phase 4 — Help the DC Heal Their Patient Base
+Once the DC has lived the model, Dr. Z helps them introduce CSA to
+their own patients. Dr. Z may consult, screen, educate, and
+co-manage early patients while the DC learns the system by watching,
+experiencing, and applying it.
+
+### Phase 5 — Train the DC to Represent CSA Well
+End goal: the DC can ethically and professionally represent CSA.
+They learn: patient screening, sleep questionnaires, SnoreLab tracking,
+HST pathway, ROF, case presentation, ethical financial close, referral
+logic, DC-DDS-MD collaboration, Structural Airway Chiropractic
+messaging, and which claims are/aren't legitimate.
+
+### One-Line Summary
+> CSA 2026 = Heal the healer first, then help the healer heal their patient base.
+
+### Pathway
+> DC as patient → Zoom consult → airway exam → HST → ROF → personal care plan → patient-base rollout → CSA training → independent representation.
+
+Pricing for each phase is still TBD (see section 14).
+
+---
+
+## 8. 30-Day Goals (May 2026)
 
 From `MAY_2026_GOALS.md`:
 
@@ -106,7 +164,7 @@ From `MAY_2026_GOALS.md`:
 
 ---
 
-## 8. 90-Day Goals (by August 31, 2026)
+## 9. 90-Day Goals (by August 31, 2026)
 
 By end of August, three things must be true:
 
@@ -122,7 +180,7 @@ CSA must move from idea/project into a market-facing system.
 
 ---
 
-## 9. Year Vision (December 31, 2026)
+## 10. Year Vision (December 31, 2026)
 
 Winning by Dec 31, 2026 means CSA is no longer an idea — it is a real
 market-facing movement with doctors, patients, partners, content, and revenue.
@@ -138,7 +196,7 @@ Specifically:
 
 ---
 
-## 10. Claude's Role Across Sessions
+## 11. Claude's Role Across Sessions
 
 Claude is Robert's strategic execution partner for CSA.
 
@@ -159,7 +217,7 @@ accountability partner.
 
 ---
 
-## 11. Working Agreements (How Claude Operates Here)
+## 12. Working Agreements (How Claude Operates Here)
 
 - Default branch for development: `claude/may-2026-goals-GJDLg`. Don't push
   to other branches without explicit permission.
@@ -170,9 +228,17 @@ accountability partner.
 - Don't add new monthly goals mid-month; park new ideas for the next month.
 - Honest progress beats optics. An 80%-done goal at month-end is a win.
 
+### Cadence
+Robert uses Claude daily, often multiple times per day. Across sessions,
+Claude should:
+- Help finish **one useful task at a time** rather than spawning new ones.
+- Keep CSA moving toward real outreach, real conversations, and real revenue.
+- When Robert opens a session, default to: "what's the next concrete task,
+  and what's the smallest unit of progress on it today?"
+
 ---
 
-## 12. Repo Conventions
+## 13. Repo Conventions
 
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
@@ -183,14 +249,23 @@ accountability partner.
 
 ---
 
-## 13. Open Questions to Revisit in Future Sessions
+## 14. Open Questions to Revisit in Future Sessions
 
-These were flagged during intake and still need answers:
+Resolved during intake:
+- ~~Final domain~~ → **www.ChiropracticSleepAcademy.net**
+- ~~Site platform~~ → **ClickFunnels 2.0**
+- ~~Weekly cadence~~ → **Daily, often multiple times per day**
+- ~~Offer structure~~ → **"Heal the Healer First" (see section 7)**
 
-- Final domain (chirosleepacademy.com confirmed?)
-- Site platform choice (Carrd / Webflow / WordPress / Framer)
-- Pricing model for CSA membership / mentorship
-- Specific outreach copy and templates
-- Weekly cadence and check-in rhythm with Claude
+Still open:
+- **Pricing** for each phase of the offer:
+  - Phase 1 Zoom Sleep & Airway Consultation — $?
+  - Phase 2 HST pathway (DC as patient) — $? (and who pays for the HST device/read)
+  - Phase 3 ROF / case presentation — included or separate?
+  - Phase 4 patient-base implementation support — $/month? $/case? retainer?
+  - Phase 5 full CSA training / certification — $? one-time or cohort?
+- **Specific outreach copy and templates** (database re-engagement, cold DC outreach, dentist/HST/CBCT partner intros)
+- **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
+- **CE / certification** path — does CSA pursue CE credit eventually?
 
 When any of these are resolved, update this file.
