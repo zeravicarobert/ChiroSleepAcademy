@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-21 (added mentor ecosystem, Protect Your Income / Stay-at-Home patient architecture)
+**Last updated:** 2026-05-22 (added mentor cadence + upcoming commitments; sharpened Mandossian positioning)
 
 ---
 
@@ -511,6 +511,12 @@ when drafting work that "belongs" to one mentor's lane.
     seeking certification for **CA EDD SDI** claims (§17).
 - Practical implication: video assets and ad/funnel creative for both
   lanes flow through Mike's team.
+- **Current momentum (as of 5/22/26): PAUSED.** Robert's videographer +
+  video editor crew are at a bodyworker retreat (learning bodywork +
+  receiving bodywork) through the end of May 2026. The Mike Barron lane
+  resumes when the crew returns in early June. Do not draft video-asset
+  briefs for them until then; queue ideas in `mentors/barron-queue.md`
+  if they come up.
 
 ### Mentor 2 — Simon Severino (90 Day Sprint / Sprint Club)
 - Operating in the Jay Abraham lineage, via Brian Oney.
@@ -519,16 +525,32 @@ when drafting work that "belongs" to one mentor's lane.
 - Also: helping Robert start and set up **Claude Code** (this tool).
 - Practical implication: Simon is the mentor closest to this repo and to
   the CSA productized pathway.
+- **Current momentum (as of 5/22/26): ACTIVE.** Claude Code is up and
+  running, and Simon's instruction is for Robert to use it **daily**
+  through the next meeting. Simon's specific framing: Claude Code
+  should serve Robert as **4 Executive Assistants** — the 4 roles are
+  not yet defined; defining and stress-testing them is part of the
+  homework. Simon also asked Claude to **ask Robert questions to get
+  to know him better** across sessions, so context compounds.
+- **Next meeting with Simon: 5/28/26 at 6:00 AM PST.**
 
 ### Mentor 3 — Alex Mandossian (CA EDD SDI Growth)
-- Helping Robert grow the **CA EDD SDI** patient-acquisition side of the
-  business.
+- Helping Robert win on the **CA EDD SDI** side of the business —
+  specifically **new patient acquisition, existing-patient retention,
+  and positioning Robert as the *Most Trusted CA EDD SDI Disability
+  Certifying Doctor in California*.**
 - Produced the *Protect Your Income™ — 90-Day Patient Acquisition Plan*
   for Dr. Z, saved at
   `mentors/mandossian-2026-protect-your-income-blueprint.md`.
 - Practical implication: Mandossian's plan is the source of truth for the
   SDI-side acquisition strategy (attorney, union rep, urgent-care
   channels; CA union trade workers as the first niche).
+- **Current momentum (as of 5/22/26): ACTIVE — homework phase.** Alex
+  asked Robert to *"Read carefully. Write questions. Review again.
+  We'll discuss execution plan next meeting."* The "read" is the
+  blueprint above. Deliverable into the meeting is a written question
+  list that drives an execution-plan conversation.
+- **Next meeting with Alex: 5/29/26 at 9:00 AM PST.**
 
 ---
 
@@ -592,3 +614,35 @@ feed each other.
 
 Until those are locked, treat this section as the *architecture* of the
 ecosystem, not a price list.
+
+---
+
+## 18. Upcoming Commitments (rolling — update as they pass)
+
+A short, rolling list of time-bound items so Claude can plan around
+Robert's real calendar. When something passes, move it down to a
+"Recently completed" line or remove it.
+
+- **5/25/26 (Mon) — Bitcoin course begins.** Runs ~a couple of days
+  (5/25–5/26 or 5/25–5/27). Robert's availability is reduced during
+  this block; avoid scheduling deep CSA work here.
+- **5/28/26 (Thu) 6:00 AM PST — Simon Severino meeting.** Deliverables
+  Simon expects Robert to bring: daily Claude Code usage between now
+  and the meeting, and a working definition of the **4 Executive
+  Assistant** roles Claude Code should play for Robert.
+- **5/29/26 (Fri) 9:00 AM PST — Alex Mandossian meeting.** Deliverable
+  Alex expects Robert to bring: a **written question list** from a
+  careful re-read of the *Protect Your Income™* blueprint, to drive an
+  execution-plan conversation.
+- **End of May 2026 — videography/editing crew returns** from the
+  bodyworker retreat. Mike Barron lane re-opens at that point.
+
+### Workstream status snapshot
+- **CSA (doctor-facing, §7–§8):** Simon's lane. Active. May goals
+  (`MAY_2026_GOALS.md`) are still the operational tracker through 5/31.
+- **Protect Your Income / SDI (patient-facing, §17):** Alex's lane.
+  Active homework phase — read carefully, write questions, review.
+- **Hot Springs / VAET marketing & SDI marketing video assets:**
+  Mike's lane. Paused until crew returns.
+- **Stay-at-Home 12-Module Program (§17):** No active mentor lane;
+  architecture only. Don't price or productize without Robert's call.
