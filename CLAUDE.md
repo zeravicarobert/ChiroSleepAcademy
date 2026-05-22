@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-22 (added mentor cadence + upcoming commitments; sharpened Mandossian positioning)
+**Last updated:** 2026-05-22 (added Channel B — VA service-connected disability for veterans — to §17; expanded §19 USMC-as-go-to-market)
 
 ---
 
@@ -562,11 +562,18 @@ underneath the same CSA umbrella. They share the same operator (Robert),
 the same brand voice (§4), the same non-negotiables (§5), and ultimately
 feed each other.
 
-### The patient flow
+### Two patient-acquisition channels into one clinical backend
+
+Robert's patient ecosystem has **two distinct acquisition channels**
+that feed the **same** clinical backend (Structural Airway → HST/CBCT →
+VAET → 12-Module Stay-at-Home Program). Both channels solve a different
+"how does the patient afford this and why now?" problem on the front end,
+then converge on the same treatment pathway.
+
+#### Channel A — CA EDD SDI (income protection for working Californians)
 
 > **Mental Financial Stress (ICD-10)** → **Protect Your Income (CA EDD SDI claim)**
-> → **12-Module Stay-at-Home Program (1 module / month, year-long, sleep-focused)**
-> → **optional VAET continuity** (after VAET, the 12-Module program continues as the spine)
+> → **12-Module Stay-at-Home Program** → **optional VAET continuity**
 
 1. **Entry diagnosis: Mental Financial Stress.**
    The patient arrives stressed — financially, physically, often both.
@@ -594,21 +601,66 @@ feed each other.
    the long-term care plan. VAET is the high-bandwidth event; the
    Stay-at-Home program is the year of follow-through.
 
+#### Channel B — VA service-connected disability (veterans with sleep apnea)
+
+> **Veteran with sleep apnea symptoms** → **VA service-connected disability
+> evaluation (rating up to 90%)** → **unique sleep apnea treatment option
+> (VAET-anchored)** → **12-Module Stay-at-Home Program**
+
+1. **Entry profile: veteran with sleep apnea symptoms.**
+   Snoring, witnessed apnea, fatigue, mouth-breathing, sleep-fragmentation
+   complaints. Often with comorbid service-connected conditions that
+   stack a cumulative rating.
+
+2. **VA service-connected disability evaluation.**
+   Robert helps the veteran navigate the path to a service-connected
+   disability rating up to **90%** with sleep apnea as the anchor
+   diagnosis. (90% is achievable when sleep apnea — typically rated up
+   to 50% on its own when requiring assistive breathing — is combined
+   with comorbid service-connected conditions.)
+
+3. **Unique treatment option for sleep apnea (VAET-anchored).**
+   Once the rating and benefits are in place, Robert offers the veteran
+   his structural-airway / VAET pathway as a unique treatment option
+   alongside (not in place of) standard sleep-medicine care. **Must
+   respect §5: no claims that VAET cures sleep apnea or replaces CPAP.**
+
+4. **12-Module Stay-at-Home Program (the spine, same as Channel A).**
+   Year-long continuity after VAET, same backend as the SDI channel.
+
+**Strategic asset: Robert's USMC background (§19).** 9 years USMC
+including 4th Force Recon and 3D ANGLICO gives Robert native credibility
+in the veteran community that no non-veteran provider can replicate.
+The Channel B niche is built on this. *Vets help vets.* This is also
+why §19 (operator profile) is not background trivia — it is the
+go-to-market for this channel.
+
 ### How this dovetails with the doctor-facing offer
 
-- **VAET (§8 Step 4)** appears in both stacks: doctors live the model at
-  Tecopa, and patients receive it as the high-bandwidth conversion event.
-- **The 12-Module Stay-at-Home Program** is the patient-side equivalent of
-  what CSA gives doctors: a structured, paced, year-long path.
-- **Mike Barron's video team (§16)** produces marketing assets for both
-  the Hot Springs/VAET lane and the SDI/telehealth lane — one production
-  pipeline, two audiences.
+- **VAET (§8 Step 4)** appears in three stacks now: doctors live the
+  model at Tecopa (CSA Step 4), CA SDI patients receive it as the
+  high-bandwidth conversion event (Channel A), and veterans receive it
+  as their unique treatment option post-rating (Channel B).
+- **The 12-Module Stay-at-Home Program** is the patient-side equivalent
+  of what CSA gives doctors: a structured, paced, year-long path. Used
+  by both Channel A and Channel B patients.
+- **Mike Barron's video team (§16)** produces marketing assets for
+  Hot Springs/VAET, the SDI/telehealth lane, and — to be confirmed — the
+  VA/veteran lane: one production pipeline, three audiences.
 
 ### What's *not* yet defined (open in §15)
 
 - Pricing and delivery format of the 12-Module Stay-at-Home Program.
-- Robert's actual fee schedule for the SDI certification work (Mandossian's
-  $400 + $525 + $1,000 LTV is an estimate, not a quote).
+- Robert's actual fee schedule for the SDI certification work
+  (Mandossian's $400 + $525 + $1,000 LTV is an estimate, not a quote).
+- Whether Robert is VA-credentialed to perform C&P (Compensation &
+  Pension) exams himself, or works with VA-credentialed providers /
+  Veterans Service Organizations to anchor the rating.
+- Channel B patient-acquisition mechanism — direct vet outreach, VSO
+  partnerships, attorney channels (similar to the CA SDI lane), online
+  funnels, or USMC-community word-of-mouth.
+- Channel B pricing — what Robert charges for the rating-navigation
+  work vs. the treatment vs. the bundled package.
 - Whether the 12-Module Program ever has a DC-facing version, or stays
   patient-only.
 
@@ -698,6 +750,16 @@ get-to-know questions so this section grows session over session.
   is a Marine: it's a chain-of-command instinct, not a marketing line.
 - The "skull-down" model (§1) is consistent with how Force Recon thinks
   about systems: identify the controlling node, work outward.
+
+### Strategic implication — the USMC background IS the go-to-market for Channel B
+Robert's military service is not just personal history. It's the
+foundation of **Channel B** in the patient ecosystem (§17): helping
+veterans achieve a VA service-connected disability rating up to 90%
+with sleep apnea as the anchor diagnosis, then offering them a unique
+VAET-anchored treatment pathway. A non-veteran provider cannot replicate
+this. **The two facts compound:** Robert is uniquely positioned because
+he is a USMC vet *and* runs Structural Airway Chiropractic / VAET.
+Either alone would be ordinary. Together they create a defensible niche.
 
 ### Open biographical questions (to fill in over time)
 - Years of service (era of military service)
