@@ -636,6 +636,17 @@ Robert's real calendar. When something passes, move it down to a
   execution-plan conversation.
 - **End of May 2026 — videography/editing crew returns** from the
   bodyworker retreat. Mike Barron lane re-opens at that point.
+- **10/1/26 (Thu) – 10/4/26 (Sun) — Pathfinder Mastermind, Acqua Hotel,
+  Mill Valley, CA.** Confirmed. Robert paid Tier 1 ($3,000) on 5/22/26.
+  Hosted by Alex Mandossian, Michael Stevenson, Kayla Stevenson. Theme:
+  *The Persuasive Power of Nostalgia.* 40 curated entrepreneurs.
+  Lodging + most meals included; spouse free; Robert covers flight +
+  Fri/Sat dinners. Strategic value: deepens the Mandossian relationship
+  in-person, places Robert in a direct-response-marketer room (Joe
+  Polish, Roland Frasier, Parris Lampropoulos, Ryan Levesque tier),
+  and Peter Martone DC is on the alumni list — confirm whether he is
+  attending in 2026. Treat 10/1–10/4 as a hard calendar block. Directory
+  profile in progress as of 5/22/26.
 
 ### Workstream status snapshot
 - **CSA (doctor-facing, §7–§8):** Simon's lane. Active. May goals
