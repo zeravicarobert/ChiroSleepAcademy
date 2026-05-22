@@ -53,6 +53,31 @@ trained through CSA — are the natural lane to add it. Existing
 treatments (CPAP, oral appliances, surgery, pharmacology) remain
 appropriate; they are simply *not enough* on their own.
 
+### The showcase version (Robert's pitch language)
+
+Robert's pitch-ready translation of the core claim — the version he
+uses when introducing his work in his own voice:
+
+> *"I showcase to the world that sleep apnea solutions are insufficient
+> if biomechanical misalignments of the cranium, spine, pelvis, and
+> feet are not addressed."*
+
+Notes for use:
+- **Anatomical specificity (cranium / spine / pelvis / feet)** is what
+  makes "head-to-toe biomechanics" tangible to a non-clinical reader.
+  This is the concrete version of the abstract thesis.
+- **"Showcase to the world"** positions Robert as the visible proof of
+  the missing layer (live-the-model-first pattern, §19). Robert is the
+  demonstration, not just the claimant.
+- **When to use which:**
+  - The *core claim* (academic version) — formal/category-positioning
+    copy, Pathfinder Core Business Issue, white papers, written
+    professional outreach.
+  - The *showcase version* (Robert's voice) — conversation openers,
+    web hero copy, patient education, video scripts, outreach to
+    chiropractors, VA Channel B messaging, the 12-second answer to
+    "what do you actually do?"
+
 CSA is not just a course. It is a movement to make chiropractic a
 credible, ethical voice in the sleep-and-airway conversation.
 
