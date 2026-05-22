@@ -21,6 +21,26 @@ Viscerocranial Airway Expansion Technique**), home sleep testing (HST),
 CBCT imaging, and ethical collaboration with
 dentists, ENTs, and sleep physicians.
 
+### The category thesis (why CSA exists)
+
+The sleep and airway industry is missing **full biomechanics** —
+head-to-toe structural alignment. Each existing discipline owns a slice:
+
+- **Dentists** own the oral airway (oral appliances, palatal expansion, MAD therapy).
+- **ENTs** own the nasal airway and surgical airway corrections (turbinate
+  reduction, septoplasty, UPPP, etc.).
+- **Sleep medicine** owns diagnostics, CPAP, and pharmacology.
+
+*Nobody owns the body's structural, biomechanical relationship to the
+airway.* Posture, occlusion under load, cervical alignment, cranial
+mechanics, pelvic position — the whole structural chain that influences
+how a body breathes when it sleeps — sits in nobody's lane.
+
+**Doctors of chiropractic are uniquely positioned to fill that gap** —
+once Chiropractic Sleep Academy certifies them to do it credibly,
+ethically, and in collaboration with the existing disciplines (not in
+opposition to them, per §5).
+
 CSA is not just a course. It is a movement to make chiropractic a
 credible, ethical voice in the sleep-and-airway conversation.
 
