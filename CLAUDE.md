@@ -41,6 +41,18 @@ once Chiropractic Sleep Academy certifies them to do it credibly,
 ethically, and in collaboration with the existing disciplines (not in
 opposition to them, per §5).
 
+### The core claim
+
+> *"Without biomechanical alignment assessment and treatment, every other
+> sleep and airway assessment and treatment is insufficient."*
+
+This is the line CSA stands on. It is **not an attack** on existing
+disciplines (§5 still applies). It is an argument that the field is
+**structurally incomplete** without biomechanics, and DCs — properly
+trained through CSA — are the natural lane to add it. Existing
+treatments (CPAP, oral appliances, surgery, pharmacology) remain
+appropriate; they are simply *not enough* on their own.
+
 CSA is not just a course. It is a movement to make chiropractic a
 credible, ethical voice in the sleep-and-airway conversation.
 
