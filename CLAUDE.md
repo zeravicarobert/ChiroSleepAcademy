@@ -16,8 +16,9 @@ to stay aligned across sessions.
 Chiropractic Sleep Academy is a category-building project that teaches
 chiropractors how to build a credible sleep-and-airway division around
 **Structural Airway Chiropractic** — a skull-down, sleep-first model that
-integrates patient education, structural correction (including VAET),
-home sleep testing (HST), CBCT imaging, and ethical collaboration with
+integrates patient education, structural correction (including **VAET —
+Viscerocranial Airway Expansion Technique**), home sleep testing (HST),
+CBCT imaging, and ethical collaboration with
 dentists, ENTs, and sleep physicians.
 
 CSA is not just a course. It is a movement to make chiropractic a
