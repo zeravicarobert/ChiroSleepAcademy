@@ -725,6 +725,9 @@ get-to-know questions so this section grows session over session.
   ZIP 91324).
 - **Secondary location:** Tecopa, CA — the VAET / hot-springs treatment
   site (§7–§8, Step 4). Strategic asset, not just a second home.
+  **Specific venue: Death Valley Hot Springs Resort** (the proper-noun
+  name to use in any public-facing copy referring to Robert's VAET
+  delivery site).
 - **Not in St. George, UT.** St. George is *Will Spriggs's* location
   (the RPSGT/RST who reads Robert's HSTs at Sleep Center Services).
   Don't confuse the two.
