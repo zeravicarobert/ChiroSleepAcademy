@@ -751,6 +751,26 @@ get-to-know questions so this section grows session over session.
 - The "skull-down" model (§1) is consistent with how Force Recon thinks
   about systems: identify the controlling node, work outward.
 
+### Recurring operating pattern: live-the-model-first
+Across every lane Robert builds, the pattern is the same — he goes
+through the model himself before offering it to anyone else:
+
+- **Sleep Doctor / HST (Nov 2025):** Robert went through a Sleep Doctor
+  HST as a patient before recommending Sleep Doctor to other DCs (see
+  §8 Step 2 history).
+- **CSA "Heal the Healer First" (§7):** The entire doctor-facing offer
+  is built on doctors living the model on themselves first. Robert is
+  doing this himself — Phase 1 patient → Phase 2 case development → etc.
+- **VA service-connected disability (§17 Channel B, as of 5/22/26):**
+  Robert is filing his own VA SCD claim *before* publicly opening the
+  veteran channel. The channel is "being built," and Robert's own claim
+  is the first build step.
+
+This is not coincidence. It's a deliberate authenticity discipline that
+protects credibility (§5) and produces real lived experience to anchor
+every offer. When in doubt about how Robert will sequence a new
+offering: he will live it himself first.
+
 ### Strategic implication — the USMC background IS the go-to-market for Channel B
 Robert's military service is not just personal history. It's the
 foundation of **Channel B** in the patient ecosystem (§17): helping
