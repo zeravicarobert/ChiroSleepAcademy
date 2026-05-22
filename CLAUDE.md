@@ -657,3 +657,53 @@ Robert's real calendar. When something passes, move it down to a
   Mike's lane. Paused until crew returns.
 - **Stay-at-Home 12-Module Program (§17):** No active mentor lane;
   architecture only. Don't price or productize without Robert's call.
+
+---
+
+## 19. Operator Profile — Robert (background & biography)
+
+This section accumulates personal/biographical context about Robert so
+Claude can interpret his decisions, voice, and positioning correctly.
+Per Simon Severino's instruction (§16), Claude should keep asking
+get-to-know questions so this section grows session over session.
+
+### Geography
+- **Primary location:** Northridge, CA (main practice base, mailing
+  ZIP 91324).
+- **Secondary location:** Tecopa, CA — the VAET / hot-springs treatment
+  site (§7–§8, Step 4). Strategic asset, not just a second home.
+- **Not in St. George, UT.** St. George is *Will Spriggs's* location
+  (the RPSGT/RST who reads Robert's HSTs at Sleep Center Services).
+  Don't confuse the two.
+
+### Military service
+- **9 years United States Marine Corps.**
+- **4th Force Reconnaissance Company** — USMC special operations
+  (Reserve component).
+- **3D ANGLICO (Air Naval Gunfire Liaison Company)** — Marine unit whose
+  mission is coordinating fires across air, naval, and ground forces;
+  i.e., professional integrators of disparate capabilities into a single
+  effect. This maps onto Robert's clinical model (coordinating DCs,
+  DDSs, MDs, sleep medicine into integrated patient outcomes) more
+  directly than most marketing language can.
+- Robert wants this background **surfaced**, not hidden — he listed
+  Force Recon and 3D ANGLICO when given the chance to be introduced to
+  the Pathfinder room (5/22/26). Treat the USMC story as on-brand
+  positioning, not background trivia.
+
+### Voice/temperament implications
+- Mission-orientation and structural thinking are not affectations —
+  they're trained.
+- "Heal the Healer First" (§7) reads differently knowing the operator
+  is a Marine: it's a chain-of-command instinct, not a marketing line.
+- The "skull-down" model (§1) is consistent with how Force Recon thinks
+  about systems: identify the controlling node, work outward.
+
+### Open biographical questions (to fill in over time)
+- Years of service (era of military service)
+- Active duty vs. Reserve breakdown across the 9 years
+- What pulled Robert from USMC into chiropractic
+- Current connection to the USMC veteran community (potential CSA / SDI
+  patient channel?)
+- Family (spouse confirmed eligible for Pathfinder shared room — §18 —
+  but otherwise not yet logged here)
