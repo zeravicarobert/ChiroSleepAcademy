@@ -630,6 +630,23 @@ See also §20 for capital invested in each.
   pulling up next time the SDI or CSA offer-design work needs
   reframing.
 
+### Dormant mentors (past investments)
+
+Mentors Robert has invested in previously where the active engagement
+has ended but the work / IP they helped produce continues to compound.
+These do **not** count against active mentor capacity but **do** count
+in lifetime investment math and ROI accounting (§20).
+
+- **Daymond John** — attended his **CEO Day in Miami, March 2025**.
+  Daymond helped Robert **perfect his pitch** at that event. The
+  language and framing discipline Robert uses today — including the
+  Pathfinder Unique Ability and Core Business Issue work in May 2026 —
+  is downstream of that pitch refinement. Investment amount: TBD.
+  ROI captured: pitch foundation (durable, multi-year).
+- **Tai Lopez** — currently dormant. Investment amount and specific
+  ROI: TBD. Robert has not yet described what Tai's work produced
+  for him; worth a follow-up when there's a natural moment.
+
 ### Adjacent educators (not mentors, but capital-invested teachers)
 Robert is also paying for focused subject-matter education from people
 who aren't part of the mentor stack but are shaping his thinking:
@@ -1055,6 +1072,22 @@ means ROI has not been measured. Measuring it is the work.
 | CA EDD SDI | Alex Mandossian | SDI patient acquisition | $5,000 | $0 |
 | Blockchain | Eleanor | Bitcoin / blockchain education | $1,500 | $0 |
 | **TOTAL** | | | **$104,000** | **$0** |
+
+### Dormant mentor investments (past, still producing returns)
+
+These are mentors Robert has invested in previously where the active
+engagement has ended. Capital amounts are still being recovered from
+memory; ROI continues to compound in the form of skills, language,
+and IP that the active mentors are building on top of.
+
+| Category | Mentor | Service / Event | Invested | Captured ROI |
+|---|---|---|---|---|
+| Pitch + Positioning | Daymond John | CEO Day, Miami, March 2025 | TBD | Pitch refinement that anchors current CSA / Pathfinder positioning (durable, multi-year) |
+| Marketing / Business | Tai Lopez | Dormant | TBD | TBD — needs follow-up |
+
+When Robert confirms the dollar amounts, fold them into the lifetime
+investment total. The $104K active-portfolio number above is therefore
+a **floor**, not a ceiling, on Robert's lifetime mentor capital.
 
 ### What counts as ROI
 
