@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-22 (added Channel B — VA service-connected disability for veterans — to §17; expanded §19 USMC-as-go-to-market)
+**Last updated:** 2026-05-26 (massive context drop: added Jay Abraham as Mentor 4 + adjacent educators Eleanor and Mark Gonzalez to §16; rewrote §18 around the 8/14 Wichita anchor pivot; expanded §19 with family, cult background, priority framework, communities, software stack, underutilized assets; new §20 for mentor investment ROI tracking + monthly expenses)
 
 ---
 
@@ -556,9 +556,10 @@ When any of these are resolved, update this file.
 
 ## 16. Mentor Ecosystem
 
-Robert has three active mentors guiding different parts of the CSA ecosystem.
-Claude should keep these straight when interpreting Robert's priorities and
-when drafting work that "belongs" to one mentor's lane.
+Robert has **four** active mentors guiding different parts of the CSA
+ecosystem. Claude should keep these straight when interpreting Robert's
+priorities and when drafting work that "belongs" to one mentor's lane.
+See also §20 for capital invested in each.
 
 ### Mentor 1 — Mike Barron (Done-for-You Marketing)
 - Building done-for-you marketing for Robert.
@@ -609,6 +610,60 @@ when drafting work that "belongs" to one mentor's lane.
   blueprint above. Deliverable into the meeting is a written question
   list that drives an execution-plan conversation.
 - **Next meeting with Alex: 5/29/26 at 9:00 AM PST.**
+
+### Mentor 4 — Jay Abraham (Relational Capital & Deal Making)
+- Direct-response marketing legend in his own lane. Simon Severino's
+  Sprint Club (via Brian Oney) operates "in the Jay Abraham lineage"
+  (§16, Mentor 2), so Jay's framing already touches Robert's work
+  indirectly. Robert is now also engaged with Jay directly.
+- Focus: **relational capital and deal making** — how to extract more
+  value from existing relationships, structure win-win deals,
+  recognize hidden assets in your network. Classic Abraham territory.
+- Investment to date: **$5,000** (see §20).
+- **Current momentum (as of 5/26/26): UNCLEAR.** Robert mentioned the
+  relationship in passing but did not describe an active homework
+  cadence, a next meeting, or a specific deliverable. Open question:
+  is this a coaching program, a one-time course, ongoing access? Log
+  what becomes clear over time.
+- **Reading list:** Robert has Jay Abraham e-books in his email or
+  Google Drive that are on his "continue reading" list — worth
+  pulling up next time the SDI or CSA offer-design work needs
+  reframing.
+
+### Adjacent educators (not mentors, but capital-invested teachers)
+Robert is also paying for focused subject-matter education from people
+who aren't part of the mentor stack but are shaping his thinking:
+
+- **Eleanor — Bitcoin / blockchain.** $1,500. Course runs late
+  May 2026 (see §18). Robert is in active learning mode.
+- **Mark Gonzalez — silver / precious metals investing.** $12,500.
+  Referred to Robert by Peter (see Robert's circle below). Lives in
+  Puerto Vallarta, Mexico. Storage options at home, San Diego, or
+  Massachusetts. Invited Robert to a San Diego bonfire in July 2026.
+  Key technical points he's taught Robert: fractional silver for
+  transactionability (sub-1 oz), 1 oz silver rounds for standard
+  units, 10/100 oz bars for deeper investing (larger bars = cheaper
+  per ounce). When silver spot price drops, premiums to purchase
+  rise.
+
+### Robert's broader circle (people who shape his thinking but aren't paid mentors)
+
+- **Peter** — close friend / informal advisor. Introduced Robert to
+  Mark Gonzalez (silver) and to **Mike Maloney** (educator on gold/
+  silver history, founder of GoldSilver.com). Taught Robert the
+  *money vs. currency* distinction: currency has extrinsic value
+  (e.g., fiat $100 bill), money has intrinsic value (e.g., gold);
+  "currency" is both an electrical and a monetary term. Travel:
+  in San Diego with Santiago around 6/3–6/4/26; leaves for Denver
+  on 6/16/26 to see "Croatian Christine," then Florida (his dad),
+  then Europe; may meet Robert at **Liberpulco / Anarchapulco
+  Serbia event in August 2026.**
+- **Santiago** — with Peter in San Diego ~6/3–6/4/26. Unknown context.
+- **Croatian Christine** — Peter's contact in Denver. Unknown context.
+- **Delfina** — last day at LAUSD is **6/11/26.** Relationship to
+  Robert not yet logged; presumed close (spouse / partner / family).
+- **Noel** — Robert's cryo machine repair contact. Needs scheduling
+  by ~5/31/26 for troubleshooting before Vegas departure.
 
 ---
 
@@ -733,19 +788,57 @@ A short, rolling list of time-bound items so Claude can plan around
 Robert's real calendar. When something passes, move it down to a
 "Recently completed" line or remove it.
 
-- **5/25/26 (Mon) — Bitcoin course begins.** Runs ~a couple of days
-  (5/25–5/26 or 5/25–5/27). Robert's availability is reduced during
-  this block; avoid scheduling deep CSA work here.
-- **5/28/26 (Thu) 6:00 AM PST — Simon Severino meeting.** Deliverables
+### The anchor pivot
+- **8/14/26 (Fri) — Zac and Adelaide start school in Wichita, KS.**
+  This is the **hard pivot** that anchors the entire summer 2026
+  calendar. Everything between today and 8/14 should be evaluated
+  against: "Does this matter for the kids landing well, the business
+  moving forward, or both, by 8/14?"
+
+### Late May / early June 2026
+- **5/26/26 (Tue) 6:00 PM PT — Eleanor's Bitcoin course begins.**
+  Runs ~4 days (5/26 → ~5/30). Robert's availability is reduced
+  during this block; avoid scheduling deep CSA work here.
+- **5/28/26 (Thu) 6:00 AM PT — Simon Severino meeting.** Deliverables
   Simon expects Robert to bring: daily Claude Code usage between now
   and the meeting, and a working definition of the **4 Executive
   Assistant** roles Claude Code should play for Robert.
-- **5/29/26 (Fri) 9:00 AM PST — Alex Mandossian meeting.** Deliverable
+- **5/29/26 (Fri) 9:00 AM PT — Alex Mandossian meeting.** Deliverable
   Alex expects Robert to bring: a **written question list** from a
   careful re-read of the *Protect Your Income™* blueprint, to drive an
   execution-plan conversation.
+- **By 5/31/26 (Sun) — schedule Noel for cryo machine troubleshooting.**
+  Robert needs to text/call Noel ASAP so the appointment happens
+  before Vegas departure.
+- **By ~5/31/26 — Silver payment** (with Mark Gonzalez) needs to be
+  made.
+- **By ~5/31/26 — Child Support letter** needs to be obtained from
+  Child Support office confirming Robert is current, then forwarded
+  to the California Chiropractic Board.
 - **End of May 2026 — videography/editing crew returns** from the
   bodyworker retreat. Mike Barron lane re-opens at that point.
+- **5/31/26 or 6/1/26 — Robert departs Northridge for Las Vegas.**
+  Hard travel pivot.
+
+### Family / June 2026
+- **6/2/26 (Tue) 6:40 PM — Zac and Adelaide arrive Las Vegas.**
+  Family time density increases dramatically from this point.
+- **6/3/26 or 6/4/26 — Peter and Santiago in San Diego, CA.** Possible
+  visit window if Robert is geographically close.
+- **6/11/26 (Thu) — Delfina's last day at LAUSD.**
+- **6/16/26 (Tue) — Peter departs for Denver** (Croatian Christine),
+  then Florida (his dad), then Europe. Possible Liberpulco/Serbia
+  meet in August.
+
+### July & August 2026
+- **July 2026 (date TBD) — Mark Gonzalez bonfire** in San Diego.
+  Silver/precious-metals community gathering. Robert invited.
+- **August 2026 (date TBD) — Liberpulco** (Anarchapulco's Serbia
+  event). Robert is interested as a community fit; Jeff Berwick's
+  network. Peter may attend.
+- **8/14/26 — Kids start school in Wichita** (see anchor pivot above).
+
+### October 2026
 - **10/1/26 (Thu) – 10/4/26 (Sun) — Pathfinder Mastermind, Acqua Hotel,
   Mill Valley, CA.** Confirmed. Robert paid Tier 1 ($3,000) on 5/22/26.
   Hosted by Alex Mandossian, Michael Stevenson, Kayla Stevenson. Theme:
@@ -756,7 +849,7 @@ Robert's real calendar. When something passes, move it down to a
   Polish, Roland Frasier, Parris Lampropoulos, Ryan Levesque tier),
   and Peter Martone DC is on the alumni list — confirm whether he is
   attending in 2026. Treat 10/1–10/4 as a hard calendar block. Directory
-  profile in progress as of 5/22/26.
+  profile complete as of 5/26/26.
 
 ### Workstream status snapshot
 - **CSA (doctor-facing, §7–§8):** Simon's lane. Active. May goals
@@ -842,11 +935,166 @@ this. **The two facts compound:** Robert is uniquely positioned because
 he is a USMC vet *and* runs Structural Airway Chiropractic / VAET.
 Either alone would be ordinary. Together they create a defensible niche.
 
+### Family
+Robert has at least two children:
+- **Zac** — referred to as "2nd son," implying there is a 1st son not
+  yet named in memory.
+- **Adelaide** — youngest child.
+
+Hard pivot date: **Zac and Adelaide start school in Wichita, KS on
+8/14/26.** This anchors the entire summer 2026 calendar (see §18). The
+kids arrive in Las Vegas on **6/2/26 at 6:40 PM** for the pre-school
+period with Robert.
+
+Other family/close-circle people surfaced so far:
+- **Delfina** — last day at LAUSD is 6/11/26. Relationship to Robert
+  is presumed close but not yet explicitly logged (spouse / partner
+  / co-parent / family member — needs clarification).
+
+### Personal history — cult background (sensitive — handle with care)
+Robert has disclosed (5/26/26) that he was previously involved in a
+cult, and that some of the dreams and goals he formed during that
+period are *no longer possible* given his transition out of it. He
+is sitting with the question:
+
+> *"What to do when your dreams and goals are no longer possible
+> because one was in a cult?"*
+
+This is a **real workstream of its own** — separate from CSA / SDI /
+VA business work — and should be acknowledged when it surfaces in
+conversation. It is **not** Claude's job to resolve it. It IS Claude's
+job to:
+1. Not pretend it didn't happen.
+2. Treat it as durable context that affects how Robert relates to
+   "goals," "dreams," and identity-shaped commitments — words that
+   sound innocuous but may carry weight here.
+3. Hold it as a separate stream from business planning unless Robert
+   explicitly merges them.
+4. When it surfaces, hold space for it without trying to immediately
+   convert it to a tractable problem.
+
+### Priority framework Robert is using
+When Robert asks himself *"what to do?"* and *"what are my priorities?"*,
+his stated ordering is:
+1. **Legal**
+2. **Moral**
+3. **Ethical**
+4. **Financial** (one specific financial priority: filing his own USMC
+   service-connected disability claim with the VA — see §17 Channel B
+   and §19 live-the-model-first pattern)
+
+Use this stack as the tie-breaker when multiple things are competing
+for Robert's time and attention. The VA SCD claim explicitly sits in
+his priority list, not just as a Channel B build step.
+
+### Communities & lifestyle programs Robert is involved with
+Beyond his mentor stack, Robert participates in (or is interested in):
+
+- **Regis Realm** — men's group / lifestyle development program.
+  Robert calls it variously *Warrior2King* or *Parasite Protocol*.
+  Meetings on Mondays.
+- **SupraHuman** — physical fitness / body-shape program.
+- **Anarchapulco / Liberpulco** — Jeff Berwick's community. Robert is
+  interested in joining for the community fit; Liberpulco's Serbia
+  event in August 2026 is a possible attendance window (§18). Peter
+  may meet him there.
+
+### Software stack Robert is currently learning
+- **ChiroTouch** — EHR system. 2nd onboarding session in progress.
+- **SimpleTalk** — inbound/outbound AI call agent.
+
+### Tools recommended (not yet adopted)
+- **Asana** — project management. Recommended by Mike Barron.
+- **Google Drive** — for video and image storage. Mike Barron's rec.
+- **CRM (TBD) + CRM management** — Robert has explicitly said he
+  needs both. No vendor selected yet.
+
+### Underutilized assets Robert has named
+Worth surfacing in future strategy sessions:
+- **818 cellphone number** — established presence, currently not
+  being leveraged.
+- **PeppU Alumni Group Association** — alumni network access.
+- **CA EDD SDI patient database** — the EHR-derived patient list
+  (the same database that gave us the $1,223 LTV finding on
+  5/22/26).
+
 ### Open biographical questions (to fill in over time)
 - Years of service (era of military service)
 - Active duty vs. Reserve breakdown across the 9 years
 - What pulled Robert from USMC into chiropractic
 - Current connection to the USMC veteran community (potential CSA / SDI
   patient channel?)
-- Family (spouse confirmed eligible for Pathfinder shared room — §18 —
-  but otherwise not yet logged here)
+- Robert's 1st son's name and ages of all children
+- Delfina's exact relationship to Robert
+- Spouse / partner status (Pathfinder room is "spouse free" — who is
+  attending with Robert?)
+- Cult background — when, what group, what role Robert had, what
+  the transition out looked like (only fill in as Robert volunteers;
+  do not interrogate)
+- What the dreams/goals were that are "no longer possible" — and
+  what new dreams might be emerging in their place
+
+---
+
+## 20. Mentor & Education Investment Tracking
+
+Capital Robert has invested in mentors and educators. Tracking exists
+so the next mentor / coach / education decision is informed by what
+the existing stack has produced. **As of 5/26/26, total invested =
+$104,000, total measured ROI = $0.** The zero is not a judgment — it
+means ROI has not been measured. Measuring it is the work.
+
+### Current portfolio (as of 5/26/26)
+
+| Category | Mentor / Educator | Service | Invested | Measured ROI |
+|---|---|---|---|---|
+| Funnels | Mike Barron | Done-for-you marketing + video team | $60,000 | $0 |
+| Sleep Academy | Simon Severino | 90 Day Sprint / CSA build | $20,000 | $0 |
+| Silver | Mark Gonzalez | Silver investment guidance | $12,500 | $0 |
+| Relationships | Jay Abraham | Relational capital + deal making | $5,000 | $0 |
+| CA EDD SDI | Alex Mandossian | SDI patient acquisition | $5,000 | $0 |
+| Blockchain | Eleanor | Bitcoin / blockchain education | $1,500 | $0 |
+| **TOTAL** | | | **$104,000** | **$0** |
+
+### What counts as ROI
+
+ROI is not only revenue-direct. Acceptable categories to credit:
+
+1. **Direct revenue** attributable to the mentor's work (patients/
+   doctors closed, deals signed)
+2. **Cost avoidance** — mistakes Robert didn't make because the
+   mentor warned him
+3. **Relationship value** — specific introductions and doors opened
+   (e.g., Mark Gonzalez introducing Mike Maloney via Peter)
+4. **Skill acquired** that produces future revenue (e.g., learning
+   funnel architecture from Mike, Bitcoin custody from Eleanor)
+5. **Time saved** — work Robert didn't have to do himself
+6. **Capital preserved** — silver/Bitcoin allocation as inflation
+   hedge counts even if it doesn't appreciate yet
+
+### Cadence
+
+- **Weekly review (Sunday):** add one bullet under each mentor for
+  "what did this mentor's work produce or save this week?" Even
+  small entries compound the visibility.
+- **Quarterly review:** evaluate cumulative ROI per mentor. If ROI
+  is unclear after a full quarter of work, the issue is either
+  (a) Robert hasn't done the assigned work, or (b) the mentor isn't
+  producing for him at this stage. Distinguish.
+- **Before adding a NEW mentor:** look at the existing stack and
+  ask, "Did this stack produce more value than it cost?" If yes,
+  expand confidently. If no, fix the existing stack before
+  bolting on another lane.
+
+### Monthly expense tracking (separate, but adjacent)
+
+Robert wants to track monthly expenses split **personal vs. business**.
+First entry he provided:
+
+- **5/4/26:** TMobile — **$255.27** (split TBD; mobile phone is often
+  mixed-use).
+
+This tracker is in its infancy. When he provides more entries, log
+them here with date / vendor / amount / personal-or-business / brief
+note. Goal: by 8/14/26 pivot, have a clean monthly view across both
+sides.
