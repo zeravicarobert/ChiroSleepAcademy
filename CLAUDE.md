@@ -556,10 +556,9 @@ When any of these are resolved, update this file.
 
 ## 16. Mentor Ecosystem
 
-Robert has **four** active mentors guiding different parts of the CSA
-ecosystem. Claude should keep these straight when interpreting Robert's
-priorities and when drafting work that "belongs" to one mentor's lane.
-See also §20 for capital invested in each.
+Robert has **five** active mentors plus dormant past mentors and
+adjacent educators. Each is described below. See also §20 for the
+investment-tracking table.
 
 ### Mentor 1 — Mike Barron (Done-for-You Marketing)
 - Building done-for-you marketing for Robert.
@@ -629,6 +628,27 @@ See also §20 for capital invested in each.
   Google Drive that are on his "continue reading" list — worth
   pulling up next time the SDI or CSA offer-design work needs
   reframing.
+
+### Mentor 5 — Russell Brunson (Funnel Architecture & Recurring Education)
+- Relationship is primarily via paid subscriptions / programs,
+  **not 1:1 coaching**. The mentorship flows through Brunson's
+  content libraries, trainings, and the ClickFunnels ecosystem itself.
+- **Operational footprint:** Robert's CSA site (§6) runs on
+  **ClickFunnels 2.0** — Brunson's SaaS. So Brunson is *both* mentor
+  *and* vendor: the platform CSA depends on is the same platform
+  Brunson uses to teach.
+- **Current recurring spend (as of 5/26/26):** ~$400/month for one
+  Brunson service (specific program TBD — likely a coaching /
+  membership tier such as Inner Circle Light, FunnelHacker, or
+  similar), plus the ClickFunnels 2.0 subscription billed separately.
+- **Current momentum: PASSIVE.** Recurring spend continues but Robert
+  has not described an active homework cadence or upcoming interaction.
+- **Open questions:**
+  - Which specific Brunson program is the $400/month buying — and is
+    Robert actively using it? If not, that's $4,800/year worth
+    auditing before 8/14/26.
+  - Is the ClickFunnels 2.0 subscription on top of the $400/mo, or
+    bundled inside it?
 
 ### Dormant mentors (past investments)
 
@@ -1057,11 +1077,13 @@ Worth surfacing in future strategy sessions:
 
 Capital Robert has invested in mentors and educators. Tracking exists
 so the next mentor / coach / education decision is informed by what
-the existing stack has produced. **As of 5/26/26, total invested =
-$104,000, total measured ROI = $0.** The zero is not a judgment — it
-means ROI has not been measured. Measuring it is the work.
+the existing stack has produced. **As of 5/26/26, identified lifetime
+investment ≈ $124,000 + recurring spend (Russell Brunson).** Measured
+ROI ≈ $0 (not yet captured beyond Daymond's pitch refinement). The
+zero is not a judgment — it means ROI has not been formally measured.
+Measuring it is the work.
 
-### Current portfolio (as of 5/26/26)
+### Active portfolio (one-time / long-tail spend, as of 5/26/26)
 
 | Category | Mentor / Educator | Service | Invested | Measured ROI |
 |---|---|---|---|---|
@@ -1071,7 +1093,19 @@ means ROI has not been measured. Measuring it is the work.
 | Relationships | Jay Abraham | Relational capital + deal making | $5,000 | $0 |
 | CA EDD SDI | Alex Mandossian | SDI patient acquisition | $5,000 | $0 |
 | Blockchain | Eleanor | Bitcoin / blockchain education | $1,500 | $0 |
-| **TOTAL** | | | **$104,000** | **$0** |
+| **Subtotal — active one-time** | | | **$104,000** | **$0** |
+
+### Recurring spend (subscriptions / membership programs)
+
+| Mentor / Service | What it is | Monthly | Annualized | Measured ROI |
+|---|---|---|---|---|
+| Russell Brunson — program | Unspecified Brunson coaching / membership tier | ~$400 | ~$4,800 | $0 (TBD — confirm which program and whether being used) |
+| ClickFunnels 2.0 | SaaS that hosts the CSA site (§6) — operational, not optional | TBD | TBD | Operational infrastructure (site lives here) |
+
+Recurring spend deserves its own audit rhythm — every dollar that
+renews automatically is a dollar Robert isn't actively re-deciding to
+spend. Sunday weekly review should ask: *"Was this worth its renewal
+this month?"*
 
 ### Dormant mentor investments (past, still producing returns)
 
@@ -1082,12 +1116,9 @@ and IP that the active mentors are building on top of.
 
 | Category | Mentor | Service / Event | Invested | Captured ROI |
 |---|---|---|---|---|
-| Pitch + Positioning | Daymond John | CEO Day, Miami, March 2025 | TBD | Pitch refinement that anchors current CSA / Pathfinder positioning (durable, multi-year) |
-| Marketing / Business | Tai Lopez | Dormant | TBD | TBD — needs follow-up |
-
-When Robert confirms the dollar amounts, fold them into the lifetime
-investment total. The $104K active-portfolio number above is therefore
-a **floor**, not a ceiling, on Robert's lifetime mentor capital.
+| Pitch + Positioning | Daymond John | CEO Day, Miami, March 2025 | $15,000 | Pitch refinement that anchors current CSA / Pathfinder positioning (durable, multi-year). The Pathfinder Unique Ability + Core Business Issue work in May 2026 is downstream of this. |
+| Marketing / Business | Tai Lopez | Dormant | $5,000 | TBD — Robert has not yet described what Tai's work specifically produced |
+| **Subtotal — dormant** | | | **$20,000** | |
 
 ### What counts as ROI
 
