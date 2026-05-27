@@ -45,10 +45,11 @@ just connect on the structure-first headline.
 
 ## Version C — Tom Cowan's website contact form (800-char limit) ⭐ FINAL
 
-**Character count: 781 chars** (verified 5/26/26 — includes the warm
+**Character count: 797 chars** (verified 5/26/26 — includes the warm
 intro via Dr. Michael Wilkerson DC, who Cowan previously interviewed
-and who is Robert's friend AND VAET patient). Fits the 800-char form
-with ~18 chars of headroom. **This is the version Robert is sending**
+and who is Robert's friend AND VAET patient, AND now explicitly names
+"VAET for sleep apnea"). Fits the 800-char form with ~3 chars of
+headroom — tight but works. **This is the version Robert is sending**
 via the contact form on drtomcowan.com or newbiologyclinic.com.
 
 > Dr. Cowan — your "Health Begins with Structure" post is the
@@ -57,10 +58,11 @@ via the contact form on drtomcowan.com or newbiologyclinic.com.
 > Chiropractor here, former USMC, 9 years (4th Force Recon, 3D
 > ANGLICO), building Structural Airway Chiropractic on the Triad of
 > Health. Dr. Michael Wilkerson DC, who you interviewed, is a friend
-> **and VAET patient** of mine. I deliver Viscerocranial Airway
-> Expansion Technique (VAET) at the maxilla and palatine bones —
-> correction works skull-down through cervical, thoracic, pelvic,
-> and pedal alignment so the body breathes properly during sleep.
+> and VAET patient of mine. I deliver Viscerocranial Airway
+> Expansion Technique (VAET) **for sleep apnea** at the maxilla and
+> palatine bones — correction works skull-down through cervical,
+> thoracic, pelvic, and pedal alignment so the body breathes
+> properly during sleep.
 >
 > My thesis: without biomechanical alignment assessment and
 > treatment, every other sleep and airway assessment and treatment
@@ -69,6 +71,16 @@ via the contact form on drtomcowan.com or newbiologyclinic.com.
 > VAET at Death Valley Hot Springs Resort. Happy to share more.
 >
 > — Robert Zeravica, DC
+
+### Why "for sleep apnea" is §5-safe
+
+Saying "VAET for sleep apnea" reads as *"VAET is what I offer for
+patients with sleep apnea"* — a clinical positioning statement, NOT
+a cure claim. Same construction a DDS would use ("oral appliance for
+sleep apnea") or a sleep doc would use ("CPAP for sleep apnea").
+Stating the condition the treatment is offered for is normal
+clinical language. It is NOT the same as claiming "VAET cures sleep
+apnea" — which §5 forbids.
 
 ### Why "friend AND VAET patient" works better than "friend" alone
 
