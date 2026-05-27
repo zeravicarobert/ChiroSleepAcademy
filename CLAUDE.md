@@ -81,6 +81,24 @@ Notes for use:
 CSA is not just a course. It is a movement to make chiropractic a
 credible, ethical voice in the sleep-and-airway conversation.
 
+### The Triad of Health (classical chiropractic framework Robert uses)
+
+Robert positions CSA within the classical chiropractic **Triad of
+Health**: **Structure → Chemical → Mental.** All three are
+interconnected; addressing only one is incomplete. Robert enters the
+triad through *structure*, which is where his clinical authority sits
+and where most other disciplines aren't operating. Specifically,
+within the structure leg, Robert starts where most clinicians don't —
+**the face** (maxilla and palatine bones) — and the structural
+correction works *skull-down* through cervical, thoracic, pelvic,
+and pedal alignment.
+
+Use the Triad of Health framing in outreach to holistic-medicine
+audiences (Tom Cowan's New Biology audience, anthroposophic medicine,
+SOT chiropractors, AK practitioners, naturopaths). It signals
+"this person operates in our framework," not "this person is selling
+me something foreign."
+
 ---
 
 ## 2. Mission
@@ -696,10 +714,11 @@ who aren't part of the mentor stack but are shaping his thinking:
   then Europe; may meet Robert at **Liberpulco / Anarchapulco
   Serbia event in August 2026.**
 - **Santiago (a.k.a. Isaiah)** — same person, two names Robert uses
-  interchangeably. With Peter in San Diego ~6/3–6/4/26. Crew member
-  Robert is counting on for the 8/14 win condition (§18, item #3).
-  Specific role still TBD — likely on the videographer/editor crew
-  but worth confirming.
+  interchangeably. **Confirmed on the Mike Barron video crew**
+  (videographer / editor team — currently at the bodywork retreat
+  through end of May 2026 per §16 Mentor 1). With Peter in San
+  Diego ~6/3–6/4/26 after the retreat ends. Crew member Robert is
+  counting on for the 8/14 win condition (§18, item #3).
 - **Croatian Christine** — Peter's contact in Denver. Unknown context.
 - **Delfina** — last day at LAUSD is **6/11/26.** Relationship to
   Robert not yet logged; presumed close (spouse / partner / family).
