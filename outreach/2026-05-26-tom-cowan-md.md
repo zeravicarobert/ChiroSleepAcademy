@@ -45,20 +45,22 @@ just connect on the structure-first headline.
 
 ## Version C — Tom Cowan's website contact form (800-char limit) ⭐ FINAL
 
-**Character count: 696 chars** (verified 5/26/26). Fits the 800-char
-form with ~100 chars of headroom. **This is the version Robert is
-actually sending** via the contact form on drtomcowan.com or
-newbiologyclinic.com.
+**Character count: 764 chars** (verified 5/26/26 — includes the warm
+intro via Dr. Michael Wilkerson DC, who Cowan previously interviewed
+and who is Robert's friend). Fits the 800-char form with ~35 chars
+of headroom. **This is the version Robert is sending** via the
+contact form on drtomcowan.com or newbiologyclinic.com.
 
 > Dr. Cowan — your "Health Begins with Structure" post is the
 > headline I've been working toward for years.
 >
 > Chiropractor here, former USMC, 9 years (4th Force Recon, 3D
 > ANGLICO), building Structural Airway Chiropractic on the Triad of
-> Health. I deliver Viscerocranial Airway Expansion Technique (VAET)
-> at the maxilla and palatine bones — correction works skull-down
-> through cervical, thoracic, pelvic, and pedal alignment so the
-> body breathes properly during sleep.
+> Health. Dr. Michael Wilkerson DC, who you interviewed, is a friend
+> of mine. I deliver Viscerocranial Airway Expansion Technique
+> (VAET) at the maxilla and palatine bones — correction works
+> skull-down through cervical, thoracic, pelvic, and pedal alignment
+> so the body breathes properly during sleep.
 >
 > My thesis: without biomechanical alignment assessment and
 > treatment, every other sleep and airway assessment and treatment
@@ -67,6 +69,24 @@ newbiologyclinic.com.
 > VAET at Death Valley Hot Springs Resort. Happy to share more.
 >
 > — Robert Zeravica, DC
+
+### Why the Wilkerson mention works here
+
+- **Warm intro signal.** Cowan already vouched for Wilkerson by
+  giving him a guest slot. Robert being Wilkerson's friend places
+  him in the same cluster Cowan has already platformed — easier yes.
+- **Screener-friendly.** Whoever filters Cowan's contact form will
+  see "knows someone Dr. Cowan has had on" and flag it for
+  attention.
+- **Honest and brief.** "Friend of mine" is what Robert said, so
+  that's what the message says — no exaggeration of the
+  relationship.
+- **Doesn't lead with it.** The structural thesis still leads. The
+  Wilkerson connection is one sentence, woven in, not pitched.
+- **Pre-courtesy to Wilkerson recommended:** Robert might want to
+  give Michael Wilkerson a heads-up that he's referencing him to
+  Cowan, especially if Cowan reaches back for verification. Low
+  stakes, but a courtesy.
 
 ---
 
