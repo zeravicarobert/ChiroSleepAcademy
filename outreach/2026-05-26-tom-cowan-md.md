@@ -1,10 +1,14 @@
 # Outreach — Dr. Tom Cowan, MD
 
+**Status:** ✅ **SENT 5/27/26** (early-morning hours; via Cowan's
+website contact form). Awaiting response.
 **Date drafted:** 5/26/26
-**Channel:** Facebook (Robert follows him; saw the post)
+**Channel sent on:** Website contact form (drtomcowan.com or
+newbiologyclinic.com — 800-char limit)
 **Trigger:** Tom Cowan's New Biology Clinic Facebook post —
 *"Health Begins with Structure, Not Just Symptoms"* (5/26/26, 13h
 before screenshot at ~1:22am 5/27/26)
+**Final version sent:** 797 chars (Version C in this file)
 
 ## Why this is a high-fit outreach
 
