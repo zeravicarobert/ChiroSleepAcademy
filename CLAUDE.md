@@ -835,15 +835,12 @@ Robert's real calendar. When something passes, move it down to a
 ### Late May / early June 2026
 - **5/26/26 (Tue) 6:00 PM PT — Eleanor's Bitcoin course begins.**
   Runs across 5 days: **Tue 5/26 + Thu 5/28 + Fri 5/29 + Mon 6/1 +
-  Tue 6/2.** Thursday's topic: mining. Robert's availability is
-  reduced during this block; avoid scheduling deep CSA work here.
-  Notes + cohort relational capital captured in
+  Tue 6/2.** All classes **6:00–8:30 PM PT** (confirmed 5/26/26).
+  Thursday's topic: mining. **No conflict with Simon (Thu 6 AM PT)
+  or Alex (Fri 9 AM PT) meetings — all fit in same day.** Notes +
+  cohort relational capital captured in
   `education/blockchain-academy-eleanor-2026-notes.md` and
   `relationships/eleanor-bitcoin-cohort.md`.
-  **⚠️ Schedule conflict to verify:** Eleanor classes on Thu 5/28 +
-  Fri 5/29 may overlap with the Simon meeting (Thu 6:00 AM PT) and
-  Alex meeting (Fri 9:00 AM PT). Robert needs to confirm Eleanor's
-  start times for those days.
 - **5/28/26 (Thu) 6:00 AM PT — Simon Severino meeting.** Deliverables
   Simon expects Robert to bring: daily Claude Code usage between now
   and the meeting, and a working definition of the **4 Executive
