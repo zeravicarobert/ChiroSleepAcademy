@@ -45,11 +45,11 @@ just connect on the structure-first headline.
 
 ## Version C — Tom Cowan's website contact form (800-char limit) ⭐ FINAL
 
-**Character count: 764 chars** (verified 5/26/26 — includes the warm
+**Character count: 781 chars** (verified 5/26/26 — includes the warm
 intro via Dr. Michael Wilkerson DC, who Cowan previously interviewed
-and who is Robert's friend). Fits the 800-char form with ~35 chars
-of headroom. **This is the version Robert is sending** via the
-contact form on drtomcowan.com or newbiologyclinic.com.
+and who is Robert's friend AND VAET patient). Fits the 800-char form
+with ~18 chars of headroom. **This is the version Robert is sending**
+via the contact form on drtomcowan.com or newbiologyclinic.com.
 
 > Dr. Cowan — your "Health Begins with Structure" post is the
 > headline I've been working toward for years.
@@ -57,10 +57,10 @@ contact form on drtomcowan.com or newbiologyclinic.com.
 > Chiropractor here, former USMC, 9 years (4th Force Recon, 3D
 > ANGLICO), building Structural Airway Chiropractic on the Triad of
 > Health. Dr. Michael Wilkerson DC, who you interviewed, is a friend
-> of mine. I deliver Viscerocranial Airway Expansion Technique
-> (VAET) at the maxilla and palatine bones — correction works
-> skull-down through cervical, thoracic, pelvic, and pedal alignment
-> so the body breathes properly during sleep.
+> **and VAET patient** of mine. I deliver Viscerocranial Airway
+> Expansion Technique (VAET) at the maxilla and palatine bones —
+> correction works skull-down through cervical, thoracic, pelvic,
+> and pedal alignment so the body breathes properly during sleep.
 >
 > My thesis: without biomechanical alignment assessment and
 > treatment, every other sleep and airway assessment and treatment
@@ -70,23 +70,29 @@ contact form on drtomcowan.com or newbiologyclinic.com.
 >
 > — Robert Zeravica, DC
 
-### Why the Wilkerson mention works here
+### Why "friend AND VAET patient" works better than "friend" alone
 
-- **Warm intro signal.** Cowan already vouched for Wilkerson by
-  giving him a guest slot. Robert being Wilkerson's friend places
-  him in the same cluster Cowan has already platformed — easier yes.
-- **Screener-friendly.** Whoever filters Cowan's contact form will
-  see "knows someone Dr. Cowan has had on" and flag it for
-  attention.
-- **Honest and brief.** "Friend of mine" is what Robert said, so
-  that's what the message says — no exaggeration of the
-  relationship.
-- **Doesn't lead with it.** The structural thesis still leads. The
-  Wilkerson connection is one sentence, woven in, not pitched.
-- **Pre-courtesy to Wilkerson recommended:** Robert might want to
-  give Michael Wilkerson a heads-up that he's referencing him to
-  Cowan, especially if Cowan reaches back for verification. Low
-  stakes, but a courtesy.
+- Turns the warm-intro into a **clinical-credibility signal** — Cowan
+  can immediately picture Wilkerson endorsing the work, not just
+  Robert
+- Demonstrates the **Heal the Healer First** pattern (CSA §7) — Robert
+  treats fellow DCs as patients first; that's the model
+- Gives Cowan an **immediate verification path**: he can ask
+  Wilkerson "what was VAET like?" and get a real answer
+
+### HIPAA gate — REQUIRED before sending
+
+Mentioning a patient by name in any outbound communication is a
+HIPAA-touching disclosure. Even when the patient is a friend and a
+fellow doctor, **Robert must get Wilkerson's explicit okay before
+sending this message.**
+
+In practice: a 30-second text — *"Hey Michael, I'm reaching out to
+Tom Cowan via his contact form. Mind if I mention you're a friend
+and that I've treated you with VAET?"* Wilkerson saying yes
+(verbally or in text) is your consent. Done.
+
+Do **not** send the Cowan message until Wilkerson has agreed.
 
 ---
 
