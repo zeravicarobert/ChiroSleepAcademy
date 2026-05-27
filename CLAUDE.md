@@ -834,8 +834,16 @@ Robert's real calendar. When something passes, move it down to a
 
 ### Late May / early June 2026
 - **5/26/26 (Tue) 6:00 PM PT — Eleanor's Bitcoin course begins.**
-  Runs ~4 days (5/26 → ~5/30). Robert's availability is reduced
-  during this block; avoid scheduling deep CSA work here.
+  Runs across 5 days: **Tue 5/26 + Thu 5/28 + Fri 5/29 + Mon 6/1 +
+  Tue 6/2.** Thursday's topic: mining. Robert's availability is
+  reduced during this block; avoid scheduling deep CSA work here.
+  Notes + cohort relational capital captured in
+  `education/blockchain-academy-eleanor-2026-notes.md` and
+  `relationships/eleanor-bitcoin-cohort.md`.
+  **⚠️ Schedule conflict to verify:** Eleanor classes on Thu 5/28 +
+  Fri 5/29 may overlap with the Simon meeting (Thu 6:00 AM PT) and
+  Alex meeting (Fri 9:00 AM PT). Robert needs to confirm Eleanor's
+  start times for those days.
 - **5/28/26 (Thu) 6:00 AM PT — Simon Severino meeting.** Deliverables
   Simon expects Robert to bring: daily Claude Code usage between now
   and the meeting, and a working definition of the **4 Executive
@@ -987,6 +995,17 @@ Other family/close-circle people surfaced so far:
 - **Delfina** — last day at LAUSD is 6/11/26. Relationship to Robert
   is presumed close but not yet explicitly logged (spouse / partner
   / co-parent / family member — needs clarification).
+
+### Active discernment moment — "being recruited into a movement"
+On **5/26/26**, at the start of Eleanor's Bitcoin / Blockchain class,
+Eleanor explicitly warned the group: *"You're being recruited into a
+movement."* Robert captured this in his notes — that capture itself
+is the right move. Given the cult background below, Claude should
+treat this kind of self-awareness as a healthy signal Robert is
+keeping his discernment active, not a flag to step back. Stay engaged
+in learning; stay centered. Both at once is the move. Log other
+similar warnings as they surface across communities (Regis Realm,
+SupraHuman, Anarchapulco/Liberpulco) so the pattern stays visible.
 
 ### Personal history — cult background (sensitive — handle with care)
 Robert has disclosed (5/26/26) that he was previously involved in a
