@@ -695,7 +695,11 @@ who aren't part of the mentor stack but are shaping his thinking:
   on 6/16/26 to see "Croatian Christine," then Florida (his dad),
   then Europe; may meet Robert at **Liberpulco / Anarchapulco
   Serbia event in August 2026.**
-- **Santiago** — with Peter in San Diego ~6/3–6/4/26. Unknown context.
+- **Santiago (a.k.a. Isaiah)** — same person, two names Robert uses
+  interchangeably. With Peter in San Diego ~6/3–6/4/26. Crew member
+  Robert is counting on for the 8/14 win condition (§18, item #3).
+  Specific role still TBD — likely on the videographer/editor crew
+  but worth confirming.
 - **Croatian Christine** — Peter's contact in Denver. Unknown context.
 - **Delfina** — last day at LAUSD is **6/11/26.** Relationship to
   Robert not yet logged; presumed close (spouse / partner / family).
@@ -840,8 +844,9 @@ these five things are true:
 1. **Robert + Zac + Adelaide spent real time together** — getting to
    know each other, sharing cool experiences
 2. **Mike Barron's marketing plan is live and producing revenue**
-3. **Isaiah is a productive crew member** (Isaiah's specific role TBD
-   — likely on the videographer/editor crew; confirm with Robert)
+3. **Isaiah (a.k.a. Santiago — §16) is a productive crew member**
+   (specific role TBD — likely on the videographer/editor crew;
+   confirm with Robert)
 4. **Peter has made introductions** that moved Robert's message
    forward
 5. **VAET services in Tecopa are well-positioned** with paid clients
@@ -1150,10 +1155,10 @@ Worth surfacing in future strategy sessions:
 - Current connection to the USMC veteran community (potential CSA / SDI
   patient channel?)
 - Ages of all three children (Max, Zac, Adelaide)
-- Who is **Isaiah**? Mentioned 5/26/26 as one of the people Robert
-  wants productive by 8/14 (win condition #3). Likely a videographer
-  or editor on the crew currently at the bodywork retreat (§16
-  Mike Barron mentor), but unconfirmed.
+- **Isaiah = Santiago** (confirmed 5/26/26). Specific role still
+  TBD — is he on the videographer/editor crew currently at the
+  bodywork retreat (§16 Mike Barron), or a different kind of crew
+  member? Confirm.
 - Delfina's exact relationship to Robert
 - Spouse / partner status (Pathfinder room is "spouse free" — who is
   attending with Robert?)
