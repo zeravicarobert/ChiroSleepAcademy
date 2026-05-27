@@ -832,6 +832,28 @@ Robert's real calendar. When something passes, move it down to a
   against: "Does this matter for the kids landing well, the business
   moving forward, or both, by 8/14?"
 
+### The 8/14 win condition (Robert's own answer, 5/26/26)
+
+If by 8/13/26 Robert can honestly say "I did this summer right,"
+these five things are true:
+
+1. **Robert + Zac + Adelaide spent real time together** — getting to
+   know each other, sharing cool experiences
+2. **Mike Barron's marketing plan is live and producing revenue**
+3. **Isaiah is a productive crew member** (Isaiah's specific role TBD
+   — likely on the videographer/editor crew; confirm with Robert)
+4. **Peter has made introductions** that moved Robert's message
+   forward
+5. **VAET services in Tecopa are well-positioned** with paid clients
+
+Every "what should I do this week?" question gets evaluated against:
+*does this move one of these five forward?* If no → deprioritize.
+If yes → prioritize. This is the operating filter for the 11.5 weeks.
+
+Max (Robert's 1st son) is **intentionally not in this list** because
+Max is not choosing to be in the summer plan. See §19 family —
+handle with care.
+
 ### Late May / early June 2026
 - **5/26/26 (Tue) 6:00 PM PT — Eleanor's Bitcoin course begins.**
   Runs across 5 days: **Tue 5/26 + Thu 5/28 + Fri 5/29 + Mon 6/1 +
@@ -978,20 +1000,70 @@ he is a USMC vet *and* runs Structural Airway Chiropractic / VAET.
 Either alone would be ordinary. Together they create a defensible niche.
 
 ### Family
-Robert has at least two children:
-- **Zac** — referred to as "2nd son," implying there is a 1st son not
-  yet named in memory.
-- **Adelaide** — youngest child.
+Robert has three children:
 
-Hard pivot date: **Zac and Adelaide start school in Wichita, KS on
-8/14/26.** This anchors the entire summer 2026 calendar (see §18). The
-kids arrive in Las Vegas on **6/2/26 at 6:40 PM** for the pre-school
-period with Robert.
+- **Max** — 1st son. Currently a teenager. Chose not to spend summer
+  2026 with Robert and his younger siblings. Facing juvenile court
+  for driving without a license and a speeding ticket at **130 MPH**.
+  Lives with his mother (Robert's ex). Mother has told Max that the
+  day he turns 18 is the day his belongings will be on the sidewalk.
+  Max previously tried to live with Robert but was too disrespectful;
+  he moved back to his mother despite Robert's framing of her behavior
+  as mental and emotional abuse. Long history of disrespect toward
+  Robert, his mother, his siblings, teachers, peers, and police. Not
+  consistently attending school. Self-identifies as a future
+  millionaire; motto "you only live once"; does not believe in God.
+  **HANDLE WITH CARE.** Max is a real teenager in a real crisis, and
+  a real parental wound for Robert. Do **not** raise Max in business
+  or planning sessions unless Robert raises him first. If Robert
+  initiates a Max conversation, hold space — do not pivot to
+  problem-solving or advice unless explicitly asked.
+
+- **Zac** — 2nd son. Spending summer 2026 with Robert in Las Vegas
+  starting 6/2/26 at 6:40 PM. Starts school in Wichita, KS on 8/14/26.
+
+- **Adelaide** — youngest child. Same summer arc as Zac.
+
+The summer 2026 plan is built around Zac and Adelaide. Max is not in
+the summer plan because Max is not choosing to be. That is a true
+thing about the operator's reality; it is not something to be solved
+in a session.
 
 Other family/close-circle people surfaced so far:
 - **Delfina** — last day at LAUSD is 6/11/26. Relationship to Robert
   is presumed close but not yet explicitly logged (spouse / partner
   / co-parent / family member — needs clarification).
+
+### Robert's USMC framing (his own words, 5/26/26)
+Robert's 9 years in the Marines were strategic, not a career. He
+served 100% for four purposes, in this order:
+1. **Patriotism**
+2. **Physical and mental training**
+3. **Mercenary-ism** (his own word — paid work)
+4. **Benefits** (education + home loan)
+
+He went into the USMC with a post-military profession already in
+mind, and he left when those four purposes were served. He is **not
+a "lifer who got out"** and not a "didn't fit" — he is an operator
+who used a finite tool with full intention.
+
+**Implication for Claude:** Don't write copy or counsel that assumes
+Robert is building any one venture for life. He uses things until they
+serve their purpose, then he moves on. The same pattern likely applies
+to CSA, SDI, VA Channel B, and mentor engagements: each is being built
+with a *completion condition* in mind, even if he hasn't named it. When
+he engages with anything, the right question is "what is this
+*supposed to give me*, and when will I know it has?" — not "how do we
+keep this forever?"
+
+### Decision-making structure
+- **First reader for important decisions (as of 5/26/26):** Alex
+  Mandossian.
+- **Implication for Claude's role:** when sharpening important work
+  for Robert — pitches, decisions, copy, outreach — the goal is to
+  *prepare what he brings to Alex*, not to be the final voice. Frame
+  counsel as "here's what's worth bringing to Alex with conviction"
+  rather than "here's what you should do."
 
 ### Active discernment moment — "being recruited into a movement"
 On **5/26/26**, at the start of Eleanor's Bitcoin / Blockchain class,
@@ -1077,7 +1149,11 @@ Worth surfacing in future strategy sessions:
 - What pulled Robert from USMC into chiropractic
 - Current connection to the USMC veteran community (potential CSA / SDI
   patient channel?)
-- Robert's 1st son's name and ages of all children
+- Ages of all three children (Max, Zac, Adelaide)
+- Who is **Isaiah**? Mentioned 5/26/26 as one of the people Robert
+  wants productive by 8/14 (win condition #3). Likely a videographer
+  or editor on the crew currently at the bodywork retreat (§16
+  Mike Barron mentor), but unconfirmed.
 - Delfina's exact relationship to Robert
 - Spouse / partner status (Pathfinder room is "spouse free" — who is
   attending with Robert?)
