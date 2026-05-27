@@ -43,6 +43,33 @@ just connect on the structure-first headline.
 
 ---
 
+## Version C — Tom Cowan's website contact form (800-char limit) ⭐ FINAL
+
+**Character count: 696 chars** (verified 5/26/26). Fits the 800-char
+form with ~100 chars of headroom. **This is the version Robert is
+actually sending** via the contact form on drtomcowan.com or
+newbiologyclinic.com.
+
+> Dr. Cowan — your "Health Begins with Structure" post is the
+> headline I've been working toward for years.
+>
+> Chiropractor here, former USMC, 9 years (4th Force Recon, 3D
+> ANGLICO), building Structural Airway Chiropractic on the Triad of
+> Health. I deliver Viscerocranial Airway Expansion Technique (VAET)
+> at the maxilla and palatine bones — correction works skull-down
+> through cervical, thoracic, pelvic, and pedal alignment so the
+> body breathes properly during sleep.
+>
+> My thesis: without biomechanical alignment assessment and
+> treatment, every other sleep and airway assessment and treatment
+> is insufficient.
+>
+> VAET at Death Valley Hot Springs Resort. Happy to share more.
+>
+> — Robert Zeravica, DC
+
+---
+
 ## Version A — Facebook DM (longer, relationship-building)
 
 > Dr. Cowan,
