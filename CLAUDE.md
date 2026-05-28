@@ -390,13 +390,18 @@ into the CSA / VAET clinical pathway.
 CBCT imaging + airway-focused report review.
 
 ### Step 4 — Tecopa VAET Trial Experience
-**Price:** ~$5,500 estimated total
+**Current price:** ~$5,500 estimated total (transitional)
+**Pricing trajectory (Robert's strategic update, 5/28/26):** VAET fee
+should move from current **$3,500 → minimum target $7,000–$10,000
+→ up to $25,000 standalone for the right (upper-echelon) clientele.**
+The $3,500 is a legacy price; not where Robert is going.
+
 This is a **test adjustment experience**, not a full case plan. It is
 the highest-bandwidth conversion event in the pathway: the DC lives
 the model.
 
-**Included in the $5,500 estimate:**
-- **$3,500 — Dr. Z's VAET / CFR-BNS treatment fee** (2 days, 2 sessions/day, direct clinical attention, sleep/airway education, treatment-day documentation)
+**Currently included in the $5,500 estimate:**
+- **$3,500 — Dr. Z's VAET / CFR-BNS treatment fee** (2 days, 2 sessions/day, direct clinical attention, sleep/airway education, treatment-day documentation) — *legacy price; transitioning to $7K–$10K minimum*
 - **~$2,000 — travel support estimate:** airfare to Las Vegas (~$500), transport to Tecopa (~$500), food + lodging (~$1,000)
 
 **NOT included (à la carte or part of Step 5):**
@@ -408,6 +413,62 @@ medical/dental/surgical care outside Dr. Z's scope.
 
 These exclusions must be stated in writing in every Tecopa proposal so
 no DC is blindsided.
+
+### CSA Clinical Protocol for UAOSA (Robert's defined protocol, captured 5/28/26)
+
+This is the **full clinical pathway** for a Upper Airway Obstructive
+Sleep Apnea (UAOSA) case once a patient/DC enters the CSA UAOSA
+Recovery Program (see `offers/csa-uaosa-program.md`):
+
+**Phase 1 — Phone diagnostic consultation**
+- Initial clinical interview by Dr. Z
+- Confirms UAOSA candidacy (matches the CSA Sleep & Airway Screening
+  Questionnaire output — `forms/csa-sleep-airway-screening-questionnaire.md`)
+
+**Phase 2 — Diagnostic workup**
+- **HST** (Home Sleep Test) — Sleep Doctor or equivalent vendor
+  ships the device to the patient/DC; vendor MD reads the report
+- **CBCT** (Cone Beam CT scan, 360°) — scheduled at the patient's
+  referring dentist (often an AACP-certified dentist or equivalent)
+
+**Phase 3 — R1 (Report of Findings #1) Zoom call**
+- Participants: Dr. Z, patient, dentist, Ri (Robert's assistant)
+- Dr. Z assesses **FHP (Forward Head Posture)** linked with CBCT data
+- Diagnosis confirmed
+- **Severity stratified:** mild / moderate / severe
+- Treatment plan presented and agreed
+
+**Phase 4 — Treatment at Tecopa hot springs**
+- 2 days with Dr. Z at Death Valley Hot Springs Resort
+- VAET (Viscerocranial Airway Expansion Technique) performed
+- Direct clinical attention; sleep/airway education
+
+**Phase 5 — 3-month local DC care**
+- The patient's home DC takes over (must be SOT-trained + CBP-trained)
+- **SOT pelvic categories 1 and 2** — handled by the local DC
+- **SOT pelvic category 3** — referred to a Disc Centers of America
+  (DCA) clinic
+- **CBP** — same local DC performs *mirrored adjusting and traction*
+  for FHP correction
+- Dr. Z stays in coordination throughout
+
+**Phase 6 — R2 (Report of Findings #2) and outcome documentation**
+- Follow-up HST + outcome metrics
+- Comparison to baseline
+- Next-step decisions
+
+**Key clinical terminology (logged for future sessions):**
+- **R1 / R2** = Report of Findings #1 (initial) / #2 (outcome)
+- **FHP** = Forward Head Posture
+- **SOT pelvic categories 1, 2, 3** = Sacro-Occipital Technique
+  classification; category 3 is the most severe and requires
+  Disc Centers of America (DCA) referral
+- **CBP mirrored adjusting + traction** = Chiropractic BioPhysics
+  correction technique for FHP
+- **DCA** = Disc Centers of America (referral network for SOT
+  category 3 cases)
+- **AACP** = American Academy of Craniofacial Pain (preferred
+  dentist certification for the bite + oral airway component)
 
 ### Step 5 — Full CSA Guided Case Plan
 **Price:** $15,000–$25,000 depending on complexity

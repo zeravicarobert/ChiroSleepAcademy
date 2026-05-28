@@ -14,6 +14,7 @@
 |---|---|---|---|
 | **Child Support letter → CA Chiro Board** | 0% | Call Child Support office tomorrow morning. Get letter confirming current status. Forward to Chiro Board. | 30-day notice clock (issued ~5/26) |
 | **Filing Robert's own VA SCD claim** | 0% | First build step for Channel B (live-the-model-first). Identify VSO or attorney to anchor the claim filing. | Self-imposed; before opening Channel B publicly |
+| **Active UAOSA case: Dr. Curt Collins, DC** (patient + peer DC) | In progress | 3 concrete actions to drive (case detail in EHR/CRM, NOT repo — HIPAA): (a) Sleep Doctor to call patient + ship HST; (b) get referring dentist info, schedule 360° CBCT; (c) when both done, schedule R1 Zoom (Dr. Z + patient + dentist + Ri) — diagnose, severity, treatment plan per CSA UAOSA Protocol (CLAUDE.md §8). | Patient-driven |
 
 ---
 
@@ -160,6 +161,7 @@ each one is a real decision point:
 | **28 warm-list DCs** (May goal #2) | Not started | Pull list from CSA Relationship Strategies sheet; segment by tier |
 | **Mark Amici** (dental connections) | Open follow-up | Email/call (markamici@me.com, 10secondtvmedia.com) |
 | **Active mentee — Letter of Engagement** (May goal #3) | Not started | Draft LOE; deliver |
+| **Jeremy Miller** (tiny houses / healthy houses) | NEW 5/28/26 | Robert flagged but did not provide context. Open questions: who is he, what's the relationship, what's the next step (referral channel? collaboration? housing for VAET retreat? Tecopa lodging partner?). Confirm scope. |
 
 ---
 
@@ -201,12 +203,14 @@ mentor's work produce or save this week?"
 |---|---|---|
 | ChiroTouch EHR onboarding | 50% | Session 2 today |
 | SimpleTalk AI call agent | 10% | Learning curve |
+| **Virtual Assistant (VA) hire** | 0% | Robert is looking for a VA (5/28/26). Define scope: SDI patient outreach? Calendar mgmt? Drive/ops? Both? Determine budget, hours/week, hiring channel (Upwork? Onlinejobs.ph? Belay? VA-specific agency?). |
 | CRM selection | 0% | Pick a vendor (HubSpot? Pipedrive? GoHighLevel?) |
 | Asana adoption (Mike Barron rec) | 0% | Decide if needed before CRM |
 | Google Drive video/image structure (Mike Barron rec) | 0% | Build folder structure |
 | 818 cellphone number leverage | 0% | Define use case |
 | PeppU Alumni Group activation | 0% | Define use case |
 | CA EDD SDI patient database | Active asset | $1,223 LTV finding ✓; needs CRM to operationalize |
+| **Telemedicine workstream** | TBD | Robert flagged 5/28/26; scope undefined. Telehealth provider setup for CA EDD SDI patients is already core to Channel A — confirm if this is a separate workstream or refers to existing telehealth. |
 
 ---
 
