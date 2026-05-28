@@ -531,6 +531,11 @@ Claude should:
 ## 14. Repo Conventions
 
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
+- `PROJECTS.md` — **operational dashboard.** Single-pane-of-glass status
+  for every active project, with % complete and next actions. Update
+  after any significant project movement; Sunday weekly review is the
+  natural anchor. CLAUDE.md answers "WHY"; PROJECTS.md answers
+  "WHAT NEXT."
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - Future: `/site` for the public site, `/content` for course/educational
