@@ -125,7 +125,9 @@ each one is a real decision point:
 |---|---|---|
 | Mandossian blueprint read + questions | 70% | "Review again" pass before 5/29 meeting |
 | 90-day patient acquisition plan execution | 5% | Begins after 5/29 meeting once execution plan is agreed |
-| Attorney / union / urgent-care partnerships | 0% | Awaits execution plan |
+| **SDI Referral-Source Relationship Workflow** (attorneys, unions, urgent care) | 5% | Playbook drafted at `playbooks/sdi-referral-relationship-workflow.md`. Build required assets (referral packet, intake form, HIPAA release, educational guide) before outreach begins. |
+| **Patient Referral Appreciation Workshop** (monthly CSA experience for SDI patients who refer) | 0% | Robert's idea (5/28/26). Pick name + format + first date. Suggested first workshop: July 2026 (post-Vegas, pre-Wichita). Captured in playbook. |
+| Attorney / union / urgent-care first-30-day outreach | 0% | Week 1 = asset build; Week 2 = first 10 source outreach. Awaits assets + Mandossian execution plan agreement. |
 
 ### Channel B — VA Service-Connected Disability for Veterans
 
