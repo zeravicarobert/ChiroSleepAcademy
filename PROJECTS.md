@@ -127,6 +127,8 @@ each one is a real decision point:
 | 90-day patient acquisition plan execution | 5% | Begins after 5/29 meeting once execution plan is agreed |
 | **SDI Referral-Source Relationship Workflow** (attorneys, unions, urgent care) | 5% | Playbook drafted at `playbooks/sdi-referral-relationship-workflow.md`. Build required assets (referral packet, intake form, HIPAA release, educational guide) before outreach begins. |
 | **Patient Referral Appreciation Workshop** (monthly CSA experience for SDI patients who refer) | 0% | Robert's idea (5/28/26). Pick name + format + first date. Suggested first workshop: July 2026 (post-Vegas, pre-Wichita). Captured in playbook. |
+| **Patient touchpoint sequence model** (5-min qualifier + 30-45 min intake + 5-6 touchpoints + monthly workshop) | 0% | Designed in playbook (added 5/28/26 per Robert's strategic question). Requires SimpleTalk AI agent setup + email/SMS automation + touchpoint templates to scale. |
+| **HIPAA-safe communication release on intake form** | 0% | Add explicit authorization that allows Robert to discuss the case with the referring source (attorney/union rep/urgent care). Without this, every loop-close with a referral source is a HIPAA disclosure that requires separate authorization. With this, the restriction lifts. *Robert added to TODO 5/28/26.* |
 | Attorney / union / urgent-care first-30-day outreach | 0% | Week 1 = asset build; Week 2 = first 10 source outreach. Awaits assets + Mandossian execution plan agreement. |
 
 ### Channel B — VA Service-Connected Disability for Veterans
