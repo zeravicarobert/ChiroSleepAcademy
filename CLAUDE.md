@@ -702,6 +702,23 @@ Claude should:
 - When Robert opens a session, default to: "what's the next concrete task,
   and what's the smallest unit of progress on it today?"
 
+### Patient info discipline (HIPAA-safe protocol, set 5/28/26)
+
+**No patient identifiers in chat with Claude or anywhere in this
+repo. Ever.** Identifiers live in ChiroTouch (EHR) or in a HIPAA-
+compliant CRM. Chat tracks **strategy only**, using sequential codes:
+
+- **P###** = Channel A (SDI) patient
+- **U###** = CSA UAOSA patient
+- **V###** = Channel B (Veteran) patient
+- **D###** = Mentor-track DC (Manfredi = D001, Collins = D002, Lucas = D003)
+
+The mapping (code → real identity) lives only in the EHR/CRM. Full
+protocol at `playbooks/patient-info-discipline.md`. Exceptions for
+peer DCs whose business identity is public (Collins, Wilkerson) AND
+for Robert's own clinical detail (live-the-model-first) — both
+documented in the playbook.
+
 ### Daily project report cycle (set up 5/27/26, destination updated 5/27/26)
 
 Robert wants a daily project report. The workable system:
