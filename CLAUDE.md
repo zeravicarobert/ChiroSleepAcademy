@@ -526,7 +526,7 @@ Claude should:
 - When Robert opens a session, default to: "what's the next concrete task,
   and what's the smallest unit of progress on it today?"
 
-### Daily project report cycle (set up 5/27/26)
+### Daily project report cycle (set up 5/27/26, destination updated 5/27/26)
 
 Robert wants a daily project report. The workable system:
 
@@ -539,11 +539,16 @@ Robert wants a daily project report. The workable system:
      (file ID `1JkJEQF9AO4dA2ulGICo-cpagsoj201hF1aRQSclwVgA`) to mirror
      `PROJECTS.md`
    - **Drafts a project report email** addressed to
-     `zeravicarobert@gmail.com`, with subject *"Project Report — [Day]
-     [Date]"*. Draft lands in `DrZeravicaOffice@gmail.com` Drafts
-     (because that's the Gmail integration).
-   - Robert opens DrZeravicaOffice Drafts, reviews, hits Send. Email
-     arrives in zeravicarobert@gmail.com.
+     **`DrZeravicaOffice@gmail.com`** (changed from `zeravicarobert@gmail.com`
+     on 5/27/26 per Robert's request — keeps everything in one inbox), with
+     subject *"Project Report — [Day] [Date]"*. Draft lands in
+     `DrZeravicaOffice@gmail.com` Drafts.
+   - **Two options for Robert:**
+     - **Option A (no-send):** Just open the Drafts folder and read the
+       report there. Don't send. The draft IS the report.
+     - **Option B (with-send):** Hit Send. Email arrives in
+       `DrZeravicaOffice@gmail.com` Inbox for archival / phone-push
+       notification.
 
 **Standard report sections (keep tight):**
 - 🚨 Urgent (clock-driven items)
