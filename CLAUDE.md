@@ -353,12 +353,32 @@ default vendor.
    Cash-pay Sleep Doctor pushes CSA toward the $397 standard rate, an
    insurance-first model, or a different default vendor.
 
-   **Open items with Sleep Doctor:** Whether CSA can bill the patient
-   $300 for clinical coordination + report review *separately* from
-   Sleep Doctor's $189 test fee or insurance billing; whether a
-   referring-provider rebate / partner-tier program exists; whether
-   the portal exports de-identified outcomes data. Email to David
-   Amato drafted at `outreach/2026-05-21-sleepdoctor-david-amato.md`.
+   **Open items with Sleep Doctor (some now answered, captured 5/28/26):**
+   - **AFFILIATE LINK / commissions** — Robert needs to talk with
+     Sleep Doctor to set up an affiliate commission link for HSTs
+     ordered through CSA referrals. *Must happen BEFORE Robert refers
+     more DCs as patients to Sleep Doctor.* Action: Dr. Z calls
+     Sleep Doctor directly. **This is the gating action for Ri to
+     coordinate any DC HST shipping.**
+   - **$0 HST for DCs (and spouse)** — Sleep Doctor offers this as
+     a strategic loss leader: the DC who gets the $0 HST as a
+     patient will (presumably) start ordering HSTs from Sleep Doctor
+     for their own patient base once they enter CSA and build sleep
+     cases inside their own clinic. **Confirmed strategic offer**;
+     mechanics + how to claim it for a specific DC still need
+     verification with Sleep Doctor.
+   - **CSA's separate revenue layer on $0-HST DC patients:** Even
+     when Sleep Doctor is $0 to the DC, Robert intends to charge the
+     DC the **~$180 HST-equivalent value PAID TO DR. Z** for the
+     clinical coordination + Zoom consultation. This separates
+     CSA's clinical fee from Sleep Doctor's device fee. Worth a
+     clear conversation with each DC up front so the billing logic
+     isn't a surprise.
+   - **Still open:** Whether CSA can bill the patient $300 for
+     clinical coordination + report review *separately* from Sleep
+     Doctor's $189 cash-pay rate or insurance billing; whether the
+     portal exports de-identified outcomes data. Email to David
+     Amato drafted at `outreach/2026-05-21-sleepdoctor-david-amato.md`.
 
 2. **Self-supplied HST + Will Spriggs read** — Alice PDx (Respironics)
    device Robert already owns; reads done by Will Spriggs, RPSGT/RST
@@ -457,18 +477,30 @@ Recovery Program (see `offers/csa-uaosa-program.md`):
 - Comparison to baseline
 - Next-step decisions
 
+**Phase 7 — Long-term outcomes tracking (2 years from initial VAET)**
+- Every UAOSA patient/DC is tracked for **2 years from the date of
+  their first VAET session at Death Valley Hot Springs Resort**
+- Periodic check-ins (cadence TBD — quarterly is reasonable)
+- Repeat HST + key metrics at defined intervals
+- Outcome data captured (de-identified per HIPAA) in a CSA UAOSA
+  outcomes database. **This database is a strategic asset** — it
+  validates the CSA Structural Airway Chiropractic method and Part C
+  of the Sleep & Airway Screening Questionnaire over time. Future
+  publication / CE-credit / certification value depends on it.
+
 **Key clinical terminology (logged for future sessions):**
 - **R1 / R2** = Report of Findings #1 (initial) / #2 (outcome)
 - **FHP** = Forward Head Posture
-- **SOT pelvic categories 1, 2, 3** = Sacro-Occipital Technique
-  classification; category 3 is the most severe and requires
-  Disc Centers of America (DCA) referral
+- **SOT Pelvic Categories I, II, III** = Sacro-Occipital Technique
+  classification; Category III is the most severe and requires a
+  Disc Centers of America referral
 - **CBP mirrored adjusting + traction** = Chiropractic BioPhysics
   correction technique for FHP
-- **DCA** = Disc Centers of America (referral network for SOT
-  category 3 cases)
-- **AACP** = American Academy of Craniofacial Pain (preferred
-  dentist certification for the bite + oral airway component)
+- **Disc Centers of America** = referral network for SOT Category III
+  cases
+- **AACP** = American Academy of Craniofacial Pain (USA dental
+  organization; preferred dentist certification for the bite + oral
+  airway component)
 
 ### Step 5 — Full CSA Guided Case Plan
 **Price:** $15,000–$25,000 depending on complexity

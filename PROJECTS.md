@@ -14,7 +14,8 @@
 |---|---|---|---|
 | **Child Support letter → CA Chiro Board** | 0% | Call Child Support office tomorrow morning. Get letter confirming current status. Forward to Chiro Board. | 30-day notice clock (issued ~5/26) |
 | **Filing Robert's own VA SCD claim** | 0% | First build step for Channel B (live-the-model-first). Identify VSO or attorney to anchor the claim filing. | Self-imposed; before opening Channel B publicly |
-| **Active UAOSA case: Dr. Curt Collins, DC** (patient + peer DC) | In progress | 3 concrete actions to drive (case detail in EHR/CRM, NOT repo — HIPAA): (a) Sleep Doctor to call patient + ship HST; (b) get referring dentist info, schedule 360° CBCT; (c) when both done, schedule R1 Zoom (Dr. Z + patient + dentist + Ri) — diagnose, severity, treatment plan per CSA UAOSA Protocol (CLAUDE.md §8). | Patient-driven |
+| **Active UAOSA case: Dr. Curt Collins, DC** (peer + friend + being groomed as 2nd CSA mentee) | In progress | **GATED on Dr. Z's prior call with Sleep Doctor re: affiliate link + $0-HST-for-DCs confirmation.** Then Ri can: (a) coordinate Sleep Doctor HST shipping to Collins; (b) get Collins's referring dentist info, schedule 360° CBCT; (c) when both done, schedule R1 Zoom (Dr. Z + Collins + dentist + Ri) per CSA UAOSA Protocol (CLAUDE.md §8). Billing: Collins pays Dr. Z ~$180 + service fee for clinical coordination + Zoom (separately from Sleep Doctor's $0 to him). | Patient-driven |
+| **1st CSA Mentee: Dr. Vanessa Manfredi, DC** | Active | Robert flagged needs help with her. **Open: what's her current status in the CSA pathway, what specifically needs help, what's the next step?** | Robert to clarify |
 
 ---
 
@@ -161,7 +162,7 @@ each one is a real decision point:
 | **28 warm-list DCs** (May goal #2) | Not started | Pull list from CSA Relationship Strategies sheet; segment by tier |
 | **Mark Amici** (dental connections) | Open follow-up | Email/call (markamici@me.com, 10secondtvmedia.com) |
 | **Active mentee — Letter of Engagement** (May goal #3) | Not started | Draft LOE; deliver |
-| **Jeremy Miller** (tiny houses / healthy houses) | NEW 5/28/26 | Robert flagged but did not provide context. Open questions: who is he, what's the relationship, what's the next step (referral channel? collaboration? housing for VAET retreat? Tecopa lodging partner?). Confirm scope. |
+| **Jeremy Miller** (tiny houses / healthy houses) | NEW 5/28/26 | **Confirmed context:** interior designer with construction experience; met at FabLife in San Diego ~Mar-Apr 2026. Message: tiny homes + healthy / non-toxic construction materials. **Associated with Robert's vision for a tiny-house at Death Valley Hot Springs Resort / Tecopa.** Strategic role: physical-space partner for the VAET retreat experience. Next: schedule a vision conversation with Jeremy about Tecopa tiny-house build-out concept. |
 
 ---
 
@@ -203,7 +204,7 @@ mentor's work produce or save this week?"
 |---|---|---|
 | ChiroTouch EHR onboarding | 50% | Session 2 today |
 | SimpleTalk AI call agent | 10% | Learning curve |
-| **Virtual Assistant (VA) hire** | 0% | Robert is looking for a VA (5/28/26). Define scope: SDI patient outreach? Calendar mgmt? Drive/ops? Both? Determine budget, hours/week, hiring channel (Upwork? Onlinejobs.ph? Belay? VA-specific agency?). |
+| **VA structure** (Ri + new VA split) | 25% | **Plan locked 5/28/26:** Ri (current VA) **stays with Robert on CSA** (mentees, outreach, Dr. Collins/Manfredi support, Drive/ops). **New VA** (candidate Ri knows) **takes CA EDD SDI lane** (patient touchpoint sequence per playbook, intake form processing, source outreach support). **Ri trains the new VA.** Next: scope the new VA's job description (~10-20 hrs/wk?), interview Ri's candidate, set budget. Hiring channel: Ri's referral (warm). |
 | CRM selection | 0% | Pick a vendor (HubSpot? Pipedrive? GoHighLevel?) |
 | Asana adoption (Mike Barron rec) | 0% | Decide if needed before CRM |
 | Google Drive video/image structure (Mike Barron rec) | 0% | Build folder structure |
@@ -241,6 +242,7 @@ mentor's work produce or save this week?"
 These are real workstreams in your ecosystem but nothing's been
 built yet. Don't pretend they're in progress.
 
+- **Tiny-house at Death Valley Hot Springs Resort / Tecopa** — long-term vision; Jeremy Miller is the design + build partner. Strategic asset for premium VAET retreat experience.
 - **Channel B Veteran-acquisition mechanism** (direct, VSO, attorney, online?)
 - **Channel B pricing**
 - **Stay-at-Home 12-Module Program** (price, format, modules, cohort vs. on-demand)
