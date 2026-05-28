@@ -236,6 +236,7 @@ mentor's work produce or save this week?"
 | Sleep device by nightstand (use nightly) | Started 5/26 | Daily — track if sleep improves |
 | Vibration plate (20 min/day) | 0% | Daily |
 | Electrical medical device (waiting on flyback transformer part) | Paused | When part arrives |
+| The Joint Chiropractic — wellness package ($59/mo, 4 adjustments/month, cycle 2nd → 2nd) | Active | Use the 4 adjustments each cycle. Commodity-tier maintenance while Robert builds the premium specialty category. |
 
 ---
 

@@ -1512,12 +1512,18 @@ ROI is not only revenue-direct. Acceptable categories to credit:
 ### Monthly expense tracking (separate, but adjacent)
 
 Robert wants to track monthly expenses split **personal vs. business**.
-First entry he provided:
+Entries logged so far:
 
-- **5/4/26:** TMobile — **$255.27** (split TBD; mobile phone is often
-  mixed-use).
+| Date | Vendor | Amount | Personal / Business | Notes |
+|---|---|---|---|---|
+| 5/4/26 | T-Mobile | $255.27 | TBD (likely mixed-use mobile) | Mobile phone bill |
+| Recurring (cycle 2nd → 2nd each month) | The Joint Chiropractic | $59.00 | Personal (with business-relevant context — Robert is a DC maintaining his own structural health; live-the-model-first §19) | Wellness package; 4 adjustments/month. Commodity-tier chain — interesting contrast to CSA's premium positioning. Robert uses for maintenance while building the specialty category. |
 
 This tracker is in its infancy. When he provides more entries, log
 them here with date / vendor / amount / personal-or-business / brief
 note. Goal: by 8/14/26 pivot, have a clean monthly view across both
 sides.
+
+When the list grows past ~10 entries, split into
+`finance/monthly-expenses-YYYY-MM.md` files for cleaner monthly
+rollups.
