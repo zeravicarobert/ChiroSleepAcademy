@@ -278,6 +278,89 @@ messaging, and which claims are/aren't legitimate.
 
 Pricing for the productized pathway is in section 8.
 
+### Pedagogical architecture — Vol 1 + Vol 2 (modeled on Dr. David S. Walther's Applied Kinesiology series)
+
+> *Captured 5/28/26 — Robert's framing for the CSA Certification
+> Program structure.*
+
+Robert's clinical education frame: **Dr. David S. Walther's Applied
+Kinesiology series** has two volumes:
+- **Vol 1 — *Basic Procedures and Muscle Testing*** = foundational
+  companion; teaches the prerequisite skills.
+- **Vol 2 — *Head, Neck, and Jaw Pain and Dysfunction, the
+  Stomatognathic System*** = deep specialty; assumes Vol 1
+  competency.
+
+Vol 1 is *required* to do Vol 2. Without the foundation, the deep
+work doesn't take.
+
+**Robert wants this same architecture for CSA's Certification
+Program:**
+
+- **CSA Vol 1 — Sleep & Airway Foundations for Chiropractors**
+  (working title) = prerequisite knowledge: sleep physiology,
+  airway anatomy, cranio-facial structural assessment,
+  STOP-BANG / Epworth / Mallampati administration, HST / CBCT
+  basics, the biomechanics chain (cranium → cervical → thoracic
+  → pelvic → pedal), §5 ethics, integration with sleep medicine.
+  Without Vol 1, a DC cannot meaningfully practice CSA's
+  Structural Airway method.
+- **CSA Vol 2 — The CSA Method: Structural Airway Chiropractic
+  & VAET** = the deep specialty: VAET technique itself, the
+  skull-down sequence, UAOSA case management, the 4-way Zoom
+  protocol, AACP-dentist + sleep-MD integration, the CSA business
+  model, the 12-Module Stay-at-Home patient program. Vol 2 enrollment
+  requires Vol 1 completion.
+
+### Why this architecture matters
+
+1. **It signals clinical seriousness.** Mirroring Walther's
+   structure signals to the chiropractic community that CSA is
+   built like a respected clinical curriculum, not a marketing
+   funnel.
+2. **It creates a value ladder inside the Certification Program.**
+   Vol 1 is the front-door product (lower price, lower commitment);
+   Vol 2 is the premium product (higher price, higher commitment).
+   Maps onto the existing §8 Step 6 tiers cleanly.
+3. **It defines prerequisites.** Solves one of the open scope
+   questions for the Certification Program (PROJECTS.md): "What
+   are the prerequisites?" Answer: Vol 1.
+4. **It produces TWO certifications.** A DC could be "CSA
+   Foundations Certified" (Vol 1) or "CSA Method Certified" (Vol 2).
+   Two credentials = two marketing claims = two referral lanes.
+
+### Likely tier mapping to existing §8 Step 6 pricing
+
+| Existing tier | Vol mapping (proposed) |
+|---|---|
+| CSA Doctor Membership ($297/mo) | Vol 1 access; pre-certification community + content drip |
+| CSA Onboarding / Setup ($1,500–$3,500) | Vol 1 *enrollment* (cohort or self-paced) |
+| 6-Month Implementation ($10,000) | Vol 2 *enrollment* (cohort or 1:1) |
+| CSA Inner Circle ($25,000) | Vol 2 + mentorship + business-build + ongoing |
+
+This is a proposal, not a decision — Robert's call.
+
+### Open scope questions specific to Vol 1 / Vol 2
+
+- **Vol 1 audience:** DCs only, or also DDS / MDs / SLPs / others
+  who want to learn the framework? *(My recommendation: DCs only
+  for the certification; open the content to others as paid
+  education without a certification credential. Different products.)*
+- **Vol 1 length + format:** 8 modules? 12 modules? Self-paced?
+  Live cohort? Hybrid? *(My recommendation: 8-10 modules, hybrid —
+  on-demand content + monthly live Q&A.)*
+- **Vol 1 final name:** "CSA Vol 1: Sleep & Airway Foundations
+  for Chiropractors"? "CSA Foundations"? Something else?
+- **Does Vol 1 carry CE credits?** Vol 2 needs them; Vol 1 should
+  too if possible.
+- **Vol 2 length + format:** Likely longer (6 months minimum given
+  the depth + the 2-year outcomes tracking expected of each
+  certified DC).
+- **What does a Vol 2 graduate get?** Certification, listing in
+  CSA-Certified DC directory, referral pipeline access (CBP /
+  Dr. Deed network + CSA's own marketing), permission to use
+  VAET name? Robert's call.
+
 ---
 
 ## 8. Productized Pathway & Pricing (2026)
@@ -493,11 +576,11 @@ Recovery Program (see `offers/csa-uaosa-program.md`):
 - **FHP** = Forward Head Posture
 - **SOT Pelvic Categories I, II, III** = Sacro-Occipital Technique
   classification; Category III is the most severe and requires a
-  Disc Centers of America referral
+  Disc Centers of America (DCA) referral
 - **CBP mirrored adjusting + traction** = Chiropractic BioPhysics
   correction technique for FHP
-- **Disc Centers of America** = referral network for SOT Category III
-  cases
+- **DCA** = Disc Centers of America (referral network for SOT
+  Category III cases) — Robert likes this acronym; use it.
 - **AACP** = American Academy of Craniofacial Pain (USA dental
   organization; preferred dentist certification for the bite + oral
   airway component)

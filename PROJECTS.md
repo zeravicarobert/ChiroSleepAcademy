@@ -57,7 +57,7 @@ By 8/13/26, these five things should be true for "I did this summer right":
 |---|---|---|
 | Category thesis + voice + positioning | 95% | Locked. *Reuse, don't rebuild.* |
 | Productized pathway pricing ($0 → $25K Steps 1-6) | 95% | HST vendor decision still open (§8 — Sleep Doctor margin tension) |
-| **CSA Certification Program** (certifying DCs in Robert's Structural Airway Chiropractic / VAET method) | 5% | Concept exists in §7 Phase 5 + §8 Step 6. **Enrollment target (5/28/26): 1 paid mentee in June, 3 in July, 5 in September.** Need: name + branding, curriculum scope, pricing tier in the $0–$25K stack, CE-credit research, delivery format. **See open questions + enrollment ramp below.** |
+| **CSA Certification Program** (certifying DCs in Robert's Structural Airway Chiropractic / VAET method) | 10% | Concept exists in §7 Phase 5 + §8 Step 6. **Enrollment target (5/28/26): 1 paid mentee in June, 3 in July, 5 in September.** **NEW (5/28/26): Architecture = Vol 1 + Vol 2 (modeled on Walther's AK series).** Vol 1 = "CSA Foundations" prerequisite; Vol 2 = "CSA Method" specialty. Mentees Manfredi (1st) + Collins (2nd, grooming). See CLAUDE.md §7 for the full Vol 1/Vol 2 framework + open scope questions. |
 | CSA Sleep & Airway Screening Questionnaire | 70% | Needs (1) sleep physician review, (2) healthcare attorney review, (3) digital production (Typeform / JotForm / ClickFunnels), (4) fillable PDF |
 | UAOSA Recovery Program offer ($25K) | 90% | Pre-launch deps: confirm Dr. Deed will do 4-way calls; secure AACP-certified dentist partnership |
 | Dr. Deed Harrison warm-intro email | 0% | Draft + send to `drdeed@idealspine.com` |
