@@ -526,6 +526,41 @@ Claude should:
 - When Robert opens a session, default to: "what's the next concrete task,
   and what's the smallest unit of progress on it today?"
 
+### Daily project report cycle (set up 5/27/26)
+
+Robert wants a daily project report. The workable system:
+
+1. **Robert opens a Claude Code session** (whenever — morning preferred).
+2. **Robert says "give me the daily report"** (or similar).
+3. **Claude:**
+   - Reads `PROJECTS.md` (operational dashboard at repo root)
+   - Updates %s and statuses based on any movement since the last session
+   - Updates the Google Doc **"Project List"** in `zeravicarobert@gmail.com` Drive
+     (file ID `1JkJEQF9AO4dA2ulGICo-cpagsoj201hF1aRQSclwVgA`) to mirror
+     `PROJECTS.md`
+   - **Drafts a project report email** addressed to
+     `zeravicarobert@gmail.com`, with subject *"Project Report — [Day]
+     [Date]"*. Draft lands in `DrZeravicaOffice@gmail.com` Drafts
+     (because that's the Gmail integration).
+   - Robert opens DrZeravicaOffice Drafts, reviews, hits Send. Email
+     arrives in zeravicarobert@gmail.com.
+
+**Standard report sections (keep tight):**
+- 🚨 Urgent (clock-driven items)
+- 📅 Today + Tomorrow (calendar-anchored work)
+- 🎯 8/14 Win Condition (what moved)
+- ✉️ Outreach status
+- 🏗️ CSA Build (what's new)
+- 💰 Mentor cadence (next 48h)
+- 🟢 What's running well
+- ✅ Closed/Done (this session)
+- ❓ Open questions waiting on Robert
+
+**True automation (not yet built):** The above requires Robert to open
+a session and send the draft. For zero-friction daily reports, Claude
+Code hooks, the Anthropic API on cron, or Asana automations are the
+real solutions. Listed under §19 software stack as future work.
+
 ---
 
 ## 14. Repo Conventions
