@@ -55,13 +55,69 @@ By 8/13/26, these five things should be true for "I did this summer right":
 |---|---|---|
 | Category thesis + voice + positioning | 95% | Locked. *Reuse, don't rebuild.* |
 | Productized pathway pricing ($0 → $25K Steps 1-6) | 95% | HST vendor decision still open (§8 — Sleep Doctor margin tension) |
+| **CSA Certification Program** (certifying DCs in Robert's Structural Airway Chiropractic / VAET method) | 5% | Concept exists in §7 Phase 5 + §8 Step 6. **Enrollment target (5/28/26): 1 paid mentee in June, 3 in July, 5 in September.** Need: name + branding, curriculum scope, pricing tier in the $0–$25K stack, CE-credit research, delivery format. **See open questions + enrollment ramp below.** |
 | CSA Sleep & Airway Screening Questionnaire | 70% | Needs (1) sleep physician review, (2) healthcare attorney review, (3) digital production (Typeform / JotForm / ClickFunnels), (4) fillable PDF |
 | UAOSA Recovery Program offer ($25K) | 90% | Pre-launch deps: confirm Dr. Deed will do 4-way calls; secure AACP-certified dentist partnership |
 | Dr. Deed Harrison warm-intro email | 0% | Draft + send to `drdeed@idealspine.com` |
 | AACP-certified dentist partnership | 5% | Identify candidate dentist(s); make outreach |
 | CSA landing page (ClickFunnels 2.0) | 10% | Under construction — Mike Barron lane (paused) |
 | Funnel architecture | 5% | Sketched, not built |
-| First DC cohort | 5% | 28-warm list + 1 active mentee; convert to formal cohort post-website launch |
+| First DC cohort | 5% | 28-warm list + 1 active mentee. **Likely overlaps with the Certification Program's first cohort.** |
+
+#### CSA Certification Program — enrollment ramp goal (Robert's target, 5/28/26)
+
+| Month | Paid mentees | Cumulative (if "new per month") | Reads as |
+|---|---|---|---|
+| **June 2026** | 1 | 1 | First proof-of-concept mentee |
+| **July 2026** | 3 | 4 | Real cohort beginning |
+| **August 2026** | (skipped?) | 4 | Family pivot — kids land in Wichita 8/14 |
+| **September 2026** | 5 | 9 | Post-Wichita-transition expansion |
+
+**Disambiguation needed:** Is "1, 3, 5" the *total active* in each
+month (steady state of 5 by September), or *new enrollments per month*
+(cumulative 9 mentees by end of September)? Different math.
+
+**Financial implication (rough):** At the existing §8 Step 6 tiers,
+revenue from these mentees alone could be:
+- $297/mo membership × 9 = $2,673/mo recurring by Sept
+- $1,500–$3,500 onboarding × 9 = $13,500–$31,500 one-time
+- $10,000 6-Month Implementation × 9 = up to $90,000 if all enroll at
+  that tier
+- $25,000 Inner Circle × 9 = up to $225,000 if all are top-tier
+- **Reality is probably a mix** — confirming the price tier the
+  certification "lives in" is one of the open scope questions.
+
+#### CSA Certification Program — open scope questions
+
+These need answers (eventually) for the Certification Program to be
+buildable. Robert doesn't have to answer all of them tonight — but
+each one is a real decision point:
+
+1. **Name** — "CSA Certification"? "Certified Structural Airway
+   Chiropractor (CSAC)"? "VAET-Certified DC"? Brunson-style names
+   work here.
+2. **Credential** — what does certification grant? Right to use CSA
+   brand? Listing in a CSA directory? Referral pipeline from CSA?
+   CE credit hours? Permission to perform VAET?
+3. **Curriculum scope** — full Structural Airway Chiropractic
+   pathway, just VAET, or some combination? Patient acquisition?
+   Business operations? DC-DDS-MD collaboration?
+4. **Prerequisites** — must be a licensed DC? Already practicing
+   SOT/AK/CFR/CBP? Completed earlier CSA pathway steps?
+5. **Duration + delivery format** — live cohort? On-demand? Hybrid?
+   Some component at Death Valley Hot Springs Resort? Total weeks
+   or months?
+6. **Assessment** — how is competency measured? Written exam?
+   Practical demonstration? Patient case submission?
+7. **CE credit eligibility** — state-by-state research needed.
+   Federal-equivalent (PACE)? Different states have different rules
+   for chiropractic CE; this is non-trivial.
+8. **Pricing inside the $0-$25K stack** — is the certification
+   bundled into the $10K 6-Month Implementation (§8 Step 6), the
+   $25K Inner Circle, or a separate tier?
+9. **Recertification cadence** — one-time? Annual? Every 2 years?
+10. **First cohort timing** — when does it start? How many seats?
+    Likely overlaps with the 28-warm-list DCs and the active mentee.
 
 ### Channel A — CA EDD SDI / Protect Your Income — Alex's lane
 
