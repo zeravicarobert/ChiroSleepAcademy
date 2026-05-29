@@ -71,6 +71,26 @@ Additional time with Danielle Shahan that Eleanor is offering; group
   self-custody (hardware wallet + open-source software). *Open
   question: Eleanor's framing — recommended for beginners, or
   introduced as something to know about?*
+- **Hierarchical Deterministic (HD) wallet** — Eleanor introduced
+  the concept (5/28/26). Standard wallet architecture used by all
+  modern wallets (Ledger, Trezor, Exodus, Electrum, etc.). Defined
+  by BIP-32 and BIP-39:
+  - **Deterministic**: a single master *seed* generates an entire
+    tree of Private Keys (predictable from the seed).
+  - **Hierarchical**: tree-structured — master key derives child
+    keys; child keys derive grandchild keys.
+  - **One backup = all keys**. Instead of backing up every Private
+    Key, you back up the master seed (typically a 12 or 24-word
+    BIP-39 mnemonic phrase).
+  - **Privacy benefit**: use a fresh address for each transaction
+    without losing track of funds.
+  - **The seed phrase IS the wallet.** Anyone who has the seed
+    phrase HAS the Bitcoin. Lose the seed phrase + lose the device
+    = lose the BTC forever.
+  - **Connection to the coin-flip exercise**: the 256-coin-flip
+    generates ONE private key (non-HD). HD wallets generate
+    UNLIMITED keys from ONE seed. Different design philosophies;
+    HD is more practical for active use.
 
 ### Binary refresher (Day 2 review)
 - **Bit** = 1 or 0
