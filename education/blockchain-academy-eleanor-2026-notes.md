@@ -15,6 +15,63 @@ reference. **Investment:** $1,500 (see CLAUDE.md §20).
 Additional time with Danielle Shahan that Eleanor is offering; group
 (including Robert) invited via the text chat group.
 
+## Day 2 / additional notes — 5/28/26
+
+### Big-picture framing
+
+- **Moore's law** — observation that computing power roughly doubles
+  every ~2 years. Eleanor invoked this to contextualize Bitcoin's
+  cryptographic security (2^256) — even if Moore's law continues
+  indefinitely, 2^256 remains infeasible to brute-force.
+- **Bitcoin is designed as a paradigm reset.** Not an incremental
+  improvement on existing money — a structural alternative.
+- **The transition to digital currency.** Cash isn't going to
+  survive long-term. Predominantly, all transactions of all humanity
+  will be online.
+- **Bitcoin isn't designed to be fringe.** It's designed to be a
+  *new form of money* for mainstream use.
+
+### The "trust" thesis
+
+- **Current financial system = trust-based model.** You trust banks,
+  governments, payment processors, intermediaries. Each transaction
+  passes through multiple trusted gates.
+- **Trust implies trusting an intermediary** — and intermediaries
+  can fail, freeze accounts, censor, charge fees, go bankrupt.
+- **Bitcoin = trustless.** Math + protocol replace trust in
+  institutions. The cypherpunk motto: *"Don't trust — verify."*
+
+### Frictionless money
+
+- Bitcoin moves money without the friction layer of intermediaries
+  (Western Union, banks, wire transfer fees, currency conversion
+  spreads).
+- Lower transaction friction = lower transaction cost = more
+  economic activity becomes possible.
+
+### Self-custody — the next step from Day 1
+
+- After learning the Private Key / Address concept (Day 1), the
+  natural next move is **self-custody.**
+- Self-custody means YOU hold the Private Key — not an exchange,
+  not a custodian, not Coinbase.
+- Self-custody wallet = your money, your responsibility.
+- The 256-coin-flip exercise from Day 1 generates a *real* self-
+  custody Private Key.
+
+### Tools surfaced
+- **BitAddress.org** — Eleanor's recommended tool to create a
+  Bitcoin address from your generated Private Key.
+- **Hot Wallet vs Cold Wallet** distinction introduced (Eleanor
+  will likely deepen in later sessions).
+
+### Binary refresher (Day 2 review)
+- **Bit** = 1 or 0
+- **Nibble** = 4 bits (e.g., `1010`)
+- **Byte** = 8 bits (e.g., `10101010`)
+- **100,000,000 satoshis = 1 BTC** (confirmed)
+- **21,000,000 BTC total** (confirmed; ~95% mined)
+
 ## Eleanor's positioning (her worldview as conveyed in class)
 
 - Bitcoin is a **machine**; students will become **operators**
@@ -136,6 +193,13 @@ Additional time with Danielle Shahan that Eleanor is offering; group
 - Why is **USD the in/out currency** for BTC? *(On-ramps and off-ramps
   use USD because that's the world we live in; Eleanor's deeper
   framing is that this measures our fiat dependence)*
+- **Hot Wallet vs Cold Wallet** — Eleanor introduced; depth coming
+  in later sessions. Quick framing answered in chat 5/28/26 (see
+  below).
+- **BitAddress.org** — Eleanor's recommended tool. Safe for the
+  educational coin-flip exercise; for real BTC storage, modern best
+  practice is a hardware wallet (Ledger, Trezor) > paper wallet.
+  Discussed in chat 5/28/26.
 
 ## Reading / resource list Eleanor recommended
 
