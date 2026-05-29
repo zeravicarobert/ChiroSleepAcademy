@@ -914,12 +914,25 @@ investment-tracking table.
 - Practical implication: Mandossian's plan is the source of truth for the
   SDI-side acquisition strategy (attorney, union rep, urgent-care
   channels; CA union trade workers as the first niche).
-- **Current momentum (as of 5/22/26): ACTIVE — homework phase.** Alex
+- **Current momentum (as of 5/28/26): ACTIVE — homework phase.** Alex
   asked Robert to *"Read carefully. Write questions. Review again.
   We'll discuss execution plan next meeting."* The "read" is the
-  blueprint above. Deliverable into the meeting is a written question
-  list that drives an execution-plan conversation.
-- **Next meeting with Alex: 5/29/26 at 9:00 AM PST.**
+  blueprint above.
+- **Process detail (confirmed 5/28/26):** Alex calls Robert by phone
+  (Robert does NOT call Alex). Scheduling URL:
+  **AlexCalendar.com**. Use this to reschedule when needed.
+- **Connection origin:** Robert met Alex at **FabLife in San Diego**
+  (the same event where Robert met Jeremy Miller AND Dr. Curt
+  Collins). FabLife is a connection hub in Robert's network.
+- **Missed appointment 5/28/26 (Thu 9 AM PT):** Robert lost track of
+  time during a videographer conversation; Alex was gracious
+  ("brother, it happens... I love you and let's move on"). Process
+  cleaned up; rescheduled below. Lesson: confirm process before
+  appointments (calendar reminder + clarity on who calls whom).
+- **Rescheduled meeting: 6/1/26 (Mon) at 2:00 PM PST.** Prep doc at
+  `mentors/alex-mandossian-2026-06-01-prep.md`.
+- **Previous canceled meeting:** 5/29/26 9 AM PT was the original
+  next-meeting; it became the 5/28 9 AM that Robert missed.
 
 ### Mentor 4 — Jay Abraham (Relational Capital & Deal Making)
 - Direct-response marketing legend in his own lane. Simon Severino's
@@ -1440,6 +1453,12 @@ Beyond his mentor stack, Robert participates in (or is interested in):
   interested in joining for the community fit; Liberpulco's Serbia
   event in August 2026 is a possible attendance window (§18). Peter
   may meet him there.
+- **FabLife** (San Diego) — a connection hub in Robert's network.
+  Robert met **Alex Mandossian, Jeremy Miller** (tiny houses /
+  healthy construction), AND **Dr. Curt Collins DC** (1st CSA UAOSA
+  hot springs patient) all at FabLife. Worth treating as a recurring
+  attendance opportunity — three of Robert's strategic relationships
+  trace to one location.
 
 ### Software stack Robert is currently learning
 - **ChiroTouch** — EHR system. 2nd onboarding session in progress.

@@ -24,7 +24,7 @@
 
 | Project | % | Next action | Deadline |
 |---|---|---|---|
-| Alex Mandossian 5/29 meeting prep | 70% | "Review again" pass on Mandossian blueprint + question list. Add: LTV gap question ($1,223 vs $1,925), 3-lane question (SDI / VA / CSA referrals) | Fri 5/29 9 AM PT |
+| **Alex Mandossian — RESCHEDULED to Mon 6/1 2:00 PM PT** | Prep brief ready | Robert missed the Thu 5/28 9 AM (got pulled into a videographer conversation). Apologized via text; Alex gracious. Process clarified: **Alex calls Robert by phone; AlexCalendar.com for scheduling.** Full prep brief at `mentors/alex-mandossian-2026-06-01-prep.md` — 4-month itinerary, 5 executive-decision asks, mentee/patient update (D001/D002/D003), Tom Sawyer leverage map. | Mon 6/1 2:00 PM PT |
 | Simon Severino 5/28 meeting prep — 4 Executive Assistants framework | 0% | Define 4 EA roles Claude Code should play. Daily Claude Code use ✓ | Thu 5/28 6 AM PT |
 | Eleanor Bitcoin class — complete the 5 days | 20% | Days 2-5 remaining (Thu 5/28, Fri 5/29, Mon 6/1, Tue 6/2) — all 6-8:30 PM PT | 6/2 |
 | Noel — cryo machine appointment scheduling | 0% | Text/call Noel ASAP for appt before Vegas | By 5/31 |
@@ -198,7 +198,7 @@ mentor's work produce or save this week?"
 |---|---|---|
 | Mike Barron | Marketing / DFY | ⏸️ Paused (crew at retreat) |
 | Simon Severino | CSA / Sprint Club | ✅ Active — meeting Thu 5/28 |
-| Alex Mandossian | CA EDD SDI | ✅ Active — meeting Fri 5/29 |
+| Alex Mandossian | CA EDD SDI | ✅ Active — meeting **rescheduled to Mon 6/1 2 PM PT** |
 | Jay Abraham | Relational capital | ❓ Status unclear |
 | Russell Brunson | Funnels / education | 🔄 Passive recurring |
 | Daymond John (dormant) | Pitch refinement | ✅ ROI captured (multi-year) |
