@@ -1450,6 +1450,13 @@ Beyond his mentor stack, Robert participates in (or is interested in):
 - **Google Drive** — for video and image storage. Mike Barron's rec.
 - **CRM (TBD) + CRM management** — Robert has explicitly said he
   needs both. No vendor selected yet.
+- **Hardware wallet for Bitcoin (Ledger OR Trezor)** — Robert's
+  intent (5/28/26) to acquire one for self-custody Private Key
+  generation + cold storage. Cost: ~$60-$200 depending on model.
+  Both reputable; Ledger more popular, Trezor more open-source /
+  privacy-purist (a meaningful distinction in the cypherpunk
+  community Robert is in). Acquisition timed to when Robert
+  actually holds enough BTC to justify the cold-storage move.
 
 ### Underutilized assets Robert has named
 Worth surfacing in future strategy sessions:
