@@ -278,6 +278,56 @@ messaging, and which claims are/aren't legitimate.
 
 Pricing for the productized pathway is in section 8.
 
+### Bitcoin within CSA (strategic decision captured 5/28/26)
+
+Robert: *"Within Chiropractic Sleep Academy there's got to be Bitcoin."*
+
+This is a stated direction, not yet a finished design. Five viable
+integration angles (CSA can choose any subset):
+
+1. **Payment rail** — Accept BTC alongside USD for CSA services
+   (via ClickFunnels 2.0 + a BTC processor, or BTCPay Server for
+   lower-fee self-hosting). Reduces card-processing costs by ~3%.
+   Capital-gains tracking required at the entity level. Signals
+   alignment with the Bitcoin-aware audience (Anarchapulco /
+   Liberpulco / Tom Cowan's New Biology audience).
+2. **Treasury allocation** — CSA holds a percentage of revenue in
+   BTC as an inflation hedge. Aligns with Robert's existing silver
+   allocation (Mark Gonzalez) and operator philosophy that fiat is
+   depreciating.
+3. **Founder's-tier BTC pricing** — Vol 2 / Inner Circle includes a
+   "pay in BTC and receive [X% discount / locked rate / bonus]"
+   tier. Targets the sovereign-health crowd; builds a tribe-within-
+   the-tribe of BTC-paying mentees.
+4. **Optional educational track** — *"Sovereign Health + Sovereign
+   Money"* module embedded within Vol 2 or Inner Circle. Teaches
+   DCs the thesis parallel — *the medical system is structurally
+   incomplete without biomechanics; the financial system is
+   structurally incomplete without sound money* — plus Bitcoin
+   custody for clinical practice and ethical BTC acceptance in
+   healthcare. Owns the niche of *Bitcoin for clinicians who think
+   structurally*.
+5. **Community alignment** — CSA presence at sovereign-health and
+   Bitcoin events (Anarchapulco, Liberpulco, Confluence, Robert's
+   Bitcoin cohort). Cross-promotion with cohort members who run
+   their own platforms (Heath Braddock, Bradley Foster DC, Guido).
+
+### Voice discipline — the line NOT to cross
+
+§4 + §5 still apply. Bitcoin in CSA reads as *"a thoughtful
+structural alternative to fiat"* — the same tone CSA uses with
+sleep medicine. **Never** "have fun staying poor" / FUD / neon-bro
+Twitter culture / culture-war language / "fiat slaves" framing.
+
+The right tonal pattern when a CSA prospect asks about Bitcoin:
+
+> *"Sound money and sound bodies are both about taking responsibility
+> for the foundations that the dominant system doesn't address.
+> Both fit the CSA worldview. Bitcoin is the optional layer."*
+
+Same DNA as the CSA category thesis on sleep apnea: structural,
+collaborative, not attacking, category-creating.
+
 ### Pedagogical architecture — Vol 1 + Vol 2 (modeled on Dr. David S. Walther's Applied Kinesiology series)
 
 > *Captured 5/28/26 — Robert's framing for the CSA Certification

@@ -153,6 +153,12 @@ each one is a real decision point:
 | Module content | 0% | Production work |
 | Delivery format (live cohort? on-demand? Zoom?) | 0% | Robert's decision |
 
+### Bitcoin within CSA — strategic integration (NEW 5/28/26)
+
+| Component | % | Next action |
+|---|---|---|
+| **Bitcoin within CSA** (Robert's strategic decision 5/28/26: "there's got to be Bitcoin") | 0% | Five integration angles surfaced (see CLAUDE.md §7 sub-section): (1) payment rail, (2) treasury allocation, (3) founder's-tier BTC pricing, (4) optional educational track for DC mentees, (5) community alignment with sovereign-health/Bitcoin events. Decide which angle(s) to implement. **Voice discipline (§4 + §5):** no Bitcoin-bro energy; same structural-medicine tone CSA uses elsewhere. Eleanor's class continues 5/28-6/2; learning compounds. |
+
 ---
 
 ## ✉️ OUTREACH PIPELINE
