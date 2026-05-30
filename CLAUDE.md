@@ -1486,6 +1486,24 @@ Worth surfacing in future strategy sessions:
   (the same database that gave us the $1,223 LTV finding on
   5/22/26).
 
+### Paperwork organizational system (set up 5/28/26)
+
+Robert organizes his physical paperwork into named stacks (replacing
+the previous cardboard-box system):
+
+1. **Legal Paper Stack** — `legal/active-paperwork.md` is the
+   digital tracker
+2. **Money Paperwork Stack** — financial items including the
+   deceased mother's (Dusanka) unclaimed property claim
+3. **Research Paperwork Stack** — items needing investigation
+4. **Patient Paperwork Stack** — patient-related (PHI lives in
+   EHR/CRM, not repo)
+5. **People Paperwork Stack** — business cards for CRM intake
+6. **Box 1 Paperwork Stack** — offers (credit cards, etc.)
+7. **Box 2 Paperwork Stack** — Research-this items #2
+
+When Robert references a "stack" in chat, look here for the scheme.
+
 ### Open biographical questions (to fill in over time)
 - Years of service (era of military service)
 - Active duty vs. Reserve breakdown across the 9 years
