@@ -64,13 +64,14 @@ Additional time with Danielle Shahan that Eleanor is offering; group
   Bitcoin address from your generated Private Key.
 - **Hot Wallet vs Cold Wallet** distinction introduced (Eleanor
   will likely deepen in later sessions).
-- **Exodus wallet** — Eleanor surfaced as a wallet option. Closed-
-  source, hot wallet by default, multi-cryptocurrency (not Bitcoin-
-  only), beginner-friendly UX, integrates with Trezor for added
-  security. Sits between exchange custody (Coinbase) and pure
-  self-custody (hardware wallet + open-source software). *Open
-  question: Eleanor's framing — recommended for beginners, or
-  introduced as something to know about?*
+- **Exodus wallet** ([exodus.com](https://exodus.com)) — Eleanor's
+  recommended wallet software (introduced 5/28/26). Closed-source,
+  hot wallet by default, multi-cryptocurrency (not Bitcoin-only),
+  beginner-friendly UX, integrates with Trezor for added security.
+  Sits between exchange custody (Coinbase) and pure self-custody
+  (hardware wallet + open-source software). *Open question:
+  Eleanor's framing — recommended for beginners, or introduced as
+  something to know about?*
 - **Hierarchical Deterministic (HD) wallet** — Eleanor introduced
   the concept (5/28/26). Standard wallet architecture used by all
   modern wallets (Ledger, Trezor, Exodus, Electrum, etc.). Defined
