@@ -201,6 +201,52 @@ Robert's intended outreach, priority.
 - **Action:** Quick website visit — usage info typically on product
   pages. Not a relationship to develop, just product info needed.
 
+## ⚪ Christopher Gronski — American Supreme Law, C.A. ⚠️ CAUTION
+
+- **Name:** Christopher Gronski
+- **Title:** Private Freedom Consultant
+- **Org:** American Supreme Law, C.A.
+- **Tagline:** *"Securing Liberty and Freedom Through Responsibility"*
+- **Phone:** 603-366-6131 (New Hampshire area code)
+- **Email:** StateCitizen@DestinationFreedom.org
+- **Family link:** Same last name (Gronski) and same NH area code
+  as **Michael J. Gronski** (Flameworker, this file). Almost
+  certainly related — likely father/son or brothers.
+- **⚠️ CAUTION (same as Sarah Atwater Trillium Law in
+  `vendors/parked-evaluations.md`):**
+  - "American Supreme Law" + "Private Freedom Consultant" + "State
+    Citizen" handle + "Destination Freedom" domain = sovereign-
+    citizen / private-trust / common-law advocacy space
+  - IRS classifies many of these structures as abusive tax schemes
+  - Robert has ~$434K active IRS exposure (`legal/active-paperwork.md`)
+  - Engaging this kind of consultant during active IRS collection
+    could be characterized as evasion intent
+- **Action:** Park with strong caution. Personal / community contact
+  okay; do NOT engage on legal / financial advice topics. Same risk
+  pattern as Sarah Atwater. Consult tax attorney before any
+  structural decisions.
+
+## ⚪ Universal Pathways — Offshore Business & Banking Solutions ⚠️ CAUTION
+
+- **Org:** Universal Pathways
+- **Tagline:** *"Offshore Business & Banking Solutions™"*
+- **Contact info:** Not visible on this side (logo-only — other side
+  of card likely has phone / email)
+- **⚠️ CAUTION — highest-risk pattern combination:**
+  - Offshore business + banking solutions
+  - + Robert's active ~$434K IRS matter
+  - = One of the highest IRS-enforcement risk combinations possible
+  - IRS / Treasury enforcement programs: FATCA, FBAR, offshore-tax-
+    evasion task force, voluntary disclosure programs
+  - Even if Universal Pathways operates legitimately, marketing
+    offshore banking to someone with active IRS collection matters
+    is the textbook trigger for federal enforcement escalation
+- **Action:** Park with strongest caution. Do NOT engage on offshore
+  structures until: (1) IRS matter is fully resolved, AND (2) a
+  US-licensed tax attorney has reviewed any proposed plan. This is
+  closer to "permanent no" than "park for later" given Robert's
+  exposure.
+
 ## ⚪ Yoshi Abrenica — T-Mobile Senior Mobile Expert (Northridge)
 
 - **Name:** Yoshi Abrenica
