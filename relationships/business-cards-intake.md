@@ -603,3 +603,127 @@ Boerne, San Antonio). Words on the note: *"Hill Country Referral."*
 - **Sarah Atwater — Trillium Law Course** (private church/ministry/
   trust formation) — captured to vendors file with strong CAUTION
   note re: IRS implications + need for tax attorney review first.
+
+---
+
+# Batch added 5/31/26 — 12 cards
+
+## 🔥 Mark Amici — 10 Second TV Media (UPGRADE from §15 follow-up)
+
+- **Org:** 10 Second TV Media (`10secondtvmedia.com`)
+- **Email (from CLAUDE.md §15):** markamici@me.com
+- **Card tagline:** *"Promotional Fee Paid by: YOUR BRAND"*
+- **Note:** Robert has TWO copies of this card.
+- **CROSS-REF:** Already in CLAUDE.md §15 as a non-DC patient
+  interested in VAET for his own sleep apnea, with Henry Schein /
+  dental connections, who wants to help CSA reach dentists.
+- **🔥 ACTION:** Promote from "open follow-up" to scheduled call.
+  Mark is both a potential UAOSA patient AND a dental-industry
+  connector with Henry Schein access — a meaningful node for
+  CSA's dental partnership lane.
+
+## 🔥 Dr. Archer Nishioka, DC — The Joint Chiropractic (Porter Ranch)
+
+- **Name:** Dr. Archer Nishioka, DC
+- **Org:** The Joint Chiropractic — Porter Ranch location
+- **Address:** 20165 Rinaldi St, Unit 110, Porter Ranch, CA 91326
+- **Phone:** (818) 857-4371
+- **Email:** dr.archer.nishioka@thejoint.com
+- **Operator (per card):** Fenton Chiropractic Corporation of CA,
+  managed by The Joint Corp.
+- **Strategic context:** Likely Robert's adjusting DC at The Joint
+  ($59/mo wellness package per CLAUDE.md §20).
+- **Action:** Personal/wellness care team. Commodity-tier maintenance
+  side, complementary to CSA premium specialty.
+
+## ⚪ Dr. Ron A. Manns, RN DC — Centro Quiropráctico Del Oeste (Puerto Rico)
+
+- **Name:** Ron A. Manns, RN DC
+- **Credentials:** Certified Primary Spine Practitioner
+- **Org:** Centro Quiropráctico Del Oeste / Freedom Chiropractic PSC
+- **Address:** Mayagüez Terrace, 1078 Calle José E. Arrarás,
+  Mayagüez, Puerto Rico
+- **Phone/Fax:** 787-833-4510
+- **Email:** cqdeloeste@gmail.com
+- **Distinctive:** RN + DC dual-credential. Spanish-speaking
+  practice (Mayagüez = west coast of Puerto Rico).
+- **Action:** Park. Out-of-state DC peer; possible CSA Certification
+  candidate if CSA expands to Spanish-speaking Caribbean / LatAm.
+
+## ⚪ Darko Cohadarevic — DARKWOOD, LLC (Custom Woodworks)
+
+- **Name:** Darko Cohadarevic
+- **Org:** DARKWOOD, LLC — Custom Woodworks
+- **Services:** Custom cabinets, furniture production, architectural
+  millwork, furniture restoration
+- **Phone:** 620-655-6552 (Kansas area code — note: Wichita is in KS)
+- **Email:** darkwoodus@gmail.com
+- **Cultural note:** "Darko" is Serbian/Croatian — potential cultural
+  connection given Robert's Serbian heritage + Serbia trip Aug-Sept.
+- **Strategic possibility:** Custom woodworks could supply the Tecopa
+  tiny-house build with Jeremy Miller as designer.
+- **Action:** Park for Tecopa tiny-house build phase (post-IRS
+  resolution, post-Sept 2026). The KS area code is interesting given
+  Wichita children-with-mother arrangement — worth verifying his
+  exact location.
+
+## ⚪ Robert Smith — Aesthetics To Go (Mobile Clinical Platform)
+
+- **Name:** Robert Smith
+- **Title:** CEO
+- **Org:** Aesthetics To Go — Mobile Clinical Platform
+- **Website:** aestheticstogo.com
+- **Email:** info@aestheticstogo.com
+- **Strategic context:** Mobile clinical aesthetics platform —
+  Chiro 3.0 telehealth/mobile-service adjacent.
+- **Action:** Park. Q4 2026 / Q1 2027 review with other Chiro 3.0
+  add-on category vendors (Nimbus, Peptides 180, Triad Aer).
+
+## ⚪ Haroutyun Gekchyan — Chase Consumer Banking (Northridge)
+
+- **Name:** Haroutyun Gekchyan
+- **Title:** Assistant Vice President, Relationship Banker — SB
+- **NMLS ID:** 1934764
+- **Address:** 19500 Plummer St, 01, Northridge, CA 91324
+  *(same Chase branch as Robby Noueihed earlier in this file)*
+- **Phone:** 818-882-3917
+- **Email:** haroutyun.gekchyan@chase.com
+- **⚠️ Strategic caution:** Active $434K IRS matter makes new Chase
+  product onboarding sensitive (CIP / OFAC reviews can surface
+  IRS liens). Existing accounts fine; new accounts wait.
+- **Action:** Park. Don't pursue new products until tax matter
+  resolved.
+
+## ⚪ Caress Ho-King — J.P. Morgan Wealth Management (Northridge)
+
+- **Name:** Caress Ho-King
+- **Title:** Vice President — Investments, Private Client Advisor
+- **Org:** J.P. Morgan Wealth Management
+- **Address:** 19500 Plummer St, 01, Northridge, CA 91324
+- **Phone:** 818-739-0221, Fax: 818-297-1017
+- **Email:** caress.ho-king@jpmorgan.com
+- **Affiliations:** J.P. Morgan Securities LLC (FINRA/SIPC), Chase
+  Insurance Agency Inc, CA License No. 0J21016
+- **⚠️ Strategic caution:** Same IRS-timing issue. Wealth-management
+  onboarding (brokerage transfers, asset titling) touches IRS-
+  collection radar.
+- **Action:** Park. Revisit post-tax-resolution (2027+). When CSA
+  produces real revenue + tax cleared, JPM-tier wealth management
+  becomes appropriate.
+
+## ⚪ Puzzle Room Tahoe — escape room (Stateline NV)
+
+- **Org:** Puzzle Room Tahoe
+- **Tagline:** *"Unleash your inner escape artist — One room. One way out."*
+- **Website:** www.puzzleroomtahoe.com
+- **Promo code:** tahoe12
+- **Action:** Park. Personal entertainment for next Tahoe trip
+  (pairs with Tahoe Axe & Darts above).
+
+## ⚪ SUIT — Americana Rock-N-Roll (band)
+
+- **Org:** SUIT (band)
+- **Tagline:** Americana Rock-N-Roll
+- **Email:** info@suit-music.com
+- **Website:** www.suit-music.com
+- **Action:** Park. Personal music interest.
