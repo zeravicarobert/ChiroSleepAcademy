@@ -311,6 +311,236 @@ Robert's intended outreach, priority.
   "security advisor" actually means — title is vague without
   visible credentials.
 
+## 🔥 Dr. Yami Arad, DC — Tarzana (SAME ADDRESS as Debra Yerman DC)
+
+- **Name:** Dr. Yami Arad
+- **Title:** Chiropractor
+- **Clinic:** The Inner Health and Wellness Center / Tarzana Medical Center
+- **Address:** **18740 Ventura Blvd, Suite 302, Tarzana, CA 91356**
+- **Phone:** (818) 776-1661
+- **Email:** DrYami@gmail.com
+- **Website:** www.TheInnerHealthCenter.com
+- **Specialties:** Back Specialist, Auto Accidents/Sports Injuries,
+  Colon Hydrotherapy/Endermologie
+- **🚨 SAME BUILDING AS DEBRA YERMAN DC** (Yerman Chiropractic, same
+  18740 Ventura Blvd address — see her entry below). This is likely
+  a co-occupancy or building-wide connection. Worth knowing if Robert
+  pursues the Yerman office-share opportunity for M/W/F.
+- **Action:** HOT for local Tarzana DC peer network. Possible CSA
+  prospect (sleep/airway brand fit). Coordinate context with Yerman
+  before reaching out independently.
+
+## 🔥 International Dental Center PV — Holistic Biological Dentistry (Puerto Vallarta)
+
+- **Org:** International Dental Center PV
+- **Tagline:** *"We create naturally beauty smiles and help to change
+  lives"* / *"Holistic Biological Dentistry"* / *"Professional Dental
+  Care"*
+- **Location:** Puerto Vallarta, MX (per "PV" in name)
+- **Action:** Get full contact info (the captured side is logo-only).
+  **Strategic fit:** Holistic biological dentistry = directly aligned
+  with CSA's AACP-equivalent dentist need for the UAOSA pathway.
+  PV is where Mark Gonzalez also lives — potential network cluster.
+
+## 🔥 Yoalli De Morey Navarro — Hollistic-Biological Dentistry (Puerto Vallarta)
+
+- **Name:** Yoalli De Morey Navarro
+- **Specialty:** Holistic-Biological Dentistry
+- **Address:** Aquiles Serdán 265, 2nd Floor, Zona Romántica,
+  Emiliano Zapata, C.P. 48380 Puerto Vallarta, Jalisco, Mexico
+- **Cell:** +52 (322) 127-0463
+- **Email:** dentistyoalli@gmail.com
+- **Website:** https://Mybiodentistry.com
+- **Note:** "English Spoken"
+- **🚨 SAME GEOGRAPHIC + PHILOSOPHICAL CLUSTER as International Dental
+  Center PV above.** Two holistic dentists in Puerto Vallarta.
+  Possibly the same operation or related practices.
+- **Action:** HOT — direct AACP-equivalent dental partner candidate
+  for CSA UAOSA pathway. Puerto Vallarta network includes Mark
+  Gonzalez (silver). Plan a PV visit to meet both her and Mark
+  in person.
+
+## 🔥 Dr. Patrick McCabe, DC — Alpha Life TX (Irving, TX)
+
+- **Name:** Dr. Patrick McCabe
+- **Title:** Owner-Chiropractor
+- **Org:** Alpha Life TX
+- **Address:** 600 E John Carpenter Freeway, Ste 274, Irving, TX 75062
+- **Phone:** 972.457.0137 (call/text)
+- **Email:** patrick@alphalifetx.com
+- **Website:** www.alphalifetx.com
+- **Action:** HOT for DC peer / potential CSA prospect. Texas DC
+  practice owner — out-of-state, so SDI lane doesn't apply directly,
+  but CSA UAOSA / certification track DOES apply nationally.
+
+## ⚪ Lon J. Kalapp, MS, DC, DACNB — The Kalapp Group / Elite Business Coaching
+
+- **Name:** Lon J. Kalapp, MS, DC, DACNB
+- **Org:** The Kalapp Group — "Elite Business Coaching"
+- **Phone:** 1-833-4KALAPP
+- **Credentials:** MS (Master's), DC (Doctor of Chiropractic), DACNB
+  (Diplomate, American Chiropractic Neurology Board)
+- **Strategic context:** DC business coach. **Robert already has 5
+  active mentors + dormant + adjacent educators** — does not need
+  another business coach right now (see CLAUDE.md §16, §20).
+- **Action:** Park. If a future mentor slot opens (post-Q4 2026), Lon
+  could be a candidate given his DC + DACNB credentials.
+
+## ⚪ Frank Keats — Triad Aer Air Purification System (Miami / Atlanta)
+
+- **Name:** Frank Keats
+- **Title:** Regional VP
+- **Org:** Triad Aer Air Purification System
+- **Corp phone:** 305.234.8081 (Miami HQ)
+- **Direct phone:** 404.218.9368 (Atlanta)
+- **Email:** triaddirect@gmail.com
+- **Website:** www.triadaer.com
+- **Strategic relevance:** **Air purification = sleep/airway adjacent.**
+  Could be a product partner for CSA patients (post-VAET continuity
+  care; in-home air quality for sleep apnea patients). Same logic as
+  Nimbus / Peptides 180 — relevant category, not 2026 priority.
+- **Action:** Park to `vendors/parked-evaluations.md` later. Revisit
+  in Q4 2026 / Q1 2027 alongside other Chiro 3.0 add-on revenue
+  evaluations.
+
+## ⚪ Kieran Walls — Innovative Oral Solutions (Carlsbad)
+
+- **Name:** Kieran Walls
+- **Title:** Sales Account Advisor
+- **Org:** Innovative Oral Solutions
+- **Address:** 5804 Van Allen Way, Carlsbad, CA 92008
+- **Phone:** 760.438.3300 / Fax: 760.438.3320
+- **Email:** Kieran.walls@iosmmw.com
+- **Strategic relevance:** Oral solutions vendor — could be relevant
+  to CSA's AACP-dentist partnership or VAET dental coordination.
+  Worth knowing what specific products they sell (oral appliances?
+  mandibular advancement devices? sleep apnea oral devices?).
+- **Action:** Park. Revisit when CSA actively scales AACP-dental
+  partnerships.
+
+## ⚪ Joseph P. Busch, DC — The American Chiropractor
+
+- **Name:** Joseph P. Busch, DC
+- **Title:** Managing & Editorial Director
+- **Org:** The American Chiropractor (trade publication)
+- **Office:** 1-888-668-8728
+- **Mobile:** 1-305-434-8866
+- **Email:** joe@amchiropractor.com
+- **Address:** 8561 NW 68th St, #CO138, Medley, FL 33166
+- **Website:** www.TheAmericanChiropractor.com
+- **Strategic relevance:** Trade publication editor — **PARALLEL to
+  Jason Miller / MPA Media / Dynamic Chiropractic.** Different
+  publication, similar acquisition channel for CSA Vol 1/Vol 2.
+  Could be a complementary or alternative outlet to Jason.
+- **Action:** Warm — after deciding on Jason Miller (Dynamic
+  Chiropractic) direction, consider whether Joseph's publication
+  is a complement or alternative. Both reach the DC audience CSA
+  needs.
+
+## ⚪ Liz Martin — Gaia Herbs Pro (AZ & CA sales rep)
+
+- **Name:** Liz Martin
+- **Title:** Sales Representative (AZ & CA), Gaia Herbs Pro
+- **Address:** 184 Butler Farm Road, Mills River, NC 28759
+- **Phone:** 480.321.9564
+- **Email:** liz.martin@gaiaherbs.com
+- **Website:** gaiaherbspro.com
+- **Strategic context:** Gaia Herbs is a real herbal-supplement
+  brand. Park as supplement-supplier contact if CSA ever offers
+  retail supplements (Chiro 3.0 add-on territory). Not 2026.
+
+## ⚪ Robby Noueihed — Chase Senior Home Lending Advisor (Northridge)
+
+- **Name:** Robby Noueihed
+- **Title:** Senior Home Lending Advisor
+- **Org:** Chase — Home Lending
+- **Address:** 19500 Plummer St, Ste G1, Northridge, CA 91324
+- **Phone:** (818) 919-8030
+- **Email:** robby.noueihed@chase.com
+- **Website:** homeloan.chase.com/robby.noueihed
+- **NMLS ID:** 484843
+- **⚠️ Strategic caution:** Local Chase mortgage rep. **With Robert's
+  ~$434K active IRS matter, getting a Chase mortgage is virtually
+  impossible** — IRS liens prevent approval. Even initial
+  conversations may trigger soft credit pulls that don't help.
+- **Action:** Park. Revisit only AFTER tax matter is fully resolved
+  (likely 2027+). Relevant if Robert ever considers buying property
+  in CA, but the Steve McNeal Tecopa offers are seller-financing
+  candidates, not Chase territory.
+
+## ⚪ Sacred Life Water
+
+- **Org:** Sacred Life Water
+- **Tagline:** *"Love your water, Love yourself"*
+- **Website:** sacredlifewater.com
+- **Strategic context:** Sovereignty / spiritual / water-focused
+  community brand. Aligned with the Kayden Radhe / Blue Bottle Love
+  / Dr. Masaru Emoto water-philosophy cluster.
+- **Action:** Park. Community / personal interest contact.
+
+## ⚪ Alik M. — All Region Inc Heating & Air Conditioning (N. Hollywood)
+
+- **Name:** Alik M.
+- **Org:** All Region Inc — Heating & Air Conditioning
+- **Address:** 13124 Saticoy Street, Unit A, North Hollywood, CA 91605
+- **License:** Class C-20 Hic, License # 1037768
+- **Office:** (818) 452-9977
+- **Fax:** (818) 452-9696
+- **Cell:** (818) 747-8734
+- **Email:** alik@allregioninc.com
+- **Services:** Residential, Commercial, Ventilation, Sales & Service
+- **Action:** Park. Utility contact for HVAC service at Northridge
+  home if needed (especially relevant before 4-month travel arc
+  — confirm HVAC works for unattended period 6/17 → 10/11).
+
+## ⚪ Tahoe Axe and Darts — Richard (Lake Tahoe)
+
+- **Org:** Tahoe Axe and Darts
+- **POC:** Richard
+- **Address:** 55 Lake Tahoe Blvd, Stateline, NV 89449
+- **Email:** tahoeaxeanddarts@gmail.com
+- **Website:** www.tahoeaxeanddarts.com
+- **Promo code:** axe43 (from Richard's "Visit Again" card — return
+  customer 15% off)
+- **Action:** Park. Personal entertainment venue. File for next
+  Tahoe trip.
+
+## ⚪ Universal Pathways (back side) — "Tax Shelters / Privacy / Asset Protection / Diversification"
+
+The back of the Universal Pathways "Offshore Business & Banking
+Solutions" card now visible. Tagline list (top of card):
+
+> **Tax Shelters • Privacy • Asset Protection • Diversification**
+
+Website: `UniversalPathways.net`
+
+**🚨 THIS MAKES THE EARLIER CAUTION EVEN STRONGER.** The explicit
+"Tax Shelters" + "Asset Protection" + "Privacy" + offshore banking
+combination is a textbook IRS-flagged abusive-tax-scheme marketing
+pattern. Combined with Robert's ~$434K active IRS exposure,
+engagement = high probability of IRS escalation. See main Universal
+Pathways entry for full caution.
+
+## ⚠️ Christopher Gronski — "Eliminate Your Income Tax Liability" (back side)
+
+The back of the American Supreme Law card I captured earlier shows
+the explicit pitch:
+
+> **"Eliminate Your Income Tax Liability"**
+>
+> For More Information go to: **DestinationFreedom.org**
+>
+> or Contact Me Personally Here: ________________
+
+**🚨 THIS IS THE TEXTBOOK IRS-FLAGGED MARKETING.** "Eliminate Your
+Income Tax Liability" pitched to someone with active IRS exposure
+is the exact pattern federal authorities use to establish willful
+evasion intent. This validates 100% the caution I raised on
+Gronski earlier. The pattern is unambiguous: Atwater + Gronski +
+Universal Pathways are all promoting variants of the same
+IRS-noncompliance posture. **Robert engaging any of them while the
+$434K IRS matter is active would materially increase his exposure.**
+
 ## ⚪ Christopher Gronski — additional context (back of card)
 
 The back of Christopher Gronski's American Supreme Law card lists
