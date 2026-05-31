@@ -43,8 +43,8 @@ Each maps to a Subcategory in this file:
 | X-ray license | Sub 7 |
 | Child support | Sub 1.1 + Sub 8 |
 | Chiropractic malpractice | Sub 2 |
-| Insurance policy | (TBD — clarify whether same as malpractice or different) |
-| Application renewal | (TBD — clarify whether same as malpractice/license or different) |
+| Insurance policy | **Same as Chiropractic malpractice (Sub 2) — confirmed 5/31/26** |
+| Application renewal | **Same as Chiropractic malpractice (Sub 2) — confirmed 5/31/26.** The "insurance policy" + "application renewal" are both pieces of the malpractice renewal package. |
 | CA Chiropractic license renewal | Sub 1.3 + Sub 1.5 |
 | Property tax | Sub 6 *(informational only — no action this cycle)* |
 
