@@ -728,6 +728,34 @@ Boerne, San Antonio). Words on the note: *"Hill Country Referral."*
 - **Website:** www.suit-music.com
 - **Action:** Park. Personal music interest.
 
+## 🟡 Alan Alzona — Ascot Shop La Jolla (Fine Men's Clothing)
+
+- **Name:** Alan Alzona
+- **Org:** Ascot Shop La Jolla — Fine Men's Clothing
+- **Address:** 7750 Girard Avenue, La Jolla, CA 92037
+- **Store phone:** 858-454-4222
+- **Cell:** 619-247-5699
+- **Email:** alan@ascotshop.com
+- **Website:** www.ascotshop.com
+- **Hours:** Mon-Sat 10am-6pm, Sun 11am-5pm, evenings by appointment
+- **Where met:** La Jolla. Robert thinks possibly sleep-apnea or
+  CSA related — Alan may be a patient himself, know someone with
+  sleep apnea, or want more info on CSA / Hot Springs.
+- **Three possible strategic angles:**
+  1. **UAOSA patient prospect** — clothing-store owner profile fits
+     the long-hours / financial-stress / sleep-apnea risk pattern
+  2. **Connector to wealthy UAOSA prospects** — Ascot Shop serves
+     upper-end La Jolla men (perfect $25K UAOSA Recovery Program
+     audience). Alan knows his customers personally.
+  3. **Robert's wardrobe source** — pre-Pathfinder (Oct 1-4),
+     pre-MPA Media webinar, pre-Mike Barron brand videos, looking
+     the part of CSA category leader matters
+- **Action:** 🟡 WARM. **Visit Ascot Shop in person during SD window
+  6/3 → 6/17** — find out which thread is real (patient? connector?
+  wardrobe? all three?). Walking into his store is the right first
+  move — natural for him, gives him home-field advantage, no
+  pressure.
+
 ## ⚪ Rodd Jellison — Mobile Home Repair (Northridge mobile home park handyman)
 
 - **Name:** RODD JELLISON *(spelled with two d's per card)*
