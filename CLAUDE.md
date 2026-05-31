@@ -1284,6 +1284,23 @@ handle with care.
 ### Family / June 2026
 - **6/2/26 (Tue) 6:40 PM — Zac and Adelaide arrive Las Vegas.**
   Family time density increases dramatically from this point.
+
+### Summer trips with children (captured 5/29/26 — dates TBD)
+
+Robert is planning at least two significant trips during the
+6/2 → 8/8 continuous-with-children arc:
+
+- **🌺 Hawaii trip** — date TBD; Robert plans to connect with
+  Kayden Radhe (Blue Bottle Love) when there. Captured via business
+  card from Confluence. See `relationships/business-cards-intake.md`.
+- **🧊 North Pole / Alaska expedition — July or August 2026** —
+  with children. Robert told Theresa Napolitano (Davie Girl Farm,
+  Florida) about it. Captured via business card; specifics still
+  TBD.
+
+**Both trips need date-locking before they can be planned around
+existing commitments** (Mark Gonzalez bonfire July, Liberpulco
+Apatin August, Wichita school start 8/14, Pathfinder 10/1-4).
 - **6/18/26 (Wed) 7:00–9:00 PM — PI Roadshow** at Vino Wine and Tapas
   Room, 18046 Ventura Blvd, Encino 91316.
   - Host: **Sean Steele** (PI attorney)

@@ -187,6 +187,117 @@ when KS-license decisions come into focus.
 
 ---
 
+## Sarah Atwater — Trillium Law Course (captured 5/29/26) — ⚠️ CAUTION
+
+**Pitch:** Create your own private church, ministry, and trust.
+*"Spiritually grounded lawful framework for stewardship, autonomy,
+and private operation."*
+
+**Self-described:** "New earth systems consultant" who created her
+own private church + ministry in 2022, formed a ministry trust + a
+foreign trust integrated into those structures.
+
+**Contact:**
+- Phone (WhatsApp): 506-646-9531 (New Brunswick, Canada area code)
+- Email/website: `Sarah@water.mykajabi.com` *(Kajabi is a course
+  platform; URL syntax suggests her course is hosted on Kajabi —
+  verify exact URL)*
+
+**Course offerings (Trillium Law Course):**
+
+| Package | Price | What's included |
+|---|---|---|
+| **Silver** | $3,500 | Full church/ministry/trust course + document review + private consultations |
+| **Gold** | $5,500 | Advanced support for complex projects, document review, 12 hours of individualized support |
+| **Private consult** | $250/hr | A la carte |
+
+**What the course teaches:**
+- Private membership association
+- Church and ministry creation
+- Private non-taxable trust for holding/protecting assets
+- Supporting documents for "lawful private operation"
+
+**Pitched benefits:**
+- Operate within private faith-based framework rather than public
+  commercial systems
+- Foundation for private trust + private trust bank account
+- Protect spiritually grounded work through "conscience, consent,
+  and fiduciary duty"
+- Accept non-taxable + tax-deductible donations
+- Private dispute resolution mechanisms
+
+### ⚠️ WHY THIS NEEDS SERIOUS CAUTION
+
+**The IRS aggressively challenges "private trust" / "ministerial
+trust" / "religious tax shelter" structures.** These have a long,
+well-documented enforcement history. Key concerns:
+
+1. **IRS view of abusive trust schemes:** The IRS publishes a regular
+   "Dirty Dozen" tax scams list. Private trust / mail-order ministry
+   / "sovereign citizen" trust structures appear on it frequently.
+   Marketing claims like "non-taxable" + "lawful private operation"
+   + "outside public commercial systems" are textbook IRS red flags.
+2. **Robert is currently facing ~$434K IRS liability** across 4 tax
+   years (see `legal/active-paperwork.md` Subcategory 4). Creating
+   a private trust NOW, before the IRS matter is resolved, would
+   likely:
+   - Be characterized as fraudulent conveyance (attempting to shield
+     assets from IRS collection)
+   - Subject the trust to "alter ego" / "nominee" challenges
+   - Potentially increase Robert's legal exposure rather than
+     reduce it
+3. **"Religious" / "ministerial" tax exemptions** require actual
+   501(c)(3) status from the IRS — which has rigorous documentation,
+   ongoing reporting, and operational requirements. A "private
+   church" without IRS recognition has no tax benefits and creates
+   filing complications.
+4. **Legitimate asset protection** exists (LLCs, S-Corps, IRA
+   structures, retirement-plan protections, homestead exemptions,
+   spendthrift trusts) — but they're built by **tax attorneys and
+   estate-planning attorneys**, not by "new earth systems consultants"
+   selling $3,500-$5,500 courses.
+5. **Robert's broader worldview** (Anarchapulco / Liberpulco /
+   sovereignty / Tom Cowan crowd) overlaps significantly with the
+   audience that these courses target. The pitch is designed to
+   appeal to that worldview. **That doesn't make it correct or
+   safe.** Robert's discernment moment ("being recruited into a
+   movement" — CLAUDE.md §19) is the right instinct to apply here.
+
+### What Robert should NOT do
+
+- ❌ Pay for Silver or Gold package before getting independent legal
+  advice from a tax attorney
+- ❌ Form any "private trust" structure while the IRS matter is
+  active
+- ❌ Combine this with any anti-IRS / sovereign-citizen tax theories
+  that may circulate in this community
+- ❌ Use this course as a substitute for legitimate asset protection
+  + estate planning
+
+### What Robert COULD do
+
+- ✅ Ask the tax attorney handling the IRS matter about:
+  - Legitimate asset protection options for his situation
+  - Estate planning given his children + Dusanka claim + future
+    Wichita move
+  - Whether any "private trust" structure has *any* legitimate
+    application for his case
+- ✅ Read Sarah's content for the sovereignty / spiritual framework
+  it represents WITHOUT acting on the legal structures it pitches
+
+### Decision
+
+**PARK — do NOT engage until tax attorney is consulted.** If the
+attorney sees any legitimate use case for trust structures in
+Robert's situation, the attorney can recommend a licensed CA tax/
+estate-planning specialist. Sarah's course is not a substitute for
+licensed legal counsel.
+
+**Revisit:** After tax attorney engagement and IRS matter
+stabilization — likely Q1 2027 or later.
+
+---
+
 ## Curtis Martin DC / Hydrowave (parked 5/28/26)
 
 See `outreach/2026-curtis-martin-shockwave-hydrowave.md` for the full
