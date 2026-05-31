@@ -1640,21 +1640,37 @@ Worth surfacing in future strategy sessions:
   (the same database that gave us the $1,223 LTV finding on
   5/22/26).
 
-### Paperwork organizational system (set up 5/28/26)
+### Paperwork organizational system (set up 5/28/26; refined 5/29/26)
 
-Robert organizes his physical paperwork into named stacks (replacing
-the previous cardboard-box system):
+Robert organizes his physical paperwork into named stacks. Each
+stack is marked with an 8.5" × 11" blue cardstock header card so
+the piles are visually labeled in his workspace.
 
-1. **Legal Paper Stack** — `legal/active-paperwork.md` is the
-   digital tracker
-2. **Money Paperwork Stack** — financial items including the
-   deceased mother's (Dusanka) unclaimed property claim
-3. **Research Paperwork Stack** — items needing investigation
-4. **Patient Paperwork Stack** — patient-related (PHI lives in
-   EHR/CRM, not repo)
-5. **People Paperwork Stack** — business cards for CRM intake
-6. **Box 1 Paperwork Stack** — offers (credit cards, etc.)
-7. **Box 2 Paperwork Stack** — Research-this items #2
+Current stacks (refined 5/29/26 — simpler naming, more consolidated
+than the original Box 1 / Box 2 scheme):
+
+1. **People** — relational paperwork (separate from business cards
+   below — see "Open question" below to clarify the distinction)
+2. **Offers** — credit cards, vendor offers, sales pitches, anything
+   pitched TO Robert (formerly "Box 1")
+3. **Research this** — items needing investigation (formerly the
+   "Research Paperwork Stack" plus the merged "Box 2")
+4. **Patients** — patient-related (PHI lives in EHR/CRM, NOT repo)
+5. **Legal** — `legal/active-paperwork.md` is the digital tracker
+6. **Money** — financial items including the deceased mother's
+   (Dusanka) unclaimed property claim
+7. **Business cards stack** — names, addresses, phone numbers,
+   websites. Needs CRM intake + outreach. Capture target:
+   `relationships/business-cards-intake.md` (to be created).
+8. **Miscellaneous** — small pieces of paper (~8-10 pages) + a
+   separate 3-page stack. Catch-all for items that don't yet have
+   a home.
+
+**Open question:** How are "People" and "Business cards" different?
+Both seem to be about contacts. Possible answer: "People" is
+paperwork ABOUT people Robert already knows (their letters, notes,
+etc.); "Business cards" is contacts to be added to a CRM. Confirm
+with Robert.
 
 When Robert references a "stack" in chat, look here for the scheme.
 
