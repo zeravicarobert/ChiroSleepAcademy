@@ -634,6 +634,40 @@ Recovery Program (see `offers/csa-uaosa-program.md`):
 - **AACP** = American Academy of Craniofacial Pain (USA dental
   organization; preferred dentist certification for the bite + oral
   airway component)
+- **TMJ–SIJ Lovett Brother relationship** (clinical insight, 5/28/26):
+  TMJ has a Lovett Brother — SIJ. The Lovett Brother system pairs
+  vertebrae/joints across C1–L5 with reciprocal/predictable
+  biomechanical relationships. Clinical implication for CSA: TMJ–SIJ
+  pair means structural dysfunction in one predicts dysfunction in
+  the other. This is one of the bridges CSA uses to link sleep apnea
+  (which the AMA model defers to DDS via TMJ / oral appliance) back
+  into chiropractic via biomechanics. Worth formalizing in Vol 2
+  curriculum.
+- **DDS regulatory hook for sleep apnea screening:** Per ADA position
+  paper (verify date + exact language), DDS new-patient intake "must"
+  screen for sleep apnea. This creates a defensible reason for
+  DDS-DC partnerships: the DDS screens; structural / biomechanical
+  work is deferred to a CSA-certified DC. *Action item: verify the
+  ADA position paper language and date before quoting publicly.*
+
+### CSA as a "container" (Robert's framing — Jan 2026)
+
+Robert sometimes frames CSA not as a course or a program, but as a
+**container** holding several distinct populations and entities:
+
+- **DCs** (mentees, certificands, members)
+- **Patients** (Channel A SDI / Channel B Veterans / CSA UAOSA / direct DC referrals)
+- **Corporations + adjacent specialties** that CSA either partners
+  with or refers into: The Joint, Disc Centers of America (DCA),
+  Chiropractic BioPhysics (CBP), Foot Levelers, SOT, AK, CFR, BNS
+- **Education** (Vol 1 + Vol 2 curriculum; patient workshops;
+  cohort content)
+
+This "ecosystem container" framing is bigger than "course" or
+"program" and may be the right brand framing for outreach to trade
+publications (Dynamic Chiropractic / MPA Media), large corporate
+referral partners (The Joint, DCA, CBP, Foot Levelers), and the
+broader DC community. Refine before public use.
 
 ### Step 5 — Full CSA Guided Case Plan
 **Price:** $15,000–$25,000 depending on complexity

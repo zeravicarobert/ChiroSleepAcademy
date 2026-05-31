@@ -179,6 +179,8 @@ each one is a real decision point:
 | **Mark Amici** (dental connections) | Open follow-up | Email/call (markamici@me.com, 10secondtvmedia.com) |
 | **Active mentee — Letter of Engagement** (May goal #3) | Not started | Draft LOE; deliver |
 | **Jeremy Miller** (tiny houses / healthy houses) | NEW 5/28/26 | **Confirmed context:** interior designer with construction experience; met at FabLife in San Diego ~Mar-Apr 2026. Message: tiny homes + healthy / non-toxic construction materials. **Associated with Robert's vision for a tiny-house at Death Valley Hot Springs Resort / Tecopa.** Strategic role: physical-space partner for the VAET retreat experience. Next: schedule a vision conversation with Jeremy about Tecopa tiny-house build-out concept. |
+| **Jason Miller — Dynamic Chiropractic / MPA Media** | Warm, follow-up needed | Met Parker 2/2026. Floated webinar + 3-month promotional campaign targeting DCs through Dynamic Chiropractic. Major potential acquisition channel for CSA Vol 1/Vol 2. **Full strategy + open questions: `outreach/2026-jason-miller-mpa-media.md`.** Next: schedule Zoom; bring CSA container framing + "Get what I get" pricing pitch + free-HST-for-DCs offer. |
+| **DC network targets — NEW from 5/28/26 notes** | Not yet outreached | Add to CSA Relationship Strategies sheet: **Dr. Dan Murphy DC** (BNS / ballooning teacher — *already on warm list per §6*); **Dr. Greenawalt DC** (Foot Levelers); **Dr. Marc Sanna DC** (Breakthrough Practice Management; his father is also a DC); **Dr. Adam Del Torto DC** (CFR / old ballooning teacher; Robert previously discussed with Nate at ChiroSecure). | Next outreach pass |
 
 ---
 
@@ -220,6 +222,9 @@ mentor's work produce or save this week?"
 |---|---|---|
 | ChiroTouch EHR onboarding | 50% | Session 2 today |
 | SimpleTalk AI call agent | 10% | Learning curve |
+| **HJ Ross Billing & Coding (Perla) — Sam Zoom for Practice Management** | 0% | Robert pays HJ Ross for billing/coding services. Perla (HJ Ross contact) recommends Robert get a Zoom with Sam (also HJ Ross) about Practice Management. **Easiest path:** call Perla directly to schedule the block with Sam. Decide: what specifically does Robert want from this consultation? (Practice ops? Billing optimization? Coding for CSA's specific procedures? CSA-specific PM advice?) |
+| **ChiroSecure (Nate) — Malpractice carrier** | Active relationship | Robert previously spoke with Nate re: Dr. Adam Del Torto DC. Standing relationship; no current action. Tied to Subcategory 2 of `legal/active-paperwork.md` (Malpractice Renewal application). |
+| **Compex — Michael McGee, 310-782-1801** | NEW 5/28/26 | Context not provided. Compex is a brand of muscle stim devices. **Robert needs to confirm: who is Michael McGee at Compex, and what's the relevance to CSA?** |
 | **VA structure** (Ri + new VA split) | 25% | **Plan locked 5/28/26:** Ri (current VA) **stays with Robert on CSA** (mentees, outreach, Dr. Collins/Manfredi support, Drive/ops). **New VA** (candidate Ri knows) **takes CA EDD SDI lane** (patient touchpoint sequence per playbook, intake form processing, source outreach support). **Ri trains the new VA.** Next: scope the new VA's job description (~10-20 hrs/wk?), interview Ri's candidate, set budget. Hiring channel: Ri's referral (warm). |
 | CRM selection | 0% | Pick a vendor (HubSpot? Pipedrive? GoHighLevel?) |
 | Asana adoption (Mike Barron rec) | 0% | Decide if needed before CRM |
