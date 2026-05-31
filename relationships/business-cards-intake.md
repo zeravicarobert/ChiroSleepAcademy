@@ -727,3 +727,23 @@ Boerne, San Antonio). Words on the note: *"Hill Country Referral."*
 - **Email:** info@suit-music.com
 - **Website:** www.suit-music.com
 - **Action:** Park. Personal music interest.
+
+## ⚪ Rodd Jellison — Mobile Home Repair (Northridge mobile home park handyman)
+
+- **Name:** RODD JELLISON *(spelled with two d's per card)*
+- **Service:** Mobile Home Repair — Roof Repair, Heating & Evaporative
+  Coolers, Plumbing & Electrical, Awnings & Skirting
+- **License #:** 261903 (Licensed, Bonded & Insured)
+- **Phone:** (818) 896-3261
+- **Address:** 13304 Chase, Arleta, CA 91331 *(adjacent to Northridge
+  in the San Fernando Valley)*
+- **Robert's context:** Handyman for the Northridge mobile home park
+  where Robert lives (per CLAUDE.md §19 geography).
+- **Strategic value:** HIGH PRACTICAL VALUE for the 4+ month travel
+  period (6/17 → 10/11). Trusted handyman who already knows the park.
+  Combine with Peter + Santiago's camera install: cameras for
+  visibility, Rodd for repairs.
+- **Action:** Before leaving 6/1, **text Rodd a heads-up**: traveling
+  for 4 months, here's a contact to reach me if anything urgent comes
+  up. Keep his number in phone contacts (not just paper). One-time
+  $50-$100 "retainer-style" call ahead of time builds goodwill.
