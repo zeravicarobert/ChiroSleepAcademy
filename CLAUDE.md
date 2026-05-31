@@ -175,6 +175,27 @@ materials he reviews. This is durable brand-voice context.
 - Mechanistic biochemistry as the lead (it can support, not lead)
 - Hype, FUD, bro language (already in §4 non-negotiables)
 
+**Etymological grounding (Robert's principled objection, 5/29/26):**
+
+The root of "pharmaceutical" is the ancient Greek **φάρμακον
+(pharmakon)** — a word that simultaneously meant **remedy, poison,
+AND sorcery / witchcraft.** The word's deliberate ambiguity about
+whether a substance heals or harms is well-documented in classical
+Greek scholarship.
+
+Robert's aversion to the word is therefore principled, not stylistic:
+he reads "pharmaceutical-grade" as marketing that invokes (whether
+or not the sellers realize it) a word root meaning sorcery /
+ambiguous-substance. This frames his preference for **structural,
+biomechanical, anatomical** language as positively grounded — those
+words mean what they say, without the etymological double meaning
+the pharma vocabulary carries.
+
+When evaluating future vendor pitches or writing CSA copy: this
+isn't just a stylistic preference. It's a worldview alignment.
+Pharma-grade language is *out*. Structural / mechanism / anatomy is
+*in*.
+
 ---
 
 ## 5. Non-Negotiables (Red Lines)
@@ -1285,22 +1306,55 @@ handle with care.
 - **6/2/26 (Tue) 6:40 PM — Zac and Adelaide arrive Las Vegas.**
   Family time density increases dramatically from this point.
 
-### Summer trips with children (captured 5/29/26 — dates TBD)
+### Summer trips with children — DATES LOCKED 5/29/26
 
-Robert is planning at least two significant trips during the
-6/2 → 8/8 continuous-with-children arc:
+Robert's continuous-with-children arc (6/2 → 8/8) now has two
+major travel blocks:
 
-- **🌺 Hawaii trip** — date TBD; Robert plans to connect with
-  Kayden Radhe (Blue Bottle Love) when there. Captured via business
-  card from Confluence. See `relationships/business-cards-intake.md`.
-- **🧊 North Pole / Alaska expedition — July or August 2026** —
-  with children. Robert told Theresa Napolitano (Davie Girl Farm,
-  Florida) about it. Captured via business card; specifics still
-  TBD.
+- **🌺 Hawaii: 6/17/26 → 7/16/26 (30 days)** — with children. Plan
+  to connect with Kayden Radhe (Blue Bottle Love) while there.
+- **🧊 North Pole / Alaska expedition: 7/17/26 → 8/7/26 (21 days)** —
+  with children. Robert mentioned the trip to Theresa Napolitano
+  (Davie Girl Farm, FL).
 
-**Both trips need date-locking before they can be planned around
-existing commitments** (Mark Gonzalez bonfire July, Liberpulco
-Apatin August, Wichita school start 8/14, Pathfinder 10/1-4).
+**Summer 2026 calendar shape after these locks:**
+
+| Window | Days | Where |
+|---|---|---|
+| 6/2 → 6/16 | 15 days | Las Vegas with children (pre-Hawaii) |
+| 6/17 → 7/16 | 30 days | Hawaii with children |
+| 7/17 → 8/7 | 21 days | Alaska / North Pole with children |
+| 8/8 → 8/13 | 6 days | Travel + Wichita settle-in |
+| **8/14** | — | **Children start school in Wichita (HARD PIVOT)** |
+
+**Implications for business workstreams (June-August):**
+
+1. **The Vegas business window is ~15 days** (6/2 → 6/16), much
+   smaller than originally planned. Mike Barron crew returns
+   ~6/1; only 2 weeks of in-person crew time before Robert is
+   gone for 51 of the next 52 days.
+2. **License cure (6/17) is on the LAST day before Hawaii.** If
+   the cure isn't done by 6/16 EOD, Robert is on a plane to
+   Hawaii with an unresolved license issue.
+3. **Tax attorney engagement must happen by 6/16.** Remote
+   representation is possible but the initial engagement /
+   document gathering is best in-person before travel.
+4. **The Dr. Deed Harrison Zoom + Manfredi/Lucas/Collins mentor
+   work** likely happens *remotely* during Hawaii or Alaska. Plan
+   for stable Wi-Fi and timezone awareness.
+5. **The "1 paid mentee June" goal** must be locked by 6/16 or
+   handled remotely during Hawaii.
+6. **Mark Gonzalez bonfire (SD, July)** conflicts with Hawaii arc.
+   Robert needs to confirm Mark's exact date and decide whether to
+   skip or shift.
+7. **Liberpulco Serbia August** conflicts with the END of the
+   Alaska arc (8/7 return). Likely off the table for 2026.
+8. **PI Roadshow 6/18** — Robert will be IN HAWAII. Off the table.
+
+**The 8/8 → 8/14 travel/settle window is TIGHT (6 days)** — Alaska
+return through Wichita school start. Worth pre-planning the
+logistics (where do the children's belongings ship to? Is housing
+ready? Who picks them up if delayed?).
 - **6/18/26 (Wed) 7:00–9:00 PM — PI Roadshow** at Vino Wine and Tapas
   Room, 18046 Ventura Blvd, Encino 91316.
   - Host: **Sean Steele** (PI attorney)

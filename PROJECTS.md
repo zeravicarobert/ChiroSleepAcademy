@@ -35,6 +35,23 @@
 | Visit Peter + Santiago in SD | 6/3 or 6/4 (per CLAUDE.md §18) |
 | **En-route stop: copper tub for sale off the 101** | POC contacts Robert on FB Messenger. Inquire / inspect / decide on purchase during the SD trip. |
 
+## ✈️ SUMMER 2026 TRAVEL — LOCKED 5/29/26
+
+| Window | Days | Where | Business implications |
+|---|---|---|---|
+| 6/2 → 6/16 | 15 days | Vegas with children | **Only window for in-person CSA work this summer.** License cure, tax attorney engagement, Mike Barron crew sessions, mentee onboarding — ALL must happen here. Hawaii flight 6/17 is hard deadline. |
+| 6/17 → 7/16 | 30 days | Hawaii with children | Remote work only. Connect with Kayden Radhe (Blue Bottle Love). PI Roadshow 6/18 OFF the table. |
+| 7/17 → 8/7 | 21 days | Alaska / North Pole expedition | Remote work limited (connectivity TBD in remote Alaska). |
+| 8/8 → 8/13 | 6 days | Travel + Wichita settle-in | TIGHT — Alaska return through Wichita school start. Logistics pre-planning essential. |
+| **8/14** | — | **Children start school in Wichita (HARD PIVOT)** | — |
+
+**Summer 2026 conflict resolutions needed:**
+- **Mark Gonzalez bonfire (July, SD)** — overlaps with Hawaii arc.
+  Confirm Mark's date; likely skip 2026.
+- **Liberpulco Apatin Serbia (August)** — overlaps with Alaska arc.
+  Likely off the table for 2026.
+- **PI Roadshow 6/18 (Encino)** — Robert in Hawaii. Skip.
+
 ---
 
 ## 📅 THIS WEEK — Northridge sprint (5/27 → 5/31)
