@@ -31,6 +31,23 @@ Robert is moving items out of the physical cardboard boxes into the
 named stacks. The boxes themselves are being retired in favor of the
 named stacks.
 
+### Legal Paper Stack — sub-stacks (named by Robert 5/31/26)
+
+Within the Legal Paper Stack, Robert has organized sub-stacks by topic.
+Each maps to a Subcategory in this file:
+
+| Sub-stack name | Maps to Subcategory below |
+|---|---|
+| Franchise Tax Board | Sub 5 |
+| IRS | Sub 4 |
+| X-ray license | Sub 7 |
+| Child support | Sub 1.1 + Sub 8 |
+| Chiropractic malpractice | Sub 2 |
+| Insurance policy | (TBD — clarify whether same as malpractice or different) |
+| Application renewal | (TBD — clarify whether same as malpractice/license or different) |
+| CA Chiropractic license renewal | Sub 1.3 + Sub 1.5 |
+| Property tax | Sub 6 *(informational only — no action this cycle)* |
+
 ---
 
 ## 🚨 CRITICAL DATE — 6/17/26 (Wed)
@@ -219,8 +236,8 @@ simultaneously — they often go together.
 - Elizabeth Buenrostro Ginsberg, Treasurer and Tax Collector
 - PO Box 512102, Los Angeles, CA 90051
 - Questions: ttc.lacounty.gov / 888-807-2111
-- **Amount not yet specified by Robert**
-- **Owner:** Robert (review and pay on schedule — annual)
+- **Status (confirmed 5/31/26): INFORMATIONAL ONLY — no action needed this cycle.**
+- **Owner:** Robert (annual obligation; review next bill in 2026/2027 cycle)
 
 ---
 
