@@ -112,7 +112,7 @@ Items to handle BEFORE leaving Northridge for 4+ months:
 | Simon Severino 5/28 meeting prep — 4 Executive Assistants framework | 0% | Define 4 EA roles Claude Code should play. Daily Claude Code use ✓ | Thu 5/28 6 AM PT |
 | Eleanor Bitcoin class — complete the 5 days | 20% | Days 2-5 remaining (Thu 5/28, Fri 5/29, Mon 6/1, Tue 6/2) — all 6-8:30 PM PT | 6/2 |
 | Noel — cryo machine appointment scheduling | 0% | Text/call Noel ASAP for appt before Vegas | By 5/31 |
-| Silver payment to Mark Gonzalez | 0% | Make payment | ~5/31 |
+| **Silver payment to Mark Gonzalez** | Mailed; awaiting receipt confirmation | Robert mailed a check to Mark (5/29/26). Need to confirm receipt: (a) check `zeravicarobert@gmail.com` for any reply from Mark; (b) text or WhatsApp Mark (he's in Puerto Vallarta, MX) to confirm; (c) watch bank account for check to clear. No email confirmation found in `DrZeravicaOffice@gmail.com` (relationship not conducted via that account). | Mark to confirm |
 | Tom Cowan outreach follow-through | 95% | Sent ✓. Confirm Wilkerson heads-up text was sent. Await response (~2 weeks). | n/a — awaiting reply |
 | Depart Northridge → Las Vegas | 0% | Pack, logistics | 5/31 or 6/1 |
 

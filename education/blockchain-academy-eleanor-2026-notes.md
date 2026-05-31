@@ -9,16 +9,20 @@ reference. **Investment:** $1,500 (see CLAUDE.md §20).
 - **Tue 5/26/26 — Day 1** ✅ completed (foundational concepts)
 - **Thu 5/28/26 — Day 2** ✅ completed (mining + paradigm reset +
   trust thesis + HD wallets / Exodus / BitAddress)
-- **One more class — date TBD per Robert 5/29/26** — 6:00 PM PT
-  (Eleanor's standard time)
-- **Follow-up class — ~1 week after the next one** — date TBD
+- **Mon 6/1/26 — Day 3 — 6:00 PM PT** (one more class on standard
+  Eleanor time)
+- **~Mon 6/8/26 — Day 4 / follow-up class — 6:00 PM PT** (one week
+  after Day 3; confirm exact date with Eleanor's text-chat group)
 
-**Schedule revised 5/29/26:** Robert clarified the original 5-day
-plan (Tue/Thu/Fri this week + Mon/Tue next week) may have changed.
-Per his latest: "one more bitcoin class at six p.m. and then a week
-later, I'll follow up class." Verify the actual date of the "one
-more class" with Eleanor's text-chat group; verify the follow-up
-class date a week later.
+**Schedule confirmed 5/29/26:** Robert clarified the original 5-day
+plan compressed to 4 sessions total (instead of 5). Days 1 + 2 done;
+two more remaining (6/1 + ~6/8).
+
+**Logistics for 6/1 (packed day):**
+- 8:00 AM PT — Child Support call (Northridge before departing)
+- Travel: Northridge → Las Vegas (~4-5 hours)
+- 2:00 PM PT — Alex Mandossian call (from Vegas or en route)
+- 6:00 PM PT — Eleanor Bitcoin class Day 3 (from Vegas)
 
 Additional time with Danielle Shahan that Eleanor is offering; group
 (including Robert) invited via the text chat group.
