@@ -264,16 +264,69 @@ Robert's intended outreach, priority.
   international roaming or temporary plan adjustments could prevent
   surprise charges during 4 months abroad.
 
-## ⚪ Running Fist Kung-Fu
+## ⚪ Lou Markstrom — Running Fist Kung-Fu (Australia)
 
-- **Org:** Running Fist Kung-Fu (martial arts school, location TBD)
+- **Name:** Lou Markstrom
+- **Title:** Sibak — Grand Master, 7th Dan
+- **Org:** Running Fist Kung-Fu (Australia)
+- **Phone:** 0405 559 149 (Australian mobile format)
+- **Email:** lou@runningfistkungfu.com
+- **Website:** runningfistkungfu.com
 - **Tagline:** *"A modern perspective on ancient disciplines"*
-- **Contact info:** None visible on the captured side (design-only).
-  Other side of card likely has phone/address/instructor name.
 - **Strategic context:** None for CSA. Personal interest if Robert
-  practices or wants to.
-- **Action:** Park. Re-capture other side of card if Robert wants
-  the contact info.
+  practices martial arts.
+- **Action:** Park. Community / personal interest only.
+
+## ⚪ Joy Noone — MANCAMP (Western MA)
+
+- **Name:** Joy Noone
+- **Title:** Founder, MANCAMP
+- **Tagline:** *"Building confidence in Mankind"*
+- **Phone:** 413.222.8286 (Western Massachusetts)
+- **Email:** Joy@JoyNoone.com
+- **Website:** JoyNoone.com
+- **Services:** Farming, Welding, Bug Out Rigs, Self Reliance,
+  Problem Solving, Consultations
+- **Community context:** Sovereignty / preparedness audience. Skills-
+  based (vs. legal-structure consultants like Atwater / Gronski).
+- **Action:** Park. Community contact. Skills could matter for
+  practical preparedness if Robert ever needs it, but not
+  CSA-strategic.
+
+## ⚪ Dawn Dussault — Athena Inc / International Security Advisor (Montreal)
+
+- **Name:** Dawn Dussault
+- **Title:** International Security Advisor
+- **Org:** Athena Inc
+- **Phone:** 1-514-970-7102 (Montreal, Quebec, Canada)
+- **Email:** Dawn189@protonmail.com (encrypted email = privacy focus)
+- **Rumble handle:** Dawn189
+- **Card aesthetic:** Sacred geometry + all-seeing-eye design
+- **Community context:** Privacy-focused sovereignty community
+  (Rumble + ProtonMail + vague title). Same community pattern as
+  Kim Yeater (Take Your Power Back) elsewhere in this file.
+- **Action:** Park. Community contact. *Could* be useful as OPSEC /
+  personal-security advisor for international travel (Serbia 8/10
+  → 9/10, Poland/Czech/Slovakia 9/10 → 10/10), but verify what
+  "security advisor" actually means — title is vague without
+  visible credentials.
+
+## ⚪ Christopher Gronski — additional context (back of card)
+
+The back of Christopher Gronski's American Supreme Law card lists
+"Some favorite Sites":
+- freedomsphoenix.com
+- Wearechange.org
+- Destinationfreedom.org *(his own)*
+- Freetalklive.com
+- FSP.org *(Free State Project)*
+- Anarchapulco.com *(Robert's community — explains how they met)*
+- Localsilvermint.com
+
+This confirms direct overlap between Christopher Gronski's network
+and Robert's Anarchapulco community. The pattern is consistent:
+sovereignty / freedom / private-trust / sound-money movement.
+Caution flag (separate section above) stands.
 
 ## ⚪ Michael J. Gronski — Flameworker, Inspirald Glass Ash Memorials
 
