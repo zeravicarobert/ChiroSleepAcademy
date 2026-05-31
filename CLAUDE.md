@@ -175,26 +175,60 @@ materials he reviews. This is durable brand-voice context.
 - Mechanistic biochemistry as the lead (it can support, not lead)
 - Hype, FUD, bro language (already in §4 non-negotiables)
 
-**Etymological grounding (Robert's principled objection, 5/29/26):**
+**Etymological + Scriptural grounding (Robert's principled objection, 5/29/26):**
 
 The root of "pharmaceutical" is the ancient Greek **φάρμακον
-(pharmakon)** — a word that simultaneously meant **remedy, poison,
-AND sorcery / witchcraft.** The word's deliberate ambiguity about
-whether a substance heals or harms is well-documented in classical
-Greek scholarship.
+(pharmakon)**. In *classical* Greek, the word was deliberately
+ambiguous — meaning **remedy, poison, AND sorcery / magical
+preparation** simultaneously.
 
-Robert's aversion to the word is therefore principled, not stylistic:
-he reads "pharmaceutical-grade" as marketing that invokes (whether
-or not the sellers realize it) a word root meaning sorcery /
-ambiguous-substance. This frames his preference for **structural,
-biomechanical, anatomical** language as positively grounded — those
-words mean what they say, without the etymological double meaning
-the pharma vocabulary carries.
+**More important for Robert's worldview:** the derived noun
+**φαρμακεία (pharmakeia)** appears five times in the New Testament,
+and the **KJV (King James Version) consistently translates it as
+"sorceries" or "witchcraft"** — always negatively:
 
-When evaluating future vendor pitches or writing CSA copy: this
-isn't just a stylistic preference. It's a worldview alignment.
-Pharma-grade language is *out*. Structural / mechanism / anatomy is
-*in*.
+- **Galatians 5:20** — listed among "works of the flesh" alongside
+  idolatry, hatred, strife
+- **Revelation 9:21** — "neither repented they of their murders, nor
+  of their sorceries"
+- **Revelation 18:23** — "for by thy sorceries were all nations
+  deceived"
+- **Revelation 21:8** — "sorcerers" (pharmakoi) listed with those
+  excluded from the New Jerusalem
+- **Revelation 22:15** — same, "sorcerers" outside the city
+
+In biblical Greek, pharmakeia is unambiguously a spiritually negative
+practice. The New Testament writers chose the word with intention.
+**The KJV reader — Robert's framework — encounters "pharmaceutical"
+as etymologically descended from a word the New Testament calls
+sorcery.**
+
+Therefore Robert's aversion is principled and biblically grounded,
+not stylistic. Modern pharma marketing uses a word root whose biblical
+translation is sorcery, and treats it as a quality claim. From the
+KJV-reading framework, that's a meaningful spiritual problem.
+
+**CSA's voice resolves this by using:** structural, biomechanical,
+anatomical — words that describe physical reality without invoking
+the substance-mixing / spiritual-ambiguity / pharmakeia framework.
+
+**When to use this etymology publicly:**
+- Vol 2 curriculum introduction (DC-facing — many are KJV-literate)
+- CSA category-positioning copy for sovereignty / Tom Cowan / New
+  Biology / holistic-medicine audiences
+- Robert's spoken pitch in those rooms
+
+**When NOT to lead with this:**
+- General patient-facing copy (most patients don't share the KJV
+  framework; the argument may alienate)
+- Standard medical-professional outreach (sleep MDs, ENTs, AACP
+  dentists — they use pharma vocabulary professionally)
+- Channel A SDI patients (working-class CA workers — don't bring
+  theology into their workers' comp / income protection
+  conversations)
+
+The etymology is *internal-voice* and *aligned-audience* material.
+Don't use it where it doesn't fit.
 
 ---
 
