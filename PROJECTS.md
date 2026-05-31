@@ -66,6 +66,13 @@ Mandossian know in advance — relationship management matters.
 
 Items to handle BEFORE leaving Northridge for 4+ months:
 
+**Before 6/17 (Hawaii flight) — T-Mobile international plan setup**
+via Yoshi Abrenica at the Northridge T-Mobile store (19420 Nordhoff
+St. A; 818.717.9500). Hawaii is domestic but confirm; Serbia / Poland
+/ Czech Republic / Slovakia (8/10-10/10) need an international plan
+opted-in BEFORE landing to avoid surprise charges.
+
+
 1. **Camera install** for monitoring Northridge property during
    travel — Peter + Santiago + group help wanted
 2. **Chiropractic table — move from storage into the chiropractic
