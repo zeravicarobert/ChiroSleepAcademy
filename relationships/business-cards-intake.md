@@ -201,6 +201,27 @@ Robert's intended outreach, priority.
 - **Action:** Quick website visit — usage info typically on product
   pages. Not a relationship to develop, just product info needed.
 
+## ⚪ Michael J. Gronski — Flameworker, Inspirald Glass Ash Memorials
+
+- **Name:** Michael J. Gronski
+- **Title:** Flameworker
+- **Business:** Inspirald Glass Ash Memorials
+- **Phone:** 1-603-456-5091 (New Hampshire area code)
+- **Email:** MJG_Productions@yahoo.com
+- **Website:** mjgproductionsinspiraldashmemorials.com *(long URL —
+  verify by visiting)*
+- **QR codes on card:** Website + Facebook (URLs would need scanning)
+- **Tagline:** *"Honor and Remember Those who came Before Us"*
+- **What he does:** Glass artist who creates flameworked memorial
+  pieces, including glass orbs containing cremated remains (ash-in-
+  glass memorials).
+- **Where met:** Unknown — Robert hasn't yet provided context. Likely
+  Confluence / Anarchapulco / sovereignty community based on the
+  spiritual / memorial-craft framing.
+- **Action:** Park. No CSA-strategic connection apparent. If Robert
+  recalls why he's interesting, upgrade triage; otherwise leave as
+  community contact.
+
 ---
 
 ## ❓ Open: Hill Country Referral — 830-460-3690
