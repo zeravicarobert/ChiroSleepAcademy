@@ -1383,15 +1383,37 @@ Robert has three children:
   initiates a Max conversation, hold space — do not pivot to
   problem-solving or advice unless explicitly asked.
 
+  **Update 5/29/26:** Robert is engaging a Wichita-area juvenile
+  defense attorney for Max's speeding case. New June 2026
+  deliverable in `JUNE_2026_GOALS.md`.
+
 - **Zac** — 2nd son. Spending summer 2026 with Robert in Las Vegas
   starting 6/2/26 at 6:40 PM. Starts school in Wichita, KS on 8/14/26.
 
 - **Adelaide** — youngest child. Same summer arc as Zac.
 
-The summer 2026 plan is built around Zac and Adelaide. Max is not in
-the summer plan because Max is not choosing to be. That is a true
-thing about the operator's reality; it is not something to be solved
-in a session.
+The summer 2026 plan (6/2 → 8/8 continuous with Robert) is built
+around Zac and Adelaide. Max is not in the summer plan because Max
+is not choosing to be. That is a true thing about the operator's
+reality; it is not something to be solved in a session.
+
+### Voice / vocabulary discipline
+- **"Children," not "kids."** Robert specifically requested this
+  correction 5/29/26. Reason: *"Kids are goats."* Apply to all
+  written or spoken references in chat, files, drafts, etc.
+
+### Family 2.0 (Robert's chosen circle, named 5/29/26)
+Beyond his three children (the family-of-origin layer), Robert
+refers to his chosen circle as **Family 2.0**:
+
+- **Delfina** (relationship-to-Robert TBD — presumed close partner)
+- **Peter** (close friend / informal advisor; the Connector)
+- **Santiago / Isaiah** (videographer/editor on Mike Barron crew)
+- **Ri** (Robert's current VA, CSA-side)
+
+By summer 2026 end (8/8), Robert wants Zac and Adelaide to **know
+and be friends with** Family 2.0 — they are part of the children's
+absorbed-into-the-ecosystem experience.
 
 Other family/close-circle people surfaced so far:
 - **Delfina** — last day at LAUSD is 6/11/26. Relationship to Robert
@@ -1475,6 +1497,89 @@ his stated ordering is:
 Use this stack as the tie-breaker when multiple things are competing
 for Robert's time and attention. The VA SCD claim explicitly sits in
 his priority list, not just as a Channel B build step.
+
+### Chiro 1.0 / 2.0 / 3.0 — Robert's three-track product showcase (named 5/29/26)
+
+Robert's funnel (Mike Barron's lane) showcases three distinct
+chiropractic tracks Robert operates across. The Drive has folders
+for each. This is the **public-facing product architecture** —
+how CSA is sold to prospects.
+
+| Track | Description | Drive folder | Maps to |
+|---|---|---|---|
+| **Chiro 1.0** | Traditional Chiropractic Diversified | `Chiro 1.0 - Traditional Chiropractic Diversified` | Robert's traditional in-person DC services |
+| **Chiro 2.0** | Chiropractic Sleep Academy Hot Springs | `Chiro 2.0 - ChiroSleepAcademy Hotsprings` | Structural Airway Chiropractic + VAET at Death Valley Hot Springs Resort (§1, §8 Step 4) |
+| **Chiro 3.0** | Telehealth / EDD / Disability | `Chiro 3.0 - Telehealth/EDD/Disability` | Channel A — CA EDD SDI / Protect Your Income (§17) |
+
+This naming convention is **Robert's preferred public framing.**
+Use it in CSA landing-page copy, video content, outreach materials,
+and any funnel-stage messaging. It positions CSA's evolution as a
+generational upgrade (1.0 → 2.0 → 3.0) rather than three
+disconnected services.
+
+### Lunisolar calendar — workshop scheduling (set 5/29/26)
+
+Robert wants CSA workshops scheduled on the **lunisolar calendar**
+(per `worldslastchance.com`), NOT the Gregorian calendar:
+
+- **Weekly workshop:** 1st day of the week following a new moon day
+- **Monthly workshop:** on New Moon day itself
+
+**Implications for Claude:**
+- Workshop dates will NOT follow a consistent "every Wednesday"
+  pattern on standard calendars
+- They move month to month based on lunar phases
+- When scheduling, reference worldslastchance.com or an
+  astronomical new-moon calendar
+- This is a brand/operations decision that signals to certain
+  audiences (sovereignty, spiritual, holistic); plan messaging
+  accordingly
+
+**Connection to Robert's broader worldview:** This calendar
+preference ties to the spiritual/religious framework Robert
+mentioned earlier (the "Creator's calendar" at worldslastchance.com,
+referenced alongside his cult-background disclosure). It is a real
+personal/spiritual practice he is integrating into CSA operations,
+not a passing whim.
+
+### CSA mentee model — PROFIT-SHARING, not paid (shift 5/29/26)
+
+**Major architectural shift** in Robert's mentee model, named
+5/29/26:
+
+- **Old model** (§8 Step 6, etc.): Mentees pay Robert upfront —
+  $297/mo Membership, $1,500-$3,500 Onboarding, $10,000 Implementation,
+  $25,000 Inner Circle.
+- **New model (Robert's stated preference):** Profit-sharing /
+  syndication. Mentees do not pay Robert upfront. Instead, Robert
+  syndicates into their CA-licensed DC offices to provide:
+  - Sleep & Airway cases (CSA Vol 2 / UAOSA Recovery Program)
+  - CA EDD SDI training (Channel A)
+  - Backend protocols + Robert's brand
+  
+  Mentees provide local presence, CA license, office, patient care
+  delivery. **Revenue splits between Robert and mentee.**
+
+**Implications:**
+- Aligns incentives (Robert wins when mentees win)
+- Lower upfront friction for mentees
+- Requires written profit-share agreements (attorney-drafted)
+- Manfredi (D001), Lucas (D003), Collins (D002) all 3 are CA DCs —
+  natural first cohort
+- May coexist with the old paid-mentee tiers (for mentees outside
+  CA who can't syndicate into Robert's CA SDI work)
+
+**Open scope questions** (deferred until daylight hours):
+- Default split percentage?
+- Marketing / intake / overhead allocation?
+- CSA brand IP — Robert-owned, co-branded, or licensed?
+- Departure terms?
+- Referral attribution between Robert and mentee?
+
+This shift will likely require updating §7 (Heal the Healer First)
+and §8 (Productized Pathway) once the model is locked. **For now,
+both models coexist in memory** — the paid tiers remain valid for
+non-CA mentees and non-syndication relationships.
 
 ### Communities & lifestyle programs Robert is involved with
 Beyond his mentor stack, Robert participates in (or is interested in):
