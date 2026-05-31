@@ -1370,8 +1370,8 @@ Robert's full travel arc through October:
 | 7/17 → 8/7 | 21 days | **🧊 Alaska expedition (with children)** | Specifically: Bering Strait area — westernmost Alaska, closest to International Date Line / Russia. *Nome / Wales / Little Diomede* territory. Serious logistics with two children. |
 | 8/8 → 8/10 | 3 days | **Los Angeles** | Children fly to Wichita on/before 8/10 (mother's home — Robert does NOT have housing there). |
 | **8/10** | — | **Children → Wichita to mother (school start ~8/13 or 8/14 — verify with Sedgwick County KS school district)** | — |
-| 8/10 → 9/10 | 31 days | **🇷🇸 Serbia** | Liberpulco Apatin event is in Serbia — likely ON the calendar now (Peter may join). |
-| 9/10 → 10/10 | 30 days | **Poland + Slovakia** | Robert wrote "chekoslovakia" — interpreting as Czech Republic + Slovakia (the historical Czechoslovakia). |
+| 8/10 → 9/10 | 31 days | **🇷🇸 Serbia** | LOCKED — Liberpulco Apatin in August; flight to Serbia via LAX already booked. Peter may join. |
+| 9/10 → ~10/10 | 30 days | **Poland + Czech Republic + Slovakia** | After Serbia. Order: Poland first, then Czechoslovakia (Czech + Slovakia). |
 | 10/11 | — | **Back in Los Angeles** | — |
 
 ### ⚠️ Calendar conflict needing decision
@@ -1379,22 +1379,28 @@ Robert's full travel arc through October:
 **Pathfinder Mastermind: 10/1 → 10/4, Mill Valley, CA** (Tier 1
 $3,000 already paid).
 
-Robert's current European leg puts him in Poland/Slovakia through
-**10/10** — he'd miss Pathfinder entirely.
+**Locked 5/29/26:** Robert's flight to Serbia via LAX is BOOKED;
+Liberpulco Apatin is in August in Serbia; he must go Serbia first.
+Therefore the European order is locked as:
 
-**Robert leaning (5/29/26):** *"Re-order Europe. I might just go to
-Serbia and do Poland and Chekoslovakia earlier."* Interpretation
-TBD — does this mean:
+- **8/10 → 9/10:** Serbia (Liberpulco Apatin event)
+- **9/10 → ~10/10:** Poland + Czech Republic + Slovakia
+- **10/11:** Back to LA
 
-- **Option A:** Poland/Slovakia first (8/10 → 9/10), Serbia second
-  (9/10 → 9/29), back to LA in time for Pathfinder 10/1? *(Most
-  efficient; preserves all stops.)*
-- **Option B:** Compress total Europe time and return ~9/29?
-- **Option C:** Skip Pathfinder anyway?
+**This makes Pathfinder 10/1-4 a hard conflict** — Robert will be in
+Poland or Czechoslovakia. Three options remain:
 
-**Robert to decide.** Option A is the version that preserves
-everything — recommended unless there's a Serbia-specific event
-that requires August timing (Liberpulco Apatin?).
+1. **Skip Pathfinder** — eat the $3,000, free up the time. Tell
+   Alex Mandossian early so the relationship is preserved.
+2. **Fly Europe → SFO for the event, fly back to finish trip** —
+   extra $1.5K-3K in flights + 6 days disruption. Preserves the
+   Pathfinder seat + the relationship deepening in Mill Valley.
+3. **Cut the European trip short** — leave Poland/Slovakia early
+   (~9/29) to return for Pathfinder. Loses ~10 days of trip but
+   preserves both the Serbia + Pathfinder commitments.
+
+**Robert to decide.** No further reordering options remain because
+Serbia must be August (Liberpulco) AND the flight is booked.
 
 ### Other calendar notes
 

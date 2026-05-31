@@ -6,11 +6,19 @@ reference. **Investment:** $1,500 (see CLAUDE.md §20).
 
 ## Class schedule (rolling)
 
-- **Tue 5/26/26 — Day 1** (foundational concepts, completed)
-- **Thu 5/28/26 — Day 2 — topic: mining**
-- **Fri 5/29/26 — Day 3**
-- **Mon 6/1/26 — Day 4**
-- **Tue 6/2/26 — Day 5**
+- **Tue 5/26/26 — Day 1** ✅ completed (foundational concepts)
+- **Thu 5/28/26 — Day 2** ✅ completed (mining + paradigm reset +
+  trust thesis + HD wallets / Exodus / BitAddress)
+- **One more class — date TBD per Robert 5/29/26** — 6:00 PM PT
+  (Eleanor's standard time)
+- **Follow-up class — ~1 week after the next one** — date TBD
+
+**Schedule revised 5/29/26:** Robert clarified the original 5-day
+plan (Tue/Thu/Fri this week + Mon/Tue next week) may have changed.
+Per his latest: "one more bitcoin class at six p.m. and then a week
+later, I'll follow up class." Verify the actual date of the "one
+more class" with Eleanor's text-chat group; verify the follow-up
+class date a week later.
 
 Additional time with Danielle Shahan that Eleanor is offering; group
 (including Robert) invited via the text chat group.
