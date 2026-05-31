@@ -201,6 +201,34 @@ Robert's intended outreach, priority.
 - **Action:** Quick website visit — usage info typically on product
   pages. Not a relationship to develop, just product info needed.
 
+## ⚪ Yoshi Abrenica — T-Mobile Senior Mobile Expert (Northridge)
+
+- **Name:** Yoshi Abrenica
+- **Title:** Senior Mobile Expert
+- **Phone:** 818.717.9500
+- **Email:** Joslyn.Abrenica2@T-Mobile.com *(email uses "Joslyn" — legal
+  name vs. "Yoshi" nickname, or shared store inbox)*
+- **Store Number:** 1SOH *(could be 1S0H — 0 vs O ambiguous)*
+- **Store Address:** 19420 Nordhoff St. A, Northridge, CA 91324
+- **Strategic context:** Robert's T-Mobile rep. Robert has a $255.27/mo
+  T-Mobile bill (see CLAUDE.md §20). Practical for: bill inquiries,
+  plan changes, device purchases, international roaming setup
+  (Hawaii 6/17, Alaska 7/17, Serbia 8/10, Poland 9/10).
+- **Action:** Park. Use for plan review before international travel —
+  international roaming or temporary plan adjustments could prevent
+  surprise charges during 4 months abroad.
+
+## ⚪ Running Fist Kung-Fu
+
+- **Org:** Running Fist Kung-Fu (martial arts school, location TBD)
+- **Tagline:** *"A modern perspective on ancient disciplines"*
+- **Contact info:** None visible on the captured side (design-only).
+  Other side of card likely has phone/address/instructor name.
+- **Strategic context:** None for CSA. Personal interest if Robert
+  practices or wants to.
+- **Action:** Park. Re-capture other side of card if Robert wants
+  the contact info.
+
 ## ⚪ Michael J. Gronski — Flameworker, Inspirald Glass Ash Memorials
 
 - **Name:** Michael J. Gronski
