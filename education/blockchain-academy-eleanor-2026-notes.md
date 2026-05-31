@@ -256,6 +256,19 @@ Additional time with Danielle Shahan that Eleanor is offering; group
 - **"Kicking the Hornet's Nest"** — additional education (Eleanor
   reference; Robert to follow up on what specifically)
 
+## Crypto assets Robert has (captured 5/30/26 ~2 AM PT)
+
+- **$5 Edge Crypto Gift Card** — physical card from Edge Wallet
+  (`edge.app`). Worth $5 in BTC. Two redemption paths:
+  - Install Edge app → create wallet → scan QR → import $5 → optionally
+    transfer to Exodus (great hands-on Bitcoin transaction learning)
+  - Sweep BTC address directly into Exodus (more technical; skips
+    Edge install)
+  - Origin TBD (Confluence vendor, Eleanor's class, or other event).
+- **Exodus wallet** — installed + seed phrase recorded 5/29/26 (per
+  `education/exodus-wallet-and-seed-phrase-setup.md`). Currently
+  empty pending first deposit.
+
 ## Action items for Robert
 
 1. **Coin-flip Private Key exercise** — flip a coin 256 times,
