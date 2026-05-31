@@ -1064,6 +1064,11 @@ who aren't part of the mentor stack but are shaping his thinking:
   Robert not yet logged; presumed close (spouse / partner / family).
 - **Noel** — Robert's cryo machine repair contact. Needs scheduling
   by ~5/31/26 for troubleshooting before Vegas departure.
+- **Sander** — built the "Ancient Tesla Technology" device for
+  Robert that's currently not working well (flyback transformer
+  replacement context, discussed 5/26/26). Wants a Zoom call to
+  install the parts. Active follow-up — schedule the Zoom. Distinct
+  from Noel (different device, different person).
 
 ---
 
