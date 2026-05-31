@@ -53,26 +53,38 @@ You can install Exodus on more than one device later.
 
 Find the Exodus icon. Tap or click it.
 
-## Step 6. Click "Create New Wallet"
+## Step 6. Your wallet is already created (this is important!)
 
-Pick **Create New Wallet** (not "Restore Wallet").
+**On Exodus desktop (version 26.x and later):**
 
-## Step 7. Set a strong password
+Exodus **automatically creates your wallet the first time you open
+it.** You don't have to click "Create New Wallet" — there isn't a
+button for that.
 
-This password unlocks the app on this device.
+What you'll see instead: a **"Start Your Journey"** screen with three
+choices:
+- **Make Your First Deposit** (Receive Crypto)
+- **Buy Crypto** (Check Prices)
+- **Already Have a Wallet?** (Import Wallet)
 
-A good password:
-- At least 12 letters, numbers, and symbols
-- NOT a word you've used before
-- NOT your birthday or name
+**Don't click any of these three buttons yet.** Your wallet already
+exists in the background. You just need to find and record the
+**seed phrase** before doing anything else.
 
-**Write the password down on paper.** Keep it in a different place
-from your seed phrase.
+**On Exodus mobile (iPhone / Android):**
 
-## Step 8. STOP. Do Part 2 right away.
+You may see a "Create New Wallet" button on first launch. If so,
+tap it. Then jump to Part 2.
 
-Don't put it off. Don't add Bitcoin yet. Record your seed phrase
-first.
+## Step 7. STOP. Go to Part 2 right now.
+
+The most dangerous moment is **right now**: the wallet exists,
+the seed phrase exists, but you haven't written it down yet. If
+your computer crashes or your phone breaks before you record the
+seed phrase, the wallet is permanently lost.
+
+Don't add Bitcoin. Don't explore the app. Just go to Settings
+and record the seed phrase first.
 
 ---
 
@@ -87,10 +99,16 @@ your whole wallet on any device.
 
 ## Step 1. Find the seed phrase in Exodus
 
-1. Tap or click **Settings** (gear icon ⚙️)
-2. Tap or click **Backup**
-3. Type your password
-4. Exodus shows the **12 words**
+1. Click the **⚙️ gear icon in the TOP-RIGHT of the Exodus window**
+   (past the history/clock and help/profile icons, all the way to
+   the right edge)
+2. In Settings, click **Backup** on the left side
+3. **Set a password if you haven't yet** (strong: 12+ chars, mix of
+   letters/numbers/symbols, not anything you've used before — also
+   write it on paper, separate from the seed phrase)
+4. Click **View Secret Phrase** (or similar wording)
+5. Re-enter your password if asked
+6. Exodus shows the **12 words**
 
 ## Step 2. Get ready to write
 
