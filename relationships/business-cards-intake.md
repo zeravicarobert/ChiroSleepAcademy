@@ -16,6 +16,31 @@ Robert's intended outreach, priority.
 
 ---
 
+## 🔥 Steve McNeal — Death Valley Hot Springs Resort
+
+- **Relationship:** Friend; owner of Death Valley Hot Springs Resort
+  (the Tecopa venue Robert uses for VAET)
+- **What he's offering Robert (confirmed 5/29/26):**
+  - **$100,000:** property next to Death Valley Hot Springs Resort
+    (Tecopa, CA)
+  - **$50,000:** land between Vegas and the hot springs, at
+    **Charleston View** (Inyo County, CA-NV border, between Pahrump
+    and Tecopa)
+- **Why strategically aligned:** Fits Robert's tiny-house-at-Tecopa
+  vision; Jeremy Miller is the design partner (this file above).
+  Steve is also operating the venue Robert's clinical practice
+  depends on — relationship is multi-functional.
+- **⚠️ Real-estate caution:** Active ~$434K IRS + ~$13.5K FTB
+  exposure (`legal/active-paperwork.md`) means buying real estate
+  NOW creates fraudulent-conveyance risk. **Do NOT commit until tax
+  attorney has weighed in.** Safer alternative: ask Steve for a
+  written offer with Q1 2027 closing — gives Robert time to resolve
+  IRS first.
+- **Action (now):** Get contact info — phone, email. Confirm with
+  Steve which property he's offering at which price. Ask if he can
+  hold the offer for 6-12 months. Have tax attorney review before
+  any commitment.
+
 ## 🔥 Angel Smile Dental Group (Chatsworth)
 
 - **Address:** 7300 Topanga Canyon Blvd #6, Chatsworth, CA 91303
