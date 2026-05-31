@@ -1,9 +1,33 @@
 # Outreach — Jason Miller, Dynamic Chiropractic / MPA Media
 
-**Status:** Active relationship; warm; needs scheduled Zoom follow-up
+**Status:** Active relationship; warm; needs Zoom-invite outreach
 **First met:** Parker Seminar 2/2026, Las Vegas
-**Robert's note:** Jason has emailed Robert; Robert proposed Zoom;
-Jason's reply is the unfinished thread
+
+**⚠️ IDENTITY VERIFICATION OPEN (5/28/26):** Robert mentioned he
+*"believes Jason Miller is Jeremy Miller"* and provided
+`jeremy@geoalchemy.studio`. **Almost certainly two different
+people:**
+- *Jason Miller* — `jmiller@mpamedia.com` — 714-983-5188 —
+  Dynamic Chiropractic / MPA Media — met at Parker Seminar Las Vegas
+- *Jeremy Miller* — `jeremy@geoalchemy.studio` — interior
+  designer + healthy construction / tiny houses — met at FabLife
+  San Diego (see PROJECTS.md outreach section)
+
+Robert to confirm: same person, or two? Until confirmed, treating
+as two separate people. Update this file once Robert verifies.
+
+**MPA Media** — parent company of Dynamic Chiropractic. The acronym
+"MPA" Robert asked about: not 100% certain of the original meaning.
+Possibilities include "Multi-Practitioner Audience" or similar
+trade-publication brand. Worth a quick lookup on mpamedia.com or
+direct question to Jason. Brand identity (not technical) more than
+literal expansion.
+
+**Robert's note (5/28/26 update):** No unanswered email from Jason in
+`DrZeravicaOffice@gmail.com`. Robert needs to send the next email
+inviting Jason to a Zoom. Once Robert decides which of his email
+accounts to send from (DrZeravicaOffice or zeravicarobert), Claude
+can draft.
 
 ## Contact
 

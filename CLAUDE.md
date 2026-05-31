@@ -1484,8 +1484,9 @@ Beyond his mentor stack, Robert participates in (or is interested in):
   Meetings on Mondays.
 - **SupraHuman** — physical fitness / body-shape program.
 - **Anarchapulco / Liberpulco** — Jeff Berwick's community. Robert is
-  interested in joining for the community fit; Liberpulco's Serbia
-  event in August 2026 is a possible attendance window (§18). Peter
+  interested in joining for the community fit; **Liberpulco in
+  Apatin, Serbia** (affiliated with the Liberland micronation project)
+  is a possible attendance window in August 2026 (§18). Peter
   may meet him there.
 - **FabLife** (San Diego) — a connection hub in Robert's network.
   Robert met **Alex Mandossian, Jeremy Miller** (tiny houses /

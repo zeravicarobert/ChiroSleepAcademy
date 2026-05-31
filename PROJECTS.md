@@ -28,6 +28,15 @@
 
 ---
 
+## 🚐 6/4/26 SAN DIEGO TRIP — additions
+
+| Item | Detail |
+|---|---|
+| Visit Peter + Santiago in SD | 6/3 or 6/4 (per CLAUDE.md §18) |
+| **En-route stop: copper tub for sale off the 101** | POC contacts Robert on FB Messenger. Inquire / inspect / decide on purchase during the SD trip. |
+
+---
+
 ## 📅 THIS WEEK — Northridge sprint (5/27 → 5/31)
 
 | Project | % | Next action | Deadline |
@@ -181,7 +190,8 @@ each one is a real decision point:
 | **Jeremy Miller** (tiny houses / healthy houses) | NEW 5/28/26 | **Confirmed context:** interior designer with construction experience; met at FabLife in San Diego ~Mar-Apr 2026. Message: tiny homes + healthy / non-toxic construction materials. **Associated with Robert's vision for a tiny-house at Death Valley Hot Springs Resort / Tecopa.** Strategic role: physical-space partner for the VAET retreat experience. Next: schedule a vision conversation with Jeremy about Tecopa tiny-house build-out concept. |
 | **Jason Miller — Dynamic Chiropractic / MPA Media** | Warm, follow-up needed | Met Parker 2/2026. Floated webinar + 3-month promotional campaign targeting DCs through Dynamic Chiropractic. Major potential acquisition channel for CSA Vol 1/Vol 2. **Full strategy + open questions: `outreach/2026-jason-miller-mpa-media.md`.** Next: schedule Zoom; bring CSA container framing + "Get what I get" pricing pitch + free-HST-for-DCs offer. |
 | **Curtis Martin DC — Shockwave / Hydrowave** | PARKED — evaluate Sept 2026 | Vendor-hall pitch for Hydrowave acoustic-wave device. Comes bundled with protocols + sales training + scripts + fee structure + digital marketing + upgradeable unit. **Recommendation: do NOT decide before Sept** given URGENT legal/tax items + family pivot 6/2-8/14. Stay warm with Curtis via short email; revisit in Wichita-base period. Full evaluation + open questions: `outreach/2026-curtis-martin-shockwave-hydrowave.md`. |
-| **DC network targets — NEW from 5/28/26 notes** | Not yet outreached | Add to CSA Relationship Strategies sheet: **Dr. Dan Murphy DC** (BNS / ballooning teacher — *already on warm list per §6*); **Dr. Greenawalt DC** (Foot Levelers); **Dr. Marc Sanna DC** (Breakthrough Practice Management; his father is also a DC); **Dr. Adam Del Torto DC** (CFR / old ballooning teacher; Robert previously discussed with Nate at ChiroSecure). | Next outreach pass |
+| **DC network targets — NEW from 5/28/26 notes** | Not yet outreached | Add to CSA Relationship Strategies sheet: **Dr. Dan Murphy DC** (BNS / ballooning teacher — *already on warm list per §6*); **Dr. Greenawalt DC** (Foot Levelers); **Dr. Marc Sanna DC** (Breakthrough Practice Management; his father is also a DC). | Next outreach pass |
+| **Dr. Adam Del Torto DC — NOT a warm outreach target** | DO NOT contact | At the end of an annual CFR seminar, Del Torto **publicly screamed at Robert** in front of remaining attendees, claiming that Robert's double-ballooning was illegal. Embarrassing moment. Relationship is contentious / hostile. Do NOT include in any CSA outreach. If his name surfaces in future CFR-related discussions, treat as historical context only. |
 
 ---
 
@@ -223,9 +233,8 @@ mentor's work produce or save this week?"
 |---|---|---|
 | ChiroTouch EHR onboarding | 50% | Session 2 today |
 | SimpleTalk AI call agent | 10% | Learning curve |
-| **HJ Ross Billing & Coding (Perla) — Sam Zoom for Practice Management** | 0% | Robert pays HJ Ross for billing/coding services. Perla (HJ Ross contact) recommends Robert get a Zoom with Sam (also HJ Ross) about Practice Management. **Easiest path:** call Perla directly to schedule the block with Sam. Decide: what specifically does Robert want from this consultation? (Practice ops? Billing optimization? Coding for CSA's specific procedures? CSA-specific PM advice?) |
+| **HJ Ross Billing & Coding (Perla) — Sam Zoom for Practice Management** | 0% | Robert pays HJ Ross for billing/coding services. Perla (HJ Ross contact) recommends Robert get a Zoom with Sam. **Goal of the Sam conversation (confirmed 5/28/26):** (1) documentation compliance, especially HIPAA; (2) Telehealth vs Telemedicine distinction; (3) staying in CA jurisdiction when doing evaluations; (4) open to general practice management advice. **Easiest path to schedule:** call Perla directly, ask her to block the time with Sam. |
 | **ChiroSecure (Nate) — Malpractice carrier** | Active relationship | Robert previously spoke with Nate re: Dr. Adam Del Torto DC. Standing relationship; no current action. Tied to Subcategory 2 of `legal/active-paperwork.md` (Malpractice Renewal application). |
-| **Compex — Michael McGee, 310-782-1801** | NEW 5/28/26 | Context not provided. Compex is a brand of muscle stim devices. **Robert needs to confirm: who is Michael McGee at Compex, and what's the relevance to CSA?** |
 | **VA structure** (Ri + new VA split) | 25% | **Plan locked 5/28/26:** Ri (current VA) **stays with Robert on CSA** (mentees, outreach, Dr. Collins/Manfredi support, Drive/ops). **New VA** (candidate Ri knows) **takes CA EDD SDI lane** (patient touchpoint sequence per playbook, intake form processing, source outreach support). **Ri trains the new VA.** Next: scope the new VA's job description (~10-20 hrs/wk?), interview Ri's candidate, set budget. Hiring channel: Ri's referral (warm). |
 | CRM selection | 0% | Pick a vendor (HubSpot? Pipedrive? GoHighLevel?) |
 | Asana adoption (Mike Barron rec) | 0% | Decide if needed before CRM |
