@@ -1251,6 +1251,20 @@ handle with care.
 ### Family / June 2026
 - **6/2/26 (Tue) 6:40 PM — Zac and Adelaide arrive Las Vegas.**
   Family time density increases dramatically from this point.
+- **6/18/26 (Wed) 7:00–9:00 PM — PI Roadshow** at Vino Wine and Tapas
+  Room, 18046 Ventura Blvd, Encino 91316.
+  - Host: **Sean Steele** (PI attorney)
+  - Tagline: *"What PI Attorneys Will Not Tell You — Live in Encino"*
+  - Topics: spotting PI attorney red flags, avoiding false advertising
+    + risky marketing tactics, compliant coding/diagnosis/PI billing
+  - Cost: $25
+  - RSVP: **John Talian, 949-551-9000**
+  - **Calendar conflict:** Robert will be in Vegas with children
+    starting 6/2; this would require LA trip + evening away from
+    children. Decision needed: attend (return for the event) or
+    skip. Topic overlaps with HJ Ross Sam Zoom goals (compliant
+    coding, attorney coordination) — useful but not central to
+    Robert's current Channel A SDI lane.
 - **6/3/26 or 6/4/26 — Peter and Santiago in San Diego, CA.** Possible
   visit window if Robert is geographically close.
 - **6/11/26 (Thu) — Delfina's last day at LAUSD.**
