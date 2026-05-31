@@ -1152,6 +1152,23 @@ who aren't part of the mentor stack but are shaping his thinking:
   replacement context, discussed 5/26/26). Wants a Zoom call to
   install the parts. Active follow-up — schedule the Zoom. Distinct
   from Noel (different device, different person).
+- **Steve McNeal** — Robert's friend; **owner of Death Valley Hot
+  Springs Resort** (the venue Robert uses for VAET — see §19
+  geography). Has offered Robert **two real estate options**
+  (confirmed 5/29/26):
+  - **$100,000:** property next to Death Valley Hot Springs Resort
+    (in Tecopa, CA)
+  - **$50,000:** land between Vegas and the hot springs, at
+    **Charleston View** (Inyo County, near the NV-CA border between
+    Pahrump and Tecopa)
+  Both fit Robert's tiny-house-at-Tecopa vision (Jeremy Miller is
+  the design partner per `relationships/business-cards-intake.md`).
+  **⚠️ Real-estate caution:** with active ~$434K IRS matter +
+  ~$13.5K CA FTB exposure (`legal/active-paperwork.md`), buying
+  property now could be characterized as **fraudulent conveyance**
+  — same risk profile as the Sarah Atwater private-trust caution
+  (`vendors/parked-evaluations.md`). **Do NOT commit until tax
+  attorney has weighed in.**
 
 ---
 
@@ -1340,16 +1357,57 @@ handle with care.
 - **6/2/26 (Tue) 6:40 PM — Zac and Adelaide arrive Las Vegas.**
   Family time density increases dramatically from this point.
 
-### Summer trips with children — DATES LOCKED 5/29/26
+### 2026 travel calendar — UPDATED + EXPANDED 5/29/26
 
-Robert's continuous-with-children arc (6/2 → 8/8) now has two
-major travel blocks:
+Robert's full travel arc through October:
 
-- **🌺 Hawaii: 6/17/26 → 7/16/26 (30 days)** — with children. Plan
-  to connect with Kayden Radhe (Blue Bottle Love) while there.
-- **🧊 North Pole / Alaska expedition: 7/17/26 → 8/7/26 (21 days)** —
-  with children. Robert mentioned the trip to Theresa Napolitano
-  (Davie Girl Farm, FL).
+| Window | Days | Where | Notes |
+|---|---|---|---|
+| 5/29 → 6/1 | 3 days | **Northridge LA** | Northridge prep (camera install, chiro table from storage). Possibly meet Peter + Santiago + group at Northridge BEFORE SD trip. |
+| 6/1 → 6/3 | 2 days | **Las Vegas** | Children arrive 6/2 evening. May travel to Death Valley Hot Springs Resort (Tecopa, ~90 min from Vegas). |
+| 6/3 → 6/17 | 14 days | **San Diego** | Bulk of in-CA business window. Peter + Santiago in SD 6/3-6/4. Copper-tub stop en route. |
+| 6/17 → 7/16 | 30 days | **🌺 Hawaii (with children)** | Connect with Kayden Radhe (Blue Bottle Love). |
+| 7/17 → 8/7 | 21 days | **🧊 Alaska expedition (with children)** | Specifically: Bering Strait area — westernmost Alaska, closest to International Date Line / Russia. *Nome / Wales / Little Diomede* territory. Serious logistics with two children. |
+| 8/8 → 8/10 | 3 days | **Los Angeles** | Children fly to Wichita on/before 8/10 (mother's home — Robert does NOT have housing there). |
+| **8/10** | — | **Children → Wichita to mother (school start ~8/13 or 8/14 — verify with Sedgwick County KS school district)** | — |
+| 8/10 → 9/10 | 31 days | **🇷🇸 Serbia** | Liberpulco Apatin event is in Serbia — likely ON the calendar now (Peter may join). |
+| 9/10 → 10/10 | 30 days | **Poland + Slovakia** | Robert wrote "chekoslovakia" — interpreting as Czech Republic + Slovakia (the historical Czechoslovakia). |
+| 10/11 | — | **Back in Los Angeles** | — |
+
+### ⚠️ Calendar conflict needing decision
+
+**Pathfinder Mastermind: 10/1 → 10/4, Mill Valley, CA** (Tier 1
+$3,000 already paid).
+
+Robert's current European leg puts him in Poland/Slovakia through
+**10/10** — he'd miss Pathfinder entirely.
+
+**Robert leaning (5/29/26):** *"Re-order Europe. I might just go to
+Serbia and do Poland and Chekoslovakia earlier."* Interpretation
+TBD — does this mean:
+
+- **Option A:** Poland/Slovakia first (8/10 → 9/10), Serbia second
+  (9/10 → 9/29), back to LA in time for Pathfinder 10/1? *(Most
+  efficient; preserves all stops.)*
+- **Option B:** Compress total Europe time and return ~9/29?
+- **Option C:** Skip Pathfinder anyway?
+
+**Robert to decide.** Option A is the version that preserves
+everything — recommended unless there's a Serbia-specific event
+that requires August timing (Liberpulco Apatin?).
+
+### Other calendar notes
+
+- **Zac plans to move in with Robert for junior + senior year of
+  high school** (confirmed twice with Robert as of 5/29/26).
+  Future-housing planning factor — Robert will need a real Zac-
+  housing setup at some point in the next 1-2 years (depends on
+  Zac's current grade).
+- **Wichita housing clarification:** Robert does NOT have housing
+  in Wichita. When children are not with Robert, they live with
+  their **mother** in Wichita, KS. The 8/10 LA → Wichita flight
+  is the children flying to their mother; Robert does NOT go to
+  Wichita on this arc. Big change from prior assumption.
 
 **Summer 2026 calendar shape after these locks:**
 
@@ -1452,12 +1510,15 @@ get-to-know questions so this section grows session over session.
 
 ### Geography
 - **Primary location:** Northridge, CA (main practice base, mailing
-  ZIP 91324).
+  ZIP 91324). Lives in a **mobile home park** in Northridge; the
+  home has a designated **chiropractic room** where he treats
+  patients.
 - **Secondary location:** Tecopa, CA — the VAET / hot-springs treatment
   site (§7–§8, Step 4). Strategic asset, not just a second home.
   **Specific venue: Death Valley Hot Springs Resort** (the proper-noun
   name to use in any public-facing copy referring to Robert's VAET
-  delivery site).
+  delivery site). **Owner: Steve McNeal** (Robert's friend) — see
+  §16 broader circle.
 - **Not in St. George, UT.** St. George is *Will Spriggs's* location
   (the RPSGT/RST who reads Robert's HSTs at Sleep Center Services).
   Don't confuse the two.

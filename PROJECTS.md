@@ -35,21 +35,71 @@
 | Visit Peter + Santiago in SD | 6/3 or 6/4 (per CLAUDE.md §18) |
 | **En-route stop: copper tub for sale off the 101** | POC contacts Robert on FB Messenger. Inquire / inspect / decide on purchase during the SD trip. |
 
-## ✈️ SUMMER 2026 TRAVEL — LOCKED 5/29/26
+## ✈️ 2026 TRAVEL CALENDAR — UPDATED 5/29/26
 
 | Window | Days | Where | Business implications |
 |---|---|---|---|
-| 6/2 → 6/16 | 15 days | Vegas with children | **Only window for in-person CSA work this summer.** License cure, tax attorney engagement, Mike Barron crew sessions, mentee onboarding — ALL must happen here. Hawaii flight 6/17 is hard deadline. |
-| 6/17 → 7/16 | 30 days | Hawaii with children | Remote work only. Connect with Kayden Radhe (Blue Bottle Love). PI Roadshow 6/18 OFF the table. |
-| 7/17 → 8/7 | 21 days | Alaska / North Pole expedition | Remote work limited (connectivity TBD in remote Alaska). |
-| 8/8 → 8/13 | 6 days | Travel + Wichita settle-in | TIGHT — Alaska return through Wichita school start. Logistics pre-planning essential. |
-| **8/14** | — | **Children start school in Wichita (HARD PIVOT)** | — |
+| 5/29 → 6/1 | 3 days | Northridge LA | **Northridge pre-departure prep window** — see sub-section below |
+| 6/1 → 6/3 | 2 days | Las Vegas (children arrive 6/2 evening) | May travel to Death Valley Hot Springs Resort |
+| 6/3 → 6/17 | 14 days | **San Diego** | **Bulk of in-CA business window.** License cure + tax attorney + Mike Barron crew + mentee onboarding ALL must happen here. Hawaii flight 6/17 is hard deadline. |
+| 6/17 → 7/16 | 30 days | Hawaii (with children) | Remote work only. Connect with Kayden Radhe. PI Roadshow 6/18 OFF the table. |
+| 7/17 → 8/7 | 21 days | Alaska expedition (with children) — Bering Strait area | Remote work limited (connectivity TBD). |
+| 8/8 → 8/10 | 3 days | Los Angeles | Children fly to Wichita 8/10 (to mother — Robert does NOT have Wichita housing). |
+| 8/10 → 9/10 | 31 days | **Serbia** | Liberpulco Apatin in Serbia — now likely ON the calendar (Peter may join). |
+| 9/10 → 10/10 | 30 days | **Poland + Slovakia** | ⚠️ Conflicts with Pathfinder 10/1-4. |
+| 10/11 | — | Back in LA | — |
 
-**Summer 2026 conflict resolutions needed:**
-- **Mark Gonzalez bonfire (July, SD)** — overlaps with Hawaii arc.
+### ⚠️ Pathfinder Mastermind conflict — DECISION NEEDED
+
+Pathfinder is 10/1-4 in Mill Valley, CA. Tier 1 $3,000 already paid.
+Current Europe leg has Robert in Poland/Slovakia through 10/10.
+
+**Robert leaning toward re-ordering Europe** (5/29/26): do Poland/
+Slovakia first (8/10 → 9/10), then Serbia second (9/10 → 9/29),
+back to LA in time for Pathfinder 10/1.
+
+**Decision needed by:** Before booking flights to Europe (probably
+late June or early July). If skipping Pathfinder, let Alex
+Mandossian know in advance — relationship management matters.
+
+### Northridge pre-departure prep (5/29 → 6/1, 3 days)
+
+Items to handle BEFORE leaving Northridge for 4+ months:
+
+1. **Camera install** for monitoring Northridge property during
+   travel — Peter + Santiago + group help wanted
+2. **Chiropractic table — move from storage into the chiropractic
+   room** at Northridge mobile home park (Peter + Santiago help)
+3. **Possible Northridge meet-up with Peter, Santiago, and group**
+   BEFORE the SD trip (in addition to the SD meet 6/3-6/4)
+4. **Cryo machine appointment with Noel** (per legal/active-paperwork
+   sub-task)
+5. **Silver payment to Mark Gonzalez** (~5/31)
+6. **Bitcoin class Days 3 (Fri 5/29), 4 (Mon 6/1)** at 6:00 PM PT
+7. **Alex Mandossian rescheduled call — Mon 6/1 2:00 PM PT** (per
+   `mentors/alex-mandossian-2026-06-01-prep.md`)
+8. **🚨 6/1 8:00 AM PT — Child Support call** (phone alarm set per
+   Robert's 5/29 confirmation)
+
+### San Diego window (6/3 → 6/17, 14 days)
+
+**This is the bulk of Robert's June in-person work time.** Must land:
+- License cure verified by Board
+- Tax attorney engaged for IRS + FTB matters
+- Sleep Doctor affiliate setup (Dr. Z's call) → Collins HST shipped
+- Mike Barron crew video production sessions
+- Dr. Deed Harrison warm-intro email + (if Deed responds) Zoom
+- Profit-share agreement drafts for D001/D002/D003
+
+**Other SD stops:**
+- Peter + Santiago in SD 6/3-6/4
+- Copper tub for sale off the 101 (POC via FB Messenger)
+- Possibly FabLife visits (recurring connection hub per CLAUDE.md §19)
+
+### Summer 2026 conflict resolutions
+
+- **Mark Gonzalez bonfire (July, SD)** — overlaps with Hawaii.
   Confirm Mark's date; likely skip 2026.
-- **Liberpulco Apatin Serbia (August)** — overlaps with Alaska arc.
-  Likely off the table for 2026.
 - **PI Roadshow 6/18 (Encino)** — Robert in Hawaii. Skip.
 
 ---
