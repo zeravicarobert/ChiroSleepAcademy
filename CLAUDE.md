@@ -147,6 +147,34 @@ CSA should never feel gimmicky or low-ticket-only. It attracts serious
 DCs who understand that sleep, airway, and biomechanics can become a
 high-value clinical division — not just another commodity service.
 
+### Language Robert dislikes in marketing (5/29/26)
+
+Robert has flagged a clear aversion to **"pharmacy-grade"** and
+**"pharmaceutical-grade"** language as quality claims in marketing
+materials he reviews. This is durable brand-voice context.
+
+**Why this matters for CSA:**
+- Robert's worldview (Anarchapulco / Liberpulco / Tom Cowan New
+  Biology / sound-money sovereignty crowd) is generally skeptical
+  of pharmaceutical-industry framing
+- His audience overlaps — patients and DCs who prefer
+  structural/biomechanical/natural framing
+- "Pharmacy-grade" reads as marketing-by-association with an
+  industry he doesn't want CSA aligned with
+
+**What CSA's voice DOES use** (positive framings to lean into):
+- Structural / biomechanical / foundational
+- Anatomical / mechanism-based (cranium, palatine, maxilla, etc.)
+- Sound, integrative, head-to-toe, skull-down
+- "Biomechanics is missing" thesis language
+- "Showcase to the world" framing (Robert's own voice)
+
+**What CSA's voice should AVOID:**
+- "Pharmacy-grade" / "Pharmaceutical-grade" as quality claims
+- Pharma-style efficacy language ("clinically proven to X")
+- Mechanistic biochemistry as the lead (it can support, not lead)
+- Hype, FUD, bro language (already in §4 non-negotiables)
+
 ---
 
 ## 5. Non-Negotiables (Red Lines)
