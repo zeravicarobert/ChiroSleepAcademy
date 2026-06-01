@@ -159,7 +159,85 @@ dentist partners, not the DC.
 | **97163** | PT evaluation, high complexity |
 | **97164** | PT re-evaluation |
 
-### 7. CA EDD SDI / Disability evaluation — coding considerations
+### 7. Cryotherapy — three categories, no clean code for the modern stuff
+
+**Important context:** Cryotherapy coding depends entirely on TYPE
+of cryotherapy. Robert's specific device (currently being repaired
+by Noel — see PROJECTS.md) determines which approach applies.
+
+#### A. Basic cold pack / ice application
+
+| CPT | Description |
+|---|---|
+| **97010** | Hot or cold packs (supervised modality, no 1-on-1 required) |
+
+- ✅ Within CA DC scope (standard physiotherapy modality)
+- ⚠️ Often **bundled with the office visit** by Medicare + many
+  insurers (not separately payable)
+- For cash-pay: bill as part of visit fee or small add-on
+
+#### B. Whole Body Cryotherapy (WBC) — cryosauna / cryochamber
+
+- **NO specific CPT code exists.** Some providers try **97039**
+  (Unlisted modality, attended) — often denied by insurance.
+- **FDA status:** WBC chambers are NOT cleared as medical devices.
+  Marketed as wellness, not medical treatment.
+- **CA DC scope:** Gray zone — chiropractic scope allows
+  physiotherapy modalities, but WBC technology is newer than the
+  statute language. **Verify with CA Chiropractic Board if operating
+  WBC publicly.**
+- **Insurance reality:** Generally NOT covered by insurance
+  (considered investigational/experimental).
+- **Cash-pay reality:** ✅ Standard model for WBC providers. Bill
+  flat per-session ($30-$80 typical market range) or as packages.
+  Robert's 100% cash-pay model fits perfectly here.
+- **⚠️ Liability flags:**
+  - Avoid medical claims (no "treats" / "cures" language)
+  - Position as wellness / recovery
+  - Use clear written consent forms
+  - Verify malpractice insurance covers cryotherapy services
+
+#### C. Localized cryotherapy / cryocompression
+
+| CPT | Description |
+|---|---|
+| **97010** | If basically a cold pack equivalent |
+| **97016** | Vasopneumatic devices (covers Game Ready / NormaTec-style cryocompression) |
+| **97039** | Unlisted modality, attended (for more advanced localized devices) |
+
+- ✅ Within CA DC scope as physiotherapy
+- 97016 sometimes payable by insurance; 97010 often bundled; 97039
+  often denied
+- For cash-pay: add-on to visit or standalone service
+
+#### D. Codes NOT to use as a CA DC
+
+| CPT | Description | Why NOT |
+|---|---|---|
+| **17000** | Destruction of single benign skin lesion | Cryosurgery; dermatology/surgery scope; outside CA DC scope |
+| **17003** | Each additional benign lesion | Same |
+| **17004** | 15+ lesions | Same |
+
+#### CSA strategic positioning for cryotherapy
+
+Cryotherapy fits naturally into multiple CSA workstreams:
+
+- **VAET Trial at Death Valley Hot Springs Resort** — cryotherapy
+  alongside hot springs creates a hot/cold contrast therapy
+  experience. Premium positioning.
+- **Chiro 3.0 (Telehealth/EDD/Disability)** — recovery support for
+  Channel A SDI patients
+- **CSA 12-Module Stay-at-Home Program** — could feature cryotherapy
+  as one of the recovery modules
+- **VA Channel B** — Veterans recovery / inflammation management
+- **Premium tier pricing** — cryotherapy bundles support CSA's
+  premium positioning ($300+ packages, multi-session pre-paid blocks)
+
+**Verify pricing model + scope + liability with Sam at HJ Ross before
+public deployment.**
+
+
+### 8. CA EDD SDI / Disability evaluation — coding considerations
 
 CA EDD SDI claims are certified by the provider via **Form DE 2501**.
 EDD does NOT pay providers for the certification — they pay the
