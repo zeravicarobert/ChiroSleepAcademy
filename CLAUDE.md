@@ -1803,6 +1803,40 @@ and any funnel-stage messaging. It positions CSA's evolution as a
 generational upgrade (1.0 → 2.0 → 3.0) rather than three
 disconnected services.
 
+**REFINED FRAMEWORK (6/8/26) — anatomy + delivery, not product tiers:**
+
+Robert restated the framework on 6/8/26 in clinical-anatomy +
+delivery-mechanism terms. The new version may REPLACE the
+product-tier version above, or coexist (Robert to confirm). Both
+captured here.
+
+- **Chiro 1.0 — Spine only.** Traditional diversified.
+- **Chiro 2.0 — Extremities.**
+  - **2.1** = Arms
+  - **2.2** = Legs
+  - **2.3** = **Skull** (the extremity most don't realize is an
+    extremity — cranial bones, sutures, TMJ, viscerocranial +
+    craniofacial structures)
+- **Chiro 3.0 — Telehealth delivery.**
+  - **3.1** = Time off work from illness, injury, or burnout (Mental
+    Financial Stress entry point — §17)
+  - **3.2** = CA EDD SDI (or 3rd party like AFLAC) — income-protection
+    certification
+  - **3.3** = CSA pathway: VAET 1st at Tecopa with Dr. Z → CBP
+    practitioner fixes FHP + Cat II → DCA (Disc Centers of America)
+    if discs need work → optional SOT for Cat I
+  - **3.4** = VA Nexus letter (Channel B / service-connected veterans)
+
+The refined framework is anatomy-driven (1.0 spine → 2.0 extremities
+including skull → 3.0 how care is delivered remotely) instead of
+product-tier-driven. Better for clinical teaching (Vol 1/Vol 2
+content) and for the evergreen messages Robert records repeatedly.
+The product-tier version above may still be useful for marketing.
+Robert's call on whether to deprecate one.
+
+Full evergreen-message capture at `content/evergreen-messages.md`.
+Full portfolio income matrix at `business/portfolio-matrix.md`.
+
 ### Lunisolar calendar — workshop scheduling (set 5/29/26)
 
 Robert wants CSA workshops scheduled on the **lunisolar calendar**
