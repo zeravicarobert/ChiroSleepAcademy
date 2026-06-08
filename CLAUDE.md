@@ -1552,6 +1552,73 @@ get-to-know questions so this section grows session over session.
 - The "skull-down" model (§1) is consistent with how Force Recon thinks
   about systems: identify the controlling node, work outward.
 
+### Inaugural CSA lecture — ACAS CEU (1/24/26)
+*Surfaced 6/8/26 from Drive search.*
+
+CSA's first public articulation. **2-hour CEU lecture** delivered to
+California DCs through **ACAS** on the biomechanical sciences of
+sleep and airway. 59-slide deck lives at:
+
+- **File:** `ACAS Lecture 1-24-26 ver2` (Google Slides, 59 slides)
+- **Drive owner:** `robertzeravica91324@gmail.com` (Calendar account)
+- **Shared with:** `zeravicarobert@gmail.com` (6/8/26)
+- **File ID:** `1Z_X-Ntfot4ZJJSVIism_pz04g-WsOuiBK3crKjSKKSE`
+
+**Title concept (slide 2):**
+> *"Human Performance Infrastructure for the AI Age (Delivered Through Chiropractic)"*
+
+**Robert's signature tagline (slide 2):**
+> *"A human with compromised sleep and airway cannot compete in an
+> AI-accelerated world."* — Dr Robert Zeravica DC
+
+This is the AI-age positioning line for CSA. Use it in landing-page
+hero copy, Chiro 2.0 E07 positioning video, outreach to DCs who feel
+the AI-disruption anxiety. Pairs naturally with the §1 core claim and
+the §1 showcase version — same DNA, different audience hook.
+
+**Complete chronological education + influence sequence (slide 46):**
+1. San Fernando Valley Academy
+2. CSUN / Pepperdine
+3. USMCR — 9 years (Force Recon, 3D ANGLICO; see §19 Military service)
+4. Los Angeles College of Chiropractic — 1999
+5. **ICAK 100-hour Certification** (Applied Kinesiology)
+6. **Harry Eidenier Jr, PhD, AACC** — personally trained on blood
+   chemistry interpretation for nutritional supplementation
+7. **CBP** — apprenticeship into curve correction + mirrored adjusting
+8. **MUA** (Manipulation Under Anesthesia) — from LACC
+9. **CFR** (Cranial Facial Release)
+10. **SOT / Osteopathic Tide Teachings / PRI / PRM**
+
+This is the order to use when scripting Robert's bio video (Chiro
+3.0 video 310). It also resolves the open biographical question of
+training sequence — chronological order, not just a list.
+
+**2025 timeline (slides 49-57) — events captured:**
+- Jan 2025 — Tai Lopez (internet entrepreneurs, marketing/sales)
+- Feb 2025 — ClickFunnels Funnel Hacking Live 2025
+- Feb 2025 — ALIV 4-day Enduro/offroad birthday gift (Hollywood
+  stunt drivers + Baja 1000 champion)
+- Apr-Aug 2025 — Mike Barron ClickFunnels 2-Comma X Club Award winner
+- **Sep 4-6, 2025 — Anarchapulco / Apatin, Serbia** (= same event
+  as Liberpulco-Apatin; confirmed 6/8/26 — Robert went 2025 AND going
+  again 2026; see §18 travel calendar for the 2026 leg)
+- Sep 26-28, 2025 — CFR-A (Advanced CFR seminar)
+- Oct 2025 — BNS (Bilateral Nasal Specific / Nasal Specific Technique)
+  seminar by **Dr. Dan Murphy DC** at Life Chiropractic College West, CA
+- Slide 58 — Currently mentored by Jay Abraham, The Abraham Group,
+  and Simon Severino
+
+**Closing CTA (slide 59):** *"Meet me at the Hotsprings near Las
+Vegas — Chiropractic Sleep Academy."* (QR code placeholder.)
+
+**Status as content asset:**
+- Already-delivered IP. The talk happened 1/24/26.
+- Source-of-record for Chiro 2.0 E07 (positioning) + Chiro 3.0 video
+  310 (USMC/bio). See `content/video-inventory.md`.
+- Does NOT yet exist as a video — slides only. If a recording of the
+  delivery exists, log it into `content/video-inventory.md` and
+  promote E07 + 310 from ☐ to ▶.
+
 ### Recurring operating pattern: live-the-model-first
 Across every lane Robert builds, the pattern is the same — he goes
 through the model himself before offering it to anyone else:

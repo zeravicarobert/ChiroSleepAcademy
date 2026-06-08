@@ -49,13 +49,13 @@ review later.
 
 | ID | Storage | Date | Topic | Status | Notes |
 |---|---|---|---|---|---|
-| | | | | | |
+| **ACAS-DECK** | Google Drive (Slides) — owner `robertzeravica91324@gmail.com`, shared to `zeravicarobert@gmail.com` 6/8/26. File ID `1Z_X-Ntfot4ZJJSVIism_pz04g-WsOuiBK3crKjSKKSE` | Delivered **1/24/26** | **ACAS CEU — 2-hour CSA inaugural lecture for CA DCs.** Title: *"Human Performance Infrastructure for the AI Age (Delivered Through Chiropractic)."* Source-of-record for E07 (positioning) AND covers significant 310 (USMC bio) content. | DECK (not video) | 59 slides. Already-delivered IP. If recording of the live delivery exists, log it here and promote E07 + 310. See CLAUDE.md §19 *Inaugural CSA lecture — ACAS CEU (1/24/26)* for full content breakdown. |
 
 ## CHIRO 3.0 — Telehealth / EDD / Disability
 
 | ID | Storage | Date | Topic | Status | Notes |
 |---|---|---|---|---|---|
-| | | | | | |
+| **ACAS-DECK** (cross-ref) | (same as above) | Delivered 1/24/26 | Slide 46 contains Robert's full chronological education sequence (SFV Academy → CSUN/Pepperdine → USMCR 9 yrs → LACC 1999 → ICAK → Harry Eidenier Jr PhD → CBP → MUA → CFR → SOT/PRI/PRM). **Use as script source for video 310 (USMC + bio foundation).** | DECK (not video) | Cross-referenced from 2.0 EM. Listed twice because it spans both tracks. |
 
 ## UNSORTED — Track unclear
 
