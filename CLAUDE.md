@@ -1126,16 +1126,29 @@ who aren't part of the mentor stack but are shaping his thinking:
 
 ### Robert's broader circle (people who shape his thinking but aren't paid mentors)
 
-- **Peter** — close friend / informal advisor. Introduced Robert to
-  Mark Gonzalez (silver) and to **Mike Maloney** (educator on gold/
-  silver history, founder of GoldSilver.com). Taught Robert the
-  *money vs. currency* distinction: currency has extrinsic value
-  (e.g., fiat $100 bill), money has intrinsic value (e.g., gold);
-  "currency" is both an electrical and a monetary term. Travel:
-  in San Diego with Santiago around 6/3–6/4/26; leaves for Denver
-  on 6/16/26 to see "Croatian Christine," then Florida (his dad),
-  then Europe; may meet Robert at **Liberpulco / Anarchapulco
-  Serbia event in August 2026.**
+- **Peter (a.k.a. "Panos" / Peter the Greek)** — close friend /
+  informal advisor / **as of 6/8/26: offered Director of Operations
+  role for Dr. Zeravica's businesses** (brief at
+  `business/peter-director-of-operations.md`).
+  - **One person, three earlier names** in this repo: "Peter" (the
+    Connector), "Panos" (the video editor on the SD crew), "Peter
+    the Greek." All the same 32yo. Confirmed by Robert 6/8/26.
+  - **Profile:** 32 y/o, college grad, business acumen, life
+    experience, permaculture-minded, drinks alcohol, smokes
+    tobacco daily, occasional cannabis. Video editor by craft.
+  - **Connector history:** Introduced Robert to Mark Gonzalez
+    (silver) and to **Mike Maloney** (educator on gold/silver
+    history, founder of GoldSilver.com). Taught Robert the
+    *money vs. currency* distinction: currency has extrinsic value
+    (e.g., fiat $100 bill), money has intrinsic value (e.g., gold);
+    "currency" is both an electrical and a monetary term.
+  - **Travel:** in San Diego with Robert + Santiago + crew through
+    6/16/26; departs morning of 6/17 for Denver ("Croatian
+    Christine"), then Florida (his dad), then Europe; may meet
+    Robert at **Liberpulco / Anarchapulco Serbia event in August
+    2026**. **The travel-vs-role tension is an open question Peter
+    and Robert must address before compensation conversation**
+    (see brief).
 - **Santiago (a.k.a. Isaiah)** — same person, two names Robert uses
   interchangeably. **Confirmed on the Mike Barron video crew**
   (videographer / editor team — currently at the bodywork retreat
