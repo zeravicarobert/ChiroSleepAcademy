@@ -201,30 +201,78 @@ Remote arrangement starts 6/17. Likely structure:
 
 ---
 
-## Compensation — open conversation
+## Compensation — Peter's stated terms (6/8/26)
 
-This is the hardest part of the conversation, and the most
-important. **Don't skip it.** Possible structures:
+Robert asked Peter about compensation. Peter declined cash for now,
+in his own words:
 
-1. **Salary** — fixed monthly. Lowest risk for Peter. Higher fixed
-   cost for Robert.
-2. **Hourly** — billable time. Transparent. Best for short
-   engagements with unclear scope.
-3. **Profit-share** — % of net revenue across specified income
-   lines (matrix items #1, #3, #4, #10). Aligns incentives. Same
-   model as the new CSA mentee profit-share with Manfredi/Lucas/
-   Collins (CLAUDE.md §19).
-4. **Equity** — % of CSA as an entity. Real ownership. Requires
-   legal formation (CSA is not yet incorporated as a separate
-   entity — open question).
-5. **Hybrid** — base + profit-share + milestone bonuses. Most
-   common in operator roles at this stage.
+> *"I'm Peter. I don't need compensation now, other than proximity.
+> I extract value from learning from Dr. Zeravica DC and the work
+> that is being asked of me. However, tedious is pretty simple for
+> me and fun and helps me learn. I see it as a mentorship. Peter
+> wants compensation when he can generate income for Dr. Rob. And
+> at that point in time, we will discuss compensation changes beyond
+> proximity. And Dr. Rob can terminate the relationship at any time
+> he sees it's not working out, because it's like a trial period.
+> That's why I don't want to pay. We're still learning how to work
+> with each other and what the relationship could be."*
 
-**Robert's recommendation to himself:** start with a hybrid (modest
-base + meaningful profit-share + milestone bonuses on the 3
-low-leverage moves landing). Revisit at 9/8/26 quarterly review.
-Get the agreement in writing — even one page — before Peter starts
-making decisions on Robert's behalf.
+**What this is:** A mentorship-trial arrangement. Peter as the
+apprentice/student; Robert as the operator-mentor. Peter trades
+unpaid operator labor for proximity, learning, and access to
+Robert's network/mentor stack.
+
+**What this is NOT:** Employment. Independent contractor work.
+Volunteer work for a charitable purpose. The classification matters
+for IRS/CA Labor Code purposes — see the Mentorship Trial Memo
+(below).
+
+### Income trigger — to be defined explicitly (not left vague)
+
+Peter said *"compensation when I generate income for Dr. Rob."*
+That trigger must be defined NOW, not negotiated under pressure
+later. Three categories of "income generation" by Peter:
+
+1. **Direct revenue attribution.** A patient, DC mentee, referral,
+   speaking engagement, or vendor deal Peter sourced and closed
+   produces revenue. Triggered when attributable revenue crosses
+   a defined threshold (e.g., $10K).
+2. **Operational margin improvement.** Peter's systems work
+   (Asana, CRM, ChiroTouch optimization, SimpleTalk) measurably
+   saves Robert N hours/week. Valued at Robert's hourly rate.
+   Triggered at a defined cumulative time-saved threshold
+   (e.g., 20 hours/month sustained for 3 months).
+3. **Milestone completion.** Specific deliverables (functional
+   Asana with all 19 matrix items, CRM live with 28 DCs imported,
+   daily report cycle automated). Triggered on completion.
+
+When ANY trigger fires, the compensation conversation reopens —
+not as a negotiation but as a structured next step both parties
+agreed to in advance.
+
+### Compensation conversation tabled — NOT skipped
+
+This is critical. "We'll figure it out later" is a trap. "We agreed
+on the triggers, and when they fire, we apply the formula" is
+clean. The Mentorship Trial Memo formalizes the deferred-but-not-
+skipped structure.
+
+### Why Robert should write it down anyway
+
+Three reasons, in order of importance:
+
+1. **It protects the friendship.** Writing closes the "wait, what
+   did we say" door before anyone walks through it.
+2. **It's clean for IRS purposes.** Robert has $434K in active IRS
+   exposure. A written declaration of "mentorship-only, no
+   employment relationship, Peter is here for his own learning"
+   closes a classification question before an auditor opens it.
+3. **It honors what Peter said.** Peter framed this with care. A
+   written version isn't a downgrade — it's Robert taking Peter's
+   thoughtfulness seriously enough to formalize.
+
+See `business/peter-mentorship-trial-memo.md` for the one-page
+agreement both parties review and sign today.
 
 ---
 
