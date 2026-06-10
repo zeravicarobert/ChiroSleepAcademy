@@ -28,7 +28,9 @@
 ## Action items from the call
 
 ### For Peter + Santiago
-- [ ] **Text Alex at +1 (415) 488-7406** — Alex's mobile
+- [ ] **Text Alex at his mobile** *(number redacted from repo per
+      Robert's privacy instruction 6/8/26 — Robert holds Alex's
+      cell directly; do not log it here)*
   - This is per Alex's direct ask on the call
   - Both Peter AND Santiago each send a text
 - [ ] **Send Alex their emails** — Alex needs Peter's and
@@ -66,8 +68,9 @@ meaningful endorsement.
 
 ## To propagate to CLAUDE.md (when Robert has a moment)
 
-- §16 Mentor 3: add mobile **(415) 488-7406** + note that Peter +
-  Santiago now have direct text-line access
+- §16 Mentor 3: note that Peter + Santiago now have direct
+  text-line access to Alex's mobile (number NOT logged in repo per
+  privacy instruction 6/8/26)
 - §18 Pathfinder Mastermind: verify 10/1-3 vs 10/1-4 dates
 - §19 Family 2.0 / broader circle: note that Peter is now mentor-
   recognized by Alex within hours of offering Director of
