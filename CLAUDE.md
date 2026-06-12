@@ -1936,6 +1936,18 @@ Beyond his mentor stack, Robert participates in (or is interested in):
 ### Software stack Robert is currently learning
 - **ChiroTouch** — EHR system. 2nd onboarding session in progress.
 - **SimpleTalk** — inbound/outbound AI call agent.
+  - **SimpleTalk phone number:** **818-408-4495** (confirmed 6/12/26).
+    818 area code = Northridge LA — likely the same 818 number
+    flagged as "underutilized" in §19 below, now being deployed
+    operationally via SimpleTalk. **Conversion of underutilized
+    asset → active operational tool.**
+  - **Deployment partner:** **Ayssia** (Santiago's girlfriend, §16
+    team-roles.md) is teaming up with Robert to program + deploy
+    SimpleTalk operationally as of 6/12/26. Role expansion from
+    "bodyworker / optional on-camera demo" to "operational
+    deployment partner for the AI phone system." Worth tracking
+    whether this is a temporary engagement or evolves into a
+    longer-term role on Robert's team.
 
 ### Tools recommended (not yet adopted)
 - **Asana** — project management. Recommended by Mike Barron.
@@ -1952,8 +1964,9 @@ Beyond his mentor stack, Robert participates in (or is interested in):
 
 ### Underutilized assets Robert has named
 Worth surfacing in future strategy sessions:
-- **818 cellphone number** — established presence, currently not
-  being leveraged.
+- **818 cellphone number** — **now being deployed via SimpleTalk
+  as of 6/12/26** (818-408-4495). See §19 software stack above.
+  Status updated from "underutilized" → "active deployment."
 - **PeppU Alumni Group Association** — alumni network access.
 - **CA EDD SDI patient database** — the EHR-derived patient list
   (the same database that gave us the $1,223 LTV finding on
