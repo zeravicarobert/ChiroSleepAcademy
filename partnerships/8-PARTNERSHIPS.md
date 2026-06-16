@@ -25,29 +25,26 @@ coordinates screening + structural care; the MD reads the test.
 
 ---
 
-## Recommended path to 3 closes
+## Strategy (decided 2026-06-16): pursue all 8, land 3
 
-Ranked by **fit × closeability** for CSA's core mission (building the
-Structural Airway Chiropractic category among DCs):
+Robert's call: **pursue all eight**, and pursue **both Oura AND Whoop**.
+More shots on goal; the 3 closes are whoever says yes first. Outreach is now
+drafted for every node — finishing = review and send.
 
-| Tier | Node | Why |
+Sequence by **fit × closeability** so effort lands where it pays first:
+
+| Priority | Node | Why |
 |---|---|---|
-| **Focus 3** | 3. Chiropractic Biophysics (Dr. Deed Harrison) | Warmest, highest structural overlap, already on the board |
-| **Focus 3** | 5. Sacro-Occipital Technique (SOTO-USA) | CSA's core audience; cranial work maps directly to skull-down model |
-| **Focus 3** | 4. Disc Centers of America | Reachable DC network; sleep/airway is a clean add-on division |
-| Stretch / halo | 1. James Nestor | Huge credibility if landed; low odds, low effort to invite |
-| Opportunistic | 2. Whoop / Oura | Enter through existing pro/B2B programs, not a bespoke deal |
-| Slow / high-value | 6. Unions (truckers, entertainment) | Volume + mission, but long institutional sales cycle |
-| Fast / peripheral | 7. Disability attorneys | Easy referral yeses; feeds SDI lane more than CSA core |
-| Fast / peripheral | 8. Urgent care centers | Local referral source for HST; transactional |
+| 1 | 3. Chiropractic Biophysics (Dr. Deed Harrison) | Warmest, highest structural overlap, draft ready |
+| 2 | 5. Sacro-Occipital Technique (SOTO-USA) | CSA's core audience; cranial work maps to skull-down model |
+| 3 | 4. Disc Centers of America | Reachable DC network; sleep/airway is a clean add-on division |
+| 4 | 1. James Nestor | Huge credibility if landed; send via warm path (ask Alex) |
+| 5 | 2. Oura + Whoop | Apply to both pro/B2B programs; data access is the prize |
+| 6 | 6. Unions (truckers, entertainment) | Volume + mission; long cycle, needs warm contact |
+| 7 | 7. Disability attorneys | Fast referral yeses; feeds SDI lane |
+| 8 | 8. Urgent care centers | Local referral source for HST; transactional |
 
-**Logic:** the three chiropractic-network plays (CBP, SOT, DCOA) compound
-each other and the CSA category. Nestor stays a parallel low-effort invite —
-if he says yes, he likely replaces DCOA as a Focus 3. Everything else is
-second-wave once one of the first three is moving.
-
-> **Two decisions only Robert can make** (see bottom of file):
-> the third Focus slot, and Whoop vs. Oura.
+All drafts live in `outreach/2026-06-16-*.md`.
 
 ---
 
@@ -62,22 +59,19 @@ second-wave once one of the first three is moving.
   appearance / endorsement. Advisory or collaboration later.
 - **Warm angle:** Alex Mandossian referenced James Nestor on a call (see Gmail,
   ~5/1/26 marketing-plan thread). Find out what that connection was.
-- **Status:** 🔴 not started
-- **Next action:** Ask Alex what the Nestor reference was / whether he has a path
-  to him. In parallel, draft a short, respectful invite-to-conversation (NOT a
-  pitch) for his agent/speaking contact.
+- **Status:** 🟡 in motion — outreach drafted (`outreach/2026-06-16-james-nestor.md`)
+- **Next action:** Ask Alex what the Nestor reference was / whether he has a warm
+  path. Then send the draft via that path (or his media/speaking contact).
 
 ### 2. Whoop or Oura — sleep/recovery wearable
 - **Win-win:** *They get* a clinical channel of doctors recommending the device +
   real outcome narratives. *CSA gets* objective at-home sleep/recovery data for
   outcomes tracking, a member perk, and possible affiliate/ambassador revenue.
-- **Deal shape:** Enter through an existing program — **Whoop Unite** (B2B/teams)
-  or **Oura's professional/clinical** program — not a custom deal. For
-  sleep + blood-oxygen relevance, **Oura** is the better fit; for group/B2B
-  enrollment, Whoop Unite. (Decision below.)
-- **Status:** 🔴 not started
-- **Next action:** Once Whoop-vs-Oura is decided, apply to that program's
-  professional/partner track and get a rep on a call.
+- **Deal shape:** Enter through existing programs — **both** Oura's
+  professional/clinical program AND **Whoop Unite** (B2B/teams). Data access
+  (de-identified aggregate sleep/SpO2) is the real prize.
+- **Status:** 🟡 in motion — inquiries drafted for both (`outreach/2026-06-16-wearables-oura-whoop.md`)
+- **Next action:** Submit both program inquiries; get a rep from each on a call.
 
 ### 3. Chiropractic Biophysics (CBP) — Dr. Deed Harrison ⭐ FOCUS
 - **Win-win:** *He gets* a sleep/airway clinical extension of structural
@@ -98,9 +92,9 @@ second-wave once one of the first three is moving.
 - **Deal shape:** Present CSA as an add-on sleep/airway division for DCOA
   clinics; education + referral partnership. (Robert already references DCOA care
   as a Tecopa à-la-carte item — some awareness exists.)
-- **Status:** 🔴 not started
-- **Next action:** Identify the right DCOA corporate contact (founder/leadership);
-  draft a one-page "sleep/airway division for your network" overview.
+- **Status:** 🟡 in motion — outreach drafted (`outreach/2026-06-16-disc-centers-of-america.md`)
+- **Next action:** Confirm the DCOA corporate contact, then send. (Claude can
+  research the contact + draft a one-page overview leave-behind on request.)
 
 ### 5. Sacro-Occipital Technique (SOT / SOTO-USA) ⭐ FOCUS
 - **Win-win:** *They get* a modern sleep/airway application that extends SOT
@@ -108,9 +102,8 @@ second-wave once one of the first three is moving.
   technique synergy with the skull-down model, and credibility in the community.
 - **Deal shape:** Speak/teach at a SOTO-USA event, co-developed content, referral
   lane, possibly CE down the road.
-- **Status:** 🔴 not started
-- **Next action:** Confirm Robert's current SOTO-USA standing/contacts; identify
-  the leadership person to approach; draft a teaching/collaboration outreach.
+- **Status:** 🟡 in motion — outreach drafted (`outreach/2026-06-16-sot-sotousa.md`)
+- **Next action:** Confirm SOTO-USA contact + your standing, personalize, send.
 
 ### 6. Unions — Truck Drivers & Entertainment
 - **Win-win:** *They get* a member health benefit + (for truckers) DOT/FMCSA
@@ -121,10 +114,9 @@ second-wave once one of the first three is moving.
   preferred-provider arrangement. Long, relationship-driven cycle.
 - **Compliance note:** Stay in scope — CSA coordinates screening/HST, MD reads.
   Do not imply OSA diagnosis. Keep the SDI angle ethically clean.
-- **Status:** 🔴 not started
-- **Next action:** Pick ONE local to approach first (recommend a Teamsters local
-  for the clear trucker/DOT driver); find a warm contact, possibly via Alex's
-  EDD lane.
+- **Status:** 🟡 in motion — outreach drafted (`outreach/2026-06-16-unions-teamsters.md`)
+- **Next action:** Pick ONE Teamsters local + find a warm contact (possibly via
+  Alex's EDD lane), then send.
 
 ### 7. Disability Attorneys
 - **Win-win:** *They get* a reliable, patient-friendly doctor to send clients to
@@ -132,29 +124,42 @@ second-wave once one of the first three is moving.
   stream.
 - **Deal shape:** Mutual referral relationship; lunch-and-learn.
 - **Ethics note:** Documentation must be honest, never rubber-stamped.
-- **Status:** 🔴 not started
-- **Next action:** Build a shortlist of 3–5 CA disability/employment attorneys;
-  draft a "referral partner" intro.
+- **Status:** 🟡 in motion — template drafted (`outreach/2026-06-16-referral-partners-attorneys-urgentcare.md`)
+- **Next action:** Build a shortlist of 3–5 CA disability/employment attorneys
+  (Claude can research), then send the template to each.
 
 ### 8. Urgent Care Centers
 - **Win-win:** *They get* a place to send sleep complaints (snoring, fatigue)
   they can't work up. *CSA gets* local referral volume for the Sleep Baseline/HST.
 - **Deal shape:** Preferred-referral relationship with local urgent cares
   (Vegas / Northridge to start).
-- **Status:** 🔴 not started
-- **Next action:** List nearby urgent cares; draft an intro to the medical
-  director offering a sleep/airway referral pathway.
+- **Status:** 🟡 in motion — template drafted (`outreach/2026-06-16-referral-partners-attorneys-urgentcare.md`)
+- **Next action:** List nearby urgent cares (Vegas/Northridge; Claude can
+  research), then send the template to each medical director.
 
 ---
 
-## Open decisions for Robert
+## Decisions made
 
-1. **Third Focus slot:** Confirm **Disc Centers of America** as Focus 3, or swap
-   in another node (e.g., promote James Nestor or Unions).
-2. **Whoop vs. Oura:** Pick one to pursue. Recommendation: **Oura** (sleep +
-   blood-oxygen data is more relevant to the airway model).
+1. **Scope (2026-06-16):** Pursue all 8 nodes; land 3. ✅ resolved.
+2. **Wearables (2026-06-16):** Pursue both Oura and Whoop. ✅ resolved.
+
+## What's blocking each send (Robert's inputs)
+
+| Node | Ready to send now? | Needs from Robert |
+|---|---|---|
+| 3. CBP / Deed Harrison | ✅ Yes | Review + send |
+| 5. SOT / SOTO-USA | ⚠️ Almost | Confirm contact + your standing |
+| 4. Disc Centers of America | ⚠️ Almost | Confirm corporate contact |
+| 1. James Nestor | ⚠️ Almost | Warm path (ask Alex) or media contact |
+| 2. Oura + Whoop | ✅ Yes | Submit both program inquiries |
+| 6. Unions | ⚠️ Needs target | Pick a local + warm contact |
+| 7. Attorneys | ✅ Template ready | Build 3–5 name list |
+| 8. Urgent care | ✅ Template ready | Build local list |
 
 ## Activity log
 
-- **2026-06-16** — File created. Pipeline seeded, all 8 nodes positioned.
-  Dr. Deed Harrison (CBP) outreach drafted. Awaiting Robert's two decisions above.
+- **2026-06-16** — File + pipeline created. All 8 nodes positioned and
+  outreach drafted (`outreach/2026-06-16-*.md`). Scope = all 8, land 3;
+  wearables = both. Next: send the 2 ready-now emails (CBP, wearables) and
+  confirm contacts for the rest.
