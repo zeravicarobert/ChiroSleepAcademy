@@ -106,22 +106,36 @@ Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
 
 ### Google account map (Claude's reach in this environment)
 
-Robert uses three Google accounts; each MCP integration is currently
-authenticated to a *different* one:
+**Target state (Robert's decision, 2026-06-16):** all three Google
+connectors — Gmail, Calendar, and Drive — should point to the single
+account **`ZeravicaRobert@gmail.com`** (same as `zeravicarobert@gmail.com`;
+Gmail addresses are case-insensitive).
 
-| Integration | Account |
-|---|---|
-| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` |
-| Calendar (primary) | `robertzeravica91324@gmail.com` |
-| Drive (file owner) | `zeravicarobert@gmail.com` |
+Live state as of **2026-06-16**:
 
-Implications:
-- Email scans run against `DrZeravicaOffice` only. To search the other
-  two inboxes, Robert must connect them in Claude Code on the web →
-  Settings → Connections.
+| Integration | Account (live) | Status vs. target |
+|---|---|---|
+| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` | ⚠️ needs reconnect to `ZeravicaRobert@gmail.com` |
+| Calendar (primary) | `zeravicarobert@gmail.com` | ✅ on target (confirmed via `list_calendars`) |
+| Drive (file owner) | `zeravicarobert@gmail.com` | ✅ on target |
+
+**How to switch a connector (and why a reconnect can look like "no change"):**
+- Connectors are bound when a session *starts*. Disconnecting/reconnecting
+  an integration mid-session does **not** rebind the running session —
+  you must start a **new session** for the change to take effect.
+- Steps: Claude Code on the web → **Settings → Connections** → disconnect
+  the integration, reconnect it, pick `ZeravicaRobert@gmail.com` in the
+  Google chooser → then **open a fresh session** and ask Claude to verify
+  live (e.g., `list_calendars`).
+- This table is a static note; it does not auto-update. Re-verify live and
+  update it after any reconnect.
+
+Implications (current):
+- Email scans still run against `DrZeravicaOffice` until Gmail is
+  reconnected to `ZeravicaRobert@gmail.com` in a fresh session.
 - Drive files searched/read here are those owned by or shared with
   `zeravicarobert@gmail.com`.
-- Calendar events live on `robertzeravica91324@gmail.com`.
+- Calendar events live on `zeravicarobert@gmail.com`.
 
 ### Existing CSA assets discovered
 
