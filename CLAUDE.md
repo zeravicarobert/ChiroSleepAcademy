@@ -115,9 +115,11 @@ Live state as of **2026-06-16**:
 
 | Integration | Account (live) | Status vs. target |
 |---|---|---|
-| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` | ⚠️ needs reconnect to `ZeravicaRobert@gmail.com` |
+| Gmail (read/draft) | `zeravicarobert@gmail.com` | ✅ on target (confirmed via `search_threads` — sent/received mail is on this account) |
 | Calendar (primary) | `zeravicarobert@gmail.com` | ✅ on target (confirmed via `list_calendars`) |
 | Drive (file owner) | `zeravicarobert@gmail.com` | ✅ on target |
+
+**All three connectors are now unified on `ZeravicaRobert@gmail.com` (confirmed live 2026-06-16).**
 
 **How to switch a connector (and why a reconnect can look like "no change"):**
 - Connectors are bound when a session *starts*. Disconnecting/reconnecting
