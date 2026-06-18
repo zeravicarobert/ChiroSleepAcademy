@@ -7,6 +7,14 @@ Personal event reminders. Synced to Google Calendar
 
 ## Upcoming
 
+### Drive to Vegas — talk to Peter (June 18)
+Two reminders set for during the drive to Las Vegas:
+
+- **1:00 PM PT — Refinance truck auto loan:** have Peter help use the app to
+  refinance the auto loan on the truck. _Calendar: ✅ added._
+- **2:00 PM PT — House shopping intro:** ask Peter to connect Robert with his
+  mom to start shopping for a house in San Diego County. _Calendar: ✅ added._
+
 ### Speakeasy Mastermind — Las Vegas Chapter
 - **When:** Thursday, June 18, 2026 · 6:00–9:00 PM PT
 - **Where:** Las Vegas, NV (venue TBD — confirm address)
