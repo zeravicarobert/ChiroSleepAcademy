@@ -1,0 +1,31 @@
+# Reminders
+
+Personal event reminders. Synced to Google Calendar
+(`robertzeravica91324@gmail.com`) where noted.
+
+---
+
+## Upcoming
+
+### Bitcoin FastTrack — Recap Class
+- **When:** Friday, June 18, 2026 · 9:00–11:00 AM PT (session lasts 2 hours)
+- **Host / tutor:** Eleanor Wilson, Blockchain Academy President
+- **Who:** Existing FastTrack students only
+- **What:** Dedicated recap session to reinforce key concepts from the
+  Bitcoin FastTrack training — revisit important topics, clarify points of
+  confusion, fill in gaps. Open-forum Q&A and discussion.
+- **Contact:** hello@blockchainacademy.info
+- **Link:** https://blockchainacademy.info/fasttrack-recap/
+- **Calendar:** ✅ added
+- **Note:** Flyer says "Friday June 18," but June 18, 2026 falls on a
+  Thursday — date used as written (June 18); double-check the day.
+
+### San Diego 2026 Serbian Festival
+- **When:** Saturday, October 10, 2026 · 12:00–11:00 PM PT
+- **Where:** St. George Serbian Orthodox Church, 3025 Denver St.,
+  San Diego, CA 92117
+- **Details:** Church tours, Serbian open market, authentic food, homemade
+  pastries, Serbian Heritage Exhibition. Live music: Jasmina Ilić & Saša
+  Minić (Chicago). $5 donation at entrance (free for kids under 12, active
+  military, first responders).
+- **Calendar:** ✅ added
