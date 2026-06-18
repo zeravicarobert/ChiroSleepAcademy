@@ -7,6 +7,17 @@ Personal event reminders. Synced to Google Calendar
 
 ## Upcoming
 
+### Speakeasy Mastermind — Las Vegas Chapter
+- **When:** Thursday, June 18, 2026 · 6:00–9:00 PM PT
+- **Where:** Las Vegas, NV (venue TBD — confirm address)
+- **What:** Monthly local chapter gathering of the Speakeasy Mastermind
+  (entrepreneurs collaborating on business growth). Robert is joining this
+  chapter.
+- **Contact:** (858) 436-7360 · info@speakeasymastermind.com
+- **Calendar:** ✅ added
+- **Note:** Recurring monthly — get the standing date/cadence and venue to
+  set up a repeating event.
+
 ### Bitcoin FastTrack — Recap Class
 - **When:** Friday, June 18, 2026 · 9:00–11:00 AM PT (session lasts 2 hours)
 - **Host / tutor:** Eleanor Wilson, Blockchain Academy President
