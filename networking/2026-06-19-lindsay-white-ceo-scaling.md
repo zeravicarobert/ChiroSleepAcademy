@@ -173,6 +173,21 @@ Step 6, and Year-Vision items 4 "first cohort/inner circle" and 6
 "content library"). It's a community/retention lever, not a Q3 launch
 item.
 
+**Robert's riff — the ironic counter-medal:** *"plus awards for CA EDD
+SDI who go out on TTD for burnout."*
+Decoded: **CA EDD** = California Employment Development Department;
+**SDI** = State Disability Insurance; **TTD** = Temporary Total
+Disability. The wry point: in the real world the only "medal" you get
+for burning out is a disability claim — people go out on California SDI /
+TTD *because* they hit the wall Lindsay's talk is about. The honest flip
+on "there's no medal for burnout": actually there is, and it's a
+disability check, not a plaque.
+
+*Flag for Robert:* I read this as a sardonic observation reinforcing the
+awards point, not a literal CSA award category — confirm if you meant
+something more (e.g., CSA having a real angle for people whose burnout
+shows up as sleep/airway dysfunction) and I'll develop it.
+
 **Status:** Parked idea — do **not** add as a mid-month goal
 (CLAUDE.md §13). Revisit when CSA has a first cohort to recognize.
 
