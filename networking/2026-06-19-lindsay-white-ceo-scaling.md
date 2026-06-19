@@ -56,12 +56,15 @@ synthesis, not direct quotes from Lindsay.)*
 | **Lisza** *(last name TBD)* | Host of the SpeakEasy Las Vegas Chapter | Yes — chapter host relationship |
 | **Hailey** *(last name TBD)* | Dietician | Maybe — health-adjacent |
 | *(name TBD)* | SaaS — "Unconscious Beliefs" angle | Maybe — mindset/SaaS |
+| *(name TBD)* | Sat to Robert's right; green Mexico shirt. Showed Robert he also has the Chess.com app — shared chess interest = easy rapport hook. | Maybe — personal rapport |
 | **Robert Zeravica** | That's you — prospective member, mutually auditing the chapter | — |
 
 **Gaps to fill before sending any outreach:**
 - Lisza's full name + best contact
 - Hailey's full name + practice/clinic
 - The SaaS "Unconscious Beliefs" person's name + company
+- The chess guy's name (green Mexico shirt, sat to your right) — swap
+  Chess.com usernames for an easy ongoing connection
 
 ---
 
