@@ -1,7 +1,9 @@
 # Networking Notes — Lindsay White, "A New Rhythm for Sustainable Growth"
 
 **Date:** 2026-06-19
-**Format:** Zoom call — business chapter meeting
+**Event:** SpeakEasy — Las Vegas Chapter (Zoom)
+**Host:** Lisza *(last name TBD)*
+**Presenter:** Lindsay White
 **Captured by:** Robert (chapter member)
 
 ---
@@ -9,7 +11,7 @@
 ## 1. The Speaker
 
 **Lindsay White** — Chief People Officer, **High Voltage Leadership**.
-Also part of **SpeakEasy** (speaker network / community).
+Guest presenter at the SpeakEasy Las Vegas Chapter meeting.
 
 **Topic:** *A New Rhythm for Sustainable Growth*
 
@@ -44,8 +46,8 @@ not direct quotes from Lindsay.)*
 
 | Name | Role / Note | Follow-up? |
 |---|---|---|
-| **Lindsay White** | Guest speaker. Chief People Officer, High Voltage Leadership. Founder-CEO / scaling / anti-burnout focus. | Yes — strongest fit |
-| **Lisza** *(last name TBD)* | Host of the chapter / call | Yes — host relationship |
+| **Lindsay White** | Guest presenter. Chief People Officer, High Voltage Leadership. Founder-CEO / scaling / anti-burnout focus. | Yes — strongest fit |
+| **Lisza** *(last name TBD)* | Host of the SpeakEasy Las Vegas Chapter | Yes — chapter host relationship |
 | **Hailey** *(last name TBD)* | Dietician | Maybe — health-adjacent |
 | *(name TBD)* | SaaS — "Unconscious Beliefs" angle | Maybe — mindset/SaaS |
 | **Robert Zeravica** | That's you — chapter member | — |
@@ -138,10 +140,10 @@ sending.
 
 > Hi Lisza,
 >
-> Thanks for hosting today — Lindsay's talk was a good one for where I
-> am right now. Appreciate you keeping the chapter running. If it's ever
-> useful, happy to share what I'm building (Chiropractic Sleep Academy)
-> with the group down the line.
+> Thanks for hosting today's SpeakEasy LV session — Lindsay's talk was a
+> good one for where I am right now. Appreciate you keeping the chapter
+> running. If it's ever useful, happy to share what I'm building
+> (Chiropractic Sleep Academy) with the group down the line.
 >
 > Robert
 
