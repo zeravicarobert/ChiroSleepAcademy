@@ -46,6 +46,16 @@ Claude's interpretation, *not* her words.
   **"Culture"** *(all verbatim)*. Read: resilience isn't a personal
   trait you white-knuckle — it's built into the org across how you lead,
   how you structure/hire people, and the culture that holds it together.
+- **"Resilience Blueprint"** *(verbatim)* — maps each pillar to a
+  *rhythm* and the outcome that rhythm produces *(all verbatim)*:
+  - **"Leadership Rhythm" → impact**
+  - **"Team Rhythm" → structure**
+  - **"Culture Rhythm" → connection**
+
+  Read: each layer of the org needs its own recurring cadence — the way
+  you lead drives impact, the way the team operates creates structure,
+  and the way the culture runs builds connection. "Rhythm" is the
+  through-line tying all three together.
 
 *(Note: the verbatim phrases above are Lindsay's slide wording. All
 interpretation here and in "CSA Takeaways" below is Robert + Claude's
