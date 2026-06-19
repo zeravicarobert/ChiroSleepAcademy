@@ -57,6 +57,11 @@ Claude's interpretation, *not* her words.
   and the way the culture runs builds connection. "Rhythm" is the
   through-line tying all three together.
 
+**Quotable line:**
+- **"There's no medal for burnout."** *(verbatim)* — her punchline:
+  grinding yourself out earns no reward. The market and your team only
+  see the result, not the cost you paid to get there.
+
 *(Note: the verbatim phrases above are Lindsay's slide wording. All
 interpretation here and in "CSA Takeaways" below is Robert + Claude's
 synthesis, not direct quotes from Lindsay.)*
@@ -132,6 +137,44 @@ Identify the single most repeatable, lowest-judgment task in the CSA
 pathway (likely HST order coordination + scheduling) and define it as a
 delegatable role. That's the first "system that scales without burnout"
 move for CSA.
+
+---
+
+## 3b. Idea Sparked — CSA Awards / Recognition Program
+
+**Trigger:** Lindsay's line *"there's no medal for burnout."* Robert's
+flip: if there's no medal for burnout, CSA *should* mint medals for the
+things that actually matter — modeled on **Russell Brunson's
+ClickFunnels awards** (the Two Comma Club / 8-Figure award plaques that
+became a huge identity and retention driver for the CF community).
+
+**The idea:** a recognition/awards mechanic for the CSA doctor
+community — physical awards, badges, or tiers DCs earn as they progress.
+It gives the community status markers, fuels word of mouth, and gives
+Robert a non-salesy reason to celebrate and re-engage members.
+
+**Critical brand guardrail (CLAUDE.md §4–5):** ClickFunnels awards are
+keyed to *revenue* (dollars through a funnel). CSA awards must **not** be
+keyed to sales or revenue — that would pull CSA toward the hype, "guru
+leaderboard" energy the brand explicitly rejects. CSA awards should
+recognize **clinical and ethical milestones**, e.g.:
+- First HST + CBCT workflow completed on a real patient
+- First structural-airway case taken from consult → ROF → care plan
+- Documented patient airway/sleep improvement (de-identified outcomes)
+- First DC to bring CSA to their own patient base
+- Completion of CSA Doctor Training / representation tier
+
+This keeps the recognition aligned with *patient outcomes and
+practitioner mastery*, not money — which is exactly the credibility
+position CSA wants to own.
+
+**Where it fits:** the doctor-training / community side (CLAUDE.md §8
+Step 6, and Year-Vision items 4 "first cohort/inner circle" and 6
+"content library"). It's a community/retention lever, not a Q3 launch
+item.
+
+**Status:** Parked idea — do **not** add as a mid-month goal
+(CLAUDE.md §13). Revisit when CSA has a first cohort to recognize.
 
 ---
 
