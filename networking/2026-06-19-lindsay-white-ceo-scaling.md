@@ -25,20 +25,26 @@ systems that scale without burnout**.
 
 **Frameworks / slides she showed:**
 
-- **Founder reality check** — the honest look at how much the business
-  currently depends on the founder personally.
-- **Focus + Energy = Strategic Advantage** — her core equation. Protect
-  the two scarce founder resources (focus and energy) and they become a
-  competitive edge, not just self-care.
-- **"I'm entering a demanding 9 weeks — let's protect your leadership"**
-  — a slide framing a known high-demand stretch and planning ahead to
-  protect capacity *before* it's spent, not after burnout hits.
-- **Resilience, reframed** — resilience isn't grinding through; it's
-  built on **rhythm** (sustainable cadence) rather than willpower.
+Phrases in quotes below are **verbatim** from Lindsay's slides (as
+captured by Robert). The plain text after each em-dash is Robert +
+Claude's interpretation, *not* her words.
 
-*(Note: this section reflects how Lindsay framed her own work on the
-call. Anything below in "CSA Takeaways" is Robert + Claude's synthesis,
-not direct quotes from Lindsay.)*
+- **"Founder reality check"** *(verbatim)* — the honest look at how much
+  the business currently depends on the founder personally.
+- **"Focus + Energy = Strategic Advantage"** *(verbatim)* — her core
+  equation. Protect the two scarce founder resources (focus and energy)
+  and they become a competitive edge, not just self-care.
+- **"I'm entering a demanding 9 weeks — let's protect your leadership"**
+  *(verbatim)* — a slide framing a known high-demand stretch and
+  planning ahead to protect capacity *before* it's spent, not after
+  burnout hits.
+- **"Resilience reframed"** *(verbatim)* — resilience isn't grinding
+  through; it's built on **"rhythm"** *(verbatim)* — a sustainable
+  cadence rather than willpower.
+
+*(Note: the verbatim phrases above are Lindsay's slide wording. All
+interpretation here and in "CSA Takeaways" below is Robert + Claude's
+synthesis, not direct quotes from Lindsay.)*
 
 ---
 
