@@ -8,7 +8,8 @@
 
 ## 1. The Speaker
 
-**Lindsay White** — Chief People Officer, **High Voltage Leadership**
+**Lindsay White** — Chief People Officer, **High Voltage Leadership**.
+Also part of **SpeakEasy** (speaker network / community).
 
 **Topic:** *A New Rhythm for Sustainable Growth*
 
@@ -19,6 +20,19 @@ systems that scale without burnout**.
 > The through-line: growth shouldn't cost the founder their health or
 > their life. The job is to build a business that runs on rhythm and
 > systems — not on the founder's adrenaline.
+
+**Frameworks / slides she showed:**
+
+- **Founder reality check** — the honest look at how much the business
+  currently depends on the founder personally.
+- **Focus + Energy = Strategic Advantage** — her core equation. Protect
+  the two scarce founder resources (focus and energy) and they become a
+  competitive edge, not just self-care.
+- **"I'm entering a demanding 9 weeks — let's protect your leadership"**
+  — a slide framing a known high-demand stretch and planning ahead to
+  protect capacity *before* it's spent, not after burnout hits.
+- **Resilience, reframed** — resilience isn't grinding through; it's
+  built on **rhythm** (sustainable cadence) rather than willpower.
 
 *(Note: this section reflects how Lindsay framed her own work on the
 call. Anything below in "CSA Takeaways" is Robert + Claude's synthesis,
@@ -78,6 +92,14 @@ describes.
    sustainable sleep-and-airway health who burns himself out scaling is
    off-message. Robert living the rhythm *is* part of the credibility
    story.
+
+5. **Apply "Focus + Energy = Strategic Advantage" to the 90-day push.**
+   Lindsay's "demanding 9 weeks — protect your leadership" slide maps
+   almost exactly onto CSA's runway: today is 2026-06-19, and the
+   90-day goals are due **Aug 31** (CLAUDE.md §10) — roughly a 10-week
+   stretch. The lesson isn't "work harder for 9 weeks"; it's plan the
+   cadence *now* so the founder's focus and energy hold through the
+   push instead of cratering at the finish.
 
 **One concrete next action this suggests:**
 Identify the single most repeatable, lowest-judgment task in the CSA
