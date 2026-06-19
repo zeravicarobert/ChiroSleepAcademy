@@ -41,6 +41,11 @@ Claude's interpretation, *not* her words.
 - **"Resilience reframed"** *(verbatim)* — resilience isn't grinding
   through; it's built on **"rhythm"** *(verbatim)* — a sustainable
   cadence rather than willpower.
+- **"Resilience Architecture"** *(verbatim)* — her structural model with
+  three pillars: **"Leadership"**, **"People Strategy"**, and
+  **"Culture"** *(all verbatim)*. Read: resilience isn't a personal
+  trait you white-knuckle — it's built into the org across how you lead,
+  how you structure/hire people, and the culture that holds it together.
 
 *(Note: the verbatim phrases above are Lindsay's slide wording. All
 interpretation here and in "CSA Takeaways" below is Robert + Claude's
