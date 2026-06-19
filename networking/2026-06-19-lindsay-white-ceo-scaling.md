@@ -270,3 +270,15 @@ membership decision is still open.
       (CLAUDE.md §13)
 - [ ] If Lindsay's framing proves useful, note it in CLAUDE.md as part
       of Robert's founder-CEO / scaling thinking
+- [ ] **Collect EDD burnout "medals" (ties to §3b).** Get as many people
+      as possible to send Robert a screenshot of their award letter from
+      California EDD — e.g., the **Notice of Determination** for SDI/TTD
+      tied to burnout. These become the real-world "counter-medals for
+      burnout" referenced in §3b — proof that the only reward for burning
+      out is a disability check.
+      - *Note for Robert:* ask permission and have people redact personal
+        info (name, SSN, claim #, address) before sending — a redacted
+        screenshot makes the point without exposing private data.
+      - *Open question:* what's the end use — a talk/post, social proof
+        for the awards concept, or data? Define the purpose before
+        collecting so the ask to people is clear.
