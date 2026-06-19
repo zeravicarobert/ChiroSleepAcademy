@@ -92,10 +92,27 @@ synthesis, not direct quotes from Lindsay.)*
 
 Lindsay's topic lands directly on CSA's current moment. CSA is moving
 from *idea/project* to *market-facing system* (CLAUDE.md §10–11), and
-right now the entire pathway runs on one person: Dr. Z screens, orders,
-reviews reads, treats at Tecopa, quarterbacks case plans, *and* does the
-outreach. That is the exact "founder is the system" trap Lindsay
-describes.
+Robert is **right at the lone-wolf → team-leader transition.** Dr. Z
+still does the clinical core (screens, orders, reviews reads, treats at
+Tecopa, quarterbacks case plans) and much of the outreach — but he is no
+longer alone.
+
+**Robert's team (as of 2026-06-19):**
+
+| Person | Tenure | Note |
+|---|---|---|
+| **Ri** | ~2 years | Longest-tenured; the established hand |
+| **Peter** | ~1 month | New |
+| **Santiago** | ~1 month | New |
+| **Alejandro** | ~1 month | New |
+| **Bryson** | ~1 month | New |
+
+The real challenge isn't *whether to hire* — it's that Robert just went
+from lone wolf to leading a **brand-new team (4 of 5 are one month in)**.
+He's rewiring his own habits *and* setting the team's rhythm at the same
+time. The risk Lindsay's "team rhythm → structure" pillar guards against:
+a founder fresh out of lone-wolf mode stays the bottleneck, and a new
+team quietly learns to route everything back through him.
 
 **What "scale without burnout" means for CSA specifically:**
 
@@ -112,11 +129,15 @@ describes.
    is templated (Tecopa proposal one-pager, ROF template, screening
    forms), the less it depends on Dr. Z's bandwidth per case.
 
-3. **Build the team before the volume forces it.** Lindsay's "rhythm"
-   idea = put the cadence and roles in place *now*, while CSA is small,
-   so the first cohort doesn't break the founder. Open question for
-   Robert: who is the first non-Dr.-Z role CSA needs — admin/coordinator
-   for HST orders and scheduling? That's the first thing to delegate.
+3. **Set the team rhythm now, while the team is new.** The team already
+   exists — the work is *onboarding it well*, not building it from
+   scratch. With four people one month in, the first 90 days set the
+   habits that stick. Lindsay's "team rhythm → structure" pillar applies
+   directly: establish the recurring cadence (who owns what, how work
+   moves, what comes back to Dr. Z vs. stays with the team) before the
+   default "everything routes through Robert" pattern hardens. Lean on
+   **Ri** (2 years in) as the anchor who can help carry rhythm to the
+   four new hires.
 
 4. **Protect the founder's own sleep/health.** On-brand and not ironic:
    CSA's whole thesis is "Heal the Healer First." A founder selling
@@ -133,10 +154,11 @@ describes.
    push instead of cratering at the finish.
 
 **One concrete next action this suggests:**
-Identify the single most repeatable, lowest-judgment task in the CSA
-pathway (likely HST order coordination + scheduling) and define it as a
-delegatable role. That's the first "system that scales without burnout"
-move for CSA.
+Pick the single most repeatable, lowest-judgment task in the CSA pathway
+(likely HST order coordination + scheduling) and fully hand it to a
+specific team member with a clear cadence — so it stays handed off
+instead of boomeranging back to Dr. Z. That's the first concrete
+"lone-wolf → leader" rep.
 
 ---
 
