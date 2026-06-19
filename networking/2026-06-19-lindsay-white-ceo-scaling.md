@@ -4,7 +4,7 @@
 **Event:** SpeakEasy — Las Vegas Chapter (Zoom)
 **Host:** Lisza *(last name TBD)*
 **Presenter:** Lindsay White
-**Captured by:** Robert (chapter member)
+**Captured by:** Robert (prospective member — auditing the chapter; they're auditing him too. Mutual fit-check, not yet a member.)
 
 ---
 
@@ -56,7 +56,7 @@ synthesis, not direct quotes from Lindsay.)*
 | **Lisza** *(last name TBD)* | Host of the SpeakEasy Las Vegas Chapter | Yes — chapter host relationship |
 | **Hailey** *(last name TBD)* | Dietician | Maybe — health-adjacent |
 | *(name TBD)* | SaaS — "Unconscious Beliefs" angle | Maybe — mindset/SaaS |
-| **Robert Zeravica** | That's you — chapter member | — |
+| **Robert Zeravica** | That's you — prospective member, mutually auditing the chapter | — |
 
 **Gaps to fill before sending any outreach:**
 - Lisza's full name + best contact
@@ -122,6 +122,12 @@ move for CSA.
 Voice check (CLAUDE.md §4): clear, direct, professional, peer-to-peer.
 No hype. These are starting drafts — fill in TBD names and tighten before
 sending.
+
+**Context note:** Robert is in a mutual fit-check with this chapter
+(auditing them while they audit him), so these follow-ups do double
+duty — they build the relationship *and* show how Robert shows up. Keep
+them generous and low-pressure; don't pitch CSA hard while the
+membership decision is still open.
 
 ### 4a. Lindsay White (strongest fit)
 
