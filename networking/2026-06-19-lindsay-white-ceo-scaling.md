@@ -265,6 +265,69 @@ into the website/landing-page work when that goes live.
 
 ---
 
+## 3d. Messaging Concept — Two Rhythms (Circadian Rhythm as Measurable Energy Medicine)
+
+**Trigger:** Lindsay's "rhythm" language vs. what Robert teaches about
+rhythm — specifically **circadian rhythm**, framed as *energy medicine
+that is measurable, not ethereal.*
+
+**The dovetail — her rhythm is the calendar; CSA's is the clock
+underneath it:**
+- **Lindsay's rhythm** = *operational / leadership* rhythm: the
+  sustainable cadence of how a founder and team work, rest, and recover.
+  The schedule layer.
+- **CSA's rhythm** = *circadian* rhythm: the body's biological clock
+  governing sleep architecture, hormones, recovery, and energy. The
+  physiology layer.
+
+Her rhythm is **downstream** of CSA's. Her equation is
+*Focus + Energy = Strategic Advantage* — but focus and energy are
+biological outputs of a working circadian rhythm and deep, unfragmented
+sleep, not products of willpower. You can't hold a sustainable *business*
+rhythm if your *biological* rhythm is broken — and a compromised cranial
+airway fragmenting sleep breaks it at the root. CSA addresses the rhythm
+beneath the rhythm.
+
+**"Measurable, not ethereal" = the credibility move (CLAUDE.md §4–5):**
+"Energy medicine" normally drags in woo (reiki, chakras, vibes). CSA
+reclaims the term by anchoring it to **data**:
+- Circadian energy is *measured*, not felt: AHI, ODI, oxygen
+  saturation, sleep staging (from the HST) — plus HRV, light exposure,
+  core body temperature.
+- The HST is the proof instrument — the sleep-and-airway equivalent of
+  the X-ray (CLAUDE.md §7). It makes this energy medicine you can
+  *chart*, not chant.
+- This keeps CSA firmly on the no-over-spiritualizing side of the red
+  lines: structural, measurable, evidence-anchored.
+
+**The stacked model (nests with the §3c "infrastructure" concept):**
+
+> **Structural infrastructure** (aligned spine + cranial airway)
+> → enables a sound **circadian rhythm** (measurable energy / deep sleep)
+> → which is what makes a sustainable **leadership rhythm**
+> (Lindsay's layer) even possible.
+
+A founder protecting their *calendar* rhythm while their airway sabotages
+their *sleep* is rearranging furniture on a broken foundation. CSA fixes
+the foundation and the clock; Lindsay tunes the calendar on top.
+
+**Draft language to test:**
+- "Circadian rhythm is energy medicine you can measure — not the
+  ethereal kind. We chart it, we don't chant it."
+- "There are two rhythms. The one on your calendar, and the one in your
+  cells. CSA works the one underneath."
+- "Focus and energy aren't mindset — they're outputs of a circadian
+  rhythm built on an open airway. Measurable, not mystical."
+
+**Where it fits:** brand/category messaging, keynote or talk framing
+(strong opener for a DC or leadership audience), landing-page copy. Also
+a clean conceptual bridge if CSA ever collaborates with Lindsay /
+people-strategy folks.
+
+**Status:** Messaging concept to develop — not a mid-month goal.
+
+---
+
 ## 4. Follow-Up Outreach Drafts
 
 Voice check (CLAUDE.md §4): clear, direct, professional, peer-to-peer.
