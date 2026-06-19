@@ -215,6 +215,56 @@ shows up as sleep/airway dysfunction) and I'll develop it.
 
 ---
 
+## 3c. Messaging Concept — "Infrastructure" (the Body as Infrastructure)
+
+**Trigger:** the "systems / infrastructure" thread running through
+Lindsay's whole talk — businesses scale on infrastructure, not founder
+adrenaline. Robert's move: borrow the word **"infrastructure"** and
+apply it to the *body*.
+
+**The concept:**
+*Infrastructure* is normally a **public-policy / public-works** term —
+roads, bridges, power, water, the foundational systems everything else
+runs on. It's invisible until it fails, and everything downstream
+depends on it. CSA applies that exact idea to the human body:
+
+> The body has infrastructure too — and CSA restores it.
+> Specifically, the **structural alignment of not only the spine but of
+> the cranial airway**, so people **breathe easy and sleep deeper.**
+
+**Why the metaphor works for CSA:**
+- It reframes **Structural Airway Chiropractic** (CLAUDE.md §1) as
+  *foundational*, not cosmetic or symptomatic — you don't decorate a
+  building with a broken foundation; you fix the infrastructure first.
+- It elevates the **cranial airway** to equal standing with the spine —
+  exactly CSA's skull-down, sleep-first thesis.
+- "Breathe easy and sleep deeper" stays **within the red lines**
+  (CLAUDE.md §5): it's a structural, quality-of-life promise, not a cure
+  claim. Keep it there — never let "infrastructure" drift into "fixes
+  sleep apnea."
+- It bridges cleanly to Lindsay's world: leaders build *business*
+  infrastructure to scale without burnout; CSA builds the *body's*
+  infrastructure so they can actually recover, breathe, and sleep. Same
+  word, two layers — a natural content/keynote hook.
+
+**Draft language to test:**
+- "Infrastructure isn't just roads and bridges. Your body has
+  infrastructure too — the structural alignment of your spine and
+  cranial airway. When it's sound, you breathe easy and sleep deeper."
+- "Structural Airway Chiropractic = infrastructure for the human airway."
+- "We don't treat symptoms. We restore the body's structural
+  infrastructure — spine and cranial airway — so breathing and sleep
+  have a foundation to stand on."
+
+**Where it fits:** category/brand messaging (CLAUDE.md §1, §4),
+landing-page copy, and the eventual content library. A candidate for a
+core tagline/explainer for Structural Airway Chiropractic.
+
+**Status:** Messaging concept to develop — not a mid-month goal. Pull
+into the website/landing-page work when that goes live.
+
+---
+
 ## 4. Follow-Up Outreach Drafts
 
 Voice check (CLAUDE.md §4): clear, direct, professional, peer-to-peer.
