@@ -1,0 +1,160 @@
+# Networking Notes — Lindsay White, "A New Rhythm for Sustainable Growth"
+
+**Date:** 2026-06-19
+**Format:** Zoom call — business chapter meeting
+**Captured by:** Robert (chapter member)
+
+---
+
+## 1. The Speaker
+
+**Lindsay White** — Chief People Officer, **High Voltage Leadership**
+
+**Topic:** *A New Rhythm for Sustainable Growth*
+
+**Her core message (as pitched):**
+She helps founders step into their CEO role by building **teams and
+systems that scale without burnout**.
+
+> The through-line: growth shouldn't cost the founder their health or
+> their life. The job is to build a business that runs on rhythm and
+> systems — not on the founder's adrenaline.
+
+*(Note: this section reflects how Lindsay framed her own work on the
+call. Anything below in "CSA Takeaways" is Robert + Claude's synthesis,
+not direct quotes from Lindsay.)*
+
+---
+
+## 2. People Met on the Call
+
+| Name | Role / Note | Follow-up? |
+|---|---|---|
+| **Lindsay White** | Guest speaker. Chief People Officer, High Voltage Leadership. Founder-CEO / scaling / anti-burnout focus. | Yes — strongest fit |
+| **Lisza** *(last name TBD)* | Host of the chapter / call | Yes — host relationship |
+| **Hailey** *(last name TBD)* | Dietician | Maybe — health-adjacent |
+| *(name TBD)* | SaaS — "Unconscious Beliefs" angle | Maybe — mindset/SaaS |
+| **Robert Zeravica** | That's you — chapter member | — |
+
+**Gaps to fill before sending any outreach:**
+- Lisza's full name + best contact
+- Hailey's full name + practice/clinic
+- The SaaS "Unconscious Beliefs" person's name + company
+
+---
+
+## 3. CSA Takeaways — Robert as Founder-CEO
+
+Lindsay's topic lands directly on CSA's current moment. CSA is moving
+from *idea/project* to *market-facing system* (CLAUDE.md §10–11), and
+right now the entire pathway runs on one person: Dr. Z screens, orders,
+reviews reads, treats at Tecopa, quarterbacks case plans, *and* does the
+outreach. That is the exact "founder is the system" trap Lindsay
+describes.
+
+**What "scale without burnout" means for CSA specifically:**
+
+1. **Separate Dr. Z's clinical role from the system around it.**
+   The HST partner-driven model (CLAUDE.md §8) is already a good
+   instinct — CSA doesn't inventory devices, the vendor handles
+   shipping/reads. Keep pushing work *out* to partners and systems so
+   Dr. Z's time concentrates on the high-value parts: the read through
+   the structural-airway lens, the ROF, and the VAET treatment.
+
+2. **Productize before you personalize.** The 6-step pathway
+   ($0 → $25K) is the "system" — it lets a DC move at their own pace
+   without Dr. Z reinventing the offer each time. The more the pathway
+   is templated (Tecopa proposal one-pager, ROF template, screening
+   forms), the less it depends on Dr. Z's bandwidth per case.
+
+3. **Build the team before the volume forces it.** Lindsay's "rhythm"
+   idea = put the cadence and roles in place *now*, while CSA is small,
+   so the first cohort doesn't break the founder. Open question for
+   Robert: who is the first non-Dr.-Z role CSA needs — admin/coordinator
+   for HST orders and scheduling? That's the first thing to delegate.
+
+4. **Protect the founder's own sleep/health.** On-brand and not ironic:
+   CSA's whole thesis is "Heal the Healer First." A founder selling
+   sustainable sleep-and-airway health who burns himself out scaling is
+   off-message. Robert living the rhythm *is* part of the credibility
+   story.
+
+**One concrete next action this suggests:**
+Identify the single most repeatable, lowest-judgment task in the CSA
+pathway (likely HST order coordination + scheduling) and define it as a
+delegatable role. That's the first "system that scales without burnout"
+move for CSA.
+
+---
+
+## 4. Follow-Up Outreach Drafts
+
+Voice check (CLAUDE.md §4): clear, direct, professional, peer-to-peer.
+No hype. These are starting drafts — fill in TBD names and tighten before
+sending.
+
+### 4a. Lindsay White (strongest fit)
+
+> Hi Lindsay,
+>
+> Really enjoyed your "new rhythm for sustainable growth" talk on the
+> chapter call today. The line about building systems that scale without
+> burning out the founder hit home — I'm building Chiropractic Sleep
+> Academy, a training and clinical program for chiropractors, and I'm
+> right at the point where the whole thing still runs on me.
+>
+> There's a nice irony: my program's whole premise is "heal the healer
+> first," so a founder who scales himself into the ground would be a bit
+> off-brand. I'd value a short conversation about where you'd start when
+> the founder is still the entire system. Open to a quick call in the
+> next couple of weeks?
+>
+> Robert Zeravica
+> Chiropractic Sleep Academy
+
+### 4b. Lisza — Host *(confirm name)*
+
+> Hi Lisza,
+>
+> Thanks for hosting today — Lindsay's talk was a good one for where I
+> am right now. Appreciate you keeping the chapter running. If it's ever
+> useful, happy to share what I'm building (Chiropractic Sleep Academy)
+> with the group down the line.
+>
+> Robert
+
+### 4c. Hailey — Dietician *(confirm name)*
+
+> Hi Hailey,
+>
+> Good to meet you on today's call. I work in the sleep-and-airway space
+> with chiropractors — and nutrition keeps showing up around sleep,
+> inflammation, and airway health. Would be curious to compare notes
+> sometime on where our worlds overlap.
+>
+> Robert Zeravica
+> Chiropractic Sleep Academy
+
+### 4d. SaaS / "Unconscious Beliefs" *(confirm name + company)*
+
+> Hi [name],
+>
+> Enjoyed meeting you today — the "unconscious beliefs" angle caught my
+> attention. A lot of the doctors I work with stall not on the clinical
+> side but on the beliefs they hold about charging, selling, and stepping
+> into a bigger role. Would be interested to hear more about what you're
+> building.
+>
+> Robert Zeravica
+
+---
+
+## 5. Open Items
+
+- [ ] Fill in TBD names (Lisza, Hailey, SaaS person)
+- [ ] Decide whether to book a call with Lindsay White
+- [ ] Park the "first delegatable CSA role" question for the next
+      monthly goals cycle — do **not** add it as a mid-month goal
+      (CLAUDE.md §13)
+- [ ] If Lindsay's framing proves useful, note it in CLAUDE.md as part
+      of Robert's founder-CEO / scaling thinking
