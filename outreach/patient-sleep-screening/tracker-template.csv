@@ -1,0 +1,2 @@
+patient_id,first_name,last_name,segment,phone,email,email_sent_date,sms_sent_date,call_attempt_date,call_outcome,response,screening_sent,screening_completed,screening_result,next_step,hst_booked,hst_date,dollars_collected,followup_date,notes
+EXAMPLE-001,Jane,(do NOT store real patient data in this repo — fill this in Google Sheets),Recertified,,,2026-06-20,2026-06-20,2026-06-21,Voicemail,No reply,Y,N,,,N,,,2026-06-27,Template row — delete before use
