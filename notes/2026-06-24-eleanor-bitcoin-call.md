@@ -52,6 +52,44 @@ part. Robert chose the revolutionary update first.
 
 ---
 
+## Robert's clinical stance — how this helps patients
+
+Robert's holistic approach to **mental financial stress**: don't just name
+the stress — recommend a way to *alleviate* it.
+
+- **The recommendation: "make more money."**
+- The teaching behind it:
+  - **Making money is action / effort.**
+  - **Saving money is behavior.**
+  - **Growing money is knowledge.**
+
+### The asymmetrical advantage
+
+Robert has an unfair advantage: he can **teach Bitcoin**, with asymmetrical
+knowledge that ~99% of people don't have.
+
+- He knows **2^256** (the size of the Bitcoin keyspace).
+- He knows how to **flip a coin 256 times**, convert it to its **hexadecimal
+  equivalent**, and turn that into a **Bitcoin public address** using
+  **bitaddress.org on a cold (air-gapped) computer** — one never connected to
+  the internet.
+
+### The offer (to monetize the asymmetrical knowledge)
+
+- **Teach this Bitcoin knowledge: $1,500 for 4 days.**
+- Plus: "I'll introduce you to the folds in the 'know.'"
+- Plus: access to the **CSA ecosystem.**
+
+### The ecosystem map
+
+- **CSA ecosystem** = adopting **Peter's Permaculture Ecosystem.**
+- Incorporated into Robert's **Lifestyle Medicine Academy**, which is
+  **N.E.W. S.T.A.R.T. plus.**
+- Strongly **"Confluence-y"** — in the spirit of **Confluence by Alec Zeck**,
+  the gathering at a **Sovereignty Ranch in Texas.**
+
+---
+
 ## Open threads / possible next steps
 
 - Practice micro-payments (send + receive) per Eleanor's suggestion.
