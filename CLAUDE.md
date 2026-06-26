@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-21
+**Last updated:** 2026-06-26
 
 ---
 
@@ -81,13 +81,46 @@ Never, on Robert's behalf:
 - Promise cures, guaranteed outcomes, or medical miracles
 - Attack CPAP, oral appliances, surgery, drugs, dentists, ENTs, MDs, or sleep medicine
 - Exaggerate evidence or fake authority
-- Imply DCs diagnose OSA — they don't; the role is structural
+- Misstate chiropractic scope — by either erasing it ("DCs can't
+  diagnose") or overreaching it. See the scope note below.
+- Claim Dr. Z *interprets* sleep studies — he doesn't; the
+  polysomnographic reader interprets, Dr. Z reports and translates
 - Sound desperate, gimmicky, hype-driven, fringe, angry, or anti-science
 - Compromise patient interests for a sale
 - Over-spiritualize patient-facing medical copy
 
 Always protect CSA's credibility. The mission is bigger than any single
 post, page, or pitch.
+
+### Scope note — what a CA DC may diagnose (corrected 2026-06-26)
+
+This replaces the old red line "Imply DCs diagnose OSA — they don't."
+That line was wrong. The accurate position:
+
+- **A California DC may diagnose.** Title 16 CCR §302 grants a licensed
+  DC the authority to diagnose any condition, *provided* it is done
+  "in a manner consistent with chiropractic methods and techniques" and
+  does **not** "constitute the practice of medicine by exceeding the
+  legal scope of chiropractic." Those two clauses are the boundary.
+- **History alone is enough to render a clinical diagnosis.** §302 does
+  not require an exam or any test. A **witnessed apnea** reported in the
+  patient's history is itself a clinically diagnostic finding — no HST
+  required to make the clinical diagnosis or to get the patient in the
+  door.
+- **Dr. Z does not interpret sleep studies.** The HST/PSG is interpreted
+  by the polysomnographic reader — an MD *or* a qualified non-MD reader
+  (e.g., RPSGT/RST) per the vendor model. Dr. Z's job is to **report the
+  findings to the patient and explain what they mean in real life**, and
+  to integrate them into the structural-airway pathway.
+- **The 2-year outcomes study is anchored to objective data** — HST
+  (AHI/ODI) + CBCT — not history alone. This is for **data credibility**,
+  not because Dr. Z lacks the authority to diagnose clinically.
+- **Stay inside §302's ceiling.** Rendering or *billing* a definitive,
+  study-derived OSA diagnosis off Dr. Z's own interpretation would push
+  into "the practice of medicine." Clinical diagnosis from history (done
+  as a chiropractic method) + physician/qualified-reader interpretation
+  of the study is the defensible lane. The structural-airway role and
+  the reader's interpretation are complementary, not competitive.
 
 ---
 
