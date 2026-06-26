@@ -246,6 +246,24 @@ pathway. Each step has its own price and its own purpose. The DC
 moves deeper into CSA at their own pace; the deeper the relationship,
 the higher the price.
 
+### CSA is cash-only (load-bearing)
+
+CSA — and Dr. Z's practice — operate **cash-pay only.** No insurance,
+no Medicare, no third-party billing. This is a deliberate model choice,
+and it simplifies the scope question:
+
+- **No payer rules, no CPT/dx-code billing, no insurance-fraud surface.**
+  The entire insurance side of the sleep-scope debate is moot for CSA.
+- The only remaining scope boundary is §302's "practice of medicine"
+  ceiling (see section 5 scope note), and CSA already stays inside it:
+  Dr. Z diagnoses clinically from history, **does not interpret** the
+  sleep study (the qualified reader does), and **reports/translates**
+  the read to the patient.
+- Net: cash-pay + reader-interprets + Dr. Z-reports = no billing risk
+  and no interpretation-scope problem. Any sleep-study interpretation
+  CME Dr. Z takes is for **competency / better patient translation**,
+  not a billing play.
+
 ### Pathway Overview
 
 > Free Alignment Call → $300 Sleep Baseline → $500 Airway Baseline →
