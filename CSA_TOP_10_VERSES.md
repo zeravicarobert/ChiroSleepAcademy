@@ -21,11 +21,33 @@ breath, the nostrils, honest speech, and ethical care.
 sleep-and-airway mission, and the vow against deceit mirrors CSA's
 non-negotiables — no cure claims, no hype, no exaggerated evidence.
 
-## 2. _(open)_
+## 2. Genesis 2:7 (KJV)
 
-## 3. _(open)_
+> ⁷ And the Lord God formed man of the dust of the ground, and breathed
+> into his nostrils the breath of life; and man became a living soul.
 
-## 4. _(open)_
+**Why it fits CSA:** The first breath comes through the nostrils — the
+origin of the airway story. It grounds CSA's skull-down, breath-first
+view of health in the design of the body itself.
+
+## 3. 1 Corinthians 6:19 (KJV)
+
+> ¹⁹ What? know ye not that your body is the temple of the Holy Ghost
+> which is in you, which ye have of God, and ye are not your own?
+
+**Why it fits CSA:** The body as something worth honoring and caring for
+underwrites the "Heal the Healer First" model — the doctor tends their
+own breath and structure before guiding patients.
+
+## 4. Romans 12:1 (KJV)
+
+> ¹ I beseech you therefore, brethren, by the mercies of God, that ye
+> present your bodies a living sacrifice, holy, acceptable unto God,
+> which is your reasonable service.
+
+**Why it fits CSA:** Stewardship of the body as "reasonable service"
+echoes the calling behind structural airway work — diligent, ethical
+care of how a person breathes, sleeps, and lives.
 
 ## 5. _(open)_
 
