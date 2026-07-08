@@ -144,28 +144,11 @@ first medicine would already recognize.
 
 ---
 
-## ⚠️ POSITIONING DECISION NEEDED — the "malpractice" claim
+## The core claim — how CSA says it (locked)
 
-**Robert's original framing:** *"Applying mid or late intervention
-without early intervention is malpractice."*
-
-**Why this needs a decision before it goes public:**
-
-The *logic* is defensible — conservative care first is a real medical
-principle. But the *word "malpractice,"* aimed at CPAP, oral appliances,
-drugs, and surgery, directly conflicts with CSA's red lines
-(CLAUDE.md §5): never attack CPAP, oral appliances, surgery, drugs,
-dentists, ENTs, MDs, or sleep medicine. Used publicly, it would:
-
-- Read as calling the everyday work of dentists, ENTs, and sleep
-  physicians "malpractice" — the exact partners CSA wants to collaborate
-  with.
-- Invite a defamation/professional-conduct fight CSA can't win and
-  doesn't need.
-- Undercut the doctor-teacher, category-building voice with something
-  that sounds combative.
-
-**Recommended reframe (same conviction, defensible, partner-friendly):**
+**The settled public framing** (chosen by Robert, 2026-07-08 — the
+"incomplete standard of care" version). Use this language everywhere
+public and partner-facing:
 
 > *"Escalating to support (Middle) or alteration (Late) without first
 > evaluating structural alignment (Early) leaves the standard of care
@@ -173,25 +156,21 @@ dentists, ENTs, MDs, or sleep medicine. Used publicly, it would:
 > principle that says you evaluate and address structure before you
 > reach for more invasive tools."*
 
-Or, tighter, for a slide or headline:
+Tighter, for a slide or headline:
 
 > **"You can't skip the beginning of care. Evaluate structure first —
 > then support, then alter."**
 
-This keeps the punch — *skipping early intervention is a real failure* —
-without labeling colleagues' legitimate work as malpractice.
+This carries the full conviction — *skipping early intervention is a
+real failure of care* — without labeling any colleague's legitimate
+work as malpractice. It keeps CSA on the right side of §5 (never attack
+CPAP, oral appliances, surgery, drugs, dentists, ENTs, MDs, or sleep
+medicine) and positions Dr. Z as the doctor who *completes* the arc of
+care rather than the one attacking its middle and end.
 
-**Three options for you to choose from:**
-
-1. **Recommended:** Use the "incomplete standard of care" reframe above
-   in all public/partner-facing material.
-2. **Internal-only strong version:** Keep the "malpractice" language for
-   Robert's private conviction and internal notes, never in published
-   copy.
-3. **As-is:** Publish the "malpractice" wording — *not recommended;*
-   conflicts with §5 red lines.
-
-Tell me which you want and I'll lock the document to match.
+**Do not use** the word "malpractice" (or equivalents like "negligent,"
+"illegal") aimed at Middle/Late providers in any published copy. The
+critique is always of the *sequence*, never of the *people*.
 
 ---
 
@@ -279,7 +258,8 @@ you can be the airway liaison your local screening dentists need."*
 
 ## Next steps (pick any)
 
-- [ ] Robert chooses the positioning option for the malpractice claim
+- [x] Positioning decision — "incomplete standard of care" reframe
+      chosen and locked (2026-07-08)
 - [ ] Turn the "at a glance" table into a clean visual diagram
       (early → middle → late)
 - [ ] Draft a patient-facing one-pager version
