@@ -195,6 +195,73 @@ Tell me which you want and I'll lock the document to match.
 
 ---
 
+## The dental-screening opening — CSA as the airway liaison
+
+There is a structural tailwind that makes the Early phase a real
+business, not just a philosophy.
+
+**What the ADA actually says.** In **October 2017** the American Dental
+Association adopted an official policy on dentistry's role in
+sleep-related breathing disorders. It states that **all dentists should
+screen patients for sleep-related breathing disorders** (snoring,
+witnessed apneas, sleepiness, and risk factors like obesity,
+retrognathia, hypertension) as part of a comprehensive medical and
+dental history, and **refer as needed to physicians for diagnosis.**
+
+> Precision note (per §5 — never fake authority): this is the ADA's
+> official *policy/standard of care*, adopted 2017. Say "the ADA's
+> policy directs dentists to screen" — **not** "dentists are legally
+> mandated." The professional expectation is real and strong; the word
+> to use is *policy/standard*, not *law*.
+
+**Why this is the opening.** The policy turns every screening dental
+practice into a **funnel of screening-positive patients** — but it
+leaves the dentist with a gap:
+
+- The dentist **screens**, but does not diagnose (a physician does).
+- The dentist may **fabricate an oral appliance** (Middle phase) — but
+  only with a physician's Rx, and only after diagnosis.
+- **No one owns the Early phase.** No one is evaluating and correcting
+  the *structure* — the vertebral, craniofacial, and visceral-cranial
+  alignment — before the patient is escalated to an appliance or beyond.
+
+That gap is exactly the Early phase. It is where a
+**CSA-certified chiropractor** belongs.
+
+**The liaison role (scope-safe).** A DC certified through Chiropractic
+Sleep Academy becomes the **structural airway liaison** between the
+dentist, the dental patient, and the wider care team:
+
+- Receives the dentist's screening-positive referrals.
+- Provides the **Early-phase structural evaluation and care** — the
+  piece neither the dentist nor the physician provides.
+- Coordinates the **HST → physician diagnosis** pathway so the patient
+  gets a real diagnosis from the right professional.
+- Keeps the dentist, physician, and patient aligned and communicating —
+  a quarterback for the structural side of the case.
+
+> **Hard scope line (§5):** the CSA-certified DC does **not** diagnose
+> OSA. Diagnosis stays with the physician. The DC owns *structure,
+> coordination, and education* — not diagnosis. Every piece of copy
+> built from this must keep that line clean.
+
+**Why a dentist says yes.** The ADA policy has handed dentists a
+screening duty they don't have a downstream system for. CSA gives them
+one: a trained, ethical, structure-first chiropractor who takes the
+screened-positive patient, runs the conservative Early phase, routes the
+diagnosis to a physician, and sends a well-managed patient back — a
+patient who may now be a far better oral-appliance candidate. The
+dentist gets a **complete, compliant care pathway** instead of a dead
+end. CSA becomes the connective tissue of the airway team.
+
+**Where it plugs into the pathway.** This is a top-of-funnel source for
+Step 2 (Sleep Baseline / HST) and Step 3 (Airway Baseline / CBCT) in
+the productized pathway (CLAUDE.md §8), and it gives the Step 6 CSA
+Doctor certification a concrete, marketable purpose: *"Get certified so
+you can be the airway liaison your local screening dentists need."*
+
+---
+
 ## Where this fits in CSA
 
 - **Category-building.** This is a clean, teachable map that makes
@@ -218,3 +285,5 @@ Tell me which you want and I'll lock the document to match.
 - [ ] Draft a patient-facing one-pager version
 - [ ] Draft a DC/partner-facing version for outreach
 - [ ] Pull a landing-page section from this for the Goal 6 site
+- [ ] Draft a dentist-facing one-pager: "The ADA says screen. CSA is
+      where screened patients go." (airway-liaison pitch)
