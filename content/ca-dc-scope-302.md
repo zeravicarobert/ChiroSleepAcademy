@@ -93,9 +93,29 @@ Diagnosing **"OSA,"** an ICD-coded sleep-medicine disease, leans toward
 practice of medicine.
 
 **Honest read:** the position is *arguable and reasonable*, not settled.
-The blood-analogy is weaker in CA than assumed (blood draw is excluded as
-tissue penetration). CSA's best ground is the **anatomy/SAO framing**, and
-the answer must come from the Board, not from us.
+CSA's best ground is the **anatomy/SAO framing**, and the answer must come
+from the Board, not from us.
+
+**Correction on the blood analogy (Robert's point — and he's right):**
+separate two acts that were being blurred:
+- **Drawing** blood (venipuncture) *is* excluded — it penetrates tissue,
+  which is outside chiropractic scope.
+- **Ordering** labs (drawn by an outside lab/phlebotomist) and
+  **interpreting** the results is a *different act* — and it is squarely
+  within CA DC training and competency. Clinical lab interpretation is
+  taught in the chiropractic curriculum (e.g., LACC — physiology,
+  biochemistry, clinical diagnosis) and **CA board examinations test it.**
+  A profession trained and licensed to interpret lab data is, by that
+  fact, competent to interpret it.
+
+**Why this strengthens the HST case:** an HST is **non-invasive** — it
+penetrates no tissue, so the venipuncture-style exclusion doesn't even
+apply. And interpreting objective physiologic data is the same *kind* of
+act CA DCs are trained and board-tested to perform with labs. So the real
+question narrows to: is the HST an accepted **chiropractic diagnostic
+instrument** for a **structural airway** finding? That is the precise
+thing to put to the Board — and it is a *stronger* starting position than
+the first draft of this doc implied.
 
 ---
 
@@ -111,10 +131,13 @@ Order of operations, least to most expensive:
 2. **CA healthcare / administrative-law attorney opinion letter.** A
    formal written legal opinion you can rely on and show if challenged
    (see §6 for how to find the right one).
-3. **Malpractice carrier's risk/legal line.** Your professional-liability
-   insurer (e.g., NCMIC) has a risk-management legal line — free to
-   policyholders and specifically expert in DC scope. Call them too; their
-   answer also tells you whether you're *covered* doing this.
+3. **Malpractice carrier's risk/legal line — ChiroSecure.** Your
+   professional-liability carrier (**ChiroSecure**) has a risk-management
+   line for policyholders that is specifically expert in DC scope. Call
+   them: their answer also tells you the most practical thing of all —
+   whether you are *covered* performing HST-based structural airway
+   evaluation. If your carrier won't defend it, that changes the plan
+   regardless of what the statute says.
 
 Do all three. They triangulate the real ceiling.
 
@@ -134,11 +157,31 @@ but long — game. Three legitimate paths:
    **AB-2143** used for the lab-test question. Requires a legislative
    author/sponsor and, realistically, the backing of a professional
    association.
-3. **Coalition through the CA Chiropractic Association (CalChiro / CCA).**
+3. **Coalition through the CA Chiropractic Association (CalChiro).**
    Neither of the above works solo. The practical move is to bring this to
    the state association as a scope-modernization issue and let CSA be the
    clinical/evidence engine behind it. This also builds allies instead of
    going it alone.
+
+   **CalChiro primer (calchiro.org):** CalChiro is *the* advocacy and
+   professional-development body for CA DCs. Its Governmental Affairs
+   department, the **CC-PAC** (political action committee), and the annual
+   **Legislative Conference** are the machinery that "protects the
+   chiropractic scope of practice." The grassroots on-ramp is the **Key
+   Doctor Program** — DCs who build relationships with their legislators
+   and feed scope concerns to CalChiro's Governmental Affairs team.
+
+   **How Robert gets involved (near-term):**
+   1. **Join** (calchiro.org/become-a-member) — start at Supporter tier
+      for voting + advocacy; Elite adds compliance/practice resources.
+   2. **Plug into your local District** — meet the DCs already doing this.
+   3. **Apply to the Key Doctor Program** — this is the direct line into
+      scope/legislative work.
+   4. **Attend the Legislative Conference** — where scope priorities are
+      set; bring the SAO/airway story.
+   5. **Position CSA as the clinical/evidence engine** for an airway-
+      diagnostics scope-modernization effort — CSA supplies the case, the
+      data, and the category; CalChiro supplies the political vehicle.
 
 **Realistic timeline:** rulemaking is 12–24+ months; legislation a
 multi-year effort. **Strategic implication:** don't wait on scope
@@ -158,8 +201,9 @@ parallel as a long-term category-building move — not a launch dependency.
    with scope-of-practice experience.
 
 **Where to find them:**
-- Ask your **malpractice carrier (NCMIC)** for their panel counsel — they
-  keep lists of DC-defense attorneys by state.
+- Ask your **malpractice carrier (ChiroSecure)** for their panel counsel
+  / risk-management referrals — carriers keep lists of DC-defense
+  attorneys by state.
 - **California Chiropractic Association (CalChiro)** — ask for their
   general counsel or a referral; they deal with scope constantly.
 - **State Bar of California** certified Legal Specialist referral;

@@ -303,10 +303,14 @@ reality — defensible framing.**
 
 > **§302 caveat (be honest internally):** §302 enumerates X-ray,
 > thermography, and *neuromusculoskeletal* diagnostic ultrasound — it does
-> **not** enumerate sleep/cardiopulmonary testing devices, and CA lists
-> venipuncture/blood analysis as not appropriate for chiropractic. So the
-> HST-in-scope position is an *argument*, not settled text. The Board
-> opinion (below) is what converts it from argument to answer.
+> **not** name sleep/airway testing devices, so HST-in-scope is an
+> *argument*, not settled text. But the argument is reasonably strong:
+> the HST is **non-invasive** (no tissue penetration, unlike a blood
+> draw), and *interpreting* objective physiologic data is exactly what CA
+> DCs are trained and board-tested to do with lab results. The narrow
+> question for the Board: is the HST an accepted chiropractic diagnostic
+> instrument for a **structural airway** finding? The Board opinion is
+> what converts argument to answer.
 
 ### Honest caveat on the blood-test analogy
 The "if I can diagnose Syndrome X from a CMP, why not OSA from an HST?"

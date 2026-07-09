@@ -74,6 +74,13 @@ you can send to and trust:
 area (or telehealth) who will accept referrals, *before* launch. This one
 step converts the biggest liability into a managed pathway.
 
+> **These double as power partners.** A sleep MD and an ENT are not just a
+> liability safety net — they are strategic relationships. Referrals flow
+> **both ways** over time (they see structural/airway cases you're built
+> for), and their willingness to accept CSA referrals is itself a
+> credibility signal. Build the two relationships deliberately, not just
+> as a compliance checkbox.
+
 ---
 
 ## 4. The workflow

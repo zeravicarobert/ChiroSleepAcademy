@@ -21,14 +21,14 @@ DC seeking guidance. Keep a copy of whatever they send.
 ---
 
 **To:** [Board of Chiropractic Examiners — chiro.info@dca.ca.gov / Contact form]
-**From:** Dr. Robert Zeravica, D.C. — CA license #[LICENSE NUMBER]
+**From:** Dr. Robert Zeravica, D.C. — CA license #26527
 **Re:** Request for written guidance — scope of practice under 16 CCR §302
 (home sleep testing and diagnosis of structural upper-airway obstruction)
 
 Dear Board of Chiropractic Examiners,
 
 I am a California-licensed doctor of chiropractic (license
-#[LICENSE NUMBER]) seeking written guidance on the scope of practice under
+#26527) seeking written guidance on the scope of practice under
 16 CCR §302 as it applies to sleep-and-airway evaluation in a cash-based
 practice.
 
@@ -67,15 +67,19 @@ Thank you for your time and guidance.
 Respectfully,
 
 Dr. Robert Zeravica, D.C.
-CA License #[LICENSE NUMBER]
-[Practice name / address]
-[Phone] · [Email]
+CA License #26527
+Chiropractic Sleep Academy
+7 Mayfair Place, Northridge, CA 91324
+(818) 276-5054 · ChiroSleepPro.com
 
 ---
 
 ## Before sending — fill in / decide
-- [ ] Insert CA license number and practice contact block
+- [x] CA license number (#26527) and contact block inserted
 - [ ] Confirm current Board email / use the online Contact form
+- [ ] Note: contact block uses ChiroSleepPro.com; CLAUDE.md lists the
+      public domain as ChiropracticSleepAcademy.net — confirm which is
+      the outward-facing site before wide distribution
 - [ ] Decide whether to send this **before** or **after** the attorney
       opinion (recommend: send both in parallel — Board answer + attorney
       letter triangulate)

@@ -71,6 +71,16 @@ CSA should never feel gimmicky or low-ticket-only. It attracts serious
 DCs who understand that sleep, airway, and biomechanics can become a
 high-value clinical division — not just another commodity service.
 
+### Founder-Led Brand (2026 pivot)
+
+CSA is now **founder-led**: brand **Dr. Robert Zeravica, D.C., founder of
+Chiropractic Sleep Academy** — not only the CSA entity. The person carries
+the trust and voice; CSA carries the offer and system. Branding the
+founder brands CSA simultaneously (Jay Abraham's Strategy of Preeminence,
+personal level). Primary identity line and pillars in
+`content/personal-brand-positioning.md`. Keep it doctor-teacher, never
+guru/hype (§4/§5).
+
 ---
 
 ## 5. Non-Negotiables (Red Lines)
