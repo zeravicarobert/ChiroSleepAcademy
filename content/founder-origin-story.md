@@ -1,125 +1,102 @@
-# Founder Origin Story — "Heal the Healer First"
+# Founder Origin Story — "For Us, By Us"
 
 **For:** ChiroSleepPro.com (founder hub) → leads into Chiropractic Sleep Academy
 **Voice:** First person, Dr. Robert Zeravica. Doctor-teacher (§4). No cure
-claims, outcome-honest (§5).
-**Created:** 2026-07-09
-**Status:** Draft v1 — cornerstone content. `[FILL]` marks a real personal
-detail only Robert can supply; do not publish with brackets showing.
+claims; patient outcomes told as honest anecdote, de-identified (§5).
+**Created:** 2026-07-09 · Rewritten 2026-07-09 around Robert's true story
+**Status:** Draft v2 — the real origin. Verify the small list at the bottom
+before publishing.
 
-> **How to use this:** the long version is the anchor essay for the site
-> "My Story" / About page and the spine of your signature talk. The short
-> version is your bio/intro. Fill every `[FILL]`, then cut anything that
-> isn't true. Truth is the whole asset here.
+> **The turn that makes this work:** the second patient — the one whose
+> back you *didn't* fix, who slept like a baby anyway. That honesty is the
+> credibility. Don't let anyone polish it out.
 
 ---
 
 ## LONG VERSION
 
-### The healer who wasn't sleeping
+### "I slept like a baby"
 
-I'm a chiropractor. For years my job was to help other people's bodies
-work the way they were built to. I was good at it. What I wasn't good at —
-what I quietly ignored — was my own sleep.
+The origin story you'd expect from a sleep doctor is *"I couldn't sleep,
+so I fixed myself."* Mine is the opposite. It never started with me. It
+started with a man's low back.
 
-[FILL: your real symptoms and how long — e.g., snoring, waking tired,
-gasping, brain fog, a partner's observation, the year it started. One or
-two honest sentences. This is the hook; make it real, not dramatic.]
+A patient came to see me for low back pain — just low back pain, the bread
+and butter of any doctor of chiropractic. I adjusted him, his back got
+better, and at his next visit he said something I didn't think twice
+about:
 
-I did what a lot of doctors do. I explained it away. I was busy. I was
-getting older. Everyone's tired. I treated the fatigue as a scheduling
-problem instead of what it was — a *structural* and *airway* problem I had
-been trained to see in everyone but myself.
+> *"Doc, I slept like a baby that night."*
 
-### What I was taught to do — and what I wasn't
+Good for him, I thought. I filed it away.
 
-Here is what struck me once I finally looked honestly at the sleep-and-
-airway world: it has a beginning that everyone skips.
+Then another man came in. Same complaint — low back pain. Except this
+time, I'll be honest with you: I *didn't* get his back better. Not really.
+And he came back and told me the exact same thing:
 
-When someone can't breathe well at night, the system moves fast to
-**equipment** — CPAP, an oral appliance — and, if that isn't enough, to
-**medication and surgery**. Those are real tools. I respect the doctors
-and dentists who use them. Some of my own patients have needed them.
+> *"Doc — I slept like a baby that night."*
 
-But almost no one was asking the first question: **is the structure in
-alignment?** The upper airway is anatomy — cranial, facial, cervical, and
-postural anatomy. It can be evaluated. When it's out of alignment, it can
-be *addressed*. That is the earliest, most conservative phase of care —
-and it was the phase no one owned.
+That stopped me cold.
 
-I had spent my career in exactly that phase, for the spine and the body.
-I had simply never applied it, seriously and systematically, to the
-airway. Not even to my own.
+Because if I fix the first man's back and he sleeps better, fine — maybe
+he was just comfortable. But I *didn't* fix the second man's back, and he
+slept better anyway. So whatever was helping these people sleep, it
+wasn't only about the pain. Something else was happening on my table.
+Something structural. Something I didn't yet understand.
 
-### Becoming my own patient
+### The pattern
 
-So I stopped being only the doctor and became the patient.
+Then it kept happening. Patient after patient, in almost the same words —
+*"I slept like a baby."* People who came to me for their backs, their
+necks, their posture, telling me, unprompted, that they were sleeping
+better than they had in years.
 
-I went through the same objective testing I would later build a pathway
-around. I ordered a **home sleep test** on myself. [FILL: keep this honest
-— you personally went through the Sleep Doctor / HST process in late 2025.
-Say it plainly: I ran the test on myself before I ever ran it for anyone
-else.]
+I couldn't un-hear it. When that many patients tell you the same thing you
+never asked about, it isn't a coincidence — it's a message. And the
+message was this: **the structure of the body and the way a person sleeps
+and breathes are connected.** Structure is my entire world as a
+chiropractor. I had been affecting people's sleep for years without ever
+naming it.
 
-[FILL: what the data showed you — your AHI/RDI/ODI or, if you'd rather not
-share numbers, the honest takeaway. e.g., "The data told a story my
-willpower had been arguing with for years." Only include what's true and
-what you're comfortable making public.]
+### The closed door
 
-Reading my own results changed how I understood the whole problem. This
-wasn't a character flaw or a willpower gap. It was **structure** —
-measurable, objective, and exactly the kind of thing a chiropractor is
-trained to work with.
+So I went looking. I went to the sleep conventions — where the
+sleep-and-airway world gathers to learn.
 
-### The realization
+And I found out there was no seat for me.
 
-That's when the model became clear to me — the one I now teach:
+There was no place for a doctor of chiropractic at that table. The
+educational classes — the real training — were offered to medical doctors
+and dentists. Not to us. I stood in rooms full of people studying the
+airway, the very structure I work with every day, and the classroom door
+was closed to my profession.
 
-> **Early. Middle. Late.**
-> Early is alignment and structure. Middle is support — CPAP, oral
-> appliances. Late is alteration — medication, surgery. Every one of them
-> has an honest place. But you can't skip the beginning of care.
+I could have gotten bitter about that. Instead, I got to work.
 
-The obstruction in an airway is anatomy. And chiropractors deal with
-anatomy. I had been standing next to the answer my entire career.
+### For us, by us
 
-### Structural Airway Chiropractic
+I take after one of my mentors, Daymond John — the founder of FUBU,
+*"For Us, By Us."* He didn't wait for an industry to make room for his
+community. He built the room.
 
-I began to build a way of practicing I call **Structural Airway
-Chiropractic** — a skull-down, sleep-first, structure-first approach to
-the airway. Instead of jumping to equipment, it starts by evaluating and
-addressing the **structural upper-airway obstruction** — the anatomy
-behind the breathing problem — using objective data to anchor the work.
+So that's what I did. If there was no place for chiropractors in the
+sleep-and-airway world, I would build one — **for us, by us.** A place
+where doctors of chiropractic get the education, the model, and the seat
+at the table that no one was going to hand us.
 
-I want to be careful and honest about what this is and isn't. I don't
-claim chiropractic cures sleep apnea. I don't attack CPAP, appliances, or
-the physicians and dentists who provide them — I refer to them and work
-alongside them when a case calls for it. What I *do* claim is that the
-early, structural phase is real, it's mine to own as a chiropractor, and
-it has been missing from the conversation.
+I called it **Chiropractic Sleep Academy.**
 
-### Why I built Chiropractic Sleep Academy: heal the healer first
+### Why it matters
 
-Once I had lived it, I couldn't unsee it — and I couldn't keep it to
-myself. There are thousands of chiropractors who are exhausted, who snore,
-who wake up tired, who are one honest test away from understanding their
-own bodies. And there are millions of patients waiting on the other side
-of those doctors.
+Everything I teach today grew out of those patients on my table saying the
+same handful of words. It became a way of practicing — **Structural
+Airway Chiropractic** — that treats the airway as what it is: anatomy,
+structure, *our* territory. And it became a mission: to give every
+chiropractor who wants it the training to do for their patients what I
+first did for mine by accident — and to finally give our profession its
+rightful place in a conversation we belong in.
 
-So I built Chiropractic Sleep Academy on a simple order of operations:
-
-> **Heal the healer first. Then teach the healer. Then help the healer
-> heal their patients.**
-
-I start with the chiropractor as the patient — the same way I started with
-myself — because a doctor who has *lived* the model teaches it with a
-credibility no lecture can manufacture.
-
-### The invitation
-
-If you're a chiropractor and any of this sounds like your own mornings —
-this is the door. Not a pitch. A conversation, the same one I had to have
-with myself.
+It didn't start with me. It started with my patients. It always has.
 
 **Dr. Robert Zeravica, D.C.**
 *Founder, Chiropractic Sleep Academy — the Doctor of Chiropractic who
@@ -130,31 +107,45 @@ model.*
 
 ## SHORT VERSION (bio / intro / about-blurb)
 
-I'm Dr. Robert Zeravica, a chiropractor who spent years helping other
-people's bodies work right while quietly ignoring my own broken sleep.
-When I finally ran a home sleep test on myself, the objective data told me
-what I'd been trained to see in everyone but me: my problem was
-**structure** — the anatomy of the airway. That's the earliest, most
-conservative phase of care, and it's the phase the sleep-and-airway world
-skips on its way to equipment, drugs, and surgery.
+People expect a sleep doctor's origin story to be *"I couldn't sleep, so I
+fixed myself."* Mine is the opposite — it started with my patients.
 
-So I built a way of practicing — **Structural Airway Chiropractic** — that
-starts where care should start: with the structural airway obstruction
-itself. And I built **Chiropractic Sleep Academy** on one principle: *heal
-the healer first.* I help chiropractors understand their own sleep and
-airway, then help them bring the same structure-first model to their
+A man came to me for low back pain. I helped his back, and he told me he
+"slept like a baby" that night. Then another man came in for the same
+thing — and even though I *didn't* get his back better, he said the exact
+same words. Then dozens more did. Patients I was treating for their spines
+kept telling me, unprompted, that they were finally sleeping.
+
+That connection — structure and sleep — pulled me toward the
+sleep-and-airway world. But when I got to the conventions, I found there
+was no seat for a doctor of chiropractic; the real education was reserved
+for physicians and dentists. So, like my mentor Daymond John and his "For
+Us, By Us" philosophy, I stopped waiting for a place at the table and
+built one. I created **Chiropractic Sleep Academy** — to give
+chiropractors the training, the model, and the seat we'd been denied, and
+to help them bring structure-first sleep and airway care to their own
 patients.
 
-I don't promise cures and I don't fight the dentists and physicians who do
-important work — I work alongside them. I just refuse to skip the
-beginning of care.
+It didn't start with me. It started with my patients.
 
 ---
 
-## FILL-IN CHECKLIST (make it true before publishing)
-- [ ] Real symptoms / timeline (the hook)
-- [ ] Your own HST experience — how you'd like to tell it (Sleep Doctor,
-      late 2025)
-- [ ] Whether to share your actual AHI/RDI/ODI numbers or just the takeaway
-- [ ] Any detail about your practice history / VAET / Tecopa you want woven in
-- [ ] Cut anything that isn't 100% true; keep it doctor-teacher, never hype
+## THE PULL-QUOTES (for slides, social, site headers)
+- *"It didn't start with me. It started with my patients."*
+- *"I didn't fix his back — and he still slept like a baby. That's when I
+  knew something structural was going on."*
+- *"There was no seat for a chiropractor at the sleep table. So I built
+  one — for us, by us."*
+
+---
+
+## VERIFY BEFORE PUBLISHING
+- [x] De-identified — no patient names or identifying details (keep it that way)
+- [x] Outcome-honest — patient words told as anecdote, no cure claims
+- [ ] Tone check on the "closed door" section — dignified, not bitter?
+      (Confirm it sounds like *you* — resolve, not grievance.)
+- [ ] Daymond John — confirm you're comfortable naming him publicly as a
+      mentor / inspiration, and the FUBU framing
+- [ ] Optional: name the specific sleep convention, or keep it general
+- [ ] Optional: add one more concrete patient beat if you want a third
+      example (still de-identified)
