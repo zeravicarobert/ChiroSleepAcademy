@@ -219,18 +219,21 @@ dentist, the dental patient, and the wider care team:
 - Keeps the dentist, physician, and patient aligned and communicating —
   a quarterback for the structural side of the case.
 
-> **Scope line — strategic, not just legal.** By design, the CSA model
-> keeps the **OSA diagnosis with the physician**, and the DC owns
-> *structure, coordination, and education.* See "The diagnosis question"
-> below for why this is a deliberate strategic choice (not merely a
-> limitation) and what still needs legal verification in California.
+> **Scope line.** In a cash model, framed as **structural upper-airway
+> obstruction**, the CA DC can credibly own the diagnosis for their lane
+> (CA §302, "chiropractic methods") and refer/co-manage severe cases with
+> a physician. See "The diagnosis question" below for the full analysis,
+> the winning frame, and the guardrails (Board opinion, referral
+> protocol, terminology) — and confirm the §302 ceiling before public
+> copy states it.
 
 **Why a dentist says yes.** The ADA policy has handed dentists a
 screening duty they don't have a downstream system for. CSA gives them
 one: a trained, ethical, structure-first chiropractor who takes the
-screened-positive patient, runs the conservative Early phase, routes the
-diagnosis to a physician, and sends a well-managed patient back — a
-patient who may now be a far better oral-appliance candidate. The
+screened-positive patient, runs the conservative Early phase, diagnoses
+and manages the structural airway obstruction (co-managing severe cases
+with a physician), and sends a well-managed patient back — a patient who
+may now be a far better oral-appliance candidate. The
 dentist gets a **complete, compliant care pathway** instead of a dead
 end. CSA becomes the connective tissue of the airway team.
 
@@ -242,56 +245,94 @@ you can be the airway liaison your local screening dentists need."*
 
 ---
 
-## The diagnosis question — who diagnoses OSA, and who *should* for CSA
+## The diagnosis question — can the CA cash-based DC own it?
 
-This is a live question Robert raised (a CA DC diagnoses within scope —
-so could the DC, not an MD, own the OSA diagnosis?). It deserves a clear,
-honest answer because the whole liaison model touches it.
+This is a live question Robert raised, and after working through it the
+answer moved substantially toward **yes, within the right frame.** CSA
+is a **cash-based practice** (no insurance), which changes the analysis.
 
-### What the standard of care actually says
-- **A home sleep test does not diagnose — the interpreting clinician
-  does.** And under the AASM standard, the OSA diagnosis is reserved for
-  a **physician** (board-certified in sleep medicine, or overseen by
-  one); the HSAT is expected to be physician-ordered and
-  physician-interpreted.
-- **A polysomnographic technologist (RPSGT) *scores* the study; they do
-  not *diagnose*.** Scoring ≠ diagnosis. So "a technologist reads it,
-  therefore no physician is needed" does not follow — the scorer hands
-  data to a diagnostician, they are not one.
-- **"No prescription needed" ≠ "no physician needed."** Direct-to-
-  consumer HSTs produce *data* without an Rx, but that is not a
-  system-recognized, billable, defensible *diagnosis.*
+### What is NOT the governing authority
+- **AASM guidelines are not law.** The AASM is a private professional
+  society. Its "physician must order and interpret" position binds
+  through *insurance reimbursement* and *medico-legal standard-of-care*
+  arguments — not by statute. In a **cash model, the insurance lever is
+  gone.**
+- **Historical context:** in *Wilk v. AMA* (1987, aff'd 7th Cir. 1990),
+  the AMA was found guilty of violating §1 of the Sherman Act — an
+  unlawful conspiracy "to contain and eliminate the chiropractic
+  profession." A medical guild's "standard" is not a neutral fact.
+  (Use this as internal backbone, **not** as public marketing — see the
+  brand note below.)
 
-### The California scope nuance
-"Diagnose" is not one act. A CA DC almost certainly may render a
-**chiropractic diagnosis** (structural / neuromusculoskeletal / airway
-*structure* findings). Whether a CA DC may render a **medical diagnosis
-of OSA** as *the* definitive, billable, system-recognized diagnosis is
-the contested zone — OSA is a sleep-medicine disease, and CA chiropractic
-scope excludes practicing medicine.
+### What IS the governing authority — CA Title 16 CCR §302
+A CA-licensed chiropractor *"may diagnose, so long as such diagnosis is
+done in a manner consistent with chiropractic methods and techniques and
+so long as such methods do not constitute the practice of medicine."*
+So the real test is not "is OSA a medical disease" — it's **"is this
+diagnosis done by chiropractic methods, and does it cross into practicing
+medicine?"**
 
-> **Action item (do before building on it):** Get a **written scope
-> opinion** from the California Board of Chiropractic Examiners and a CA
-> healthcare attorney before any CSA material states or implies that the
-> DC diagnoses OSA. Not resolved by a web search; needs a real opinion.
+### The winning frame — diagnose the *structural airway obstruction*
+Robert's own framing is the strongest scope position:
 
-### Why CSA should keep diagnosis with the physician *by choice*
-Even if California scope permitted it, making "DC diagnoses OSA, no MD"
-the load-bearing beam is likely a bad trade:
+> *OSA is not a pharmaceutical-deficiency disease. It is an upper-airway
+> obstruction. What obstructs it is anatomy — and chiropractors deal
+> with anatomy.*
 
-| Keep diagnosis with the physician | DC owns the OSA diagnosis |
-|---|---|
-| Collaborative — §5 intact, sleep MDs are partners | Competes with sleep medicine |
-| Near-zero liability | Board-complaint / "practicing medicine" risk |
-| Payers & dentists already accept it | Insurers may reject a DC-rendered OSA dx |
-| Early structural phase stays the differentiator | Trades a unique position for a contested one |
+Diagnosing the **structural upper-airway obstruction** (the anatomy),
+using the HST as objective evidence (AHI / RDI / ODI read like a film),
+sits inside "chiropractic methods." That is far more defensible than
+claiming the ICD-coded medical label "OSA," which is where a Board could
+argue the DC crossed into practicing medicine. **Same clinical reality —
+defensible framing.**
 
-CSA's moat is **the Early structural phase nobody else owns — not the
-diagnosis.** Anyone can route a diagnosis. Keeping the physician as
-diagnostician gives the sleep MD a defined, respected role, which turns
-them into a referral partner instead of a competitor. **Recommendation:
-keep the physician as diagnostician as a deliberate strategic choice —
-and get the CA opinion letter so the ceiling is known, not guessed.**
+### Honest caveat on the blood-test analogy
+The "if I can diagnose Syndrome X from a CMP, why not OSA from an HST?"
+logic is structurally sound, but its *premise* is itself contested in
+CA: §302 explicitly authorizes X-ray, thermography, and diagnostic
+ultrasound — it does **not** clearly authorize DCs to order/draw blood
+(hence AB-2143 having to exist). So the analogy doesn't *prove* HST
+authority; the **§302 "chiropractic methods vs. practice of medicine"
+test is the real argument.**
+
+### The three guardrails (protect the practice, don't gatekeep it)
+1. **Written Board opinion — framed correctly.** Ask the CA Board of
+   Chiropractic Examiners (and a CA healthcare attorney): *"Is ordering /
+   interpreting an HST and diagnosing a structural upper-airway
+   obstruction within 'chiropractic methods' and not the practice of
+   medicine under §302?"* This is the shield if ever challenged.
+2. **Severe-case referral protocol.** Cash removes payers, not tort
+   liability. Document a referral option for high-AHI / cardiac-risk /
+   drowsy-driving cases. Referring the dangerous cases *strengthens* the
+   position — it's responsible care and keeps physician collaboration
+   (§5) where it genuinely matters.
+3. **Terminology discipline.** Prefer "structural upper-airway
+   obstruction / sleep-related breathing disturbance" over the bare
+   medical label "OSA" in clinical documentation until the opinion
+   letter confirms the ceiling.
+
+### Brand note
+The *Wilk* / antitrust / "illegitimate power structure" conviction is
+legitimate and is Robert's backbone — but it stays **internal.** Leading
+public marketing with an anti-AASM crusade trips §5 ("no angry, fringe,
+anti-science energy") and scares the dentist/physician partners the model
+needs. Public voice stays the calm doctor-teacher: *"I diagnose and
+manage the structural airway obstruction — here is the objective data."*
+
+### Bottom line
+In a cash model, framed as **structural airway obstruction**, the CA DC
+can credibly own the diagnosis for their lane and refer/co-manage the
+severe cases — maximizing authority *and* keeping physician collaboration
+where it counts. Confirm the ceiling with a written §302 opinion before
+public copy states it.
+
+> **CLAUDE.md §5 tension:** §5 currently reads *"Imply DCs diagnose OSA —
+> they don't; the role is structural."* This analysis refines that.
+> Proposed update for Robert's approval: *"DCs diagnose the structural
+> upper-airway obstruction within chiropractic scope (CA §302), using
+> objective HST data; the bare medical label 'OSA' and severe-case
+> management are handled per verified scope and a referral protocol."*
+> Do not edit §5 until Robert confirms.
 
 ---
 
