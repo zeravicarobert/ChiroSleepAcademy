@@ -219,10 +219,11 @@ dentist, the dental patient, and the wider care team:
 - Keeps the dentist, physician, and patient aligned and communicating —
   a quarterback for the structural side of the case.
 
-> **Hard scope line (§5):** the CSA-certified DC does **not** diagnose
-> OSA. Diagnosis stays with the physician. The DC owns *structure,
-> coordination, and education* — not diagnosis. Every piece of copy
-> built from this must keep that line clean.
+> **Scope line — strategic, not just legal.** By design, the CSA model
+> keeps the **OSA diagnosis with the physician**, and the DC owns
+> *structure, coordination, and education.* See "The diagnosis question"
+> below for why this is a deliberate strategic choice (not merely a
+> limitation) and what still needs legal verification in California.
 
 **Why a dentist says yes.** The ADA policy has handed dentists a
 screening duty they don't have a downstream system for. CSA gives them
@@ -238,6 +239,59 @@ Step 2 (Sleep Baseline / HST) and Step 3 (Airway Baseline / CBCT) in
 the productized pathway (CLAUDE.md §8), and it gives the Step 6 CSA
 Doctor certification a concrete, marketable purpose: *"Get certified so
 you can be the airway liaison your local screening dentists need."*
+
+---
+
+## The diagnosis question — who diagnoses OSA, and who *should* for CSA
+
+This is a live question Robert raised (a CA DC diagnoses within scope —
+so could the DC, not an MD, own the OSA diagnosis?). It deserves a clear,
+honest answer because the whole liaison model touches it.
+
+### What the standard of care actually says
+- **A home sleep test does not diagnose — the interpreting clinician
+  does.** And under the AASM standard, the OSA diagnosis is reserved for
+  a **physician** (board-certified in sleep medicine, or overseen by
+  one); the HSAT is expected to be physician-ordered and
+  physician-interpreted.
+- **A polysomnographic technologist (RPSGT) *scores* the study; they do
+  not *diagnose*.** Scoring ≠ diagnosis. So "a technologist reads it,
+  therefore no physician is needed" does not follow — the scorer hands
+  data to a diagnostician, they are not one.
+- **"No prescription needed" ≠ "no physician needed."** Direct-to-
+  consumer HSTs produce *data* without an Rx, but that is not a
+  system-recognized, billable, defensible *diagnosis.*
+
+### The California scope nuance
+"Diagnose" is not one act. A CA DC almost certainly may render a
+**chiropractic diagnosis** (structural / neuromusculoskeletal / airway
+*structure* findings). Whether a CA DC may render a **medical diagnosis
+of OSA** as *the* definitive, billable, system-recognized diagnosis is
+the contested zone — OSA is a sleep-medicine disease, and CA chiropractic
+scope excludes practicing medicine.
+
+> **Action item (do before building on it):** Get a **written scope
+> opinion** from the California Board of Chiropractic Examiners and a CA
+> healthcare attorney before any CSA material states or implies that the
+> DC diagnoses OSA. Not resolved by a web search; needs a real opinion.
+
+### Why CSA should keep diagnosis with the physician *by choice*
+Even if California scope permitted it, making "DC diagnoses OSA, no MD"
+the load-bearing beam is likely a bad trade:
+
+| Keep diagnosis with the physician | DC owns the OSA diagnosis |
+|---|---|
+| Collaborative — §5 intact, sleep MDs are partners | Competes with sleep medicine |
+| Near-zero liability | Board-complaint / "practicing medicine" risk |
+| Payers & dentists already accept it | Insurers may reject a DC-rendered OSA dx |
+| Early structural phase stays the differentiator | Trades a unique position for a contested one |
+
+CSA's moat is **the Early structural phase nobody else owns — not the
+diagnosis.** Anyone can route a diagnosis. Keeping the physician as
+diagnostician gives the sleep MD a defined, respected role, which turns
+them into a referral partner instead of a competitor. **Recommendation:
+keep the physician as diagnostician as a deliberate strategic choice —
+and get the CA opinion letter so the ceiling is known, not guessed.**
 
 ---
 
@@ -267,3 +321,6 @@ you can be the airway liaison your local screening dentists need."*
 - [ ] Pull a landing-page section from this for the Goal 6 site
 - [ ] Draft a dentist-facing one-pager: "The ADA says screen. CSA is
       where screened patients go." (airway-liaison pitch)
+- [ ] Get a written CA scope opinion (Board of Chiropractic Examiners +
+      healthcare attorney) on DC diagnosis of OSA before any copy
+      states or implies the DC diagnoses
