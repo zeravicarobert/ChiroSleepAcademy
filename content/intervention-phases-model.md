@@ -275,16 +275,38 @@ medicine?"**
 ### The winning frame — diagnose the *structural airway obstruction*
 Robert's own framing is the strongest scope position:
 
-> *OSA is not a pharmaceutical-deficiency disease. It is an upper-airway
-> obstruction. What obstructs it is anatomy — and chiropractors deal
-> with anatomy.*
+> *OSA is not a pharmaceutical-deficiency disease, nor an
+> equipment-deficiency disease. It is an upper-airway obstruction. What
+> obstructs it is anatomy — and chiropractors deal with anatomy.*
 
-Diagnosing the **structural upper-airway obstruction** (the anatomy),
-using the HST as objective evidence (AHI / RDI / ODI read like a film),
-sits inside "chiropractic methods." That is far more defensible than
-claiming the ICD-coded medical label "OSA," which is where a Board could
-argue the DC crossed into practicing medicine. **Same clinical reality —
-defensible framing.**
+Diagnosing the **structural upper-airway obstruction ("SAO")** (the
+anatomy), using the HST as objective evidence (AHI / RDI / ODI read like
+a film), sits closest to "chiropractic methods." That is more defensible
+than claiming the ICD-coded medical label "OSA," which is where a Board
+could argue the DC crossed into practicing medicine. **Same clinical
+reality — defensible framing.**
+
+> **SAO as CSA's term.** "Structural Airway Obstruction (SAO)" is worth
+> adopting as CSA's own defined diagnostic language — it ties directly to
+> *Structural Airway Chiropractic*, keeps the DC inside anatomy/scope,
+> and distinguishes CSA's finding from the sleep-medicine label "OSA."
+
+**Glossary (the objective metrics an HST produces):**
+- **AHI — Apnea-Hypopnea Index:** apneas + hypopneas per hour of sleep.
+  Common severity bands: 5–15 mild, 15–30 moderate, >30 severe.
+- **RDI — Respiratory Disturbance Index:** AHI *plus* RERAs (respiratory
+  effort-related arousals) per hour — a broader count that catches
+  subtler airflow disruptions the AHI misses. RDI ≥ AHI.
+- **ODI — Oxygen Desaturation Index:** how many times per hour blood
+  oxygen drops by a set threshold (typically ≥3–4%) — the measure of
+  intermittent low-oxygen stress on the body.
+
+> **§302 caveat (be honest internally):** §302 enumerates X-ray,
+> thermography, and *neuromusculoskeletal* diagnostic ultrasound — it does
+> **not** enumerate sleep/cardiopulmonary testing devices, and CA lists
+> venipuncture/blood analysis as not appropriate for chiropractic. So the
+> HST-in-scope position is an *argument*, not settled text. The Board
+> opinion (below) is what converts it from argument to answer.
 
 ### Honest caveat on the blood-test analogy
 The "if I can diagnose Syndrome X from a CMP, why not OSA from an HST?"

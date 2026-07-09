@@ -71,7 +71,7 @@ not fully using?"* Here is CSA's answer, pulled from the
 
 | Hidden asset | Abraham role | What it unlocks |
 |---|---|---|
-| **Airway dentists you already know** — Ben Miraglia DDS, Steve Carstensen DDS, Barry Glassman DDS, Victor Cooley DDS, Mark Cruz DDS, Gilles Lavigne DDS PhD | **Hosts** (and endorsers) | Each is a screening practice *and* a hub who can endorse Dr. Z to dozens of other airway dentists |
+| **Airway dentists on the CSA target list** — Ben Miraglia DDS, Steve Carstensen DDS, Barry Glassman DDS, Victor Cooley DDS, Mark Cruz DDS, Gilles Lavigne DDS PhD | **Hosts** (and endorsers) — *warm targets, not yet relationships* | Names on the `CSA Relationship Strategies` sheet, **not** people Robert currently knows. They are *who to build toward*, best reached via a warm introduction (e.g., through Mark Amici) rather than cold |
 | **Mark Amici** — VAET-interested patient, Henry Schein & dental connections, *wants to help CSA reach dentists* | **Connector / super-connector** | A warm bridge into the dental industry at scale (Henry Schein reaches enormous numbers of dentists) |
 | **~28 opted-in DCs** + **Parker DCs wanting HSTs** (Unruh, Nisivoccia, Bennett, O'Mara, Bullock) | **Distributed beneficiary network** | Each certified DC becomes a *local* host-beneficiary node with their own local screening dentists |
 | **Airway/thought-leader network** — Patrick McKeown, Peter Martone DC (sleep-focused), Steven Park MD (airway ENT), Barry Krakow MD | **Endorsers / credibility borrowers** | Third-party endorsement and audience access far beyond Dr. Z's own list |

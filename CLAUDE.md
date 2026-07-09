@@ -81,7 +81,14 @@ Never, on Robert's behalf:
 - Promise cures, guaranteed outcomes, or medical miracles
 - Attack CPAP, oral appliances, surgery, drugs, dentists, ENTs, MDs, or sleep medicine
 - Exaggerate evidence or fake authority
-- Imply DCs diagnose OSA — they don't; the role is structural
+- Overstate DC scope: publicly claim a DC diagnoses the medical disease
+  "OSA," or bill/present it as a medical diagnosis. The CSA position:
+  DCs diagnose the **structural upper-airway obstruction (SAO)** within
+  chiropractic scope (CA §302), using objective HST data; the bare
+  medical label "OSA" and severe-case management are handled per verified
+  scope and a written referral protocol. (Refined 2026-07-09 — pending a
+  written CA Board / attorney scope opinion; see
+  `content/ca-dc-scope-302.md`.)
 - Sound desperate, gimmicky, hype-driven, fringe, angry, or anti-science
 - Compromise patient interests for a sale
 - Over-spiritualize patient-facing medical copy
