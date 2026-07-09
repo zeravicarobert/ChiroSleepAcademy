@@ -1,0 +1,350 @@
+<style>
+  :root {
+    --bg: #EDEEEA;
+    --surface: #F6F6F1;
+    --ink: #14262C;
+    --muted: #4C5C61;
+    --line: #D6DAD4;
+    --hero-bg: #12242B;
+    --hero-fg: #ECE6D8;
+    --hero-muted: #A9B6B4;
+    --amber: #BE8829;
+    --amber-ink: #14262C;
+    --teal: #2E6E6A;
+    --maxw: 1120px;
+    --measure: 62ch;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0E1B20;
+      --surface: #142A31;
+      --ink: #E9EBE4;
+      --muted: #9EACAB;
+      --line: #24383E;
+      --hero-bg: #0B171C;
+      --hero-fg: #ECE6D8;
+      --hero-muted: #9DAAA9;
+      --amber: #D6A54C;
+      --amber-ink: #12242B;
+      --teal: #4FA39D;
+    }
+  }
+  :root[data-theme="light"] {
+    --bg: #EDEEEA; --surface: #F6F6F1; --ink: #14262C; --muted: #4C5C61;
+    --line: #D6DAD4; --hero-bg: #12242B; --hero-fg: #ECE6D8; --hero-muted: #A9B6B4;
+    --amber: #BE8829; --amber-ink: #14262C; --teal: #2E6E6A;
+  }
+  :root[data-theme="dark"] {
+    --bg: #0E1B20; --surface: #142A31; --ink: #E9EBE4; --muted: #9EACAB;
+    --line: #24383E; --hero-bg: #0B171C; --hero-fg: #ECE6D8; --hero-muted: #9DAAA9;
+    --amber: #D6A54C; --amber-ink: #12242B; --teal: #4FA39D;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 18px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 28px; }
+  .band { padding: clamp(56px, 9vw, 118px) 0; }
+  section p { max-width: var(--measure); }
+
+  h1, h2, h3 { font-family: var(--serif); font-weight: 600; text-wrap: balance; line-height: 1.12; letter-spacing: -0.01em; margin: 0; }
+  h1 { font-size: clamp(2.4rem, 6vw, 4.1rem); }
+  h2 { font-size: clamp(1.9rem, 4vw, 2.9rem); }
+  h3 { font-size: clamp(1.3rem, 2.2vw, 1.7rem); }
+  p { margin: 0 0 1.1em; }
+  .eyebrow {
+    font-family: var(--sans); font-size: 0.76rem; font-weight: 700;
+    letter-spacing: 0.18em; text-transform: uppercase; color: var(--amber);
+    margin: 0 0 1.1rem;
+  }
+  .lead { font-size: 1.18rem; color: var(--muted); }
+
+  /* nav */
+  .nav {
+    position: sticky; top: 0; z-index: 20;
+    background: color-mix(in srgb, var(--hero-bg) 92%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .nav .wrap { display: flex; align-items: center; justify-content: space-between; height: 62px; }
+  .brand { font-family: var(--serif); font-size: 1.06rem; color: var(--hero-fg); letter-spacing: 0.01em; }
+  .brand b { font-weight: 600; }
+  .navlinks { display: flex; gap: 26px; align-items: center; }
+  .navlinks a { font-size: 0.82rem; letter-spacing: 0.04em; color: var(--hero-muted); text-decoration: none; }
+  .navlinks a:hover { color: var(--hero-fg); }
+  #themeToggle {
+    font: inherit; font-size: 0.78rem; letter-spacing: 0.04em;
+    color: var(--hero-muted); background: transparent;
+    border: 1px solid rgba(255,255,255,0.18); border-radius: 999px;
+    padding: 5px 13px; cursor: pointer;
+  }
+  #themeToggle:hover { color: var(--hero-fg); border-color: rgba(255,255,255,0.4); }
+  @media (max-width: 620px) { .navlinks a:not(.persist) { display: none; } }
+
+  /* hero */
+  .hero { background: var(--hero-bg); color: var(--hero-fg); position: relative; overflow: hidden; }
+  .hero::after {
+    content: ""; position: absolute; right: -12%; top: -30%;
+    width: 640px; height: 640px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(190,136,41,0.16), transparent 62%);
+    pointer-events: none;
+  }
+  .hero .wrap { position: relative; z-index: 1; }
+  .hero .eyebrow { color: var(--amber); }
+  .hero h1 { max-width: 15ch; }
+  .hero .lead { color: var(--hero-muted); max-width: 46ch; margin-top: 1.4rem; }
+  .hero .lead b { color: var(--hero-fg); font-weight: 600; }
+  .rule { width: 54px; height: 3px; background: var(--amber); border: 0; margin: 0 0 2rem; }
+
+  .cta-row { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 2.2rem; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 0.5em;
+    font-family: var(--sans); font-size: 0.98rem; font-weight: 600;
+    padding: 15px 26px; border-radius: 4px; text-decoration: none;
+    cursor: pointer; border: 1px solid transparent; transition: transform .15s ease, background .2s ease;
+  }
+  .btn:hover { transform: translateY(-2px); }
+  .btn-amber { background: var(--amber); color: var(--amber-ink); }
+  .btn-teal { background: var(--teal); color: #fff; }
+  .btn-ghost { background: transparent; color: var(--hero-fg); border-color: rgba(255,255,255,0.28); }
+  .btn-ghost:hover { border-color: var(--hero-fg); }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+  /* story */
+  .quotemark { font-family: var(--serif); font-size: 4.5rem; line-height: 0.6; color: var(--amber); display: block; height: 2rem; }
+  .story h2 { max-width: 18ch; }
+  .story .byline { font-size: 0.82rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-top: 1.6rem; }
+
+  /* phase band */
+  .phases { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 2.6rem 0 1.4rem; }
+  .phase {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+    padding: 26px 22px; position: relative;
+  }
+  .phase .tag { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); }
+  .phase h3 { margin: 0.5rem 0 0.4rem; font-size: 1.24rem; }
+  .phase p { font-size: 0.92rem; color: var(--muted); margin: 0; }
+  .phase.own { border-color: var(--amber); box-shadow: inset 0 0 0 1px var(--amber); }
+  .phase.own::before {
+    content: "Our phase"; position: absolute; top: -11px; left: 20px;
+    background: var(--amber); color: var(--amber-ink);
+    font-size: 0.66rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 3px 9px; border-radius: 3px;
+  }
+  .phase.own h3 { color: var(--ink); }
+  .arrowline { font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+  .pullline { font-family: var(--serif); font-style: italic; font-size: 1.4rem; color: var(--ink); max-width: 24ch; margin-top: 1.4rem; line-height: 1.35; }
+  @media (max-width: 720px) { .phases { grid-template-columns: 1fr; } }
+
+  .tint { background: var(--surface); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+
+  /* fork */
+  .fork { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 2.6rem; }
+  .card {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 34px 30px; display: flex; flex-direction: column;
+    border-top: 4px solid var(--edge);
+  }
+  .card.dc { --edge: var(--amber); }
+  .card.pt { --edge: var(--teal); }
+  .card .kicker { font-size: 0.74rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--edge); }
+  .card h3 { margin: 0.6rem 0 0.7rem; }
+  .card p { color: var(--muted); font-size: 0.98rem; flex: 1; }
+  .card .dest { font-size: 0.76rem; letter-spacing: 0.04em; color: var(--muted); margin-top: 0.4rem; }
+  @media (max-width: 720px) { .fork { grid-template-columns: 1fr; } }
+
+  /* about */
+  .about { display: grid; grid-template-columns: 200px 1fr; gap: 40px; align-items: start; }
+  .avatar {
+    width: 200px; height: 236px; border-radius: 10px; border: 1px solid var(--line);
+    background:
+      radial-gradient(120% 90% at 50% 0%, color-mix(in srgb, var(--teal) 22%, var(--surface)), var(--surface));
+    display: flex; align-items: flex-end; justify-content: center;
+    font-family: var(--serif); font-size: 3.4rem; color: var(--muted); padding-bottom: 20px;
+  }
+  @media (max-width: 620px) { .about { grid-template-columns: 1fr; } .avatar { width: 100%; height: 180px; } }
+
+  /* final */
+  .final { background: var(--hero-bg); color: var(--hero-fg); text-align: center; }
+  .final h2 { color: var(--hero-fg); }
+  .final .cta-row { justify-content: center; }
+  .final p { margin-left: auto; margin-right: auto; color: var(--hero-muted); }
+
+  footer { background: var(--hero-bg); color: var(--hero-muted); border-top: 1px solid rgba(255,255,255,0.08); }
+  footer .wrap { padding-top: 34px; padding-bottom: 40px; }
+  footer .frow { display: flex; flex-wrap: wrap; gap: 8px 22px; align-items: center; }
+  footer a { color: var(--hero-muted); text-decoration: none; font-size: 0.86rem; }
+  footer a:hover { color: var(--hero-fg); }
+  footer .sep { opacity: 0.4; }
+  .fine { font-size: 0.76rem; opacity: 0.7; margin-top: 16px; }
+
+  .reveal { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
+  .reveal.in { opacity: 1; transform: none; }
+  @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
+</style>
+
+<nav class="nav">
+  <div class="wrap">
+    <span class="brand"><b>Dr. Robert Zeravica</b>, D.C.</span>
+    <span class="navlinks">
+      <a href="#story">My Story</a>
+      <a href="#model">The Model</a>
+      <a href="#paths" class="persist">Get Started</a>
+      <button id="themeToggle" type="button" aria-label="Toggle light or dark theme">Theme</button>
+    </span>
+  </div>
+</nav>
+
+<header class="hero band">
+  <div class="wrap">
+    <p class="eyebrow">Dr. Robert Zeravica, D.C.</p>
+    <hr class="rule" />
+    <h1>It didn't start with me. It started with my patients.</h1>
+    <p class="lead">I'm the Doctor of Chiropractic who defined <b>Structural Airway Chiropractic</b> — a structure-first way of thinking about sleep and the airway — and the founder of Chiropractic Sleep Academy.</p>
+    <div class="cta-row">
+      <a class="btn btn-amber" href="#dc">I'm a Chiropractor →</a>
+      <a class="btn btn-ghost" href="#pt">I Want to Sleep &amp; Breathe Better →</a>
+    </div>
+  </div>
+</header>
+
+<section class="story band" id="story">
+  <div class="wrap reveal">
+    <span class="quotemark" aria-hidden="true">“</span>
+    <h2>“Doc — I slept like a baby that night.”</h2>
+    <p class="lead" style="margin-top:1.4rem">A patient came to me for low back pain. I helped his back, and he told me he slept like a baby that night. I filed it away.</p>
+    <p>Then another man came in for the same thing — and this time, honestly, I <em>didn't</em> get his back better. He came back and said the exact same words. That stopped me. If I didn't fix his back and he slept better anyway, then whatever was happening on my table wasn't only about the pain. It was something <strong>structural</strong> — and it kept happening, patient after patient, until I couldn't ignore it.</p>
+    <a class="btn btn-amber" href="#" style="margin-top:0.6rem">Read My Full Story →</a>
+    <p class="byline">The founder of Chiropractic Sleep Academy</p>
+  </div>
+</section>
+
+<section class="tint band" id="model">
+  <div class="wrap reveal">
+    <p class="eyebrow">Structural Airway Chiropractic</p>
+    <h2>The airway is anatomy. And chiropractors deal with anatomy.</h2>
+    <p class="lead" style="margin-top:1.2rem">When someone can't breathe well at night, the world moves fast to equipment, then to medication and surgery. Those are real, valuable tools — and I work alongside the doctors and dentists who provide them. But there's a phase of care that comes <em>first</em>: evaluating and addressing the structure itself.</p>
+
+    <div class="phases">
+      <div class="phase own">
+        <span class="tag">Early</span>
+        <h3>Structure &amp; alignment</h3>
+        <p>The structural upper-airway obstruction (SAO) — the anatomy behind the breathing.</p>
+      </div>
+      <div class="phase">
+        <span class="tag">Middle</span>
+        <h3>Support</h3>
+        <p>CPAP and oral appliances — support the airway during sleep.</p>
+      </div>
+      <div class="phase">
+        <span class="tag">Late</span>
+        <h3>Alteration</h3>
+        <p>Medication and surgery — the most aggressive tier, when needed.</p>
+      </div>
+    </div>
+    <p class="arrowline">Early → Middle → Late</p>
+    <p class="pullline">You can't skip the beginning of care.</p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap reveal">
+    <p class="eyebrow">The Mission</p>
+    <h2>There was no seat for a chiropractor at the sleep table. So I built one.</h2>
+    <p class="lead" style="margin-top:1.2rem">When I went looking for answers, I found the real education was offered to physicians and dentists — not to us. I could have gotten bitter about that. Instead, I got to work.</p>
+    <p>Like my mentor Daymond John and his “For Us, By Us” philosophy, I stopped waiting for a place at the table and built one. I created <strong>Chiropractic Sleep Academy</strong> — to give doctors of chiropractic the training, the model, and the seat we'd been denied.</p>
+  </div>
+</section>
+
+<section class="tint band" id="paths">
+  <div class="wrap reveal">
+    <p class="eyebrow">Choose your path</p>
+    <h2>Two ways in.</h2>
+    <div class="fork">
+      <div class="card dc" id="dc">
+        <span class="kicker">For Chiropractors</span>
+        <h3>You've felt it too.</h3>
+        <p>Your patients tell you they sleep better after you adjust them. That's not a coincidence — it's structural. The Academy teaches you the model, the evaluation, and the pathway to build a real sleep-and-airway focus in your practice.</p>
+        <a class="btn btn-amber" href="#">Explore the Academy →</a>
+        <span class="dest">Opens ChiropracticSleepAcademy.net</span>
+      </div>
+      <div class="card pt" id="pt">
+        <span class="kicker">For Better Sleep &amp; Breathing</span>
+        <h3>Start with your structure.</h3>
+        <p>If you snore, wake up tired, or have been handed equipment without anyone ever checking your structure — there's a conservative, structure-first place to begin. Let's look at your sleep and airway together.</p>
+        <a class="btn btn-teal" href="#">Book a Sleep &amp; Airway Consult →</a>
+        <span class="dest">A consultation — not a diagnosis or cure</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap about reveal">
+    <div class="avatar" aria-hidden="true">RZ</div>
+    <div>
+      <p class="eyebrow">About</p>
+      <h2 style="font-size:clamp(1.7rem,3vw,2.4rem)">Dr. Robert Zeravica, D.C.</h2>
+      <p class="lead" style="margin-top:1rem">Founder of Chiropractic Sleep Academy. The Doctor of Chiropractic who defined Structural Airway Chiropractic and the early-intervention (SAO) model.</p>
+      <p>I don't claim chiropractic cures sleep apnea, and I don't fight the physicians and dentists doing important work — I work alongside them. I just refuse to skip the beginning of care.</p>
+    </div>
+  </div>
+</section>
+
+<section class="final band">
+  <div class="wrap reveal">
+    <h2>Pick your path.</h2>
+    <p class="lead" style="margin-top:1rem">Whether you're a chiropractor ready to lead, or someone who just wants to sleep and breathe better — start here.</p>
+    <div class="cta-row">
+      <a class="btn btn-amber" href="#dc">I'm a Chiropractor →</a>
+      <a class="btn btn-teal" href="#pt">I Want to Sleep &amp; Breathe Better →</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="frow">
+      <span class="brand" style="color:var(--hero-fg)">Dr. Robert Zeravica, D.C.</span>
+      <span class="sep">·</span>
+      <a href="#">The Academy</a>
+      <a href="#">My Practice</a>
+      <a href="#story">My Story</a>
+      <a href="#">Contact</a>
+    </div>
+    <p class="fine">Chiropractic Sleep Academy · Northridge, CA · (818) 276-5054<br />Design preview for RobertZeravica.com — structural evaluation and education; not a diagnosis, treatment, or cure of any medical condition.</p>
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var t = document.getElementById('themeToggle');
+    t.addEventListener('click', function () {
+      var cur = document.documentElement.getAttribute('data-theme');
+      if (!cur) {
+        cur = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', cur === 'dark' ? 'light' : 'dark');
+    });
+    var els = document.querySelectorAll('.reveal');
+    if (!('IntersectionObserver' in window) || matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      els.forEach(function (e) { e.classList.add('in'); });
+      return;
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); } });
+    }, { threshold: 0.14 });
+    els.forEach(function (e) { io.observe(e); });
+  })();
+</script>
