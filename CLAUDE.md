@@ -111,7 +111,11 @@ post, page, or pitch.
 ## 6. Current State (May 2026)
 
 - Brand: Chiropractic Sleep Academy
-- Domain: **www.ChiropracticSleepAcademy.net**
+- Domains (two, distinct roles — see `content/personal-brand-positioning.md`):
+  - **ChiropracticSleepAcademy.net** — the Academy container (all DCs,
+    providers, vendors; the movement + CSA offer/system)
+  - **ChiroSleepPro.com** — Dr. Z's specialty-chiropractic / founder brand
+    (the person/clinician hub, leads into the Academy)
 - Site platform: **ClickFunnels 2.0**
 - Audience: ~28 opted-in DCs in a warm database, 1 active mentee asking for a Letter of Engagement
 - Clinical: ready to run HST + CBCT on real patients

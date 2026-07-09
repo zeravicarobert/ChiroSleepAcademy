@@ -45,10 +45,10 @@ are led by people, not brands.
 
 ## The positioning (how to say who you are)
 
-**Primary identity line:**
+**Primary identity line (locked 2026-07-09):**
 > **Dr. Robert Zeravica, D.C. — founder of Chiropractic Sleep Academy;
-> the chiropractor who defined Structural Airway Chiropractic and the
-> early-intervention (SAO) model of sleep-and-airway care.**
+> the Doctor of Chiropractic who defined Structural Airway Chiropractic
+> and the early-intervention (SAO) model.**
 
 **Four brand pillars (everything you publish ladders to one of these):**
 1. **The category definer** — early/middle/late intervention; the SAO
@@ -56,7 +56,10 @@ are led by people, not brands.
 2. **The doctor who healed himself first** — lived the pathway; credible
    because he's a patient, not just a proponent.
 3. **The teacher of doctors** — mentor to DCs building a sleep-and-airway
-   division; the doctor-teacher voice.
+   division; the doctor-teacher voice. *("Doctor" is from the Latin
+   `docēre` — "to teach." A doctor is, literally, a teacher. This is the
+   etymological root of CSA's whole voice, and a line worth using:
+   **"A doctor is a teacher — that's what the word means."**)*
 4. **The ethical bridge-builder** — structure-first, collaborative where
    safety requires it, honest about proof. (Protects §5 credibility.)
 
@@ -71,11 +74,21 @@ are led by people, not brands.
 - **Podcast / video** — guest on airway, chiro, and health-freedom shows;
   eventually host.
 - **LinkedIn + email** — doctor-to-doctor thought leadership, not hype.
-- **The website question (decide):** you now have **ChiroSleepPro.com**
-  *and* **ChiropracticSleepAcademy.net** (CLAUDE.md domain of record).
-  A founder-led brand may also warrant a **personal site**
-  (e.g., DrRobertZeravica.com) that funnels into CSA. Pick a primary and
-  make the others redirect — don't split authority across three domains.
+- **Domain architecture (clarified by Robert 2026-07-09):** the two
+  domains map cleanly onto the two-brand structure — no conflict:
+  - **ChiropracticSleepAcademy.net = the container / the Academy.** Home
+    for *all* doctors of chiropractic, other providers, and vendors — the
+    movement, community, and CSA offer/system. (The entity.)
+  - **ChiroSleepPro.com = Dr. Z's specialty-chiropractic brand.** The
+    founder/clinician hub — Robert's own brand of specialty practice.
+    (The person / the face.)
+
+  This *is* the "person + entity" split done right: ChiroSleepPro carries
+  the founder; ChiropracticSleepAcademy.net carries the Academy. Keep them
+  distinct-but-linked — ChiroSleepPro (the doctor) should visibly *lead
+  into* the Academy (the movement). Recommendation: no third domain
+  needed; let ChiroSleepPro.com serve as the personal-brand hub rather
+  than registering DrRobertZeravica.com.
 
 ---
 
@@ -94,8 +107,9 @@ are led by people, not brands.
 ## Near-term moves
 - [ ] Lock the **primary identity line** and put it everywhere (bios,
       site, email signature, speaker intros).
-- [ ] Decide the **domain architecture** (personal site vs. CSA site;
-      one primary, others redirect).
+- [x] **Domain architecture decided:** ChiroSleepPro.com = founder /
+      specialty-practice hub; ChiropracticSleepAcademy.net = the Academy
+      container. Next: make ChiroSleepPro visibly lead into the Academy.
 - [ ] Write the **founder origin story** ("Heal the Healer First," first
       person) — the cornerstone content piece.
 - [ ] Draft a **signature talk** built on early→mid→late + SAO.

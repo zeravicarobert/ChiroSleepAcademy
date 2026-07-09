@@ -70,16 +70,14 @@ Dr. Robert Zeravica, D.C.
 CA License #26527
 Chiropractic Sleep Academy
 7 Mayfair Place, Northridge, CA 91324
-(818) 276-5054 · ChiroSleepPro.com
+(818) 276-5054 · ChiropracticSleepAcademy.net
 
 ---
 
 ## Before sending — fill in / decide
 - [x] CA license number (#26527) and contact block inserted
+- [x] Domain: ChiropracticSleepAcademy.net (the Academy container)
 - [ ] Confirm current Board email / use the online Contact form
-- [ ] Note: contact block uses ChiroSleepPro.com; CLAUDE.md lists the
-      public domain as ChiropracticSleepAcademy.net — confirm which is
-      the outward-facing site before wide distribution
 - [ ] Decide whether to send this **before** or **after** the attorney
       opinion (recommend: send both in parallel — Board answer + attorney
       letter triangulate)
