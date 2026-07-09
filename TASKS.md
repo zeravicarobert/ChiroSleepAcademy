@@ -29,9 +29,11 @@ Codenames Robert assigned to each horizon:
   acclimatize into brainwashed society after being programmed by the Marine
   Corps boot camp and a career in the Fleet Marine Force via special op unit
   3DS/4thF."*
-- **Non-negotiables:** MZA, D  `⟨clarify — initials/people/principles?⟩`
-- Note: *"I am following less people than I'm currently following…"*
-  `⟨clarify — LinkedIn following prune?⟩`
+- **Non-negotiables:** **MZA** = Max, Zac, Adelaide · **D** = Delfina —
+  the people it's all for.
+- Note: *"I am following less people than I'm currently following…"* —
+  Robert recalls this was about his **mentors**, not LinkedIn; exact
+  meaning not fully remembered. `⟨revisit if it comes back⟩`
 
 ### 60 — "Deal"
 - **Opportunity: offer Jay Abraham a "digital Closer" service.**
