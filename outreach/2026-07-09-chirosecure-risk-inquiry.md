@@ -6,11 +6,21 @@
 structural airway evaluation sits within CA DC scope in their risk view,
 and (2) whether Robert's current policy would **cover** him doing it.
 
-**How to send:** Email ChiroSecure's risk-management / compliance support
-(check your policy documents or member portal for the current address;
-common routes are their member-services or compliance/risk email, or the
-"Ask a Compliance Question" feature if your plan includes it). Ask for a
-**written reply** and keep it on file.
+**How to send:** ChiroSecure does **not** publish a public email address
+(confirmed 2026-07-09 — their site routes to a contact form + phone). Best
+routes, in order:
+1. **Your policy documents / member portal.** As a policyholder you likely
+   have a direct risk-management or claims email/contact there — use that
+   first; it reaches the right desk.
+2. **Call and ask for the email.** (866) 802-4476 — ask for
+   **risk management / compliance** and request the email address to send
+   a written scope-and-coverage question, then email this to that person.
+3. **Website contact form** — https://www.chirosecure.com/customer-services/contact-us/
+   — paste the body below; they reply within ~24 business hours.
+4. Mailing address (backup): 8501 E Princess Dr #130, Scottsdale, AZ 85255.
+
+Whichever route, **get the answer in writing** and keep it on file.
+*(Claude cannot send this — draft only.)*
 
 > **Why this matters as much as the Board letter:** the Board tells you
 > what's *legal*; ChiroSecure tells you what's *covered*. If your carrier
@@ -19,8 +29,10 @@ common routes are their member-services or compliance/risk email, or the
 
 ---
 
-**To:** [ChiroSecure risk management / compliance — confirm current email]
+**To:** ChiroSecure Risk Management / Compliance — (866) 802-4476 · no
+public email; get the address from your policy portal or by phone (see above)
 **From:** Dr. Robert Zeravica, D.C. — CA license #26527
+(send from DrZeravicaOffice@gmail.com or your domain address)
 **Re:** Scope & coverage question — home sleep testing and structural
 upper-airway obstruction evaluation
 
@@ -80,7 +92,8 @@ Chiropractic Sleep Academy
 
 ## Before sending — fill in
 - [ ] Insert ChiroSecure policy number
-- [ ] Confirm the current ChiroSecure risk/compliance email or portal route
+- [ ] Get the ChiroSecure risk/compliance email from your policy portal or
+      by calling (866) 802-4476 (no public email address exists)
 - [ ] Attach or reference the referral protocol
       (`content/severe-case-referral-protocol.md`) if they want to review it
 - [ ] Save ChiroSecure's written reply to `outreach/` for the record

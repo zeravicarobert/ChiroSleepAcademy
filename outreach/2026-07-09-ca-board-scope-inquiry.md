@@ -6,12 +6,19 @@
 home sleep test and diagnosing a structural upper-airway obstruction is
 within CA chiropractic scope (§302) and not the practice of medicine.
 
-**How to send:** The Board takes scope questions in writing. Options —
-(1) email the Board's general info / licensing address, (2) the "Contact
-Us" form on chiro.ca.gov, or (3) formal mail to: Board of Chiropractic
-Examiners, 1625 N. Market Blvd., Suite N-327, Sacramento, CA 95834.
-Ask specifically for a **written response** and note you are a licensed CA
-DC seeking guidance. Keep a copy of whatever they send.
+**How to send:** Email to **chiro.info@dca.ca.gov**. (Backups if needed:
+the "Contact Us" form on chiro.ca.gov, or formal mail to Board of
+Chiropractic Examiners, 1625 N. Market Blvd., Suite N-327, Sacramento, CA
+95834.) Ask specifically for a **written response** and note you are a
+licensed CA DC seeking guidance. Keep a copy of whatever they send.
+
+**Send from:** your own email — Claude drafts, you send. For a Board
+inquiry, use a professional address. Recommended: **DrZeravicaOffice@gmail.com**
+(your office account — also the one connected to Claude here, so Claude can
+drop this into your Gmail drafts on request). Even better if you have a
+domain address (e.g., robert@chiropracticsleepacademy.net). Avoid a
+casual personal Gmail. *(Claude cannot send email — it can only create a
+draft in DrZeravicaOffice for you to review and send.)*
 
 > **Tone note:** neutral, professional, genuinely inquiring. Do **not**
 > argue the answer or reference antitrust/AASM. You want their read, in
@@ -20,7 +27,7 @@ DC seeking guidance. Keep a copy of whatever they send.
 
 ---
 
-**To:** [Board of Chiropractic Examiners — chiro.info@dca.ca.gov / Contact form]
+**To:** chiro.info@dca.ca.gov
 **From:** Dr. Robert Zeravica, D.C. — CA license #26527
 **Re:** Request for written guidance — scope of practice under 16 CCR §302
 (home sleep testing and diagnosis of structural upper-airway obstruction)
@@ -77,7 +84,9 @@ Chiropractic Sleep Academy
 ## Before sending — fill in / decide
 - [x] CA license number (#26527) and contact block inserted
 - [x] Domain: ChiropracticSleepAcademy.net (the Academy container)
-- [ ] Confirm current Board email / use the online Contact form
+- [x] Board email confirmed: chiro.info@dca.ca.gov
+- [ ] Decide sending address (recommended: DrZeravicaOffice@gmail.com) —
+      or ask Claude to create the Gmail draft for you
 - [ ] Decide whether to send this **before** or **after** the attorney
       opinion (recommend: send both in parallel — Board answer + attorney
       letter triangulate)
