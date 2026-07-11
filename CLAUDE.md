@@ -639,6 +639,17 @@ Claude should:
   vs certified-by (Russell Brunson); technique + supplement/product lists
   (health-claim language needs review before public use). No patient PHI.
   Preserved verbatim. Not legal/clinical advice.
+- `RZ_REMINDERS_TODOS_SUMMARY.md` — companion reference ("RZ's Reminders and
+  ToDos," 2026-07-11). Robert's task-management / "second brain" system. New:
+  the **four-bucket reminder system**; the **Notion (front) + Google Drive
+  (back)** "Dr. Z's I.P. Knowledge Vault" concept; **Jane's** VA schedule
+  (9am–1pm PT); Patient Portal line (818) 660-6113; **DE 2535 Rev. 6** EDD
+  form; a 90-day-sprint stack (main = EDD SDI; support 1 = CSA via **two beta
+  DC patients**; support 2 = build VAET); new professional contacts (**Dr. Dov
+  Pine, MD** — airway retesting; **Dr. Joseph Unger** — CV/SORSI; **Dr.
+  Doreo**, Ojai; **Dr. Petrie** — HST reorder); auxiliary matters (Wichita
+  claim, San Diego parking-lot accident claim, VA home loan). No patient PHI.
+  Preserved verbatim. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
