@@ -801,6 +801,27 @@ Claude should:
   SDI organic; lead with Dr. Z brand / VAET / CSA. Financial figures historical/
   unverified. No patient PHI. Preserved verbatim. Not legal, financial, or
   clinical advice.
+- `CHIROSLEEPPRO_CSA_MASTER_SUMMARY.md` — companion master reference
+  ("ChiroSleepPro.com / CSA," 2026-07-11). Overlaps the other CSA clinical/
+  brand summaries but is the key reference for the **ChiroSleepPro.com** web/
+  brand identity. Genuinely new/sharper: the domain **ChiroSleepPro.com**;
+  **Chiropractic Sleep Network** as a distinct entity from CSA; new role titles
+  (**Care Director**, **Human Infrastructure Doctor**); Robert as **author of
+  *The Living Soul***; the **"Breathing Stack"** (Biblical breathing →
+  ventilation → respiration → structural → physiological); the **2026 Penn
+  State paper "Brain motion is driven by mechanical coupling with the abdomen"**
+  (mechanistic *context*, explicitly not proof); the hardware/container vs.
+  control-system teaching split (medulla = "rhythm engine," pons = "pattern
+  shaper," loop gain = over/under-reacting thermostat); the **Empire State
+  Building / CSA-flag** aspirational image; and "**Dr. Z needs executors more
+  than advisors**" (ties to the Peter/Ri execution question). *Pricing:* sides
+  with the **two-part** model — HST ~$300 **+ separate ~$100 ROF** (vendor cost
+  ≤$50), CBCT ~$400 **+ ~$100 review**, Tecopa VAET ~$3,500 — i.e., supports the
+  CSA summaries over `RAW_DUMPS`'s single-$300 view (see §15). Reaffirms keep
+  EDD SDI organic; lead with Dr. Z brand / VAET / CSA. Financial figures
+  historical/unverified. No patient PHI. Preserved verbatim. Some PRM/CSF/
+  "liquid light"/cranial claims need hypothesis-vs-evidence review before public
+  use. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
