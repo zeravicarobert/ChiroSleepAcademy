@@ -650,6 +650,22 @@ Claude should:
   Doreo**, Ojai; **Dr. Petrie** — HST reorder); auxiliary matters (Wichita
   claim, San Diego parking-lot accident claim, VA home loan). No patient PHI.
   Preserved verbatim. Not legal, financial, or clinical advice.
+- `LIAISON_DOCTOR_ORIGIN_STORY_SUMMARY.md` — companion reference ("Attractive
+  Character Origin Story / Fatherhood Philosophy / The Liaison Doctor Identity,"
+  2026-07-11). **Brand/identity + personal doc**, not a business tracker: a
+  Russell-Brunson "Attractive Character" origin story that develops **"The
+  Liaison Doctor"** identity. Touches Robert's personal parental-alienation
+  family thread (references his ex-wife and children), so treat the personal
+  portions as private. Genuinely new: the **Liaison Doctor** identity (stands
+  calmly between confusion and clarity, fragmentation and alignment); the
+  fatherhood philosophy **"The home moves with the father"** (peace is not
+  geographic; healing is possible wherever the father stands); the **10-part
+  Hero's Journey** structure; **"The Chaos Dragon"** (enemy = fragmentation,
+  not a person); the **Liaison Method** framing (Skull-Down / Sleep-First /
+  Alignment over Force / Bridge Philosophy); and the **Baja California photo**
+  ("I have a vision for the future of mankind," photographer Martin
+  Muschaweck, a Pepperdine classmate) as a lifelong vision anchor. No patient
+  PHI. Preserved verbatim. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
