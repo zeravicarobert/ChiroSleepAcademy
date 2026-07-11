@@ -486,6 +486,12 @@ Claude should:
   8 project decision rules. Includes personal-stabilization detail (housing,
   taxes, transportation, family, legal). Preserved verbatim; financial
   figures are historical planning inputs, not verified current instructions.
+- `TOP4_MASTER_SUMMARY.md` — companion master reference (imported from a
+  ChatGPT project, 2026-07-11). Robert's *project-management / execution
+  system*: the project-classification taxonomy (Core / Support / Future /
+  Parking Lot / Tasks / Reminders / things-pretending-to-be-projects), the
+  weekly focus-call rhythm, the Decision Log, and the operational tech spine
+  (ChiroCat→ChiroTouch, SimpleTalk, EDD database). Preserved verbatim.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
@@ -585,6 +591,18 @@ Still open:
       infrastructure beneath the business, not separate from it.
     - *Financial figures ($39K/mo model, allocations) are historical* — verify
       before any operational use.
+  - *New from `TOP4_MASTER_SUMMARY` (execution system):*
+    - *Operational tech spine (active priorities since Dec 2025):*
+      **ChiroCat→ChiroTouch** migration, **SimpleTalk** phone/comms, and the
+      **EDD patient database** — the systems layer under the SDI operation.
+    - *Executor role:* **"Ri"** is named as an operational executor (role
+      confirmed; current person/availability not) — distinct from Peter.
+    - *Method:* one dominant execution project per week, a 30-min weekly focus
+      call, and a **Decision Log** to stop re-litigating settled calls.
+    - *Recommended current Top4 (synthesis, not yet adopted):* (1) protect/
+      document SDI ops, (2) finish the ChiroTouch+SimpleTalk+DB spine, (3)
+      finalize the Peter agreement, (4) define a minimum viable CSA/VAET
+      protocol.
   - *New people:* **Santiago** — potential media/video collaborator;
     **Karlo Gomez** — patient whose SOAP-note files set the documentation-
     integrity standard (never invent unperformed exam findings).
