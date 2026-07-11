@@ -702,6 +702,25 @@ Claude should:
   Reaffirms grow-EDD-organically; lead with Dr. Z brand / VAET / CSA. Financial
   figures historical/unverified. No patient PHI. Preserved verbatim. Not legal,
   financial, or clinical advice.
+- `SLEEP_CHIROPRACTORS_MASTER_SUMMARY.md` — companion master reference ("Sleep
+  Chiropractors," 2026-07-11). One of the **deepest clinical/category-
+  architecture** references for CSA; overlaps `CSA_MASTER_SUMMARY.md` /
+  `_V2.md` but adds sharper structure. Genuinely new/sharper: the **Human
+  Breathing Infrastructure** umbrella (structural / neurological / ventilatory-
+  control / biochemical-mucosal / fluid-pressure layers); the **CSA 1.0 ("Treat
+  Sleep Apnea") → CSA 2.0 ("Unsubluxated Structural Breathing System™")**
+  progression; the **Air Traffic Controller for Sleep Apnea** metaphor; the
+  **four-engine ecosystem** (Cash / Clinical innovation / Education & academy /
+  Network); a concrete **4-module CSA curriculum** (anatomy-physiology →
+  practice mgmt → selling early intervention → data & proof); **VAET intensive
+  price exploration** ($3,500 / $7,999 / $9,999 — exploratory, not locked);
+  deep respiratory physiology (hypoglossal nerve, loop gain, nitric oxide,
+  brainstem control); attributions (**BNS → J. R. Stober, DC**, taught by
+  **Dan Murphy, DC**; Disc Centers of America). Reaffirms EDD SDI as organic
+  cash floor, not public brand; keeps "Heal the healer first." No patient PHI.
+  Preserved verbatim. Some cranial-fluid/mechanism claims need
+  hypothesis-vs-evidence review before public use. Not legal, financial, or
+  clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
