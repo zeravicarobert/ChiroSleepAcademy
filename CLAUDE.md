@@ -683,6 +683,25 @@ Claude should:
   physician-certification questions**. Reinforces the EDD principle **"certify
   functional incapacity, not diagnoses alone."** No patient PHI. Preserved
   verbatim. Not legal, financial, or clinical advice.
+- `CRACKING_THE_CODE_MASTER_SUMMARY.md` — companion reference ("Cracking the
+  Code to Profits," 2026-07-11). Robert's **Jay Abraham** relational-capital /
+  deal-making project; overlaps `JAY_ABRAHAM_MASTER_SUMMARY.md` but a distinct
+  folder with more deal-structure detail. Genuinely new: the explicit
+  **deal-maker (not fulfillment provider)** identity; a standardized **DC–DDS
+  cross-referral** power-partner model; the **Cracking the Code community
+  liaison** service (~$4/mo "cheat sheet" turning scattered community info into
+  actionable introductions); referral line **"Someone in the world loves you"**
+  + **"Ask for Reviews"** onboarding note; domain-registrar tips (**Namecheap /
+  Porkbun** vs GoDaddy); an EDD SDI LTV stack (**~$400 cert + ~$525 coaching
+  over ~3.5 mo + ~$1,000 Closer Academy ≈ $1,925/patient**, planning model);
+  new contacts **Daniel Christopher Bonahoom** (mold-remediation Square
+  funnel), **Dr. Kevin Woodward**, **Endymion Cheung** (Starbucks); new IP-term
+  candidates (**Spiritual Amnesia Diagnosis, Triad of Health Framework,
+  Scriptural Lifestyle Medicine Model, Bridge Doctor Identity, Structural
+  Breathing Stability, Chiropractor 1.0/2.0/3.0, Non-Pharma Sleep Director**).
+  Reaffirms grow-EDD-organically; lead with Dr. Z brand / VAET / CSA. Financial
+  figures historical/unverified. No patient PHI. Preserved verbatim. Not legal,
+  financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
