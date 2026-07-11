@@ -616,6 +616,16 @@ Claude should:
   Diego); Mike-Barron closers **Jarom Smith, Frank De Luca**; a $25K two-year
   transformation + underwriter/funding concept. No patient PHI (Sheree/Mayumi
   are business prospects; Jane is staff). Preserved verbatim. Not legal advice.
+- `CSA_PETER_PROJECT_CONTEXT.md` — companion reference (imported from a ChatGPT
+  project consolidating 3 chats, 2026-07-11). Overlaps the ecosystem summaries
+  and the partnership term sheet. Genuinely useful: the **7-question "Sleep &
+  Airway Case Decision Tool — DCs"** screening concept (snoring / waking tired
+  / witnessed apnea / mouth-breathing / TMJ-headache / neck-posture / prior
+  CPAP-or-appliance-still-unwell); the **Grand Slam Offer** framing for EDD;
+  and an explicit **§20 "Working Principles for Claude Code"** (18 rules — keep
+  SDI separate from CSA, don't call Peter's 40% owned, define "participation,"
+  don't default to "restore," attorney-review drafts, etc.) worth heeding in
+  any future drafting. No patient PHI. Preserved verbatim. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
