@@ -779,6 +779,28 @@ Claude should:
   The doc itself flags PRI/PRM/CSF/"Liquid Light" as metaphor/hypothesis, not
   settled mechanism — keep that separation before public use. No patient PHI.
   Preserved verbatim. Not legal, financial, or clinical advice.
+- `JAY_ABRAHAM_MASTER_SUMMARY_V2.md` — a *second, parallel* Jay Abraham summary
+  ("Jay Abraham Deal Maker Integration" / "Relational Capital for Dr. Z,"
+  2026-07-11), a *different folder/generation* from `JAY_ABRAHAM_MASTER_
+  SUMMARY.md` ("Jay Abraham Training") — don't conflate. Broader on ecosystem
+  architecture, offer economics, and the advisory-board method; overlaps
+  `CRACKING_THE_CODE_MASTER_SUMMARY.md`. Genuinely new/sharper: **"The Bridge
+  Doctor™"** elevated to Dr. Z's core identity; a concrete **SDI snapshot**
+  (~**$17K/month**, 9 new + 10 recertifying + 25 recertifications — historical/
+  unverified); **annual-revenue projections** (12/36/60 patients → $23.1K/
+  $69.3K/$115.5K) + **month-12 targets**; the **Grand Slam Offer** equation
+  applied to SDI; the planned **CFR Advanced seminar, Spokane WA, Sept 26–28,
+  2025** (45-min talk, CFR as stand-alone UAOSA service); a sharp **Del Torto /
+  CFR compliance caution** (don't imply CFR ownership or teach proprietary CFR
+  without permission; differentiate VAET from CFR); **W2 Exodus Blueprint™** and
+  **Boilermaker Health Package** as branded assets; a virtual **advisory board**
+  (adds **Samuel Collins** — coding/reimbursement/compliance; **Dr. Kevin
+  Woodward**); the **Mike Barron + John Peña** podcast relationship; and a full
+  **brand-architecture hierarchy** (Dr. Z → VAET → CSA → Unsubluxated Structural
+  Breathing System™ → W2 Exodus Blueprint™ → The Bridge Doctor™). Reaffirms keep
+  SDI organic; lead with Dr. Z brand / VAET / CSA. Financial figures historical/
+  unverified. No patient PHI. Preserved verbatim. Not legal, financial, or
+  clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
