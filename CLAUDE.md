@@ -488,5 +488,13 @@ Still open:
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
+- **Rob–Peter CSA/SDI partnership** — Peter (possible Acting COO / Founding
+  Operations Partner) may earn *up to 40%* of defined CSA economics through
+  milestone-based, vested, revocable performance terms. No SDI income for
+  Peter; Rob keeps SDI, existing patients, organic revenue, and 100% of his
+  IP. Peter's role begins with legal/compliance protection and workflow
+  observation. Full discussion record & term sheet (30 open questions for the
+  attorney) lives at `partnership/rob-peter-csa-agreement.md`. Not yet a
+  signed contract — needs attorney review before either party relies on it.
 
 When any of these are resolved, update this file.
