@@ -666,6 +666,23 @@ Claude should:
   ("I have a vision for the future of mankind," photographer Martin
   Muschaweck, a Pepperdine classmate) as a lifelong vision anchor. No patient
   PHI. Preserved verbatim. Not legal, financial, or clinical advice.
+- `DELFINA_EDD_SDI_SUMMARY.md` — companion reference ("Delfina Attractive
+  Character & CA EDD SDI Concepts," 2026-07-11). Two distinct halves: (1) a
+  **brand/personal** thread developing **Delfina** as a Russell-Brunson
+  Attractive Character, and (2) a **business** thread of CA EDD SDI teaching
+  concepts (belongs alongside `EDD_SDI_MASTER_SUMMARY.md`). Delfina is Robert's
+  supportive partner / internal support (first noted in `MIKE_BARRON_MASTER_
+  SUMMARY.md`), not a patient — personal detail about her is private. Genuinely
+  new: the real-life Delfina profile (long **LAUSD** career, contemplating
+  retirement, dyslexic, no entrepreneurial ambition, "100% support for
+  Robert"); her revised framing as supportive/grounding presence (not
+  founder/visionary); **LAUSD form PC-5102** (physician cert of inability to
+  work / leave / restrictions for LAUSD employees); the clean **medical leave
+  vs. work restrictions vs. disability time** distinction ("No work" / "Some
+  work" / "Loss of work ability → loss of income"); and the **nine core
+  physician-certification questions**. Reinforces the EDD principle **"certify
+  functional incapacity, not diagnoses alone."** No patient PHI. Preserved
+  verbatim. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
