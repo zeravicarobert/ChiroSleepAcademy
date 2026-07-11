@@ -626,6 +626,19 @@ Claude should:
   SDI separate from CSA, don't call Peter's 40% owned, define "participation,"
   don't default to "restore," attorney-review drafts, etc.) worth heeding in
   any future drafting. No patient PHI. Preserved verbatim. Not legal advice.
+- `CSA_WORKBOOK_MASTER_SUMMARY.md` — companion reference ("Chiro Sleep Academy
+  Workbook Development," 2026-07-11). Product-development doc for the **Chiro
+  Sleep Academy™ Workbook (2025 Ed.)** — a *DC-facing textbook* (~80–82 pp,
+  **$997 incl. CSA membership**), modeled on AASM/AADSM. **Distinct from** the
+  patient-facing *Chiropractic Lifestyle Workbook* in `JON_PENA_MASTER_SUMMARY`
+  — don't conflate. New: 6-part structure; positioning **"Advancing
+  Chiropractic into the Sleep Medicine Frontier"**; the position paper "The
+  Chiropractic Standard for Screening & Managing Sleep-Disordered Breathing";
+  KJB scriptural foundation (Romans 12:1; 1 Cor 6:19–20; 1 Thess 5:23);
+  expanded military/pro bio; mentored-by (Jay Abraham/Daymond John/Tai Lopez)
+  vs certified-by (Russell Brunson); technique + supplement/product lists
+  (health-claim language needs review before public use). No patient PHI.
+  Preserved verbatim. Not legal/clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
