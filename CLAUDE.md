@@ -521,6 +521,15 @@ Claude should:
   confirmed as **Philippines-based** admin support; expense rules restated
   (Rob reimbursed for approved startup before distributions; Peter's team from
   Peter's share). Preserved verbatim. Not legal advice.
+- `JAY_ABRAHAM_MASTER_SUMMARY.md` — companion master reference ("Jay Abraham
+  Training," 2026-07-11). Lens is relational-capital / Jay Abraham strategy.
+  Genuinely new material: **SDI revenue history** (2023 ≈ $167K, 2024 ≈ $328K,
+  2025 tracking ≈ $402K; overhead ≈ $12K/mo incl. child support — treat as
+  *historical/unverified*); **naming prefs** (formal "Dr. Zeravica, DC";
+  humorous "Dr. ZZZ"; avoid "DrZ"); new collaborators **Scott Sylvan Bell**
+  (EDD syndication), **Endymion Cheung**, **Dr. Art Eckstat**, **NuCalm**,
+  **Jane** (earlier assistant); the **"Liaison Doctor"** land/property concept.
+  Preserved verbatim. Not legal or financial advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
