@@ -581,6 +581,15 @@ Claude should:
   influencer) model; the **The American Chiropractor** cover ambition; new
   contact **Joseph Ortega** (fellow builder). No third-party patient names.
   Preserved verbatim. Not legal, financial, or clinical advice.
+- `JON_PENA_MASTER_SUMMARY.md` — companion reference ("Jon Pena Project
+  Folder," 2026-07-11). *Tactical* book-funnel material (not an ecosystem
+  summary): testimonial + chapter-teaser copy for the **Chiropractic Lifestyle
+  Workbook**. New: the Workbook as a concrete book product (Ch. 1 "Real Cause
+  of Poor Sleep & Low Energy," Ch. 2 "Airway–Spine Connection Doctors
+  Overlook," Ch. 3 "Breathing Mechanics That Change Everything"); testimonial
+  voices **Jon Peña** (Limelight Media, Mike Barron's team) and **Ruly** (Jon's
+  ends "10/10"). Chapters 4–10 and final testimonials still open. No patient
+  PHI. Preserved verbatim.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
