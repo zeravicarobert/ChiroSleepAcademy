@@ -596,6 +596,15 @@ Claude should:
   Biblical framing (Exodus 14:14; Lamentations 3:26). Children referenced only
   generically (not named). Treat as a private personal document; raises legal
   questions needing a qualified attorney. Preserved verbatim. Not legal advice.
+- `NEIL_SUMMARY.md` — **largely personal, not CSA business** (imported from a
+  ChatGPT project, 2026-07-11). A personal-development/accountability challenge
+  (Regus/Regis Realm "Warrior Challenge") intertwined with faith, family, and
+  mission. New ecosystem-relevant terms: the **"sovereign micro-kingdoms that
+  work in harmony"** mission; **warrior-to-king / parasite-removal** framing;
+  health frameworks **NEW START, ISI, VANI-P, BNS, "LIFESTYLE: Solids, Liquids,
+  Energy"**; new personal contacts (Neil Thrussell, Eric Mortimer, Garrett,
+  Steve McNeil). Names personal contacts + children (his own data); no patient
+  PHI. Treat as a private personal document. Preserved verbatim.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
