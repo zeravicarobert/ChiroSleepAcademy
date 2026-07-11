@@ -605,6 +605,17 @@ Claude should:
   Energy"**; new personal contacts (Neil Thrussell, Eric Mortimer, Garrett,
   Steve McNeil). Names personal contacts + children (his own data); no patient
   PHI. Treat as a private personal document. Preserved verbatim.
+- `NEW_CLIENTS_MASTER_SUMMARY.md` — companion master reference ("New Clients,"
+  2026-07-11). Client-acquisition / onboarding / cross-sell for the EDD SDI
+  service, sales-training notes, and two prospective consulting contacts.
+  Genuinely new: **Jane's** backend role (does not take calls; ChiroCat + text
+  only); the separate **Wellness Consultation** offer + the "plant a seed,
+  don't push during the disability visit" cross-sell ethic; ChiroThin
+  (weight-loss program, 0 current patients); prospective contacts **Sheree
+  Stomberg** (NY longevity biz) and **Mayumi Young / Makana Brands** (San
+  Diego); Mike-Barron closers **Jarom Smith, Frank De Luca**; a $25K two-year
+  transformation + underwriter/funding concept. No patient PHI (Sheree/Mayumi
+  are business prospects; Jane is staff). Preserved verbatim. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
