@@ -539,6 +539,18 @@ Claude should:
   contacts via Peter; extra historical SDI fee structures ($250 + $150/mo +
   $250 claim-year, refund-less-10%; older $400/$550/$700/$1,845 tiers).
   Preserved verbatim. Not legal or financial advice.
+- `CLICKFUNNELS_COACHING_MASTER_SUMMARY.md` — companion master reference
+  ("ClickFunnels Coaching," 2026-07-11). Most detailed single ecosystem
+  consolidation; richest on Robert's own identifiers and digital-infra
+  history. **Patient PHI was redacted on import** (patient names → initials,
+  DOBs removed) per Robert's decision; his own identifiers kept as provided.
+  Genuinely new: entity **Zeravica Chiropractic Inc.**, license **DC 26527**,
+  NPI, office phone; bio/family/belief context; EDD database **~800** people;
+  the **ChiroBridgeGPT** concept; tools **GoHighLevel** + **Synthesia**; a
+  large **professional-network name list** (Del Torto, Tancheff, Goodheart,
+  Gonstead, Deed Harrison, Aaron Williamson, etc.); **VA Community Care /
+  CPT 98943** veteran strategy; **kara.vision** client work. Preserved
+  verbatim except PHI redaction. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
