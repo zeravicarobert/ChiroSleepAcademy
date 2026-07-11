@@ -499,6 +499,14 @@ Claude should:
   performance scorecard, reserved-vs-delegated authority, and 25 attorney
   questions. Companion to `partnership/rob-peter-csa-agreement.md`. Preserved
   verbatim. Not legal advice.
+- `ECOSYSTEM_MASTER_SUMMARY_V2.md` — a *second, parallel* ecosystem summary
+  (ChatGPT "Convergence" environment, 2026-07-11). ~90% identical to the
+  Confluence version; unique additions worth folding into the term sheet: a
+  clean **3-schedule IP framework** (A = Rob pre-existing, B = Peter
+  pre-existing, C = newly created CSA), the **athlete vertical** ("Sleep
+  Doctor for Athletes"), concrete **CSA price points** ($179/mo study group,
+  $3,500 implementation, $10K/3-mo coaching), and 40% stated as **net profit
+  AND sale proceeds**. Preserved verbatim. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
