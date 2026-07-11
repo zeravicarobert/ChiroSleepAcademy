@@ -572,6 +572,15 @@ Claude should:
   **Clinical Sleep Architecture** / **Integrated Sleep Infrastructure**; Del
   Torto CFR price policy ($995 / $1,500+). Preserved verbatim except PHI
   redaction. Not legal, financial, or clinical advice.
+- `SOCIAL_MEDIA_MASTER_SUMMARY.md` — companion master reference ("Social
+  Media," 2026-07-11). Brand/social-media-strategy lens on the ecosystem.
+  Genuinely new: the **JK5 content-pillar framework** (5 rotating pillars —
+  structural-breathing/CSA, VAET-at-Tecopa, Marine discipline, private-life/
+  faith/family, ecosystem-building); the **black-and-gold** premium visual
+  identity; the **"Visible work. Private life."** curated-authority (not
+  influencer) model; the **The American Chiropractor** cover ambition; new
+  contact **Joseph Ortega** (fellow builder). No third-party patient names.
+  Preserved verbatim. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
