@@ -758,6 +758,27 @@ Claude should:
   patient PHI. Preserved verbatim. Some PRM/CSF/cranial claims need
   hypothesis-vs-evidence review before public use. Not legal, financial, or
   clinical advice.
+- `PRIMARY_RESPIRATORY_BIOMECHANICS_MASTER_SUMMARY.md` — companion master
+  reference ("Primary Respiratory Biomechanics," 2026-07-11). Introduces a
+  **new umbrella-brand evolution** — **Primary Respiratory Biomechanics (PRB)**
+  — as the stage past CSA / Structural Airway Medicine; overlaps the other
+  clinical summaries but is the key PRB reference. Genuinely new/sharper: the
+  brand arc **CSA → Structural Airway Medicine → PRB Academy**; the **PRB Artist
+  vs. PRB Scientist** split ("neither should impersonate the other"); the crisp
+  **PRI vs. PRM** distinction (**"PRI = power. PRM = mechanics"** — PRI as
+  animating power / Innate Intelligence, PRM as the observable biomechanical
+  response); **ventilation vs. respiration vs. breathing** definitions;
+  **"Snoring is the smoke alarm"**; the **"The Brain Breathes"** ebook theme;
+  the **Temple Electro-Mechano-Physiologist** identity + KJV "Liquid Light"
+  framing; the **Wholistic Stomatognathic System**; detailed brainstem control
+  (pre-Bötzinger complex, DRG/VRG, chemoreceptors); the preferred term
+  **"Zoom-call Tele-health Consultant"**; the domain **DrRobertZeravica.com**;
+  **Dr. Scaring / LACC / SCUHS** academic outreach; and the **"don't claim to
+  be the father of the field"** caution (safer: Developer / Architect / Category
+  builder). VAET "T" again given as **Therapy/Technique** (still unsettled).
+  The doc itself flags PRI/PRM/CSF/"Liquid Light" as metaphor/hypothesis, not
+  settled mechanism — keep that separation before public use. No patient PHI.
+  Preserved verbatim. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
