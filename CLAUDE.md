@@ -721,6 +721,25 @@ Claude should:
   Preserved verbatim. Some cranial-fluid/mechanism claims need
   hypothesis-vs-evidence review before public use. Not legal, financial, or
   clinical advice.
+- `SOT_TRAINING_MASTER_SUMMARY.md` — companion master reference ("SOT
+  Training," 2026-07-11). Sharpest reference on the **technique layer** behind
+  VAET/CSA; overlaps `SLEEP_CHIROPRACTORS_MASTER_SUMMARY.md` on category
+  architecture. Genuinely new/sharper: the **Chiropractic 1.0/2.0/3.0**
+  evolution (definitions); the detailed **SOT framework** — pelvic Categories
+  I/II/III, blocking, **Lovett Brother relationships** (sacrum–occiput, L5–C1,
+  coccyx–sphenoid, TMJ–SI), Logan Basic + ilio-tuberous ligament, dural
+  "trampoline," CSF "Liquid Light," PRM/PRI; **"Guyton Physiology for the
+  Skull-Down Doctor"** grounding; the **Wilk v. AMA** evidence nuance (proves
+  suppression, not clinical claims → build real data); role titles (**Structural
+  Airway Doctor** / **Dental Airway Specialist** / **Airway Care Director &
+  Liaison**); a **fee-splitting compliance caution** (CSA must not split
+  clinical fees — patients pay treating DC/DDS directly; CSA charges only for
+  education/screening/membership/certification/coordination, attorney-reviewed);
+  **AACFP** dental org; VAET as a **two-day cash service near Tecopa/Las Vegas
+  + ~3 months coordinated local care**; and a **CSA Provider Qualification
+  Checklist**. Reaffirms EDD SDI as organic cash floor. No patient PHI.
+  Preserved verbatim. Some PRM/CSF/cranial claims need hypothesis-vs-evidence
+  review before public use. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
