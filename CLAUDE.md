@@ -492,6 +492,13 @@ Claude should:
   Parking Lot / Tasks / Reminders / things-pretending-to-be-projects), the
   weekly focus-call rhythm, the Decision Log, and the operational tech spine
   (ChiroCat→ChiroTouch, SimpleTalk, EDD database). Preserved verbatim.
+- `ECOSYSTEM_MASTER_SUMMARY.md` — companion master reference (imported from a
+  ChatGPT project, "Confluence" environment, 2026-07-11). The broadest single
+  view of the whole ecosystem (Dr. Z brand / VAET / CSA / EDD SDI) and the
+  *richest elaboration of the Peter earn-in* — 5-stage vesting, a detailed
+  performance scorecard, reserved-vs-delegated authority, and 25 attorney
+  questions. Companion to `partnership/rob-peter-csa-agreement.md`. Preserved
+  verbatim. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
@@ -603,6 +610,18 @@ Still open:
       document SDI ops, (2) finish the ChiroTouch+SimpleTalk+DB spine, (3)
       finalize the Peter agreement, (4) define a minimum viable CSA/VAET
       protocol.
+  - *New from `ECOSYSTEM_MASTER_SUMMARY` ("Confluence"):*
+    - *Peter role title:* **"Ecosystem Operator / Media Systems Partner,"**
+      tested via a **90-day acting COO / President-of-Operations trial**.
+    - *Earn-in is 5-stage:* 90-day trial → initial vesting on accepted
+      deliverables → milestone vesting → continuing-performance requirement →
+      40% max only after all requirements met. Judged by a written scorecard
+      (accepted outputs, not effort). Richer than the term sheet — worth
+      folding into `partnership/rob-peter-csa-agreement.md` when it's redrafted.
+    - *Intended working method (this repo is part of it):* ChatGPT runs
+      structured interviews → produces hi-fi summaries → those are handed to
+      **Claude Code** to build files/sites/funnels/systems. Explains the
+      steady stream of master-summary imports.
   - *New people:* **Santiago** — potential media/video collaborator;
     **Karlo Gomez** — patient whose SOAP-note files set the documentation-
     integrity standard (never invent unperformed exam findings).
