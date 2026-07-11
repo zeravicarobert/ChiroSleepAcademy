@@ -590,6 +590,12 @@ Claude should:
   voices **Jon Peña** (Limelight Media, Mike Barron's team) and **Ruly** (Jon's
   ends "10/10"). Chapters 4–10 and final testimonials still open. No patient
   PHI. Preserved verbatim.
+- `PARENTAL_ALIENATION_SUMMARY.md` — **personal, not CSA business** (imported
+  from a ChatGPT project, 2026-07-11). Robert's own parental-alienation
+  situation, an awareness/screening/advocacy framework, and a KJV-only
+  Biblical framing (Exodus 14:14; Lamentations 3:26). Children referenced only
+  generically (not named). Treat as a private personal document; raises legal
+  questions needing a qualified attorney. Preserved verbatim. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
