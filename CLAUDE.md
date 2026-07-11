@@ -562,6 +562,16 @@ Claude should:
   DCNexusLetterBotForVAVets, ChiroAdminBot); lifestyle-asset wish list (San
   Diego house, Lamborghini). Financial figures historical/unverified; no
   patient PHI. Preserved verbatim. Not legal, financial, or tax advice.
+- `LIFESTYLE_ACADEMY_MASTER_SUMMARY.md` — companion master reference
+  ("Lifestyle Academy," 2026-07-11). Presents "Lifestyle Academy" as the
+  *umbrella project name* over the whole ecosystem; overlaps the other
+  ecosystem summaries. **Patient PHI redacted** (name → initials) per Robert's
+  standing instruction; his own identifiers kept. Genuinely new: **EIN
+  87-2041541** + office address on file; the umbrella framing; **ChiroThin
+  (~$800)** and **supplements (~$750)** offers; brand-name candidates
+  **Clinical Sleep Architecture** / **Integrated Sleep Infrastructure**; Del
+  Torto CFR price policy ($995 / $1,500+). Preserved verbatim except PHI
+  redaction. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
