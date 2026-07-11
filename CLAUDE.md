@@ -822,6 +822,28 @@ Claude should:
   historical/unverified. No patient PHI. Preserved verbatim. Some PRM/CSF/
   "liquid light"/cranial claims need hypothesis-vs-evidence review before public
   use. Not legal, financial, or clinical advice.
+- `SIMPLETALK_MASTER_SUMMARY.md` — companion reference ("SimpleTalk,"
+  2026-07-11). **Operational / tech-spine** doc about **SimpleTalk**, Robert's
+  inbound AI call/text agent — the comms + routing layer under the SDI/CSA
+  operation. Overlaps the spine in `TOP4_MASTER_SUMMARY.md` and the triage rules
+  in `RZ_MASTER_SUMMARY.md`; deepest single SimpleTalk reference. Genuinely
+  new/sharper: SimpleTalk as the **AI front door / routing nervous system**;
+  the config surface (**Settings → Select CRM**, **Twilio Credentials**,
+  **Campaign Notifications Webhook**, **Text Errors Webhook**, **Provider
+  Keys**) with integration priority **Twilio → CRM → Text Agent**; the strict
+  **launch order** (delegate comms → revenue back-end → fulfillment → *then*
+  funnels) and the rule **"never outrun fulfillment capacity"**; the **3-way
+  caller classification** (SDI new / SDI renewal / CSA-airway); the
+  **Chiropractic 1.0/2.0/3.0** definitions framed operationally (3.0 =
+  telehealth/table-free/office-free cash digital DC — "3.0 funds the art"); new
+  staff/contacts **Nicole & Chellie** (Mike Barron ecosystem) + Ri's expanded
+  role; the **"Reply WELLNESS"** post-visit follow-up; the brand cluster
+  **Protect My Income / Protect Your Income / Union Wellness Partner / Dr. Z
+  Worker Protection Series / W2 Exodus**; the **DE 2501** disability form; and a
+  monthly metrics list. Restates the **$400 + $525 + ~$1,000 = $1,925** SDI LTV
+  stack (historical/unverified), Closer Academy in Month 2–3. Reaffirms keep SDI
+  organic; Boilermakers Local 154 first; Tecopa VAET as Year 2. No patient PHI.
+  Preserved verbatim. Not legal, financial, or clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
