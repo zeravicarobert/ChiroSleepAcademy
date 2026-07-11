@@ -479,6 +479,13 @@ Claude should:
   **excluded from Peter's CSA participation**. Clinical/compliance/pricing
   detail, EDD forms & workflow, scope-of-practice cautions, marketing rules.
   Preserved verbatim; source doc, not a live tracker. Not legal advice.
+- `COMMAND_CENTER_MASTER_SUMMARY.md` — companion master reference (imported
+  from a ChatGPT project, 2026-07-11). Robert's *personal executive operating
+  system*: strategic priority hierarchy, daily Top-3 rhythm, 7-dashboard
+  structure, people/relationship command, financial command center, and the
+  8 project decision rules. Includes personal-stabilization detail (housing,
+  taxes, transportation, family, legal). Preserved verbatim; financial
+  figures are historical planning inputs, not verified current instructions.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
@@ -561,8 +568,23 @@ Still open:
   - *New collaborators (from V2):* **James Nestor** (breathing author, possible
     power-partner); two **Raynor band-trained bodyworkers** (post-VAET support,
     after the main intervention, not a substitute).
-  - *VAET "T":* both CSA summaries land on **Therapy** (V2 flags the "T" —
-    Therapy vs. Technique — as still needing a final lock before trademarks).
+  - *VAET "T" is genuinely unsettled across docs:* the two CSA summaries lean
+    **Therapy**; `RAW_DUMPS` says "Technique/Therapy"; `COMMAND_CENTER` says
+    **Technique**. Lock the "T" before any trademark or course material.
+  - *New from `COMMAND_CENTER_MASTER_SUMMARY` (personal operating system):*
+    - *Mentors / relational capital:* **Jay Abraham** (relational-capital
+      mentor), **Russell Brunson** (funnels; Robert is a Bronze Certified
+      Funnel Hacker), **Daymond John**, **Tai Lopez**, **Simon Severino**;
+      plus **Alex Mandossian** (marketing plan author) and **Mike Barron**
+      (Closer Academy).
+    - *Contact-system decision:* phone contacts = front-door intake →
+      **Airtable** = active relationship/opportunity tracker; **AWeber** is
+      *not* the primary CRM.
+    - *Priority-1 is personal stabilization* (housing reserve even when
+      between homes, taxes, transportation, family, legal) — treated as the
+      infrastructure beneath the business, not separate from it.
+    - *Financial figures ($39K/mo model, allocations) are historical* — verify
+      before any operational use.
   - *New people:* **Santiago** — potential media/video collaborator;
     **Karlo Gomez** — patient whose SOAP-note files set the documentation-
     integrity standard (never invent unperformed exam findings).
