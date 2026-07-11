@@ -467,6 +467,12 @@ Claude should:
   RawDumps→ClickFunnels source-of-truth architecture, content-status
   taxonomy, EDD pricing detail, and documentation-integrity rules. Preserved
   verbatim; source doc, not a live tracker.
+- `EDD_SDI_MASTER_SUMMARY.md` — companion master reference (imported from a
+  ChatGPT project, 2026-07-11). Operating manual for Robert's *existing* CA
+  EDD SDI disability-certification practice — the income engine that is
+  **excluded from Peter's CSA participation**. Clinical/compliance/pricing
+  detail, EDD forms & workflow, scope-of-practice cautions, marketing rules.
+  Preserved verbatim; source doc, not a live tracker. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
@@ -541,5 +547,18 @@ Still open:
   - *New people:* **Santiago** — potential media/video collaborator;
     **Karlo Gomez** — patient whose SOAP-note files set the documentation-
     integrity standard (never invent unperformed exam findings).
+  - *EDD/SDI open items (from `EDD_SDI_MASTER_SUMMARY.md`):* the *existing*
+    disability practice, excluded from Peter's CSA share.
+    - *EDD initial price is unsettled:* two versions coexist — **$250 setup +
+      $150/mo** vs. **$400 initial + $150/mo** (the $400 is the more recent
+      model). Pick one canonical fee schedule before any patient-facing use.
+    - *Standing rule:* grow EDD organically via referrals; the Mandossian
+      12-month scale-up plan (unions, Boilermakers Local 154, FB group, ads)
+      is an available option, **not** the current mandate.
+    - *Compliance red line:* certify only within lawful chiropractic scope;
+      a formal attorney-reviewed scope matrix is still needed (prior vertigo
+      denial). Never invent unperformed exam findings.
+    - *Sensitive pathway:* Closer Academy / W2 Exodus (Mike Barron) referral
+      is post-stabilization only, never during a patient's crisis.
 
 When any of these are resolved, update this file.
