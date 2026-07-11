@@ -457,11 +457,16 @@ Claude should:
 ## 14. Repo Conventions
 
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
+- `CSA_MASTER_SUMMARY.md` — authoritative master reference (imported from a
+  ChatGPT project, 2026-07-11). Deepest single source on the clinical/
+  scientific architecture, brand concepts, founder bio, and full project
+  scope. Preserved verbatim; treat as a source doc, not a live tracker.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
+- `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
+- `outreach/` — outreach drafts and templates.
 - Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+  assets. Structure to be added when first needed — not before.
 
 ---
 
@@ -496,5 +501,24 @@ Still open:
   observation. Full discussion record & term sheet (30 open questions for the
   attorney) lives at `partnership/rob-peter-csa-agreement.md`. Not yet a
   signed contract — needs attorney review before either party relies on it.
+
+- **Reconcile `CSA_MASTER_SUMMARY.md` vs. this file** — the imported master
+  summary (2026-07-11) is richer than CLAUDE.md but differs on a few points
+  Robert should confirm so the two don't drift:
+  - *HST pricing:* master summary says HST **$300 + a separate $100
+    Report-of-Findings fee to the DC**; CLAUDE.md §8 Step 2 says $300 (no
+    explicit +$100). Is the $100 additional, or already inside the $300?
+  - *CBCT pricing:* master summary says **$400 + $100 review** (= $500);
+    CLAUDE.md §8 Step 3 says "$500." Same total — confirm the split wording.
+  - *SDI vs. CSA sequencing:* the master summary logs an **Alex Mandossian**
+    plan advising "scale SDI first, delay Tecopa/VAET to Year 2" — the
+    opposite of CSA's current "grow SDI organically, focus energy on CSA."
+    Flagged as an outside-advisor view, not Robert's decision. Confirm which
+    sequence stands.
+  - *New canonical terms to fold into brand memory once confirmed:* VAET =
+    **Viscerocranial Airway Expansion Therapy**; master concept =
+    **Unsubluxated Structural Breathing System™**; preferred verbs
+    "unsubluxate / expand / establish / stabilize."
+  - *New person:* **Santiago** — potential media/video collaborator.
 
 When any of these are resolved, update this file.
