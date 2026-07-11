@@ -530,6 +530,15 @@ Claude should:
   (EDD syndication), **Endymion Cheung**, **Dr. Art Eckstat**, **NuCalm**,
   **Jane** (earlier assistant); the **"Liaison Doctor"** land/property concept.
   Preserved verbatim. Not legal or financial advice.
+- `MIKE_BARRON_MASTER_SUMMARY.md` — companion master reference ("Mike Barron
+  Inner Circle / MB IC MCA," 2026-07-11). Began as Robert's Mike Barron
+  coaching workspace; evolved into another ecosystem/Peter consolidation.
+  Genuinely new: **MB IC MCA** = Mike Barron / Inner Circle / Millionnaire
+  Coaching Academy (training ~16% complete, resume at Ch. 4 Supplemental);
+  **Delfina** (new internal support); **MLS / San Jose Earthquakes** sports
+  contacts via Peter; extra historical SDI fee structures ($250 + $150/mo +
+  $250 claim-year, refund-less-10%; older $400/$550/$700/$1,845 tiers).
+  Preserved verbatim. Not legal or financial advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
