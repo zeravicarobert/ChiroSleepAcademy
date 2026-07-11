@@ -461,6 +461,12 @@ Claude should:
   ChatGPT project, 2026-07-11). Deepest single source on the clinical/
   scientific architecture, brand concepts, founder bio, and full project
   scope. Preserved verbatim; treat as a source doc, not a live tracker.
+- `RAW_DUMPS_MASTER_SUMMARY.md` — companion master reference (imported from a
+  ChatGPT project, 2026-07-11). The intake/synthesis meta-layer above CSA,
+  VAET, EDD/SDI, and the Peter agreement: knowledge-asset library, Drive→
+  RawDumps→ClickFunnels source-of-truth architecture, content-status
+  taxonomy, EDD pricing detail, and documentation-integrity rules. Preserved
+  verbatim; source doc, not a live tracker.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
@@ -502,23 +508,38 @@ Still open:
   attorney) lives at `partnership/rob-peter-csa-agreement.md`. Not yet a
   signed contract — needs attorney review before either party relies on it.
 
-- **Reconcile `CSA_MASTER_SUMMARY.md` vs. this file** — the imported master
-  summary (2026-07-11) is richer than CLAUDE.md but differs on a few points
-  Robert should confirm so the two don't drift:
-  - *HST pricing:* master summary says HST **$300 + a separate $100
-    Report-of-Findings fee to the DC**; CLAUDE.md §8 Step 2 says $300 (no
-    explicit +$100). Is the $100 additional, or already inside the $300?
-  - *CBCT pricing:* master summary says **$400 + $100 review** (= $500);
-    CLAUDE.md §8 Step 3 says "$500." Same total — confirm the split wording.
-  - *SDI vs. CSA sequencing:* the master summary logs an **Alex Mandossian**
-    plan advising "scale SDI first, delay Tecopa/VAET to Year 2" — the
-    opposite of CSA's current "grow SDI organically, focus energy on CSA."
-    Flagged as an outside-advisor view, not Robert's decision. Confirm which
-    sequence stands.
+- **Reconcile the two imported master summaries vs. this file** — both the
+  `CSA_MASTER_SUMMARY.md` and `RAW_DUMPS_MASTER_SUMMARY.md` (each 2026-07-11)
+  are richer than CLAUDE.md but disagree with it *and with each other* on a
+  few points Robert should confirm so the three don't drift:
+  - *HST pricing — three-way conflict:* `CSA_MASTER_SUMMARY` says HST **$300 +
+    a separate $100** Report-of-Findings fee to the DC; `RAW_DUMPS` says the
+    **$300 already includes** vendor cost, setup, coordination, admin, and the
+    ROF process (no separate $100); CLAUDE.md §8 Step 2 just says $300. Is the
+    ROF fee separate or baked in?
+  - *CBCT pricing — three-way conflict:* `CSA_MASTER_SUMMARY` says **$400 +
+    $100 review = $500**; `RAW_DUMPS` says CBCT is a separate expense of
+    **$300–$750** depending on provider; CLAUDE.md §8 Step 3 says "$500." Which
+    is the CSA price to the patient, and which is raw imaging-provider cost?
+  - *SDI vs. CSA sequencing:* both summaries log an **Alex Mandossian** plan
+    advising "scale SDI first, delay Tecopa/VAET to Year 2" — the opposite of
+    CSA's current "grow SDI organically, focus energy on CSA." Flagged as an
+    outside-advisor view, not Robert's decision. Confirm which sequence stands.
+  - *EDD/SDI pricing detail (from `RAW_DUMPS`):* $400 initial cert + **$150/mo**
+    servicing (~3.5 mo avg) + optional ~$1,000 Closer Academy referral
+    commission. Confirm before using in any copy.
   - *New canonical terms to fold into brand memory once confirmed:* VAET =
-    **Viscerocranial Airway Expansion Therapy**; master concept =
-    **Unsubluxated Structural Breathing System™**; preferred verbs
-    "unsubluxate / expand / establish / stabilize."
-  - *New person:* **Santiago** — potential media/video collaborator.
+    **Viscerocranial Airway Expansion Therapy/Technique**; master concept =
+    **Unsubluxated Structural Breathing System™**; category name =
+    **Sleep & Airway Chiropractic**; preferred verbs "unsubluxate / expand /
+    establish / stabilize"; "skull-down chiropractic"; early/middle/late
+    intervention framing.
+  - *New brand/architecture items:* **SkullDown Media Group** (possible
+    publishing identity); EDD sub-brands "Protect My Income / Stay At Home /
+    W2 Exodus"; Drive = source of truth → Raw Dumps = intake/synthesis →
+    ClickFunnels = curated copies (ClickFunnels is *not* the master archive).
+  - *New people:* **Santiago** — potential media/video collaborator;
+    **Karlo Gomez** — patient whose SOAP-note files set the documentation-
+    integrity standard (never invent unperformed exam findings).
 
 When any of these are resolved, update this file.
