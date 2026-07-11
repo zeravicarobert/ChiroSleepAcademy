@@ -507,6 +507,13 @@ Claude should:
   Doctor for Athletes"), concrete **CSA price points** ($179/mo study group,
   $3,500 implementation, $10K/3-mo coaching), and 40% stated as **net profit
   AND sale proceeds**. Preserved verbatim. Not legal advice.
+- `NEWEST_PROJECTS_MASTER_SUMMARY.md` — a *third* ecosystem-scope parallel
+  ("Newest Projects," 2026-07-11). ~85% overlaps the two above. Unique: the
+  **four-level CSA curriculum model** (L1 clinical science/technique, L2
+  practice-management/AMC-like, L3 case communication/sales, L4 data
+  collection/evidence), **W2 Exodus Blueprint** as pre-existing Rob IP, and a
+  **retain / defer / reuse** split for the Alex Mandossian plan. Preserved
+  verbatim. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
