@@ -740,6 +740,24 @@ Claude should:
   Checklist**. Reaffirms EDD SDI as organic cash floor. No patient PHI.
   Preserved verbatim. Some PRM/CSF/cranial claims need hypothesis-vs-evidence
   review before public use. Not legal, financial, or clinical advice.
+- `SOT_MASTER_SUMMARY.md` — companion master reference ("SOT," 2026-07-11). A
+  **separate folder** from `SOT_TRAINING_MASTER_SUMMARY.md` — don't conflate;
+  this is the deeper **hands-on technique + SOT-community** reference. Genuinely
+  new/sharper: granular SOT diagnostics (**Dollar Sign, Crest Sign**,
+  cervical-palpation working zones, **category-specific interpretation** of the
+  same landmarks); **CMRT — "Bloodless Surgery"** (organ-spinal reflex module);
+  the reference **Dr. Robert Monk's *Simplified SOT* (p. 32)**; the synthesis
+  **"CBP measures the frame; SOT measures the rhythms"**; the **SOTO-USA vs.
+  SORSI** distinction + named SOT teachers (Blum, Rosen, Benner, Monk, Bloink,
+  Davis) and 2025–26 symposium speakers; the **2026 SOTO-USA Clinical Symposium
+  — Apr 23–25, 2026, Hotel Indigo, Nashville, TN**; **Dr. Adam Del Torto's** CFR
+  guidance ("money talks") + a **$3,500 CFR series** price; the **N-of-1 / ABA
+  (on–off) research design** for UAOSA; the **Triune Breathing Model**; and
+  **Guyton physiology** as the Chiropractic 2.0 foundation. Reaffirms the
+  EDD-funds-VAET split and Tecopa/Death Valley VAET as a Year-2 launch. No
+  patient PHI. Preserved verbatim. Some PRM/CSF/cranial claims need
+  hypothesis-vs-evidence review before public use. Not legal, financial, or
+  clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
