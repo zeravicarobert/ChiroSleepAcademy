@@ -551,6 +551,17 @@ Claude should:
   Gonstead, Deed Harrison, Aaron Williamson, etc.); **VA Community Care /
   CPT 98943** veteran strategy; **kara.vision** client work. Preserved
   verbatim except PHI redaction. Not legal, financial, or clinical advice.
+- `MONEY_INVEST_MASTER_SUMMARY.md` — companion master reference ("Knowledge –
+  Money Invest," 2026-07-11). Lens is capital allocation / money strategy.
+  Genuinely new: the **four-bucket money system** (Personal Safety / Business
+  Operations / Growth / Speculation, funded in that order); the rule **"I no
+  longer buy certainty. I buy capacity."**; the **Inyo County land + county-
+  cannabis-license** opportunity (4 parcels ≈2.5 ac — speculation bucket,
+  pending due diligence); a **Prius/SchoolsFirst auto-debt** case study;
+  **W2ExodusBlueprint** build detail; bot concepts (VAClaimBot,
+  DCNexusLetterBotForVAVets, ChiroAdminBot); lifestyle-asset wish list (San
+  Diego house, Lamborghini). Financial figures historical/unverified; no
+  patient PHI. Preserved verbatim. Not legal, financial, or tax advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
