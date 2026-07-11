@@ -514,6 +514,13 @@ Claude should:
   collection/evidence), **W2 Exodus Blueprint** as pre-existing Rob IP, and a
   **retain / defer / reuse** split for the Alex Mandossian plan. Preserved
   verbatim. Not legal advice.
+- `RZ_MASTER_SUMMARY.md` — a *fourth* ecosystem-scope parallel ("RZ,"
+  2026-07-11), overlapping the three above. Unique operational detail: the
+  **Simple Talk triage rules** (new SDI patient → EHR intake first; existing →
+  symptom/work-status update; CSA inquiry → explainer video first); **Ri**
+  confirmed as **Philippines-based** admin support; expense rules restated
+  (Rob reimbursed for approved startup before distributions; Peter's team from
+  Peter's share). Preserved verbatim. Not legal advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
