@@ -844,6 +844,20 @@ Claude should:
   stack (historical/unverified), Closer Academy in Month 2–3. Reaffirms keep SDI
   organic; Boilermakers Local 154 first; Tecopa VAET as Year 2. No patient PHI.
   Preserved verbatim. Not legal, financial, or clinical advice.
+- `RAS_DMN_PRI_SUMMARY.md` — companion reference ("RAS / DMN / PRI,"
+  2026-07-11). A **focused clinical-neuroscience concept note** (not a project
+  master summary): teaching/patient-communication language for how a
+  chiropractic adjustment might change attention and mental clarity. Genuinely
+  new/useful for CSA content: the **RAS** ("focus switch" — modulates *access*
+  to consciousness, doesn't create it) and **DMN** ("idle chatter" /
+  self-narrative) framing; the RAS↔DMN **"see-saw"** attention model; the chain
+  **PRI → rhythmic afferent input → brainstem → RAS → cortical arousal →
+  whole-body timing**; the line **"Rhythm restores order without force"**; a
+  non-mystical, non-reductionist account of the **"first adjustment"
+  experience**; and a ready patient-communication line. The doc is disciplined:
+  RAS/DMN = established neuroscience, but PRI→RAS→DMN causal links =
+  **hypothesis needing research** — preserve that separation in public use. No
+  patient PHI. Preserved verbatim. Not clinical advice.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `partnership/` — Rob–Peter CSA/SDI agreement discussion record & term sheet.
