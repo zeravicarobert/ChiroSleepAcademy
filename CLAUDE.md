@@ -999,3 +999,53 @@ Still open:
       is post-stabilization only, never during a patient's crisis.
 
 When any of these are resolved, update this file.
+
+---
+
+## 16. ChatGPT Archive Migration (active project)
+
+Robert is migrating his ChatGPT history into this repo as verbatim
+high-fidelity summaries (the "banking" pipeline — see §14). This is an
+ongoing, multi-session effort.
+
+### Source account
+- ChatGPT account: **RobertZeravica91324@gmail.com** (note: this is the
+  same address as the Calendar MCP account; distinct from the Gmail,
+  Drive, and repo-owner accounts — see §6 Google account map).
+- As of 2026-07-14: **3 ChatGPT projects still remain** to be imported,
+  **plus many loose chats** not attached to any project.
+
+### The goal (Robert's words)
+Go through the chats → decide which are **delete-able** → of what's left,
+decide which are **CSA-applicable** → produce a high-fidelity summary of
+each keeper → bank it here (verbatim + provenance note + CLAUDE.md entry
++ commit/push).
+
+### Preferred method — export, don't click through each chat
+Manually opening hundreds of chats is the tedium to avoid. Instead:
+1. Robert runs **ChatGPT → Settings → Data controls → Export data**;
+   OpenAI emails a download link; the zip contains `conversations.json`
+   (every chat, project + loose, full text). ChatGPT has **no built-in
+   chat counter** — the export is the only reliable way to count/triage.
+2. Robert hands `conversations.json` to Claude here.
+3. Claude produces a **triage table** — one row per chat: title, date,
+   rough size, and a recommended bucket with a one-line reason:
+   - 🗑️ **Delete-able** (tests, one-offs, duplicates, dead ends)
+   - 📦 **Keep, non-CSA** (personal, EDD-only, other business)
+   - ⭐ **CSA-applicable** (CSA, VAET, SOT, airway, brand, partnership…)
+4. Robert reviews and corrects every call. **Claude never deletes
+   anything** — Robert deletes inside ChatGPT; Claude only recommends.
+   The export itself is also a full backup of everything.
+5. For each ⭐ keeper, Claude runs the standard banking pipeline (§14).
+- Large exports may need to be split or worked in **batches by date
+   range** if the file is too big to hand over at once.
+
+### Standing rules for this migration
+- Apply the established handling rules automatically: **redact patient
+  PHI to initials / drop DOBs**; **flag personal/non-business docs as
+  private** (e.g., parental-alienation, Neil-type threads); preserve
+  each summary **verbatim** with a provenance note.
+- Keep summaries as separate files; when a new import parallels an
+  existing one, use the `_V2` convention rather than overwriting.
+- Development branch for this work: `claude/rob-peter-csa-agreement-lr88yc`
+  (34 summaries banked as of 2026-07-14).
