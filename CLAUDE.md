@@ -890,6 +890,21 @@ Still open:
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
+- **Parked idea — `instantAfrican.com`** (domain bought via Namecheap,
+  2026-07-15). A VAET / nasal-airway marketing hook: the endonasal balloon
+  (CFR-style) work widens the nasal passages, using the wider nasal aperture
+  common in people of African descent as the vivid before/after image
+  ("instantly more open nares"). Underlying physiology is legitimate (nasal
+  index varies by ancestry/climate; a wider nasal aperture ~ lower nasal
+  airflow resistance). **Brand-guardian flag (Robert agreed to park, not
+  develop):** "Instant African" as a *public-facing* brand ties a clinical
+  outcome to a racial/ethnic anatomical generalization and cuts against CSA's
+  own red lines (no gimmicky/fringe framing; protect credibility; write like a
+  respected clinician) plus the "instant" overpromise risk. Decision: **keep
+  the domain; treat "Instant African" as an internal codename / private
+  teaching analogy only, NOT a public brand.** Lead publicly with
+  category/Structural-Airway language. Revisit only if Robert chooses to
+  develop it.
 - **Rob–Peter CSA/SDI partnership** — Peter (possible Acting COO / Founding
   Operations Partner) may earn *up to 40%* of defined CSA economics through
   milestone-based, vested, revocable performance terms. No SDI income for
