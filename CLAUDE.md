@@ -462,6 +462,8 @@ Claude should:
 - Future: `/site` for the public site, `/content` for course/educational
   assets, `/outreach` for templates and trackers. Structure to be added
   when first needed — not before.
+- `/funnel` — patient-facing ecosystem funnel definition + trackers
+  (added 2026-07-15). See section 16.
 
 ---
 
@@ -498,3 +500,41 @@ Still open:
   signed contract — needs attorney review before either party relies on it.
 
 When any of these are resolved, update this file.
+
+---
+
+## 16. Patient-Facing Funnel (Parallel Track — added 2026-07-15)
+
+Alongside the DC-facing "Heal the Healer First" model (§7–8), Robert is
+building a **direct-to-patient** funnel starting with his own patient base
+(the CA EDD / SDI patient database). This is a deliberate second track: the
+*patient* is the direct customer, not the DC. Keep the two tracks' copy
+separate — patients don't get DC-training messaging and vice versa.
+
+**The patient ecosystem:**
+> Awareness → Screen → Home Sleep Test → Zoom Review → Early Treatment
+> Offer (VAET) → Local-DC Referral (3 mo CBP + SOT/AK) → Post-Testing →
+> 2-Year Outcome Tracking (anchored to the VAET date)
+
+The purpose is honest outcomes measurement: **does VAET (with CBP + SOT/AK)
+help patients' sleep?** — tracked via AHI, RDI, ODI, SpO2, ESS over 2 years.
+VAET offered at the **91324 office** or **Tecopa, CA** (Steve McNeal hot
+springs property).
+
+**Assets built (in `/funnel` and `/outreach`):**
+- `outreach/patient-email-sleep-early-intervention.md` — first-touch
+  campaign email (early/mid/late-intervention hook, Robert's story,
+  disposable-HST-by-mail + Zoom-review offer). Story section needs Robert's
+  real details; framing must stay respectful of CPAP/surgery (red lines §5).
+- `funnel/patient-ecosystem-funnel.md` — all stages S0–S13 + metrics.
+- `funnel/patient-tracker-template.csv` — Layer 1 (contact + campaign +
+  pipeline stage; low-PHI, CRM-safe).
+- `funnel/outcomes-tracker-template.csv` — Layer 2 (AHI/ODI/SpO2 — PHI;
+  HIPAA-appropriate storage only).
+- `funnel/contact-management-recommendation.md` — CRM guidance. Core rule:
+  split outreach data (CRM-safe) from clinical PHI (EHR/BAA only).
+
+**Open items:** post-VAET test timing, screen thresholds, patient pricing
+vs DC pricing, HST vendor, Tecopa patient logistics, and a
+consent-to-track/publish form before enrolling anyone in the 2-year window.
+See the "Open questions" in `funnel/patient-ecosystem-funnel.md`.
