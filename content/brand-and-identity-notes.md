@@ -50,6 +50,12 @@ Collaborate with the DDS — each in their expertise — but the DC doesn't hand
 structural judgment over to a device protocol. *(Keep it collaborative, not
 anti-dentist — red line §5.)*
 
+> Some sleep problems involve the jaw and teeth. When needed, a trained dentist
+> helps. Everyone stays in their own lane.
+
+*(Patient-safe collaboration line — pairs with the judgment line above. Ideal for
+the Provider Network pillar: respectful, clear lanes, no turf war.)*
+
 ## Positioning: Dr. Z as the "Liaison" (2026-07-16)
 
 - **"Complex problems require coordinated expertise."**
