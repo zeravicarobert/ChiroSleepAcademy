@@ -4,6 +4,18 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — CSA positioning**
+> CSA occupies the **System Convergence Point.**
+
+*(The place where the systems meet — providers (MD/DDS/ENT/sleep lab), structures
+(skull/spine/pelvis/airway), and forces (pressure vectors) converge and get
+coordinated. Pairs with the identity line below.*
+*⭐ **Nice fractal:** you earlier called a **subluxation** a "system stress
+convergence point" (in the **body**). CSA is the "system convergence point" in the
+**profession / care landscape**. Same idea at two scales — the body-level and the
+system-level convergence point. Strong, ownable through-line; consider making it
+explicit in teaching.)*
+
 **2026-07-16 — CSA identity line**
 > CSA is where uncoordinated forces meet, are interpreted, and safely redirected.
 
