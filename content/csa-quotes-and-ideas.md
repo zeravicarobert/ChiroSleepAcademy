@@ -4,6 +4,23 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — ⭐ HERO line (AI-era performance → biological infrastructure)**
+> In an AI-accelerated world, performance is no longer limited by intelligence —
+> it's limited by the biological infrastructure that sustains it. Sleep, airway,
+> and cranial mechanics quietly determine that ceiling. And the ceiling is the
+> roof of the mouth… which is the floor of the nose.
+
+*(Possibly the strongest opener yet — great **landing-page hero** or **talk cold
+open**, especially for high-performers / executives / decision-makers (matches the
+"market to decision-makers, infrastructure language" positioning). The anatomy is
+**real**: the hard palate literally is the roof of the mouth AND the floor of the
+nose — so the metaphor lands as fact. Triple layering: performance ceiling →
+palate → nasal floor. Ties to the "sleep sets the ceiling / hard palate" line and
+Cranial Sleep Infrastructure.*
+*Guardrails: "quietly determine that ceiling" is well-hedged — keep it. Cranial
+mechanics' role stays CSA's model under investigation (don't harden to fact); no
+cure claim. "Biological infrastructure" fits the Infrastructure family.)*
+
 **2026-07-16 — value line (the leverage of credibility + coordination)**
 > I — Dr. Z — through CSA, increase everyone's results before they even start.
 
