@@ -491,6 +491,21 @@ Claude should:
   **CSA 3.0** ladder rung (neurofluid/autonomic/brain–body regulation) — flagged
   PROPOSED, awaiting Robert's OK before it joins the canonical CSA 1.0→2.0
   ladder (Master Summary §5).
+  - `content/chatgpt-csa-chat-catalog.md` — index of the CSA-relevant chats
+    mined from Robert's ChatGPT export (2,447 total conversations; 474 mention
+    CSA terms; 317 higher-confidence catalogued). **Raw chats are NOT in the
+    repo** (personal data + size).
+
+### Re-mining the ChatGPT export (method that works)
+The full export lives in Drive folder **"ChatGPT download"** (`zeravicarobert@
+gmail.com`), split into `conversations-000.json`..`-024.json` (~80MB total).
+The container can't hold them, but they CAN be mined: call
+`Google_Drive.download_file_content(fileId)` per file → the oversized result
+auto-spills to disk under `tool-results/` as `{content: base64,...}` →
+`jq -r '.content' | base64 -d` gives clean JSON → parse with python/jq. Filter
+on distinctive CSA terms (VAET, tecopa, unsubluxat, structural breathing/airway,
+"chiropractic sleep academy", "heal the healer") — generic terms (airway/apnea/
+CPAP) over-match his EDD/medical chats. Keep personal chats out of the repo.
 - `/funnel` — patient-facing ecosystem funnel definition + trackers
   (added 2026-07-15). See section 16.
 
