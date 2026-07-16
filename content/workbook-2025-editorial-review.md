@@ -95,7 +95,9 @@ Keep all of the above. The problem is what's mixed *in* with it.
   foundation/personal section, or the credible audience discounts the science.
 - **Osteopathic-origins chapter:** keep it from framing CSA/Robert as osteopathic
   (§18 — CSA is chiropractic).
-- **Pricing** ($997 core / $3,997 cert / $47-mo) differs from CLAUDE.md §8 — reconcile.
+- **Pricing** ($997 core / $3,997 cert / $47-mo / $27 / $7): **placeholder only —
+  Robert's suggested numbers, expected to change** (confirmed 2026-07-16). Not a
+  real conflict; just keep one coherent ladder when finalized.
 - **VAET here sits under a "diagnose/treat" + energy frame** — realign to the
   vetted `content/vaet-protocol.md` (framework, early-structural-first, measured).
 
