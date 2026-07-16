@@ -4,6 +4,23 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — phrase Robert likes**
+> Pressing on a real fault line — AK cranially.
+
+*(Nice geologic metaphor: AK cranial contact meeting a real structural seam / weak
+point — and it rhymes with the **suture** framing (sutures = the skull's "fault
+lines"). Credible if kept literal (a real anatomical seam), not mystical. Good
+teaching/copy image for the cranial-mechanics material.)*
+
+**2026-07-16 — name Robert likes (fits his tone)**
+> **Post-Dogmatic Chiropractic Review**
+
+*(Strong. Captures the "filter dogma, keep clinical consequence" ethos **without**
+the incendiary "cults" frame — a better **public** name than "Kingdom of the
+Techniques." Could work as the **book title** OR as a recurring **publication /
+column / brand** where Robert reviews techniques by consequence. Logged as the
+lead public-title candidate in `content/book-kingdom-draft.md`.)*
+
 **2026-07-16 — value proposition (what CSA does for the individual)**
 > Increasing a human's usable biological throughput so their nervous system can
 > operate closer to its design capacity in an accelerated world.

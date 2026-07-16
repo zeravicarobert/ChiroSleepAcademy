@@ -7,10 +7,12 @@ techniques (CFR/BNS, SOT, AK, CBP, orthotics…). The filter targets **dogma and
 untestable claims**, never the techniques or their people. Method, not mockery.
 
 > **Title note:** *Kingdom of the Techniques* is a strong **working/internal**
-> title (echoes Walter Martin's *method*). For public release, consider a
-> non-incendiary title so it never reads as "techniques = cults": e.g.
-> **The Consequence Standard**, **Keep What Works**, or **What Actually Responds.**
-> Robert's call.
+> title (echoes Walter Martin's *method*). For public release, use a non-incendiary
+> title so it never reads as "techniques = cults."
+> **⭐ Lead public candidate (Robert likes, 2026-07-16): _Post-Dogmatic Chiropractic
+> Review_** — captures "filter dogma, keep clinical consequence" without the cult
+> frame; also works as a recurring publication/column name. Other options: *The
+> Consequence Standard*, *Keep What Works*.
 
 ---
 
