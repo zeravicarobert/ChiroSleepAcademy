@@ -750,3 +750,12 @@ red line "DCs don't diagnose OSA" for Robert's own practice.** ⚠️ Flagged as
 scope-of-practice claim to confirm in writing with his attorney / the DC Board
 before relying on it in copy or the study. Applied in
 `funnel/patient-consent-optin-sleep-study.md`.
+
+### 2026-07-16 — Do NOT frame CSA/Robert as "osteopathic"
+Robert's call: CSA and his work are **chiropractic**. Methods that happen to have
+come from osteopathy (cranial/CFR via Sutherland, SOT via DeJarnette, some AK
+influences) are fine to learn and use — but **osteopathy has no monopoly on
+anatomy or the body.** Never label Robert or CSA "osteopathic" or "more
+osteopathic than chiropractic." He is a DC; CSA is chiropractic that studies the
+whole body. The earlier "chiropractic license, osteopathic method" framing is
+retired.
