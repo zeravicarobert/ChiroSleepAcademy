@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSA Before / After Outcomes — VAET Case Template</title>
+<style>
+  :root{
+    --surface-0:#f4f5f7; --surface-1:#ffffff; --surface-2:#eef0f3;
+    --ink-1:#15181d; --ink-2:#4a5159; --ink-3:#7b828b;
+    --line:#dfe3e8; --line-strong:#c7cdd4;
+    --before:#eb6834; --after:#2a78d6;
+    --good:#16a34a; --warn:#d97706; --flat:#6b7280;
+    --band-normal:#16a34a; --band-mild:#65a30d; --band-mod:#d97706; --band-sev:#dc2626;
+    --shadow:0 1px 2px rgba(20,24,29,.06),0 4px 16px rgba(20,24,29,.05);
+    --radius:14px;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --serif:ui-serif,Georgia,"Times New Roman",serif;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --surface-0:#131619; --surface-1:#1b1f24; --surface-2:#22272d;
+      --ink-1:#f2f4f6; --ink-2:#b7bec6; --ink-3:#868d95;
+      --line:#2c323a; --line-strong:#3a424b;
+      --before:#d95926; --after:#3987e5;
+      --good:#22c55e; --warn:#f59e0b; --flat:#8b929b;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 6px 20px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"]{
+    --surface-0:#131619; --surface-1:#1b1f24; --surface-2:#22272d;
+    --ink-1:#f2f4f6; --ink-2:#b7bec6; --ink-3:#868d95;
+    --line:#2c323a; --line-strong:#3a424b;
+    --before:#d95926; --after:#3987e5;
+    --good:#22c55e; --warn:#f59e0b; --flat:#8b929b;
+  }
+  :root[data-theme="light"]{
+    --surface-0:#f4f5f7; --surface-1:#ffffff; --surface-2:#eef0f3;
+    --ink-1:#15181d; --ink-2:#4a5159; --ink-3:#7b828b;
+    --line:#dfe3e8; --line-strong:#c7cdd4;
+    --before:#eb6834; --after:#2a78d6;
+    --good:#16a34a; --warn:#d97706; --flat:#6b7280;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--surface-0);color:var(--ink-1);font-family:var(--sans);
+    line-height:1.5;-webkit-font-smoothing:antialiased;padding:clamp(16px,4vw,40px)}
+  .wrap{max-width:1040px;margin:0 auto}
+  .num{font-variant-numeric:tabular-nums}
+
+  header.top{margin-bottom:22px}
+  .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);font-weight:600}
+  h1{font-family:var(--serif);font-weight:600;font-size:clamp(24px,4.2vw,34px);
+    margin:.24em 0 .12em;letter-spacing:-.01em;text-wrap:balance}
+  .sub{color:var(--ink-2);font-size:15px;max-width:64ch}
+
+  .caseline{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:flex-end;margin:18px 0 6px}
+  .field{display:flex;flex-direction:column;gap:4px}
+  .field label{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);font-weight:600}
+  .field input{font-family:var(--sans);font-size:14px;color:var(--ink-1);background:var(--surface-1);
+    border:1px solid var(--line-strong);border-radius:8px;padding:7px 10px;min-width:0}
+  .field input:focus-visible{outline:2px solid var(--after);outline-offset:1px}
+  .field.grow{flex:1 1 200px}
+
+  .headline{background:var(--surface-1);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);padding:18px 20px;margin:14px 0 22px;display:flex;flex-wrap:wrap;
+    gap:8px 22px;align-items:center}
+  .headline .big{font-family:var(--serif);font-size:clamp(20px,3vw,26px);font-weight:600}
+  .headline .big .delta{font-variant-numeric:tabular-nums}
+  .headline .move{font-size:14px;color:var(--ink-2)}
+  .headline .pill{margin-left:auto}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+  .card{background:var(--surface-1);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);padding:16px 18px 18px;display:flex;flex-direction:column;gap:12px}
+  .card h3{margin:0;font-size:15px;font-weight:650;letter-spacing:-.005em;display:flex;
+    align-items:baseline;gap:8px;flex-wrap:wrap}
+  .card h3 .unit{font-size:12px;font-weight:500;color:var(--ink-3)}
+  .dir{font-size:11px;font-weight:600;letter-spacing:.03em;color:var(--ink-3);
+    border:1px solid var(--line-strong);border-radius:999px;padding:2px 8px;white-space:nowrap}
+
+  .bars{display:flex;flex-direction:column;gap:9px}
+  .barrow{display:grid;grid-template-columns:52px 1fr auto;align-items:center;gap:10px}
+  .barrow .tag{font-size:12px;font-weight:600;color:var(--ink-2)}
+  .track{position:relative;height:20px;background:var(--surface-2);border-radius:6px;overflow:hidden}
+  .fill{position:absolute;left:0;top:0;bottom:0;border-radius:6px;min-width:3px;transition:width .45s cubic-bezier(.22,.61,.36,1)}
+  .fill.before{background:var(--before)}
+  .fill.after{background:var(--after)}
+  .val{font-size:13px;font-weight:650;font-variant-numeric:tabular-nums;min-width:44px;text-align:right}
+
+  .inputs{display:flex;gap:10px;flex-wrap:wrap;margin-top:2px}
+  .inputs .f{display:flex;align-items:center;gap:6px}
+  .inputs .f span{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);font-weight:600}
+  .inputs input{width:80px;font-family:var(--sans);font-size:13px;font-variant-numeric:tabular-nums;
+    color:var(--ink-1);background:var(--surface-1);border:1px solid var(--line-strong);border-radius:7px;padding:5px 8px}
+  .inputs input:focus-visible{outline:2px solid var(--after);outline-offset:1px}
+  .dot{width:9px;height:9px;border-radius:2px;display:inline-block;flex:none}
+  .dot.before{background:var(--before)} .dot.after{background:var(--after)}
+
+  .chip{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:650;
+    border-radius:999px;padding:4px 10px;border:1px solid transparent;white-space:nowrap}
+  .chip svg{width:13px;height:13px;flex:none}
+  .chip.good{color:var(--good);background:color-mix(in srgb,var(--good) 12%,transparent);border-color:color-mix(in srgb,var(--good) 32%,transparent)}
+  .chip.warn{color:var(--warn);background:color-mix(in srgb,var(--warn) 12%,transparent);border-color:color-mix(in srgb,var(--warn) 32%,transparent)}
+  .chip.flat{color:var(--flat);background:color-mix(in srgb,var(--flat) 12%,transparent);border-color:color-mix(in srgb,var(--flat) 32%,transparent)}
+
+  .sev{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:11px;color:var(--ink-3);margin-top:2px}
+  .sev b{color:var(--ink-2);font-weight:600}
+  .sevmove{font-size:12.5px;font-weight:600;color:var(--ink-2)}
+  .sw{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:3px}
+
+  footer{margin-top:26px;padding:16px 18px;background:var(--surface-2);border:1px solid var(--line);
+    border-radius:var(--radius);font-size:12.5px;color:var(--ink-2)}
+  footer b{color:var(--ink-1)}
+  footer ul{margin:8px 0 0;padding-left:18px} footer li{margin:3px 0}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-2);margin:2px 0 14px}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .toolbar{display:flex;justify-content:flex-end;margin-bottom:10px}
+  .toolbar button{font-family:var(--sans);font-size:12.5px;font-weight:600;color:var(--ink-2);
+    background:var(--surface-1);border:1px solid var(--line-strong);border-radius:8px;padding:6px 12px;cursor:pointer}
+  .toolbar button:hover{color:var(--ink-1);border-color:var(--after)}
+  @media (prefers-reduced-motion: reduce){.fill{transition:none}}
+  @media print{.toolbar,.inputs{display:none}body{background:#fff;padding:0}.card,.headline,footer{box-shadow:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="toolbar"><button id="themeBtn" type="button">◐ Theme</button></div>
+
+  <header class="top">
+    <div class="eyebrow">Chiropractic Sleep Academy · Outcomes Registry</div>
+    <h1>Before &amp; After — a measured VAET case</h1>
+    <p class="sub">One patient, before and after care. The measures below are what CSA reports —
+      objective sleep and airway data, honestly, every case. This is measurement, not a cure claim.</p>
+
+    <div class="caseline">
+      <div class="field grow"><label for="caseId">Case label (de-identified)</label>
+        <input id="caseId" type="text" value="Case 001 — VAET"></div>
+      <div class="field"><label for="testDate">Post-test date</label>
+        <input id="testDate" type="text" value="2 weeks post"></div>
+      <div class="field"><label for="nCases">Sample</label>
+        <input id="nCases" type="text" value="single case"></div>
+    </div>
+  </header>
+
+  <div class="legend">
+    <span><i class="dot before"></i> Before care</span>
+    <span><i class="dot after"></i> After care</span>
+    <span style="color:var(--ink-3)">Bars start at zero. Numbers carry the change.</span>
+  </div>
+
+  <div class="headline" id="headline"><!-- filled by JS --></div>
+
+  <div class="grid" id="grid"><!-- cards filled by JS --></div>
+
+  <footer>
+    <b>How to read this — and how to keep it honest.</b>
+    <ul>
+      <li><b>De-identified only.</b> No names, DOB, or record numbers on any slide. PHI stays in the EHR.</li>
+      <li><b>Report every case, including non-responders.</b> A case that didn't improve is data, not a failure to hide.</li>
+      <li><b>Measurement, not a cure claim.</b> Improvement shows structure contributed <i>in this case</i> — never that apnea is cured or that VAET beats CPAP, appliances, or surgery.</li>
+      <li><b>Physician-read.</b> The sleep test is read by a licensed physician; the DC interprets structurally within scope and co-manages moderate–severe cases with MD/ENT.</li>
+      <li>AHI severity bands (AASM): Normal &lt;5 · Mild 5–15 · Moderate 15–30 · Severe 30+ events/hr.</li>
+    </ul>
+  </footer>
+</div>
+
+<script>
+const METRICS = [
+  {id:"ahi",   name:"AHI",  unit:"events/hr", better:"lower", before:32.4, after:12.3, dec:1, severity:true},
+  {id:"odi",   name:"ODI",  unit:"events/hr", better:"lower", before:28.0, after:9.5,  dec:1},
+  {id:"spo2",  name:"Lowest SpO₂", unit:"%",  better:"higher",before:82,   after:89,   dec:0},
+  {id:"epw",   name:"Epworth Sleepiness", unit:"/24", better:"lower", before:14, after:7, dec:0},
+  {id:"cbct",  name:"CBCT min airway area", unit:"mm²", better:"higher", before:42, after:78, dec:0},
+];
+const SEV = [
+  {max:5,  label:"Normal",   color:"var(--band-normal)"},
+  {max:15, label:"Mild",     color:"var(--band-mild)"},
+  {max:30, label:"Moderate", color:"var(--band-mod)"},
+  {max:1e9,label:"Severe",   color:"var(--band-sev)"},
+];
+const ARROW_DOWN='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M6 13l6 6 6-6"/></svg>';
+const ARROW_UP  ='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M6 11l6-6 6 6"/></svg>';
+const DASH      ='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M5 12h14"/></svg>';
+
+const fmt=(v,d)=> (v==null||isNaN(v))?"—":Number(v).toFixed(d);
+function sevOf(v){for(const b of SEV){if(v<b.max)return b;}return SEV[SEV.length-1];}
+function assess(m){
+  const {before:b,after:a,better}=m;
+  if(b==null||a==null||isNaN(b)||isNaN(a)) return {cls:"flat",word:"—",icon:DASH,pct:null};
+  const pct = b===0 ? null : ((a-b)/Math.abs(b))*100;
+  const improved = better==="lower" ? a<b : a>b;
+  const worse    = better==="lower" ? a>b : a<b;
+  const down = a<b;
+  if(Math.abs(a-b)<1e-9) return {cls:"flat",word:"No change",icon:DASH,pct:0,down};
+  return {cls: improved?"good":"warn", word: improved?"Improved":"Worse",
+          icon: down?ARROW_DOWN:ARROW_UP, pct, down};
+}
+
+function render(){
+  const grid=document.getElementById("grid"); grid.innerHTML="";
+  METRICS.forEach(m=>{
+    const st=assess(m);
+    const scale=Math.max(m.before||0,m.after||0,1e-6)*1.18;
+    const wB=Math.max((m.before||0)/scale*100,0), wA=Math.max((m.after||0)/scale*100,0);
+    const pctTxt = st.pct==null?"":`${st.pct>0?"+":""}${st.pct.toFixed(0)}%`;
+    let sevHtml="";
+    if(m.severity){
+      const sb=sevOf(m.before), sa=sevOf(m.after);
+      sevHtml=`<div class="sev"><b>Severity:</b>
+        <span><i class="sw" style="background:${sb.color}"></i>${sb.label}</span>
+        <span style="color:var(--ink-3)">→</span>
+        <span><i class="sw" style="background:${sa.color}"></i>${sa.label}</span></div>`;
+    }
+    const card=document.createElement("div"); card.className="card";
+    card.innerHTML=`
+      <h3>${m.name} <span class="unit">${m.unit}</span>
+        <span class="dir">${m.better==="lower"?"↓ lower is better":"↑ higher is better"}</span></h3>
+      <div class="bars">
+        <div class="barrow"><span class="tag">Before</span>
+          <div class="track"><div class="fill before" style="width:${wB}%" title="Before: ${fmt(m.before,m.dec)} ${m.unit}"></div></div>
+          <span class="val" style="color:var(--before)">${fmt(m.before,m.dec)}</span></div>
+        <div class="barrow"><span class="tag">After</span>
+          <div class="track"><div class="fill after" style="width:${wA}%" title="After: ${fmt(m.after,m.dec)} ${m.unit}"></div></div>
+          <span class="val" style="color:var(--after)">${fmt(m.after,m.dec)}</span></div>
+      </div>
+      ${sevHtml}
+      <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+        <span class="chip ${st.cls}">${st.icon}<span>${st.word}${pctTxt?` · ${pctTxt}`:""}</span></span>
+      </div>
+      <div class="inputs">
+        <label class="f"><span class="dot before"></span><span>Before</span>
+          <input type="number" step="any" data-id="${m.id}" data-k="before" value="${m.before}"></label>
+        <label class="f"><span class="dot after"></span><span>After</span>
+          <input type="number" step="any" data-id="${m.id}" data-k="after" value="${m.after}"></label>
+      </div>`;
+    grid.appendChild(card);
+  });
+  renderHeadline();
+  grid.querySelectorAll("input").forEach(inp=>inp.addEventListener("input",e=>{
+    const m=METRICS.find(x=>x.id===e.target.dataset.id);
+    const raw=e.target.value; m[e.target.dataset.k]= raw===""?null:parseFloat(raw);
+    render();
+  }));
+}
+
+function renderHeadline(){
+  const m=METRICS[0]; const st=assess(m); const h=document.getElementById("headline");
+  const sb=sevOf(m.before), sa=sevOf(m.after);
+  const pctTxt = st.pct==null?"":`${st.pct>0?"+":""}${st.pct.toFixed(0)}%`;
+  const move = (m.before!=null&&m.after!=null&&!isNaN(m.before)&&!isNaN(m.after))
+    ? `${sb.label} → ${sa.label}` : "—";
+  h.innerHTML=`
+    <div class="big">${m.name} <span class="delta" style="color:var(--after)">${fmt(m.before,m.dec)} → ${fmt(m.after,m.dec)}</span></div>
+    <div class="move">Severity band: <b style="color:var(--ink-1)">${move}</b></div>
+    <span class="chip ${st.cls} pill">${st.icon}<span>${st.word}${pctTxt?` · ${pctTxt}`:""}</span></span>`;
+}
+
+// theme toggle
+const root=document.documentElement;
+document.getElementById("themeBtn").addEventListener("click",()=>{
+  const cur=root.getAttribute("data-theme")
+    || (matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");
+  root.setAttribute("data-theme", cur==="dark"?"light":"dark");
+});
+render();
+</script>
+</body>
+</html>
