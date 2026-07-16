@@ -727,3 +727,12 @@ the **Unsubluxated Structural Breathing System** progression. Claude's earlier
   ventilation or respiration; a body breathes") REQUIRED for patient/MD/DDS/
   industry/ad copy (red line §5: no over-spiritualizing medical copy, no
   knocking devices). "A body breathes" is the safe through-line for both.
+
+---
+
+## 19. How Robert wants Claude to write (2026-07-16)
+
+- Use simple, plain English (about 5th-grade level).
+- Use the fewest words possible.
+- Say clearly: what I did, or what I want him to do.
+- Avoid long sentences, jargon, and packed parentheses.
