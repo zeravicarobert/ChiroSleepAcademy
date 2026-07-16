@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>CSA Foundations Workbook v1.1</title>
+<style>
+  :root{
+    --navy:#22304a; --navy-2:#3a4d6e; --accent:#2f6f8f;
+    --ink:#1b1d21; --ink-2:#474c54; --ink-3:#767b84;
+    --rule:#d9dce1; --rule-2:#c3c8d0; --soft:#eef2f6; --soft-line:#c9d2dc;
+    --serif:Georgia,"Iowan Old Style",'Times New Roman',serif;
+    --sans:-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);line-height:1.6;font-size:11.4pt;background:#fff}
+  .page{padding:0 4mm}
+  p{margin:0 0 10px}
+  strong{font-weight:650}
+  em{color:var(--ink-2)}
+  a{color:var(--accent)}
+
+  /* Cover */
+  .cover{min-height:246mm;display:flex;flex-direction:column;justify-content:center;
+    padding:0 8mm;break-after:page}
+  .cover .kicker{font-size:11pt;letter-spacing:.28em;text-transform:uppercase;color:var(--accent);font-weight:700}
+  .cover h1{font-family:var(--serif);font-size:40pt;line-height:1.05;margin:14px 0 6px;color:var(--navy);letter-spacing:-.01em}
+  .cover .wb{font-family:var(--serif);font-size:20pt;color:var(--ink-2);font-style:italic;margin:0 0 30px}
+  .cover .who{font-size:12pt;color:var(--ink);line-height:1.7}
+  .cover .who b{color:var(--navy)}
+  .cover .barrule{height:3px;width:80px;background:var(--accent);margin:24px 0}
+  .howbox{margin-top:30px;border:1px solid var(--rule-2);border-left:4px solid var(--accent);
+    border-radius:6px;padding:16px 20px;background:var(--soft)}
+  .howbox h4{margin:0 0 8px;font-size:10.5pt;letter-spacing:.1em;text-transform:uppercase;color:var(--navy)}
+  .howbox ul{margin:0;padding-left:18px} .howbox li{margin:3px 0;color:var(--ink-2)}
+
+  h2{font-family:var(--serif);font-size:19pt;color:var(--navy);margin:0 0 4px;letter-spacing:-.01em;line-height:1.15}
+  .sec-eyebrow{font-size:9.5pt;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:2px}
+  .sec{padding-top:6mm;break-inside:avoid-page}
+  .sec-head{border-bottom:2px solid var(--navy);padding-bottom:8px;margin-bottom:14px}
+  h3{font-size:12pt;color:var(--navy-2);margin:16px 0 4px;font-weight:700}
+  .lead-q{font-family:var(--serif);font-style:italic;font-size:13pt;color:var(--accent);margin:0 0 12px}
+
+  .reflect{margin:16px 0 8px;border:1px solid var(--rule-2);border-radius:6px;background:var(--soft);
+    padding:14px 18px;break-inside:avoid}
+  .reflect h4{margin:0 0 4px;font-size:10pt;letter-spacing:.1em;text-transform:uppercase;color:var(--navy)}
+  .reflect .q{color:var(--ink);margin:0 0 10px;font-weight:600}
+  .writeline{height:15px;border-bottom:1px solid var(--soft-line);margin:0 0 9px}
+
+  .divider{height:1px;background:var(--rule);margin:18px 0}
+  .foot{position:running(footer)}
+  .pagebreak{break-before:page}
+
+  /* Figures */
+  figure{margin:0;break-inside:avoid;break-before:page;padding-top:6mm}
+  figure.first{break-before:auto}
+  figcaption{font-size:10.5pt;color:var(--ink-2);text-align:center;margin:6px auto 18px;max-width:150mm}
+  .figtitle{font-family:var(--serif);font-weight:700;font-size:13pt;color:var(--navy);text-align:center;margin:0 0 3px}
+  svg{display:block;margin:0 auto;max-width:100%;height:auto}
+  .apex-note{font-size:10.5pt;color:var(--ink-2);max-width:160mm;margin:0 auto 14px}
+
+  @page{size:Letter;margin:16mm 15mm 18mm}
+  @media print{ body{font-size:11pt} .cover{min-height:236mm} }
+</style>
+</head>
+<body>
+
+<!-- ===== COVER ===== -->
+<section class="cover">
+  <div class="kicker">Chiropractic Sleep Academy®</div>
+  <h1>Foundations<br>Workbook</h1>
+  <div class="wb">An orientation to sleep &amp; airway as structural problems.</div>
+  <div class="barrule"></div>
+  <div class="who">
+    <b>Dr. Robert Zeravica, DC</b><br>
+    Chiropractic Sleep Academy®<br>
+    www.ChiropracticSleepAcademy.net<br>
+    <span style="color:var(--ink-3)">Version 1.1</span>
+  </div>
+  <div class="howbox">
+    <h4>How to use this workbook</h4>
+    <ul>
+      <li>This workbook is an orientation, not a protocol</li>
+      <li>It is meant to provoke structural thinking</li>
+      <li>Answers may change as understanding deepens</li>
+      <li>Revisit after the lecture and discussion</li>
+      <li>Keep notes in the margins</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ===== SECTION 1 ===== -->
+<section class="sec page">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 1</div>
+    <h2>Orientation — Why This Matters</h2>
+  </div>
+  <h3>Why is sleep and airway a Chiropractic problem?</h3>
+  <p>Above–Down, Inside–Out (ADIO) has been a foundational principle of
+  Chiropractic for nearly 130 years. In everyday clinical practice, however, ADIO
+  has most often been applied from the spine down, with pain serving as the
+  primary point of entry. This workbook proposes an expanded framework — <strong>ADIO
+  from the skull down</strong> — beginning with sleep and airway.</p>
+  <p>This perspective moves Chiropractic beyond a narrow musculoskeletal focus and
+  toward a function-centered model that prioritizes how the body adapts, regulates,
+  and restores itself. Using the Triad of Health concept, this approach begins with
+  sleep and airway as expressions of <strong>neurological and rhythmic
+  regulation</strong>, then considers inflammation and biochemistry, and finally
+  addresses structural alignment.</p>
+  <p>By starting with sleep and airway, clinical evaluation shifts toward the
+  conditions that allow the nervous system and body to recover, adapt, and
+  coordinate function.</p>
+  <p>This workbook is designed to provide orientation to sleep and airway as
+  structural issues, creating awareness of patterns many Doctors of Chiropractic
+  already observe but have not yet named.</p>
+  <div class="reflect">
+    <h4>Reflection</h4>
+    <p class="q">What sleep-related issues do you already see in practice? Where do
+    you feel undertrained or uncertain?</p>
+    <div class="writeline"></div><div class="writeline"></div><div class="writeline"></div>
+  </div>
+</section>
+
+<!-- ===== WHY CSA EXISTS ===== -->
+<section class="sec">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Founder's Note</div>
+    <h2>Why CSA Exists</h2>
+  </div>
+  <p>CSA did not begin as a business idea. It began as a pattern I could not
+  ignore.</p>
+  <p>Early in practice, patients began reporting something unexpected — their sleep
+  improved after their first structural adjustment. Not after weeks of care. Not
+  after protocols. After a single structural intervention.</p>
+  <p>At first, I dismissed it as coincidence. But the feedback persisted. That
+  feedback led me into the sleep world — conferences, conversations, and clinical
+  environments outside traditional Chiropractic spaces. What I found was not bad
+  medicine, but incomplete thinking. Sleep was being measured, managed, and
+  medicated, yet the full-body biomechanics that support airway stability were
+  largely absent from the conversation.</p>
+  <p>At the same time, I noticed something else: when Chiropractors stepped into
+  sleep, the value of their work changed. Not because sleep was "hot," but because
+  it was important — and under-claimed. In a field still being defined, pioneers
+  were setting both standards and prices.</p>
+  <h3>CSA exists to do two things at once</h3>
+  <p>Elevate the Doctor of Chiropractic into a clinically legitimate role in sleep
+  and airway, and address one of the most serious, under-treated problems in
+  modern health. This Academy is not about techniques. It is about
+  <strong>responsibility</strong> — and the structural thinking required to carry
+  it.</p>
+  <h3>What this workbook is designed to do</h3>
+  <p>It supports three shifts that many Doctors of Chiropractic sense, but have not
+  yet been given language for:</p>
+  <p><strong>A mental reframe</strong> — understanding sleep not as a collection of
+  symptoms, but as a structural and biomechanical process.<br>
+  <strong>A professional reframe</strong> — recognizing that Chiropractic belongs
+  in the sleep and airway conversation, not as an adjunct, but as a structurally
+  competent discipline.<br>
+  <strong>A career reframe</strong> — acknowledging that this work matters, remains
+  underclaimed, and requires a higher level of clinical responsibility.</p>
+</section>
+
+<!-- ===== SECTION 2 ===== -->
+<section class="sec pagebreak">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 2</div>
+    <h2>The Failure of the Current Model</h2>
+  </div>
+  <p class="lead-q">The issue is not bad intentions — it is an incomplete model.</p>
+  <p>Sleep is largely treated as a medical problem rather than a structural one.
+  Airway care is fragmented across MDs, dentists, ENTs, and sleep laboratories,
+  with each discipline addressing a portion of the problem but rarely the whole
+  patient. As a result, no single provider consistently evaluates how structure,
+  posture, and biomechanics contribute to sleep dysfunction.</p>
+  <p>This fragmentation leads to symptom-first thinking. Snoring is treated as
+  noise rather than collapse. Fatigue is approached as a chemical or psychological
+  issue instead of a mechanical inefficiency. Apnea is reduced to an event count,
+  while the structural failure that allows the airway to collapse is often left
+  unexplored. Symptoms are managed, but the question of <em>why</em> the airway
+  fails is frequently overlooked.</p>
+  <p>Within this model, equipment becomes the primary solution. CPAP is commonly
+  positioned as a default rather than a last resort. For many patients CPAP is
+  effective, first-line medicine; the concern here is not the device but the
+  absence of a structural evaluation around it. Oral appliances may be prescribed
+  without a global structural assessment. While these devices can manage airflow,
+  they do not address the underlying structure, and long-term compliance challenges
+  are often normalized rather than examined.</p>
+  <p>A major limitation of the current approach is the lack of meaningful
+  structural evaluation. The skull is rarely assessed as a living, moving
+  structure. The maxillae, palatine bones, and sphenoid are often ignored. Pelvic
+  mechanics and posture are disconnected from airway thinking. Breathing is viewed
+  as a pulmonary process rather than a biomechanical one involving the entire axial
+  system.</p>
+  <p>Within this environment, Chiropractic is frequently marginalized. Doctors of
+  Chiropractic are trained to adjust, but not consistently trained to evaluate
+  airway as a structural system. Sleep is rarely emphasized in Chiropractic
+  education, even though Chiropractors routinely encounter patients with
+  sleep-related complaints. Many recognize the signs but lack a framework to name
+  and organize what they are observing, allowing referral patterns to replace
+  responsibility.</p>
+  <p>Finally, the current model suffers from measurement blind spots. Emphasis is
+  placed on numerical metrics such as the Apnea–Hypopnea Index (AHI), while patient
+  experience is underweighted. Daytime fatigue, brain fog, anxiety, and overall
+  quality of life often receive less attention. Structural change is rarely
+  tracked, even though it may be central to long-term improvement.</p>
+  <div class="reflect">
+    <h4>Reflection</h4>
+    <p class="q">Where do you currently refer sleep cases — and why?</p>
+    <div class="writeline"></div><div class="writeline"></div><div class="writeline"></div>
+  </div>
+</section>
+
+<!-- ===== SECTION 3 ===== -->
+<section class="sec">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 3</div>
+    <h2>Chiropractic's Missing Framework</h2>
+  </div>
+  <p>Chiropractic has always emphasized the principle that structure governs
+  function, yet airway has not been consistently integrated into this structural
+  worldview. While Doctors of Chiropractic are trained to assess and influence
+  biomechanics, airway is often approached as a localized issue rather than as a
+  global structural system.</p>
+  <p>In many clinical settings, airway is reduced to the jaw, tongue, or soft
+  tissues. The skull is treated as static rather than dynamic, and its relationship
+  to cervical alignment, thoracic posture, and pelvic mechanics is rarely explored.
+  Breathing is commonly framed in terms of respiratory chemistry, while the
+  biomechanical coordination required to maintain airway patency is overlooked.</p>
+  <p>As a result, many Doctors of Chiropractic recognize airway-related patterns in
+  their patients but lack a shared framework to organize those observations.
+  Without a common language or model, clinical insights remain isolated, evaluation
+  becomes inconsistent, and confidence in addressing airway-related issues is
+  diminished.</p>
+  <p>What is missing is not intent or skill, but a coherent structural framework —
+  one that connects airway, posture, and biomechanics into a unified clinical
+  perspective.</p>
+  <div class="reflect">
+    <h4>Reflection</h4>
+    <p class="q">Which structures do you currently assess that may influence airway?</p>
+    <div class="writeline"></div><div class="writeline"></div><div class="writeline"></div>
+  </div>
+</section>
+
+<!-- ===== SECTION 4 ===== -->
+<section class="sec pagebreak">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 4</div>
+    <h2>The CSA Perspective (High Level)</h2>
+  </div>
+  <p>The Chiropractic Sleep Academy was developed in response to the need for a
+  coherent, structural approach to sleep and airway. Rather than offering isolated
+  techniques or episodic training, CSA is organized as a progressive learning model
+  that begins with foundational concepts and advances toward clinical application
+  over time.</p>
+  <p>Within CSA, airway is approached as a biomechanical system integrated with
+  posture, structure, and function. Emphasis is placed on understanding
+  relationships before applying interventions, allowing clinical decisions to
+  emerge from clarity rather than protocol.</p>
+  <p>This approach recognizes that mastery cannot be achieved in a weekend seminar.
+  Meaningful clinical confidence develops through repetition, reflection, and
+  refinement. CSA is intentionally designed as an ongoing educational environment,
+  supporting Doctors of Chiropractic as their understanding deepens and their
+  clinical reasoning matures.</p>
+  <div class="reflect">
+    <h4>Reflection</h4>
+    <p class="q">What would change in your practice if airway evaluation was
+    systematic rather than incidental?</p>
+    <div class="writeline"></div><div class="writeline"></div><div class="writeline"></div>
+  </div>
+</section>
+
+<!-- ===== SECTION 5 ===== -->
+<section class="sec">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 5</div>
+    <h2>Clinical Thinking Shift</h2>
+  </div>
+  <p>When airway and sleep are viewed through a structural lens, familiar clinical
+  findings begin to take on new meaning. Snoring is no longer understood simply as
+  noise, but as evidence of airway instability. Fatigue is reframed from a purely
+  chemical or psychological issue to a sign of mechanical inefficiency. Apnea is
+  seen not merely as an event count, but as a structural collapse occurring under
+  physiological load.</p>
+  <p>This shift in perspective alters how clinical information is interpreted. Mouth
+  breathing may be recognized as a compensatory pattern rather than a habit. Poor
+  sleep becomes an indicator of reduced structural adaptability. Daytime symptoms
+  are understood as reflections of nighttime biomechanics.</p>
+  <p>As these interpretations change, so does clinical curiosity. Patterns that once
+  appeared unrelated begin to organize around structure, posture, and function. The
+  need for a coherent framework becomes apparent — not to replace clinical
+  judgment, but to support it.</p>
+  <div class="reflect">
+    <h4>Reflection</h4>
+    <p class="q">What diagnosis or clinical assumption might you reconsider after
+    today's lecture?</p>
+    <div class="writeline"></div><div class="writeline"></div><div class="writeline"></div>
+  </div>
+</section>
+
+<!-- ===== SECTION 6 ===== -->
+<section class="sec pagebreak">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 6</div>
+    <h2>Case Reflection</h2>
+  </div>
+  <p>Consider a patient commonly seen in Chiropractic practice. They may present
+  with chronic fatigue, unrefreshing sleep, headaches, or neck and upper thoracic
+  tension. Snoring may be reported but is often minimized. Sleep quality is
+  discussed briefly, if at all, and attention is typically directed toward daytime
+  symptoms.</p>
+  <p>Despite appropriate care, progress may plateau. Symptoms improve temporarily
+  but return. The patient continues to report low energy, difficulty concentrating,
+  or persistent discomfort. Structural findings are present, yet their relationship
+  to sleep and airway is not fully explored.</p>
+  <p>When viewed through a structural airway lens, this familiar clinical picture
+  takes on new meaning. What once appeared as a collection of unrelated complaints
+  begins to organize around nighttime biomechanics and airway stability. The
+  clinical question shifts from <em>"What symptom should be addressed next?"</em> to
+  <em>"What is failing to adapt during sleep?"</em></p>
+  <div class="reflect">
+    <h4>Reflection</h4>
+    <p class="q">Who in your practice fits this description — including yourself?</p>
+    <div class="writeline"></div><div class="writeline"></div><div class="writeline"></div>
+  </div>
+</section>
+
+<!-- ===== SECTION 7 ===== -->
+<section class="sec">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 7</div>
+    <h2>What CSA Actually Is</h2>
+  </div>
+  <p>CSA supports a shift in clinical mindset while providing a structural framework
+  for evaluating sleep and airway.</p>
+  <p>The Chiropractic Sleep Academy is an educational framework designed to support
+  Doctors of Chiropractic in developing a coherent understanding of sleep and
+  airway through a structural lens. It is not a technique, device, or protocol, and
+  it does not replace clinical judgment or professional responsibility.</p>
+  <p>CSA emphasizes foundational concepts before clinical application. Its purpose
+  is to organize thinking, improve evaluation, and support clinical reasoning over
+  time. Rather than offering isolated solutions, CSA provides an environment for
+  ongoing learning, reflection, and refinement.</p>
+  <p>The Academy is intentionally designed as a continuum. As understanding deepens,
+  clinical confidence grows — not through the accumulation of techniques, but
+  through clarity of perspective. CSA exists to support Doctors of Chiropractic who
+  recognize the importance of airway and sleep and who wish to approach these issues
+  with structural coherence and professional integrity.</p>
+  <p>CSA is intentionally quiet. Its purpose is not to compete for attention, but to
+  support clinical responsibility.</p>
+</section>
+
+<!-- ===== SECTION 8 ===== -->
+<section class="sec">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Section 8</div>
+    <h2>Invitation</h2>
+  </div>
+  <p>The Chiropractic Sleep Academy provides orientation that creates awareness, a
+  structural framework that shapes clinical mindset, and anatomical, sleep, and
+  airway science that supports responsible application.</p>
+  <p>This workbook serves as an introduction to the concepts presented during
+  today's lecture. It is not intended to be comprehensive, but to provide
+  orientation and context for continued exploration.</p>
+  <p>For Doctors of Chiropractic who recognize the relevance of sleep and airway in
+  clinical practice, and who wish to develop a structured, biomechanical approach to
+  these issues, further education is available through the Chiropractic Sleep
+  Academy.</p>
+  <p>Participation in CSA is optional and self-directed. It is designed for those
+  who value foundational understanding, ongoing learning, and thoughtful clinical
+  integration. Information regarding CSA and future educational offerings will be
+  provided separately.</p>
+  <div class="reflect">
+    <h4>Reflection</h4>
+    <p class="q">What would you want to understand first if you chose to continue
+    this learning?</p>
+    <div class="writeline"></div><div class="writeline"></div><div class="writeline"></div>
+  </div>
+  <div class="divider"></div>
+  <p style="font-size:10pt;color:var(--ink-3)"><strong>Foundations Workbook
+  (v1.1)</strong> — Contact &amp; Further Information: Information about the
+  Chiropractic Sleep Academy, upcoming lectures, and educational offerings will be
+  shared separately. Professional inquiries welcome.</p>
+</section>
+
+<!-- ===== APPENDIX A ===== -->
+<section class="sec pagebreak">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Appendix A</div>
+    <h2>Foundational Diagrams</h2>
+  </div>
+  <p class="apex-note">The following diagrams are visual companions to the concepts
+  in this workbook. They are not protocols, but conceptual models intended to
+  support structural thinking and discussion.</p>
+
+  <!-- FIG 1 -->
+  <figure class="first">
+    <div class="figtitle">Figure 1 — ADIO: Skull-Down Structural Organization</div>
+    <figcaption>The Chiropractic principle of Above–Down, Inside–Out applied from
+    the skull down, with sleep and airway as primary expressions of neurological and
+    biomechanical regulation.</figcaption>
+    <svg viewBox="0 0 520 430" role="img" aria-label="Skull-down structural chain">
+      <defs>
+        <marker id="ar" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M0 0 L10 5 L0 10 z" fill="#3a4d6e"/>
+        </marker>
+      </defs>
+      <!-- boxes -->
+      <g font-family="Georgia, serif">
+        <g>
+          <rect x="70" y="14" width="230" height="72" rx="6" fill="#f4f7fa" stroke="#22304a" stroke-width="1.4"/>
+          <text x="84" y="38" font-size="15" font-weight="700" fill="#22304a">SKULL / CRANIAL BASE</text>
+          <text x="84" y="57" font-size="11.5" fill="#474c54" font-family="-apple-system,sans-serif">• Airway aperture</text>
+          <text x="84" y="72" font-size="11.5" fill="#474c54" font-family="-apple-system,sans-serif">• Cranial motion  • Palate</text>
+        </g>
+        <g>
+          <rect x="70" y="120" width="230" height="56" rx="6" fill="#fff" stroke="#22304a" stroke-width="1.4"/>
+          <text x="84" y="144" font-size="15" font-weight="700" fill="#22304a">CERVICAL SPINE</text>
+          <text x="84" y="162" font-size="11.5" fill="#474c54" font-family="-apple-system,sans-serif">Neuromechanical coordination</text>
+        </g>
+        <g>
+          <rect x="70" y="210" width="230" height="56" rx="6" fill="#fff" stroke="#22304a" stroke-width="1.4"/>
+          <text x="84" y="234" font-size="15" font-weight="700" fill="#22304a">THORACIC SPINE / RIB CAGE</text>
+          <text x="84" y="252" font-size="11.5" fill="#474c54" font-family="-apple-system,sans-serif">Respiratory mechanics</text>
+        </g>
+        <g>
+          <rect x="70" y="300" width="230" height="56" rx="6" fill="#fff" stroke="#22304a" stroke-width="1.4"/>
+          <text x="84" y="324" font-size="15" font-weight="700" fill="#22304a">PELVIS</text>
+          <text x="84" y="342" font-size="11.5" fill="#474c54" font-family="-apple-system,sans-serif">Postural base • Load transfer</text>
+        </g>
+        <!-- arrows -->
+        <line x1="185" y1="86" x2="185" y2="118" stroke="#3a4d6e" stroke-width="2" marker-end="url(#ar)"/>
+        <line x1="185" y1="176" x2="185" y2="208" stroke="#3a4d6e" stroke-width="2" marker-end="url(#ar)"/>
+        <line x1="185" y1="266" x2="185" y2="298" stroke="#3a4d6e" stroke-width="2" marker-end="url(#ar)"/>
+        <!-- right bracket labels -->
+        <g font-family="-apple-system,sans-serif" fill="#2f6f8f" font-size="12" font-weight="600">
+          <line x1="320" y1="18" x2="320" y2="172" stroke="#c3c8d0" stroke-width="1.4"/>
+          <line x1="315" y1="18" x2="320" y2="18" stroke="#c3c8d0" stroke-width="1.4"/>
+          <line x1="315" y1="172" x2="320" y2="172" stroke="#c3c8d0" stroke-width="1.4"/>
+          <text x="332" y="99">Airway stability</text>
+          <line x1="320" y1="182" x2="320" y2="262" stroke="#c3c8d0" stroke-width="1.4"/>
+          <line x1="315" y1="182" x2="320" y2="182" stroke="#c3c8d0" stroke-width="1.4"/>
+          <line x1="315" y1="262" x2="320" y2="262" stroke="#c3c8d0" stroke-width="1.4"/>
+          <text x="332" y="226">Breathing efficiency</text>
+          <line x1="320" y1="272" x2="320" y2="356" stroke="#c3c8d0" stroke-width="1.4"/>
+          <line x1="315" y1="272" x2="320" y2="272" stroke="#c3c8d0" stroke-width="1.4"/>
+          <line x1="315" y1="356" x2="320" y2="356" stroke="#c3c8d0" stroke-width="1.4"/>
+          <text x="332" y="318">Neurological recovery</text>
+        </g>
+      </g>
+    </svg>
+  </figure>
+
+  <!-- FIG 2 -->
+  <figure>
+    <div class="figtitle">Figure 2 — The Fragmented Sleep Model</div>
+    <figcaption>A failure of structural evaluation: current sleep treatment is
+    fragmented and uncoupled from structural assessment.</figcaption>
+    <svg viewBox="0 0 520 400" role="img" aria-label="Fragmented sleep model">
+      <g font-family="-apple-system,sans-serif">
+        <!-- center -->
+        <circle cx="260" cy="200" r="66" fill="#eef2f6" stroke="#2f6f8f" stroke-width="1.4" stroke-dasharray="5 4"/>
+        <text x="260" y="194" text-anchor="middle" font-size="16" font-weight="800" fill="#22304a" font-family="Georgia,serif">STRUCTURE</text>
+        <text x="260" y="212" text-anchor="middle" font-size="10.5" fill="#474c54">Structure, posture,</text>
+        <text x="260" y="226" text-anchor="middle" font-size="10.5" fill="#474c54">biomechanics</text>
+        <!-- corner boxes -->
+        <g>
+          <rect x="30" y="40" width="180" height="58" rx="5" fill="#fff" stroke="#22304a" stroke-width="1.2"/>
+          <text x="44" y="62" font-size="13" font-weight="700" fill="#22304a">MEDICAL DOCTOR</text>
+          <text x="44" y="80" font-size="10.5" fill="#474c54">• Snoring  • CPAP / medications</text>
+        </g>
+        <g>
+          <rect x="310" y="40" width="180" height="58" rx="5" fill="#fff" stroke="#22304a" stroke-width="1.2"/>
+          <text x="324" y="62" font-size="13" font-weight="700" fill="#22304a">ENT</text>
+          <text x="324" y="80" font-size="10.5" fill="#474c54">• Snoring  • Surgery / medications</text>
+        </g>
+        <g>
+          <rect x="30" y="302" width="180" height="58" rx="5" fill="#fff" stroke="#22304a" stroke-width="1.2"/>
+          <text x="44" y="324" font-size="13" font-weight="700" fill="#22304a">DENTIST</text>
+          <text x="44" y="342" font-size="10.5" fill="#474c54">• Snoring  • Oral appliances</text>
+        </g>
+        <g>
+          <rect x="310" y="302" width="180" height="58" rx="5" fill="#fff" stroke="#22304a" stroke-width="1.2"/>
+          <text x="324" y="324" font-size="13" font-weight="700" fill="#22304a">SLEEP LABORATORY</text>
+          <text x="324" y="342" font-size="10.5" fill="#474c54">• Testing</text>
+        </g>
+        <!-- dashed connectors to center -->
+        <g stroke="#9aa4b2" stroke-width="1.3" stroke-dasharray="4 4">
+          <line x1="176" y1="98" x2="212" y2="158"/>
+          <line x1="344" y1="98" x2="308" y2="158"/>
+          <line x1="176" y1="302" x2="212" y2="242"/>
+          <line x1="344" y1="302" x2="308" y2="242"/>
+        </g>
+        <rect x="120" y="372" width="280" height="0.1" />
+        <rect x="96" y="372" width="328" height="22" rx="4" fill="none" stroke="#c3c8d0" stroke-width="1.1" stroke-dasharray="4 4"/>
+        <text x="260" y="387" text-anchor="middle" font-size="11" fill="#474c54">No central evaluator of structure, posture, and biomechanics</text>
+      </g>
+    </svg>
+  </figure>
+
+  <!-- FIG 3 (CORRECTED) -->
+  <figure>
+    <div class="figtitle">Figure 3 — Fragmented vs. Integrated Airway Care</div>
+    <figcaption>Discipline-specific airway management contrasted with an integrated,
+    structural approach that evaluates the patient as one biomechanical system.</figcaption>
+    <svg viewBox="0 0 560 340" role="img" aria-label="Fragmented versus integrated care">
+      <defs>
+        <marker id="ar2" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M0 0 L10 5 L0 10 z" fill="#2f6f8f"/>
+        </marker>
+      </defs>
+      <g font-family="-apple-system,sans-serif" font-size="11">
+        <!-- LEFT: fragmented -->
+        <text x="130" y="20" text-anchor="middle" font-size="13" font-weight="700" fill="#22304a" font-family="Georgia,serif">Fragmented Care Model</text>
+        <g stroke="#22304a" stroke-width="1.1" fill="#fff">
+          <rect x="34" y="40" width="80" height="34" rx="4"/>
+          <rect x="146" y="40" width="80" height="34" rx="4"/>
+          <rect x="34" y="220" width="80" height="34" rx="4"/>
+          <rect x="146" y="220" width="80" height="34" rx="4"/>
+        </g>
+        <g fill="#22304a" font-weight="700" text-anchor="middle">
+          <text x="74" y="61">MD</text><text x="186" y="61">ENT</text>
+          <text x="74" y="241">Sleep Lab</text><text x="186" y="241">Dentist</text>
+        </g>
+        <ellipse cx="130" cy="147" rx="58" ry="34" fill="#e7ebf0" stroke="#9aa4b2" stroke-width="1.1" stroke-dasharray="4 4"/>
+        <text x="130" y="143" text-anchor="middle" font-size="10.5" fill="#474c54">Sleep &amp; Airway</text>
+        <text x="130" y="157" text-anchor="middle" font-size="10.5" fill="#474c54">Care</text>
+        <g stroke="#9aa4b2" stroke-width="1.1" stroke-dasharray="4 4">
+          <line x1="86" y1="74" x2="104" y2="116"/><line x1="174" y1="74" x2="156" y2="116"/>
+          <line x1="86" y1="220" x2="104" y2="178"/><line x1="174" y1="220" x2="156" y2="178"/>
+        </g>
+        <text x="130" y="286" text-anchor="middle" font-size="10" fill="#767b84">Fragmented disciplines addressing</text>
+        <text x="130" y="300" text-anchor="middle" font-size="10" fill="#767b84">a single aspect of the problem</text>
+
+        <!-- arrow between -->
+        <line x1="248" y1="147" x2="292" y2="147" stroke="#2f6f8f" stroke-width="2.4" marker-end="url(#ar2)"/>
+
+        <!-- RIGHT: integrated -->
+        <text x="430" y="20" text-anchor="middle" font-size="13" font-weight="700" fill="#22304a" font-family="Georgia,serif">Integrated Care Model</text>
+        <g stroke="#22304a" stroke-width="1.1" fill="#fff">
+          <rect x="334" y="40" width="80" height="34" rx="4"/>
+          <rect x="446" y="40" width="80" height="34" rx="4"/>
+          <rect x="334" y="220" width="80" height="34" rx="4"/>
+          <rect x="446" y="220" width="80" height="34" rx="4"/>
+        </g>
+        <g fill="#22304a" font-weight="700" text-anchor="middle">
+          <text x="374" y="61">MD</text><text x="486" y="61">ENT</text>
+          <text x="374" y="241">Sleep Lab</text><text x="486" y="241">Dentist</text>
+        </g>
+        <circle cx="430" cy="147" r="42" fill="#2f6f8f"/>
+        <text x="430" y="140" text-anchor="middle" font-size="9.5" font-weight="700" fill="#fff">Chiropractic</text>
+        <text x="430" y="152" text-anchor="middle" font-size="9.5" font-weight="700" fill="#fff">Sleep Academy®</text>
+        <text x="430" y="165" text-anchor="middle" font-size="8" fill="#d7e6ee">Integrated evaluation</text>
+        <g stroke="#2f6f8f" stroke-width="1.4">
+          <line x1="386" y1="74" x2="404" y2="112"/><line x1="474" y1="74" x2="456" y2="112"/>
+          <line x1="386" y1="220" x2="404" y2="182"/><line x1="474" y1="220" x2="456" y2="182"/>
+        </g>
+        <text x="430" y="286" text-anchor="middle" font-size="10" fill="#767b84">Unified, structural approach</text>
+        <text x="430" y="300" text-anchor="middle" font-size="10" fill="#767b84">addressing the whole patient</text>
+
+        <line x1="34" y1="320" x2="526" y2="320" stroke="#d9dce1" stroke-width="1"/>
+        <text x="280" y="336" text-anchor="middle" font-size="11" fill="#2f6f8f" font-weight="600">CSA bridges the gaps in sleep and airway thinking.</text>
+      </g>
+    </svg>
+  </figure>
+
+  <!-- FIG 4 -->
+  <figure>
+    <div class="figtitle">Figure 4 — The Structural Instability Loop</div>
+    <figcaption>How nighttime airway collapse perpetuates daytime symptoms when
+    structural instability is left unaddressed.</figcaption>
+    <svg viewBox="0 0 520 320" role="img" aria-label="Structural instability loop">
+      <defs>
+        <marker id="ar3" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M0 0 L10 5 L0 10 z" fill="#3a4d6e"/>
+        </marker>
+      </defs>
+      <g font-family="-apple-system,sans-serif">
+        <!-- boxes -->
+        <rect x="40" y="110" width="170" height="86" rx="10" fill="#f4f7fa" stroke="#22304a" stroke-width="1.4"/>
+        <text x="125" y="138" text-anchor="middle" font-size="14" font-weight="800" fill="#22304a" font-family="Georgia,serif">NIGHTTIME</text>
+        <text x="125" y="156" text-anchor="middle" font-size="14" font-weight="800" fill="#22304a" font-family="Georgia,serif">COLLAPSE</text>
+        <rect x="310" y="110" width="170" height="86" rx="10" fill="#f4f7fa" stroke="#22304a" stroke-width="1.4"/>
+        <text x="395" y="138" text-anchor="middle" font-size="14" font-weight="800" fill="#22304a" font-family="Georgia,serif">DAYTIME</text>
+        <text x="395" y="156" text-anchor="middle" font-size="14" font-weight="800" fill="#22304a" font-family="Georgia,serif">SYMPTOMS</text>
+        <!-- bullet lists -->
+        <g font-size="10.5" fill="#474c54">
+          <text x="52" y="220">• Airway instability</text>
+          <text x="52" y="236">• Sleep fragmentation</text>
+          <text x="52" y="252">• Sympathetic overdrive</text>
+          <text x="322" y="220">• Headache, dizziness</text>
+          <text x="322" y="236">• Cognitive impairment</text>
+          <text x="322" y="252">• Morning brain fog / tension</text>
+        </g>
+        <!-- top arc: night -> day -->
+        <path d="M205 108 C 240 62, 280 62, 315 108" fill="none" stroke="#3a4d6e" stroke-width="2" marker-end="url(#ar3)"/>
+        <text x="260" y="58" text-anchor="middle" font-size="11" fill="#2f6f8f" font-weight="600">Poor night</text>
+        <!-- bottom arc: day -> night -->
+        <path d="M315 198 C 280 244, 240 244, 205 198" fill="none" stroke="#3a4d6e" stroke-width="2" marker-end="url(#ar3)"/>
+        <text x="260" y="256" text-anchor="middle" font-size="11" fill="#2f6f8f" font-weight="600">Tired day</text>
+      </g>
+    </svg>
+  </figure>
+</section>
+
+</body>
+</html>
