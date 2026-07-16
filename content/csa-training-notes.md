@@ -83,8 +83,29 @@ Presentation idea (Robert): link Cranial Facial Release (CFR) to the brain's
 > literal diagnosis) and it ties straight into the **Awareness-Disruption
 > Model** (awareness → disruption).
 
+> **Companion definition (3-domain, 2026-07-16):** Sleep apnea acts
+> parasitically by imposing a chronic **structural, biochemical, and
+> neurological** load on the body — extracting energy, disrupting recovery, and
+> operating largely **outside conscious awareness until identified and
+> addressed.** (Also publishable; unites the three domains + awareness.)
+
 The deeper (internal / teaching) version below is stronger physiology but riskier
 wording — keep it for DC/teaching, not patient/MD copy.
+
+## Sleep hygiene: phones near the head at night — ⚠️ "5G" framing is a risk
+
+Robert's point: keeping phones away from the head at night supports healthier
+sleep rhythms and reduces unnecessary stimulation, especially in people with
+sleep disorders.
+
+- ✅ **Usable:** the **sleep-hygiene** advice is sound — phone/screens away from
+  the bed and head at night means fewer alerts, less light, calmer rhythm.
+- ⚠️ **High credibility risk:** the **"5G → sleep apnea"** framing. There is
+  **no credible evidence that 5G affects sleep apnea.** Pairing "5G" with "sleep
+  apnea" reads as fringe/conspiracy to the exact MDs and sleep-industry people
+  CSA needs to respect it. For **any** public / patient / clinical copy: **drop
+  the "5G" label**, keep it as general phone/screen sleep hygiene. (Red lines §5:
+  no fringe, no exaggerated evidence, no anti-science.)
 
 Framing (Robert): a parasitic condition in the **liquid domain** repeatedly
 alters blood gases, inflammatory signaling, and metabolic chemistry — forcing
