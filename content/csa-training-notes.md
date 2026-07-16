@@ -113,6 +113,26 @@ the parasite/extractive framing applies **only to the condition/mechanism
 (sleep apnea)** — **never** to people, groups, or politics. Keep it clinical,
 never dehumanizing.
 
+## Structure-domain obstructors (the tissue side of the extractive framework)
+
+Real, evidence-based obstructive tissues in sleep apnea:
+- hypertrophied turbinates
+- enlarged tonsils / adenoids
+- elongated soft palate
+- thickened pharyngeal tissue
+- craniofacial restriction
+
+In the extractive model, these act parasitically by:
+- increasing the **work of breathing**
+- disrupting **airflow**
+- **extracting energy** nightly
+
+*Guardrail:* the anatomy here is **solid and mainstream** — these really do cause
+OSA. But most are the **ENT's and DDS's turf** (turbinate reduction, tonsillectomy,
+palate/soft-tissue surgery). CSA's role is to **recognize and refer / co-manage** —
+the DC works the biomechanical / craniofacial side, not tissue removal. Stay
+collaborative (red lines §5).
+
 ## Sleep apnea as "biochemical parasitism" (liquid-domain model)
 
 > **⭐ Preferred framing (2026-07-16 — publishable, patient-safe):**
