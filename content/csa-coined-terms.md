@@ -17,6 +17,7 @@ separate legal step, see the launch checklist.)
 | **VANI-R** | **Viscerocranial Airway Neurocranial Impulse–Relaxation** (R = Relaxation — shift sympathetic-dominant patients toward parasympathetic). See note ↓. | ⚠️ Uncertain — Robert may drop it (2026-07-16) |
 | **Biomechanical Systems Integration** | The "missing layer" of sleep-apnea care: how jaw/appliance changes affect spine, pelvis, cranium, and load transfer over time — the integration CSA owns between DDS, DC, and device makers. From the white paper. | Defined 2026-07-16 |
 | **Systems Intelligence** | Robert's DC-philosophy concept: the uniting link between **Universal Intelligence** and **Innate Intelligence** (Palmer terms). See note ↓. | ⚠️ DC-register ONLY (2026-07-16) |
+| **Structural Intelligence** | The Operating Doctrine that grounds the CSA Core Policy (§II) — governance by structural law, written policy, defined roles, measured outputs. | ⚠️ Reconcile with "Systems Intelligence" — same idea or distinct? (2026-07-16) |
 
 ---
 
