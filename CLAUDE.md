@@ -709,3 +709,21 @@ decision > older doc); the DC track continues in parallel but secondary.
 - **Does NOT authorize sending the patient email blast.** Still requires:
   (a) Robert's real story in the email, (b) HIPAA/consent + opt-out
   confirmations, (c) an actual send list/mechanism.
+
+### 2026-07-16 — Version ladders + the Breathing Distinction (see `content/csa-framework.md`)
+Two distinct version ladders, never conflate: **Chiropractic X.0** (profession:
+1.0 spine → 2.0 spine+skull → 3.0 telehealth) and **CSA X.0** (academy
+curriculum: 1.0 Anatomy & Physiology → 2.0 Practice Management/Consult-Exam-ROF
+→ 3.0 Sales & Closing; maps to website pillars 1–3). "CSA X.0" now canonically =
+the curriculum ladder; the Master Summary's clinical "CSA 1.0/2.0" is renamed
+the **Unsubluxated Structural Breathing System** progression. Claude's earlier
+"CSA 3.0 = neurofluid" idea is retired.
+- **CSA 1.0** = Anatomy & Physiology of sleep, breathing, airway, and PRI/PRM.
+- **Breathing Distinction (core IP):** *Machines ventilate. Machines respire. A
+  body breathes.* Breathing = living/God-given (Gen 2:7); ventilation = air pump
+  (machines); respiration = gas exchange (machines). **Two registers:**
+  full-voice theological ONLY in book/origin/About/philosophy/DC-faith venues;
+  a **secular twin** ("breathing is a whole-body living function — more than
+  ventilation or respiration; a body breathes") REQUIRED for patient/MD/DDS/
+  industry/ad copy (red line §5: no over-spiritualizing medical copy, no
+  knocking devices). "A body breathes" is the safe through-line for both.
