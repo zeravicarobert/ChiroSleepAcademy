@@ -4,6 +4,18 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — value line (the leverage of credibility + coordination)**
+> I — Dr. Z — through CSA, increase everyone's results before they even start.
+
+*(The payoff of "renting credibility" (`strategy-renting-credibility.md`) + the
+System Convergence Point: association with Dr. Z's authority, framework, and
+coordination lifts a DC's (or partner's) baseline **before any work is done.**
+Strong for DC/partner/positioning copy.*
+*⚠️ Guardrail: keep it a **value/positioning** statement, not a **clinical outcome
+guarantee.** Core Policy §VII = CSA does not guarantee outcomes. So "results" here
+= the DC's credibility, positioning, and coordination advantage — not a promise of
+patient AHI improvement. Don't let it read as "guaranteed better patient results.")*
+
 **2026-07-16 — CSA positioning**
 > CSA occupies the **System Convergence Point.**
 
