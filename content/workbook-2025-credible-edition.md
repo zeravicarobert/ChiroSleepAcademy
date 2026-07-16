@@ -46,11 +46,28 @@ plan structural care, co-manage, and re-evaluate** patients with airway-related
 sleep concerns — restoring structure so sleep, breathing, and function can improve,
 always measured and within scope.
 
-## About the Author *(verify credentials before print)*
-B.S. Business Administration (Pepperdine); Doctor of Chiropractic, LACC (1999);
-active CA license. U.S. Marine Corps NCO — 4th Force Reconnaissance and 3rd ANGLICO
-(Air Naval Gunfire Liaison Company); the liaison/coordination skills now shape his
-interprofessional work. Balloon-instrument trained in CFR and BNS; developer of VAET™.
+## About the Author
+
+**Dr. Robert Zeravica, DC** — Founder, Chiropractic Sleep Academy™ · Developer,
+Viscerocranial Airway Expansion Therapy (VAET™).
+
+- Doctor of Chiropractic — Los Angeles College of Chiropractic (1999); active
+  California license
+- B.S., Business Administration — Pepperdine University
+- 100-hour certification in **Applied Kinesiology** (ICAK)
+- Certified in **Cranial Facial Release (CFR)** and **Bilateral Nasal Specific
+  (BNS)** (balloon-instrument)
+- Certified in **Manipulation Under Anesthesia (MUA)**
+- Certified in **Balancing Body Chemistries** (clinical nutritional supplementation)
+- **Sacro-Occipital Technique (SOT)** — in progress
+- **U.S. Marine Corps** NCO — 4th Force Reconnaissance & 3rd ANGLICO (Air Naval
+  Gunfire Liaison Company)
+
+> **⚠️ Confirm official titles/abbreviations before print.** Verify each
+> certification's exact name and any abbreviation with its certifying body. Note:
+> the Applied Kinesiology credential is the **100-hour ICAK certification** — *not*
+> the DIBAK diplomate. Prefer these spelled-out certifications over a string of
+> acronyms after the name. See `content/credentials-verified.md`.
 
 ---
 
