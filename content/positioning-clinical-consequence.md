@@ -46,6 +46,37 @@ or "if it seems to work, claim it." The evidence/honesty red lines still stand:
 - So: **judge by consequence, report the consequence honestly.** The principle
   raises rigor; it doesn't lower it.
 
+## The philosophical resolution (Robert, 2026-07-16) — why belief doesn't lower the bar
+
+The tension above ("doesn't judge truth claims" vs. "still holds the evidence bar")
+resolves cleanly with one distinction:
+
+> **Belief does not create truth — but belief determines relationship with truth.**
+
+**① Faith register (Robert's book / origin / philosophy / DC-faith venues only):**
+Scripture distinguishes **truth *existing*** from **truth *saving*.** Belief does
+not make truth true. Belief allows truth to **heal, save, reconcile.** So belief
+never creates the truth — it determines whether a person is in a healing
+relationship *with* it.
+
+**② Secular twin (REQUIRED for patient / MD / DDS / public copy):**
+> Measurement establishes what's true. Awareness determines whether a person
+> engages with it and lets it help them.
+
+**How it resolves CSA's shield:**
+- **Truth exists independent of belief** → so CSA still *measures*. Belief (yours,
+  the patient's, the founder's) never makes a claim true. The evidence bar stays.
+- **Belief/awareness determines relationship with the truth** → this is exactly the
+  **Awareness-Disruption Model** (`csa-coined-terms.md`): when a patient becomes
+  *aware* of the structural truth, that awareness changes their relationship to it
+  and may move them to disrupt the pattern. Belief doesn't bend the AHI; it changes
+  whether the patient acts on what the AHI shows.
+- Net: **the measured result is the truth; awareness is the doorway to benefiting
+  from it.** Rigor and belief each keep their lane — which is why the shield holds.
+
+*Register guardrail (CLAUDE.md §18): the Scripture framing stays full-voice only in
+faith/philosophy venues; lead with the secular twin everywhere clinical.*
+
 ## Where to use it
 - A **line in the Core Policy** / doctrine (governance).
 - A **disarming answer** when a skeptic, MD, or rival technique challenges the

@@ -87,6 +87,15 @@ fragmented — CSA doesn't have to convince it there's a problem, just be the
 the System Convergence Point, and "market to decision-makers, infrastructure
 language." Great one-liner for DC/partner/investor decks.)*
 
+**2026-07-16 — ⭐ HERO line, tightest variant**
+> With AI, the future is no longer limited by intelligence — it's limited by the
+> biological systems required to sustain it.
+
+*(The shortest, punchiest version of the hero thesis — good for a headline, a
+slide title, or a social hook. Pairs with the fuller versions below. Same family;
+pick the length by placement: this = headline, credible-register = MD/deck,
+"roof of the mouth = floor of the nose" = landing-page cold open.)*
+
 **2026-07-16 — ⭐ HERO line, scientific/credible register (MD-safe twin)**
 > The future is no longer limited by intelligence — it is limited by the human
 > infrastructure that sustains recovery and performance. Sleep is a foundational
