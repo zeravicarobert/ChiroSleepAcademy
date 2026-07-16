@@ -621,6 +621,10 @@ track** per the canonical doc. **Open question for Robert (unresolved):** is the
 patient/EDD track a deliberate current priority (e.g., as the fastest outcomes-
 data engine using his own patients), or should we re-center on the DC-first
 pathway? Do not send the patient email blast until this is confirmed.
+> **✅ RESOLVED 2026-07-16 — PATIENT-FIRST.** Robert chose the patient track as
+> the current priority / outcomes-data engine. See §18 for the decision and its
+> boundaries. (Still: do not send the blast until story + HIPAA/consent + list
+> are in place.)
 
 ### Terminology / brand (must flow into the website + all copy)
 The Master Summary supplies the real IP language the site docs lack:
@@ -694,3 +698,14 @@ patient to stop prescribed therapy.
 - **Ripples to:** website copy (esp. Pillar 3 messaging), the VAET protocol doc
   (`content/vaet-protocol.md` §5–6, now marked RESOLVED), any DC/DDS/MD-facing
   materials, and future ad copy.
+
+### 2026-07-16 — Priority track: **Patient-first**
+Robert's call: prioritize the direct-to-patient track (his EDD/SDI patient
+base) as the current go-to-market and the outcomes-data engine, ahead of the
+DC-first sequencing in the Master Summary (§11, §24). Rationale fit: his own
+patients are the fastest route to the founding outcomes dataset CSA needs. This
+**overrides the Master Summary's DC-first primacy for now** (owner's current
+decision > older doc); the DC track continues in parallel but secondary.
+- **Does NOT authorize sending the patient email blast.** Still requires:
+  (a) Robert's real story in the email, (b) HIPAA/consent + opt-out
+  confirmations, (c) an actual send list/mechanism.
