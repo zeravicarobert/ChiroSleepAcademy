@@ -145,8 +145,8 @@ or surgery.
 **Ch 12 — The VAET lineage (verify names/dates before print).** Airway-expansion
 cranial work has a real chiropractic lineage: **Stober — Bilateral Nasal Specific
 (BNS)** (nasal-balloon inflation to mobilize cranial/facial bones) → **Dean Howell,
-DC — NeuroCranial Restructuring (NCR)** (body-wide postural integration) → **Adam
-Del Torto, DC — Cranial Facial Release (CFR)** (modern balloon delivery, reproducible
+ND — NeuroCranial Restructuring (NCR)** (a naturopath; body-wide postural
+integration) → **Adam Del Torto, DC — Cranial Facial Release (CFR)** (modern balloon delivery, reproducible
 protocols) → **Robert Zeravica, DC — VAET** (adds SOT/AK pelvic–cranial integration,
 targets the viscerocranium for **sleep and airway**). Contemporary collaborator:
 **Glenn Frieder, DC.** *Honor the lineage; keep claims measured.*
