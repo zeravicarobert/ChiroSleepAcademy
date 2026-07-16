@@ -716,13 +716,23 @@ decision > older doc); the DC track continues in parallel but secondary.
   confirmations, (c) an actual send list/mechanism.
 
 ### 2026-07-16 — Version ladders + the Breathing Distinction (see `content/csa-framework.md`)
-Two distinct version ladders, never conflate: **Chiropractic X.0** (profession:
-1.0 spine → 2.0 spine+skull → 3.0 telehealth) and **CSA X.0** (academy
-curriculum: 1.0 Anatomy & Physiology → 2.0 Practice Management/Consult-Exam-ROF
-→ 3.0 Sales & Closing; maps to website pillars 1–3). "CSA X.0" now canonically =
-the curriculum ladder; the Master Summary's clinical "CSA 1.0/2.0" is renamed
-the **Unsubluxated Structural Breathing System** progression. Claude's earlier
-"CSA 3.0 = neurofluid" idea is retired.
+Two distinct version ladders, never conflate: **Chiropractic X.0** (profession)
+and **CSA X.0** (academy curriculum: 1.0 Anatomy & Physiology → 2.0 Practice
+Management/Consult-Exam-ROF → 3.0 Sales & Closing; maps to website pillars 1–3).
+"CSA X.0" now canonically = the curriculum ladder; the Master Summary's clinical
+"CSA 1.0/2.0" is renamed the **Unsubluxated Structural Breathing System**
+progression. Claude's earlier "CSA 3.0 = neurofluid" idea is retired.
+- **⭐ Chiropractic X.0 — CANONICAL DOCTRINE (updated 2026-07-16): the three
+  states of matter.** Replaces the old "spine → spine+skull → telehealth" wording.
+  **1.0 Solids (Structure)** — bones/joints/posture/alignment; Diversified, CBP,
+  orthotics; in-office. **2.0 Liquids (Flow)** — CSF dynamics, cranial-sacral,
+  pelvic organization, neuromechanical coordination; SOT, AK cranials, VAET.
+  **3.0 Gas (Airway / Breath)** — sleep, airway, breathing → govern the body's
+  rhythm/recovery/regulation; telehealth + education; **CSA certifies DCs here →
+  CSA *is* Chiropractic 3.0.** "Coordinate, not replace" 1.0/2.0. Gas chosen (vs.
+  "Energy") so it's a real state of matter AND = air/breath; the old "energy =
+  frequencies/vibrations" risk stays retired. Full text:
+  `content/csa-doctrine-states-of-matter.md`.
 - **CSA 1.0** = Anatomy & Physiology of sleep, breathing, airway, and PRI/PRM.
 - **Breathing Distinction (core IP):** *Machines ventilate. Machines respire. A
   body breathes.* Breathing = living/God-given (Gen 2:7); ventilation = air pump

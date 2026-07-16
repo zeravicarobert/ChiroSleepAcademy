@@ -12,16 +12,44 @@
 Robert uses version numbers for **two different things** on two different
 axes. Conflating them is what made this fuzzy. They are separate.
 
-### Ladder 1 — **Chiropractic X.0** (how the *profession* evolves)
-- **1.0** — traditional, **spine only**
-- **2.0** — **spine + skull** ("there is a head")
-- **3.0** — **telehealth**
+### Ladder 1 — **Chiropractic X.0** (how the *profession* evolves) — CANONICAL DOCTRINE
 
-*Note (open sharpening):* 1.0→2.0 is an **anatomy/scope** progression; 3.0
-(telehealth) is a **delivery-model** progression — a different axis. Parked
-idea to unify it: make 3.0 the synthesis — "the 2.0 skull-inclusive body,
-delivered via telehealth + home testing + data" → **CSA *is* Chiropractic
-3.0.** Not yet locked; Robert to decide.
+**The CSA Doctrine (official, Robert 2026-07-16):** Chiropractic operates across
+the **three states of matter** — each needing different tools, training, and
+delivery.
+
+- **Chiropractic 1.0 — Solids (Structure).** Bones, joints, posture, mechanical
+  alignment, through in-office care. Diversified, CBP, and orthotic-based practices
+  excel here. Foundational and essential.
+- **Chiropractic 2.0 — Liquids (Flow).** Cerebrospinal fluid dynamics,
+  cranial-sacral pumping, pelvic organization, and neuromechanical coordination.
+  SOT, Applied Kinesiology cranials, and VAET support pressure, flow, and
+  adaptability. Intensive and specialized.
+- **Chiropractic 3.0 — Gas (Airway / Breath).** Sleep, airway, and breathing —
+  which govern the body's **rhythm, recovery, and regulation** over time.
+  Delivered through telehealth and education. **CSA certifies DCs to work at this
+  level.**
+
+> **CSA exists to coordinate — not replace — Chiropractic 1.0 and 2.0 care. Its
+> mission is to restore sleep and airway function so structural and cranial work
+> can succeed.**
+
+**Why "Gas."** The three real states of matter are solid, liquid, **gas** — so the
+doctrine is now scientifically clean (an MD won't stumble on it), and **gas = air,
+breath, the airway** — the literal home of a sleep-and-airway academy. Ties
+straight to the Breathing Distinction below ("a body breathes"). CSA = the
+**Gas / airway / breath** level of the profession, which is why *CSA is
+Chiropractic 3.0*.
+
+**Interpretive note (confirm if wrong):** Robert's earlier draft used "Energy
+(Rhythm)" for 3.0. To keep **three true states of matter**, that is folded in here
+as what the Gas/airway level *governs* — the body's **rhythm, recovery, and
+regulation** — rather than a separate "Energy" tier. This also removes the old
+"energy = frequencies/vibrations" credibility risk (CLAUDE.md §18), which stays
+**retired** from all clinical/MD/patient copy. If Robert wants a distinct 4th
+"Energy" tier instead, say so.
+
+*Full canonical doctrine text + guardrails: `content/csa-doctrine-states-of-matter.md`.*
 
 ### Ladder 2 — **CSA X.0** (what a DC *learns* in the academy) — CANONICAL
 - **1.0** — **Anatomy & Physiology** (of sleep, breathing, airway, and PRI/PRM)
