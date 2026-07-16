@@ -38,7 +38,7 @@ matter and they save lives. But they are not the same as a living body that
 breathes. If breathing is a whole-body function, then helping the body's
 structure work better is a real and honest aim. That is the heart of my work.
 
-My background shaped how I do it. I joined the Marine Corps at 20 and served nine
+My background shaped how I do it. I joined the Marine Corps at 19 and served nine
 years with 4th Force Recon and 3rd ANGLICO. I am an honorably discharged veteran. The
 Marines taught me discipline, precision, and how to stay on mission. I bring
 that same focus to the exam table.
