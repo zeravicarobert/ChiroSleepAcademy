@@ -1,11 +1,13 @@
-# Chiropractic Sleep Academy® — Foundations Workbook (v1)
+# Chiropractic Sleep Academy® — Foundations Workbook (v1.1)
 
 **Author:** Dr. Robert Zeravica, DC · www.ChiropracticSleepAcademy.net
 **Audience:** Doctors of Chiropractic (lecture companion).
-**Source:** Robert's PDF `content/assets/CSA-Foundations-Workbook-v1.pdf`
+**Source:** Robert's original PDF `content/assets/CSA-Foundations-Workbook-v1.pdf`
 (transcribed to markdown 2026-07-16 so it's editable, searchable, versioned).
-**Status:** v1 — strong and largely red-line clean. See Editor's notes at the
-end for a few small fixes before v1.1 / any print run.
+**Status:** **v1.1 — the four small fixes are now applied** (text synced to the
+designed v1.1). Designed deliverables: `content/assets/CSA-Foundations-Workbook-v1.1.pdf`
+and `.html`; editable Google Doc in the CSA Drive folder. See Editor's notes at
+the end for what changed.
 
 > **How to Use This Workbook**
 > - This workbook is an orientation, not a protocol
@@ -29,7 +31,7 @@ beginning with sleep and airway.
 This perspective moves Chiropractic beyond a narrow musculoskeletal focus and
 toward a function-centered model that prioritizes how the body adapts, regulates,
 and restores itself. Using the Triad of Health concept, this approach begins with
-sleep and airway as expressions of electromagnetic and rhythmic regulation, then
+sleep and airway as expressions of neurological and rhythmic regulation, then
 considers inflammation and biochemistry, and finally addresses structural
 alignment.
 
@@ -105,10 +107,12 @@ unexplored. Symptoms are managed, but the question of *why* the airway fails is
 frequently overlooked.
 
 Within this model, equipment becomes the primary solution. CPAP is commonly
-positioned as a default rather than a last resort. Oral appliances may be
-prescribed without a global structural assessment. While these devices can manage
-airflow, they do not restore structure, and long-term compliance challenges are
-often normalized rather than examined.
+positioned as a default rather than a last resort. For many patients CPAP is
+effective, first-line medicine; the concern here is not the device but the
+absence of a structural evaluation around it. Oral appliances may be prescribed
+without a global structural assessment. While these devices can manage airflow,
+they do not address the underlying structure, and long-term compliance challenges
+are often normalized rather than examined.
 
 A major limitation of the current approach is the lack of meaningful structural
 evaluation. The skull is rarely assessed as a living, moving structure. The
@@ -315,35 +319,30 @@ Conceptual models, not protocols — visual companions to the workbook.
   (headache/dizziness, cognitive impairment, morning brain fog/tension), cycling
   via "Poor Night" and "Tired Day."
 
-*(The rendered figures live in the source PDF: `content/assets/CSA-Foundations-Workbook-v1.pdf`.)*
+*(The redrawn, corrected figures live in the v1.1 deliverables:
+`content/assets/CSA-Foundations-Workbook-v1.1.pdf` and `.html`.)*
 
 ---
 
-## ⚠️ Editor's notes (small fixes for v1.1 — not urgent)
+## ✅ Editor's notes — the four v1.1 fixes (now APPLIED)
 
 The workbook is strong: respectful ("not bad medicine, but incomplete thinking"),
 frames the current model as *incomplete, not wrong*, no cure claims, positions CSA
-as a framework and not a technique. Four small things before any print run:
+as a framework and not a technique. The four fixes below are **done** — applied in
+this markdown, in the designed v1.1 PDF/HTML, and in the Drive Google Doc:
 
-1. **Figure 3 typo (fix before printing).** The right-side "Integrated" diagram
-   labels the fourth box **"Sleep Lab" twice** — the bottom-right should be
-   **"Dentist."** Also the left caption reads *"a ingle aspect"* → **"a single
-   aspect."**
-2. **"electromagnetic … regulation" (Section 1).** *"sleep and airway as
-   expressions of electromagnetic and rhythmic regulation."* To a mixed or
-   skeptical audience this word can read as energy-medicine. It's DC-facing so lower
-   risk, but consider **"neurological and rhythmic regulation"** — same idea,
-   safer with MDs who may see the workbook. (Ties to the energy-domain guardrail
-   in `csa-training-notes.md`.)
-3. **"they do not restore structure" (Section 2).** Two small things: *restore* is
-   a retired verb (§18 — prefer establish/stabilize/expand), and "devices don't
-   restore structure" edges toward knocking CPAP/appliances. Suggest: *"these
-   devices manage airflow but do not address the underlying structure."* Keeps the
-   point, stays collaborative.
-4. **"CPAP … as a default rather than a last resort."** Fair critique of the
-   *system*, but make sure the spoken lecture pairs it with respect for CPAP as
-   real, first-line medicine for many — so it never sounds anti-device (red line §5).
+1. ✅ **Figure 3 corrected.** Both panels now read MD / ENT / Sleep Lab / **Dentist**
+   (the original PDF's right panel labeled "Sleep Lab" twice), and the caption reads
+   **"a single aspect"** (was "a ingle aspect"). Fixed in the redrawn SVG figure.
+2. ✅ **"electromagnetic" → "neurological."** Section 1 now reads *"neurological and
+   rhythmic regulation"* — safer with MDs, same idea. (Energy-domain guardrail,
+   `csa-training-notes.md`.)
+3. ✅ **"do not restore structure" → "do not address the underlying structure."**
+   Retires the verb *restore* (§18) and stops edging toward knocking devices.
+4. ✅ **CPAP framing made collaborative.** Section 2 now adds: *"For many patients
+   CPAP is effective, first-line medicine; the concern here is not the device but
+   the absence of a structural evaluation around it."* (Red line §5.)
 
-Everything else is clean. This is a genuinely good asset and pairs naturally with
-the **DC-edition white paper** (`whitepaper-biomechanical-gap-dc-edition.md`) —
-same worldview, same audience.
+Everything else is clean. This asset pairs naturally with the **DC-edition white
+paper** (`whitepaper-biomechanical-gap-dc-edition.md`) — same worldview, same
+audience.
