@@ -476,16 +476,21 @@ Claude should:
   (GoDaddy → CF 2.0) checklist: `site/domain-godaddy-to-clickfunnels-checklist.md`
   — point DNS (Option A), don't transfer registration.
 - `/content` — educational/brand/evidence assets (added 2026-07-16).
-  `content/evidence/penn-state-moving-brain-csa.md` — how to responsibly use
-  the Penn State "moving brain" paper (*Nature Neuroscience*, abdomen↔brain
-  mechanical coupling) as CSA positioning. Supportive context, NOT proof;
-  includes a "Do NOT say" list and two accuracy guardrails (the study tracked
-  abdominal contraction/locomotion, NOT respiration or the cardiac cycle, and
-  models a movement/wake flush OPPOSITE to sleep-time flow). Feeds Master
-  Summary §6.7 + §14 and Pillar 5. Also proposes a **CSA 3.0** ladder rung
-  (neurofluid/autonomic/brain–body regulation) — flagged PROPOSED, awaiting
-  Robert's OK before it joins the canonical CSA 1.0→2.0 ladder (Master
-  Summary §5).
+  `content/evidence/` is the **CSA Evidence Library** (see its `README.md`):
+  outside research papers CSA cites, each verified, each with a hard "Do NOT
+  say" list, all governed by shared responsible-citation rules. Current assets:
+  - `penn-state-moving-brain-csa.md` — Penn State "moving brain" paper
+    (*Nature Neuroscience*, abdomen↔brain mechanical coupling). Guardrails: the
+    study tracked abdominal contraction/locomotion, NOT respiration/cardiac,
+    and models a movement/wake flush OPPOSITE to sleep-time flow.
+  - `cervical-lymphatic-vessels-csa.md` — cervical-spine lymphatic vessels
+    (*Cellular and Molecular Neurobiology*, Georgetown). Guardrails: postmortem,
+    4/9 donors, vessels "near but distinct" from CNS — no demonstrated CSF/lymph
+    flow.
+  Both feed Master Summary §6.7 + §14 and Pillar 5, and both touch a proposed
+  **CSA 3.0** ladder rung (neurofluid/autonomic/brain–body regulation) — flagged
+  PROPOSED, awaiting Robert's OK before it joins the canonical CSA 1.0→2.0
+  ladder (Master Summary §5).
 - `/funnel` — patient-facing ecosystem funnel definition + trackers
   (added 2026-07-15). See section 16.
 
