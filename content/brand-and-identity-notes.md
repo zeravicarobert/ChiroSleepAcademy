@@ -2,6 +2,16 @@
 
 Brand / About material and CSA framing lines. Robert-authored.
 
+## Core thesis (CSA in one line)
+
+> **Sleep apnea is a whole-body biomechanical disorder with airway expression.**
+
+Robert-authored (2026-07-16). The cleanest one-line statement of CSA's whole
+model: apnea isn't only a throat/airway problem — the airway is where a
+whole-body biomechanical disorder *shows up*. Frame as **CSA's model /
+perspective** (not the established medical definition); credible, respectful, no
+cure claim.
+
 ## Dr. Z's gifts, skills & talents (for About page / book)
 
 - **Pattern recognition** — sees systems inside chaos
