@@ -4,6 +4,20 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — plain-language translations for "subluxation" (audience hooks)**
+Ways to explain a subluxation to non-chiropractic audiences:
+> Choke-point · Bottleneck · Pressure-Release Valve (esp. for Boilermakers) ·
+> system stress convergence point
+
+*(Smart audience-tailoring — "Pressure-Release Valve" for tradespeople/Boilermakers
+who live around boilers and valves; "bottleneck/choke-point" for business and
+engineering minds. Guardrails: these are **explanatory metaphors**, not a
+redefinition of the clinical term — a subluxation is still a structural/segmental
+dysfunction the DC evaluates. Use them to make the idea land, then anchor back to
+the real biomechanics. Ties to the "pressure vectors" line below.)*
+
+---
+
 **2026-07-16 — teaching hook / analogy**
 > Airflow determines "horsepower" — whether in engines or biology.
 
