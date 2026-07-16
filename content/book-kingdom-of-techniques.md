@@ -10,6 +10,15 @@ claims; keep what produces response; feed it into CSA without ideology.
 > consequence, not truth claims; CSA is owned by no tradition.* The book is that
 > principle turned into a method. Deeply on-brand **at the principle level.**
 
+> **⭐ CORRECTION (Robert, 2026-07-16): this is NOT a critique of chiropractic
+> techniques.** Robert **endorses** many techniques — the ones he uses and
+> integrates into VAET (**CFR/BNS, SOT, AK, CBP**, orthotics), and others that
+> produce measured response. The book's target is **dogma, guru authority,
+> mystical language, and untestable claims** — never the techniques themselves. The
+> filter's default is *"keep what works"* — most techniques **pass** on their
+> clinical consequence and are **endorsed**; what gets filtered is the unprovable
+> story wrapped around them. Pro-consequence, not anti-technique.
+
 ---
 
 ## The core idea (Robert's words, organized)
@@ -41,11 +50,12 @@ recorded (the CSA Outcomes Registry). That's a clean, rigorous frame:
    filter/rubric). *This is the reusable, publishable heart of the book.*
 2. **The Pattern** — how technique systems drift into sacred language, untouchable
    founders, unfalsifiable claims (taught as a *human pattern*, not an accusation).
-3. **The Filter Applied** — what's *measurable* vs. *unproven* across the tools CSA
-   itself draws on (CBP, SOT, AK, CFR/BNS, orthotics…), stated respectfully and by
-   evidence, not by verdict on people.
-4. **What CSA Keeps** — the extracted, consequence-tested core that feeds VAET and
-   the CSA curriculum.
+3. **The Filter Applied** — for each tool CSA draws on (CBP, SOT, AK, CFR/BNS,
+   orthotics…), separate the **testable clinical value Robert endorses and keeps**
+   from the **untestable claims** wrapped around it. This is a *keep-what-works*
+   sort, not a pass/fail verdict on the technique or its people.
+4. **What CSA Keeps** — the endorsed, consequence-tested core that feeds VAET and
+   the CSA curriculum (these techniques *pass* the filter — that's the point).
 5. **The Standard Going Forward** — measure, report (including non-responders),
    integrate.
 
