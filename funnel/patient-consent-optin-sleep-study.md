@@ -63,8 +63,9 @@ sleepiness score. We compare before and after.
 - **Your privacy.** We store your health data securely. We may share
   **de-identified** results (no name, nothing that points to you) in teaching,
   talks, or research.
-- **Costs.** [Fill in: what is free and what you pay for — e.g., test fee,
-  treatment fees.]
+- **Costs.** **Free:** watch my short intro video about sleep, breathing and the
+  airway, and your early-, mid-, and late-intervention options. **Paid:** [fill
+  in — e.g., home sleep test fee, treatment fees.]
 - **Risks.** [Fill in with attorney/MD: e.g., normal risks of chiropractic care;
   the home sleep test is non-invasive.]
 
