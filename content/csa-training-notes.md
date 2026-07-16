@@ -46,6 +46,28 @@ interfaces," "usable biological throughput," and the hero line (palate = roof of
 mouth / floor of nose). *Guardrail:* palatine-bone **anatomy** is real; the claim
 that the palate **determines sleep/airway/performance** is CSA's model under
 investigation — keep "often determine" hedged, tie it to measurement.
+
+### Clinical skill to teach DCs — asymmetric palatal yield (2026-07-16)
+Teach DCs to assess the palate for **asymmetric yield between the left and right
+palatal halves** (the paired maxillary palatine processes + palatine bones meeting
+at the midline palatine suture). One side yielding/compliant, the other more rigid,
+is the finding to notice.
+
+- **Why it matters (CSA model):** if palatal compliance shapes the airway/nasal
+  floor, a **side-to-side asymmetry** may point to a directional structural
+  constraint — a concrete, teachable observation rather than a vague "cranial feel."
+- **⚠️ Rigor guardrails (important — this is where cranial work loses credibility):**
+  - **Cranial palpation reliability is contested.** Teach it as an **observation to
+    document**, not a diagnosis. Train for consistency and, wherever possible, pair
+    the hand finding with something objective (CBCT airway asymmetry, side of nasal
+    obstruction, dental arch asymmetry, imaging).
+  - **Correlate, then measure.** The claim "asymmetric yield → airway consequence"
+    must be **tested** (before/after, does correcting it change HST/airway numbers?),
+    per the Consequence Standard — not asserted.
+  - No diagnosis outside scope; no cure claim. It's a structural **screening
+    observation** that feeds the exam/VAET plan and gets measured.
+- **Where it lives:** CSA 1.0/exam skill; feeds the VAET structural airway exam
+  (`vaet-protocol.md` Step A/C).
 *(Flag: cranial motion / "cranial pump" / palatal deformation are hypothesis-
 level, rooted in cranial-osteopathic theory — teach as CSA's investigative model,
 not settled fact.)*
