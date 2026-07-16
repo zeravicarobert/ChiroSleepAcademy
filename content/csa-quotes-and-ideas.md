@@ -4,6 +4,25 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — value proposition (what CSA does for the individual)**
+> Increasing a human's usable biological throughput so their nervous system can
+> operate closer to its design capacity in an accelerated world.
+
+*(Crisp "what we actually do" line for the performance/decision-maker audience —
+pairs with the AI-era hero line and "airflow = horsepower." "Usable biological
+throughput" is a strong, ownable term (airflow → oxygen → recovery capacity).
+Guardrail: "closer to its design capacity" = improvement, not a guarantee or cure
+(Core Policy §VII). Keep it a value statement, measured where claimed.)*
+
+**2026-07-16 — market/positioning line**
+> Infrastructure for a fragmented system that already knows it has a problem.
+
+*(Sharp market read: the sleep/airway care system is **already aware** it's
+fragmented — CSA doesn't have to convince it there's a problem, just be the
+**infrastructure** that coordinates it. Ties to the Fragmented→Integrated diagram,
+the System Convergence Point, and "market to decision-makers, infrastructure
+language." Great one-liner for DC/partner/investor decks.)*
+
 **2026-07-16 — ⭐ HERO line (AI-era performance → biological infrastructure)**
 > In an AI-accelerated world, performance is no longer limited by intelligence —
 > it's limited by the biological infrastructure that sustains it. Sleep, airway,
