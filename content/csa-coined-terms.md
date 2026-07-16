@@ -14,6 +14,7 @@ separate legal step, see the launch checklist.)
 | **Integrated Sleep Infrastructure** | Ensures nothing is *missed* (the whole coordinated system/care). | Brand framing |
 | **Cranial Sleep Infrastructure** | The **anatomical + rhythmic systems** that enable neurological recovery, fluid exchange, and hormonal regulation during sleep. Teaching umbrella for palate, sphenoid, PRI, CSF, airway, sleep depth. See note ↓. | Defined 2026-07-16 |
 | **Technique Deconstruction Framework** | The keep-what-works filter behind the Post-Dogmatic Chiropractic Review. Motto: *"Show me what still works when belief is removed."* Strip the story → measure the consequence → keep what survives. Full rubric: `content/book-kingdom-draft.md`. | Defined 2026-07-16 |
+| **Tensegrity / Biotensegrity framing** | ⭐ **CORE CSA framing** for how the body/cranium behaves — a pre-stressed, load-sharing network, not a stack of hinge joints. CSA's teaching phrase: **"distributed motion, shared deformation."** | 🔑 CRITICAL (adopted, not coined — see note ↓) |
 | **Awareness-Disruption Model for Sleep Apnea™** | When a patient sees apnea through CSA's structural lens (not only the mainstream medical or sleep-dental view), that new awareness may help them *disrupt* their apnea. See note ↓. | Defined 2026-07-16 |
 | **UAOSA** | Two intentional readings — **Upper-Airway Obstructive Sleep Apnea** (mainstream medicine's diagnosis) and **Upper Airway Obstructive Structural Alignment** (CSA's structural reframe). See note ↓. | Defined 2026-07-16 |
 | **VANI-R** | **Viscerocranial Airway Neurocranial Impulse–Relaxation** (R = Relaxation — shift sympathetic-dominant patients toward parasympathetic). See note ↓. | ⚠️ Uncertain — Robert may drop it (2026-07-16) |
@@ -43,6 +44,27 @@ Same acronym, used as a reframe: **mainstream medicine** reads it as *Sleep
 Apnea* (the diagnosis); **CSA** reads it as *Structural Alignment* (the
 structural contributor). In clinical copy, make clear which one you mean so you
 don't confuse clinicians.
+
+### Note — Tensegrity / Biotensegrity (🔑 CRITICAL CSA framing, 2026-07-16)
+Robert's call: this is a **core** term for CSA. It's the credible frame for the
+whole structural model — the body and cranium as a **pre-stressed, load-sharing
+network** where **motion is distributed, deformation is shared, no single joint
+"moves" — the system yields** (see `csa-training-notes.md`).
+
+**Attribution (keep it honest — it's what earns scientist respect):**
+- **Tensegrity** — coined by **Buckminster Fuller** / structures by **Kenneth
+  Snelson** (architecture/art). **Not Robert's.**
+- **Biotensegrity** — **Stephen Levin, MD** applied it to living structure.
+  George Roth, DC ND (Matrix Repatterning) is a chiropractic adopter (already cited
+  in `vaet-protocol.md`).
+- **CSA's contribution** = *applying* this framing to sleep/airway/cranial
+  mechanics and the phrase **"distributed motion, shared deformation."** Present it
+  as *"CSA applies the established biotensegrity framing to the airway,"* never
+  *"CSA invented tensegrity."*
+
+**Why it's critical:** it's the defensible replacement for "cranial pump" mysticism
+— same clinical intuition, credible physics vocabulary. Lead with it in cranial
+teaching; pairs with the suture-micromotion anchor.
 
 ### Note — Cranial Sleep Infrastructure (2026-07-16)
 **Definition:** the anatomical and rhythmic systems that enable neurological

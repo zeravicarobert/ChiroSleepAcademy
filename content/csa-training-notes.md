@@ -98,8 +98,13 @@ Robert's framing (2026-07-16):
 > In cranial mechanics: **motion is distributed, deformation is shared, no single
 > joint "moves" — the system yields.**
 
-A crisp, **tensegrity-correct** way to teach the cranium: not a set of hinge
-joints that "pop," but a connected system that **yields** and **shares load**.
+🔑 **This is a CRITICAL / core CSA framing** (Robert, 2026-07-16). A crisp,
+**tensegrity-correct** way to teach the cranium: not a set of hinge joints that
+"pop," but a connected system that **yields** and **shares load.** "Distributed
+motion, shared deformation" is CSA's core phrase. *(Attribution: adopt the
+established tensegrity/biotensegrity framing — Fuller/Snelson; Levin's
+biotensegrity — CSA **applies** it to the airway; never claim CSA invented it. See
+`csa-coined-terms.md`.)*
 This is the defensible register (Stephen Levin's biotensegrity, the "curved
 tensegrity" reading already noted in `vaet-protocol.md`) — far stronger than
 "cranial bones pump" language.
