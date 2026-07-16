@@ -40,6 +40,16 @@ Likely true, not fully claimed yet:
 - **Clinical Sleep Architecture** — defines how findings *relate*.
 - **Integrated Sleep Infrastructure** — ensures nothing is *missed*.
 
+## Scope: the DC keeps biomechanical judgment (2026-07-16)
+
+> A Doctor of Chiropractic may be trained on how an oral appliance works, but
+> must never surrender biomechanical judgment to a dental device protocol.
+
+The DC brings the **biomechanical lens**; the oral appliance is a dental device.
+Collaborate with the DDS — each in their expertise — but the DC doesn't hand its
+structural judgment over to a device protocol. *(Keep it collaborative, not
+anti-dentist — red line §5.)*
+
 ## Positioning: Dr. Z as the "Liaison" (2026-07-16)
 
 - **"Complex problems require coordinated expertise."**

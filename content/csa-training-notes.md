@@ -7,6 +7,18 @@ proven fact).
 
 ---
 
+## Precision principle — keep it credible (Robert, 2026-07-16)
+
+Invisible influence is **real** — but stay precise:
+- **Invisible ≠ supernatural**
+- **Energetic ≠ mystical**
+- **Neurological ≠ spiritual entity**
+
+Precision is what keeps the work **credible, teachable, and defensible.** Apply
+this to every speculative model in this file (cranial pump, CSF, "energy /
+frequencies," parasitism): describe the **mechanism**, never a mystical force.
+This is the governing rule for the whole document.
+
 ## The palatine bones as a "diaphragm" (2026-07-16)
 
 Robert's teaching analogy. A **diaphragm**:
