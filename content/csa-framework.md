@@ -29,10 +29,15 @@ delivered via telehealth + home testing + data" → **CSA *is* Chiropractic
 - **3.0** — **Sales & Closing** for sleep/airway patient cases
 
 This is the student's arc: **understand it → run it → sell it.** It maps
-directly onto the website pillars 1–3 (Anatomy & Physiology; Practice
+directly onto the first three site categories (Anatomy & Physiology; Practice
 Management; Case Presentation & Closing).
-*Open:* do Pillar 4 (Provider Network) and Pillar 5 (Data) become **CSA 4.0 /
-5.0**, or does the ladder stop at the three core competencies? Robert to decide.
+- **CSA 1.0 = both Anatomy AND Physiology** (of sleep, breathing, airway, PRI/PRM).
+- **Resolved 2026-07-16:** the CSA X.0 ladder **stops at 3.0.** Provider Network
+  and Data are **NOT** 4.0/5.0 — they stand **side by side** with the 3 as
+  parallel supports (network + proof), not higher rungs.
+- **"Pillars" is being retired as the label.** Robert is choosing a new name
+  for the 5 site categories (they are the load-bearing parts of the **CSA
+  Academy**). Update this doc when he gives it.
 
 ### Collision fix vs. the Master Summary
 `PROJECT_MASTER_SUMMARY.md` §5 uses "CSA 1.0 / 2.0" for a **clinical** ladder
