@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>CSA Seminar Sign-In</title>
+<style>
+  :root{
+    --navy:#22304a; --navy-2:#3a4d6e; --accent:#2f6f8f;
+    --ink:#1b1d21; --ink-2:#474c54; --ink-3:#7a808a;
+    --rule:#c9ced6; --soft:#eef2f6;
+    --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+    --sans:-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:#eceff3;
+    padding:clamp(12px,3vw,26px);line-height:1.5}
+  .sheet{max-width:720px;margin:0 auto;background:#fff;border:1px solid #dde1e6;
+    border-radius:6px;box-shadow:0 8px 34px rgba(0,0,0,.07);padding:clamp(22px,5vw,42px)}
+
+  .top{display:flex;align-items:center;gap:10px;border-bottom:2px solid var(--navy);padding-bottom:12px}
+  .top .mark{width:26px;height:26px;color:var(--accent);flex:none}
+  .top .brand{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);font-weight:700}
+  h1{font-family:var(--serif);font-size:23px;color:var(--navy);margin:2px 0 0;letter-spacing:-.01em}
+  .evt{margin-left:auto;text-align:right;font-size:11px;color:var(--ink-3);line-height:1.7}
+  .evt b{color:var(--navy-2)}
+
+  .fields{margin:16px 0 6px}
+  .frow{display:flex;align-items:flex-end;gap:8px;margin:0 0 13px}
+  .frow label{font-size:12.5px;font-weight:700;color:var(--navy);white-space:nowrap;padding-bottom:2px}
+  .frow .fill{flex:1;border-bottom:1.4px solid var(--rule);height:20px}
+  .frow.half{display:inline-flex;width:calc(50% - 8px)}
+  .two{display:flex;gap:16px}
+
+  h2{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--navy);
+    margin:18px 0 4px;font-weight:700}
+  h2 .hint{text-transform:none;letter-spacing:0;font-weight:500;color:var(--ink-3);font-size:11px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:6px 26px;margin-top:6px}
+  .opt{display:flex;align-items:flex-start;gap:9px;font-size:12.5px;color:var(--ink)}
+  .box{width:14px;height:14px;border:1.5px solid var(--navy-2);border-radius:3px;flex:none;margin-top:2px}
+  .inline{display:flex;gap:22px;flex-wrap:wrap;margin-top:6px}
+  .inline .opt{font-size:12.5px}
+
+  .notes{margin-top:8px}
+  .noteline{height:19px;border-bottom:1px solid #dfe3e8;margin:0 0 8px}
+
+  .consent{margin-top:18px;padding-top:12px;border-top:1px solid var(--rule);
+    font-size:10.5px;color:var(--ink-3);line-height:1.55}
+  .consent b{color:var(--ink-2)}
+
+  @page{size:Letter;margin:14mm}
+  @media print{ body{background:#fff;padding:0} .sheet{box-shadow:none;border:0;max-width:none;padding:0} }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div class="top">
+    <svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12c3 0 3-5 6-5s3 5 6 5 3-4 6-4"/><path d="M3 17c3 0 3-3 6-3s3 3 6 3 3-2 6-2"/></svg>
+    <div>
+      <div class="brand">Chiropractic Sleep Academy®</div>
+      <h1>Seminar Sign-In</h1>
+    </div>
+    <div class="evt">Event / Location: <b>__________________</b><br>Date: <b>____________</b></div>
+  </div>
+
+  <div class="fields">
+    <div class="frow"><label>Name</label><span class="fill"></span></div>
+    <div class="frow"><label>Practice City</label><span class="fill"></span></div>
+    <div class="frow"><label>Email</label><span class="fill"></span></div>
+    <div class="frow"><label>Mobile (optional)</label><span class="fill"></span></div>
+  </div>
+
+  <h2>Primary Clinical Interests <span class="hint">— check all that apply</span></h2>
+  <div class="grid">
+    <div class="opt"><span class="box"></span> Sleep &amp; Snoring</div>
+    <div class="opt"><span class="box"></span> Airway / Breathing</div>
+    <div class="opt"><span class="box"></span> Posture &amp; Biomechanics</div>
+    <div class="opt"><span class="box"></span> SOT / Pelvic Categories</div>
+    <div class="opt"><span class="box"></span> Foot Orthotics / Arches</div>
+    <div class="opt"><span class="box"></span> CBCT (Cone-Beam CT Scan)</div>
+    <div class="opt"><span class="box"></span> AK / Craniopathy / TMJ</div>
+    <div class="opt"><span class="box"></span> Cranial Facial Release / Bilateral Nasal Specific</div>
+    <div class="opt"><span class="box"></span> Sleep Testing</div>
+    <div class="opt"><span class="box"></span> Being a patient first of Dr. Robert Zeravica, DC</div>
+    <div class="opt"><span class="box"></span> Study Group</div>
+    <div class="opt"><span class="box"></span> Private Consulting (1-on-1)</div>
+  </div>
+
+  <h2>Current Relationship to Sleep Cases <span class="hint">— optional, helps guide follow-up</span></h2>
+  <div class="grid">
+    <div class="opt"><span class="box"></span> I actively treat sleep-related cases</div>
+    <div class="opt"><span class="box"></span> I screen but refer out</div>
+    <div class="opt"><span class="box"></span> I want to learn how to evaluate better</div>
+    <div class="opt"><span class="box"></span> I'm just beginning to explore this area</div>
+  </div>
+
+  <h2>Best Way to Follow Up</h2>
+  <div class="inline">
+    <div class="opt"><span class="box"></span> Email only</div>
+    <div class="opt"><span class="box"></span> Text is okay</div>
+    <div class="opt"><span class="box"></span> Both</div>
+  </div>
+
+  <h2>Notes / Questions / Interests</h2>
+  <div class="notes">
+    <div class="noteline"></div>
+    <div class="noteline"></div>
+  </div>
+
+  <p class="consent"><b>Consent:</b> By providing your contact information, you
+  agree to receive educational follow-ups related to sleep, airway, and
+  chiropractic practice. No spam. No obligation. You can opt out anytime.</p>
+</div>
+</body>
+</html>
