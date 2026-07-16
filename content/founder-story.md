@@ -38,8 +38,8 @@ matter and they save lives. But they are not the same as a living body that
 breathes. If breathing is a whole-body function, then helping the body's
 structure work better is a real and honest aim. That is the heart of my work.
 
-My background shaped how I do it. I joined the Marine Corps at 20 and served
-with 4th Force Recon and 3rd ANGLICO. I am an honorably discharged veteran. The
+My background shaped how I do it. I joined the Marine Corps at 20 and served nine
+years with 4th Force Recon and 3rd ANGLICO. I am an honorably discharged veteran. The
 Marines taught me discipline, precision, and how to stay on mission. I bring
 that same focus to the exam table.
 
@@ -64,9 +64,9 @@ Chiropractor's Perspective*. My faith is the ground under everything I do. It
 keeps me honest, humble, and focused on the person in front of me, not just the
 problem.
 
-My whole life has pointed here. [Optional, confirm: I lost my father at 15 in an
-accident. That loss taught me early how short life is and how much health
-matters.] One line has followed me the whole way:
+My whole life has pointed here. I lost my father when I was 15. That loss taught
+me early how short life is, and how much health matters. One line has followed me
+the whole way:
 
 **One man. Many missions. One purpose: transformation.**
 
