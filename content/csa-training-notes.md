@@ -85,9 +85,21 @@ awareness — until it is **named, understood, and addressed** (→ Awareness-
 Disruption Model). The parasite notes below are the fluid-domain instance of
 this framework.
 
-*Guardrail:* define **"energy" as metabolic / physiological energy** (ATP,
-recovery, autonomic load) — **not** vitalistic "energy medicine" — to stay
-credible with MDs (red lines §5).
+**"Energy" — Robert's meaning (2026-07-16):** frequencies and vibrations.
+> ⚠️ **Highest credibility risk in the framework.** "Frequencies and vibrations"
+> as a *health* claim reads as energy-medicine / pseudoscience to MDs, DDSs, and
+> sleep scientists — the exact people CSA needs to respect it. **Keep it in
+> Robert's personal / philosophical / faith register ONLY.** For CSA clinical /
+> patient / MD / public copy, either keep the energy domain as **metabolic /
+> autonomic** (the defensible version) or leave "energy" out. Robert's call —
+> flagged, not overridden. (Red lines §5: no fringe, no anti-science.)
+
+**Guardrail on the parasite/extractive metaphor (Robert, 2026-07-16):**
+Biological language makes complex human systems easier to picture, but it
+oversimplifies them and has been used to justify harmful political thinking. So
+the parasite/extractive framing applies **only to the condition/mechanism
+(sleep apnea)** — **never** to people, groups, or politics. Keep it clinical,
+never dehumanizing.
 
 ## Sleep apnea as "biochemical parasitism" (liquid-domain model)
 
