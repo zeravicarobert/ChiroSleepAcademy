@@ -12,4 +12,19 @@ separate legal step, see the launch checklist.)
 | **Structural Breathing Stability** | The clinical goal state. | Canonical |
 | **Clinical Sleep Architecture** | Defines how findings *relate*. | Brand framing |
 | **Integrated Sleep Infrastructure** | Ensures nothing is *missed*. | Brand framing |
-| **Awareness-Disruption Model for Sleep Apnea™** | ⏳ *definition pending — Robert to explain.* | NEW 2026-07-16 |
+| **Awareness-Disruption Model for Sleep Apnea™** | When a patient sees apnea through CSA's structural lens (not only the mainstream medical or sleep-dental view), that new awareness may help them *disrupt* their apnea. See note ↓. | Defined 2026-07-16 |
+
+---
+
+### Note — Awareness-Disruption Model (copy guardrail)
+
+**Robert's meaning:** if a patient becomes aware of how to see sleep apnea from
+CSA's structural perspective — not only mainstream medicine's or the mainstream
+sleep-dentist's — that awareness may move them to *disrupt* their apnea.
+
+**Frame it carefully (red lines §5):**
+- It's an **additional lens**, not "mainstream medicine/dentistry is wrong."
+  Stay respectful of MDs and DDSs.
+- **"Disrupt" is not "cure" or "treat."** Present as *may help*, always
+  measured (before/after HST), co-managed — never a promised outcome.
+- Keep it as **patient awareness / empowerment**, not a medical claim.
