@@ -4,6 +4,31 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — combustion analogy (airflow → usable power)**
+> When airflow is restricted, combustion is inefficient. When the airway is
+> optimized, the system produces more usable power with less strain.
+
+*(Extends the engine metaphor — the airflow/"horsepower"/"usable biological
+throughput" family. "Combustion" ≈ cellular metabolism (oxygen → energy); "usable
+power with less strain" ≈ better recovery/output at lower physiological cost.
+Guardrail: it's an **analogy**, not a mechanism/cure claim — in patient/MD copy
+don't let "optimized airway → more power" become a promise; tie to measurement.
+"Less strain" is a nice, honest addition (efficiency, not hype).)*
+
+**2026-07-16 — patient-facing value line (what Dr. Z / CSA does)**
+> We — Dr. Z and CSA — assess the structures that determine your brain's access to
+> oxygen at night.
+
+*(Clean, benefit-led, decision-maker framing: brain + oxygen + sleep = health and
+performance. Ties to the hero line, "usable biological throughput," and Cranial
+Sleep Infrastructure.*
+*Why it's scope-safe: the verb is **"assess"** — not treat/cure/guarantee. Keep
+that verb; it's what makes the line honest and legal (Core Policy §V/§VII).*
+*Optional softening for max honesty: "the structures that **shape/affect** your
+brain's access to oxygen" — "determine" slightly overstates (structures influence,
+not solely determine). Robert's call; "assess" already protects it either way. No
+cure claim.)*
+
 **2026-07-16 — identity line (the connector thesis)**
 > The most valuable player is the connector, not the expert.
 
