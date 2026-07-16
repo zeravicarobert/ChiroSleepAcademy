@@ -349,5 +349,38 @@ Quoted exactly from his USER turns so Robert can confirm these are his:
 
 ---
 
+## 8. VAET Teaching Bridge — how to explain it (Robert, 2026-07-16)
+
+Two short ways to explain what VAET does. Same idea, two audiences.
+
+**Patient-facing (clear, non-technical):**
+> Sleep apnea places a hidden load on the body every night. VAET works by
+> reducing that load at the airway and cranial level, allowing the body to
+> breathe and recover more naturally.
+
+**Doctor-facing (professional):**
+> VAET reframes sleep apnea as a parasitic biomechanical load acting through the
+> viscerocranium and upper airway. Structural correction reduces the load rather
+> than compensating for it.
+
+*Why this bridge is strong:* it ties VAET straight to the **extractive /
+parasitic load** framework (`content/csa-training-notes.md`) and the
+**Awareness-Disruption Model** — apnea as a nightly load that structure can
+reduce, not a disease VAET "cures."
+
+*Guardrails (red lines §5):*
+- **Patient version stays clean** — "reducing load," "breathe and recover more
+  naturally." No cure claim, no device knock. Safe for patient/MD/DDS copy.
+- **"Parasitic biomechanical load"** is the **doctor/teaching register** —
+  keep it for DC-facing copy, not patient headlines. It says apnea *behaves
+  like* a load (analogy, CSA's lens), never a literal medical diagnosis.
+- **"Reduces the load rather than compensating for it"** is a real, useful
+  contrast (structure vs. a device that compensates) — but keep it as *VAET's
+  approach*, **not** "VAET is better than CPAP." No superiority claim (§6.2,
+  now retired).
+- Always paired with measurement (pre/post HST) and co-management.
+
+---
+
 *End of v1 draft. Await Robert's confirmation before any of this is treated as
 settled VAET doctrine, taught, or used in patient/DC-facing materials.*
