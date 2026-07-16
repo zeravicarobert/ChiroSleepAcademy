@@ -521,6 +521,18 @@ help patients' sleep?** — tracked via AHI, RDI, ODI, SpO2, ESS over 2 years.
 VAET offered at the **91324 office** or **Tecopa, CA** (Steve McNeal hot
 springs property).
 
+**⭐ OPERATING HOME (single source of truth):**
+**CSA Patient Tracker (Master)** — live Google Sheet in the `CSA` Drive
+folder (owner `zeravicarobert@gmail.com`), file id
+`1tob9quUs4EHBrMvTMC83bmu-B9mst4fcBpNshzeYjLk`.
+https://docs.google.com/spreadsheets/d/1tob9quUs4EHBrMvTMC83bmu-B9mst4fcBpNshzeYjLk/edit
+This is the ONE place that tracks every patient's contact info, campaign
+status, funnel stage (S0–S13), and NEXT ACTION. Robert checks this, not the
+repo. Claude keeps it current each session. It holds **Layer 1 only** —
+contact + stage + campaign. Clinical PHI (AHI/ODI/SpO2) stays in the EHR,
+never in this sheet. The repo files below are the design/version store
+behind it.
+
 **Assets built (in `/funnel` and `/outreach`):**
 - `outreach/patient-email-sleep-early-intervention.md` — first-touch
   campaign email (early/mid/late-intervention hook, Robert's story,
