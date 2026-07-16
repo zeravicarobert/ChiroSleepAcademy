@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>CSA Workbook — Credible Edition v2</title>
+<style>
+  :root{
+    --navy:#22304a; --navy-2:#3a4d6e; --accent:#2f6f8f;
+    --ink:#1b1d21; --ink-2:#474c54; --ink-3:#767b84;
+    --rule:#d9dce1; --rule-2:#c3c8d0; --soft:#eef2f6; --gold:#8a6d3b;
+    --serif:Georgia,"Iowan Old Style",'Times New Roman',serif;
+    --sans:-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box} html,body{margin:0}
+  body{font-family:var(--sans);color:var(--ink);line-height:1.55;font-size:10.6pt}
+  p{margin:0 0 8px} strong{font-weight:650} em{color:var(--ink-2)}
+  ul{margin:0 0 8px;padding-left:19px} li{margin:2px 0}
+
+  .cover{min-height:240mm;display:flex;flex-direction:column;justify-content:center;padding:0 6mm;break-after:page}
+  .cover .kicker{font-size:11pt;letter-spacing:.26em;text-transform:uppercase;color:var(--accent);font-weight:700}
+  .cover h1{font-family:var(--serif);font-size:32pt;line-height:1.08;margin:14px 0 8px;color:var(--navy)}
+  .cover .sub{font-family:var(--serif);font-style:italic;font-size:14.5pt;color:var(--ink-2);margin:0 0 24px;max-width:150mm}
+  .cover .bar{height:3px;width:76px;background:var(--accent);margin:20px 0}
+  .cover .who{font-size:12pt;line-height:1.7} .cover .who b{color:var(--navy)}
+  .cover .ed{margin-top:8px;font-size:10pt;color:var(--accent);font-weight:700}
+  .cover .v{margin-top:4px;color:var(--ink-3);font-size:10pt}
+
+  .part{break-before:page;padding-top:4mm}
+  .sec-head{border-bottom:2px solid var(--navy);padding-bottom:7px;margin:0 0 11px}
+  .eyebrow{font-size:9pt;letter-spacing:.15em;text-transform:uppercase;color:var(--accent);font-weight:700}
+  .map{font-size:9pt;color:var(--ink-3);font-style:italic}
+  h2{font-family:var(--serif);font-size:17.5pt;color:var(--navy);margin:0;line-height:1.15}
+  h3{font-size:11.5pt;color:var(--navy-2);margin:13px 0 4px;font-weight:700}
+  h3 .tag{font-family:var(--sans);font-size:8pt;font-weight:700;letter-spacing:.03em;text-transform:uppercase;
+    color:var(--accent);border:1px solid var(--rule-2);border-radius:10px;padding:1px 6px;margin-left:5px;vertical-align:middle}
+
+  .callout{border:1px solid var(--rule-2);border-left:4px solid var(--accent);background:var(--soft);
+    border-radius:6px;padding:11px 15px;margin:11px 0;font-size:10pt;break-inside:avoid}
+  .callout.warn{border-left-color:var(--gold)}
+  .callout b{color:var(--navy)}
+  .foundation{border:1px solid #e3dcc8;border-left:4px solid var(--gold);background:#faf7ef;
+    border-radius:6px;padding:12px 16px;margin:11px 0;break-inside:avoid;font-size:10pt}
+  .foundation .lbl{font-size:9pt;letter-spacing:.08em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:4px}
+  .disc{font-size:9.5pt;color:var(--ink-2);background:#f6f7f9;border:1px solid var(--rule);border-radius:6px;padding:11px 15px}
+
+  table{border-collapse:collapse;width:100%;margin:8px 0 10px;font-size:9.3pt;break-inside:avoid}
+  th,td{border:1px solid var(--rule-2);padding:5px 8px;text-align:left;vertical-align:top}
+  th{background:var(--navy);color:#fff;font-weight:650;font-size:9pt}
+  tr:nth-child(even) td{background:#f4f6f9}
+  .keeper{font-style:italic;color:var(--accent);border-left:3px solid var(--rule-2);padding-left:10px;margin:8px 0}
+  .qgroup{margin:0 0 7px} .qgroup b{color:var(--navy)}
+  @page{size:Letter;margin:15mm 14mm 16mm}
+  @media print{.cover{min-height:230mm}}
+</style>
+</head>
+<body>
+
+<section class="cover">
+  <div class="kicker">Chiropractic Sleep Academy®</div>
+  <h1>The Workbook</h1>
+  <div class="sub">Bridging Biomechanics, Airway Science, and Sleep Medicine for the Doctor of Chiropractic — Credible Edition</div>
+  <div class="bar"></div>
+  <div class="who">
+    <b>Dr. Robert Zeravica, DC</b><br>
+    Founder, Chiropractic Sleep Academy® · Developer, VAET™<br>
+    www.ChiropracticSleepAcademy.net
+    <div class="ed">CE approved by the California Board of Chiropractic Examiners</div>
+    <div class="v">Version 2 · organized as a 4-week program</div>
+  </div>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Front Matter</div><h2>Disclaimers &amp; Foundation</h2></div>
+  <div class="disc">Education for Doctors of Chiropractic. Does not diagnose, treat, or
+  prescribe for any disease; not individualized medical advice. Sleep studies are
+  <b>physician-read</b>; the DC's role is structural evaluation, education,
+  coordination, and — within a state's scope — clinical interpretation.
+  Moderate-to-severe disease is <b>co-managed</b>. Nothing here replaces CPAP, oral
+  appliances, surgery, or medication, and no patient is advised to stop prescribed
+  therapy.</div>
+
+  <div class="foundation">
+    <div class="lbl">Foundation — founder's faith basis (optional to the science)</div>
+    <p><b>Two registers.</b> The clinical science stands on its own — no belief
+    required. This states the founder's personal <em>why</em>; it is not part of the
+    clinical argument.</p>
+    <p><b>Secular statement:</b> The body is a living, whole system worth caring for
+    with rigor and respect.</p>
+    <p><b>Founder's faith foundation:</b> the body as a living temple (1 Cor. 6:19–20;
+    Rom. 12:1; Gen. 2:7) — caring for structure is stewardship.</p>
+  </div>
+
+  <h3>Mission</h3>
+  <p>Equip DCs to <b>raise awareness, screen, coordinate physician-read testing,
+  educate, plan structural care, co-manage, and re-evaluate</b> patients with
+  airway-related sleep concerns — restoring structure so sleep, breathing, and
+  function can improve, always measured and within scope.</p>
+  <h3>About the Author <span class="tag">verify credentials before print</span></h3>
+  <p>B.S. Business Administration (Pepperdine); Doctor of Chiropractic, LACC (1999);
+  active CA license. U.S. Marine Corps NCO — 4th Force Reconnaissance and 3rd ANGLICO
+  (Air Naval Gunfire Liaison Company). Balloon-instrument trained in CFR and BNS;
+  developer of VAET™.</p>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Part I</div><h2>Foundations of Structural Airway Chiropractic</h2><div class="map">Course map: Week 1 — Sleep Knowledge</div></div>
+  <h3>Ch 1 — History &amp; Philosophy</h3>
+  <p>Chiropractic on the principle that <b>structure governs function</b> (D.D. Palmer;
+  A.T. Still founded osteopathy contemporaneously). CSA is <b>chiropractic</b> —
+  studies the whole body, learns from any tradition, not "osteopathic."</p>
+  <h3>Ch 2 — From Dogma to Discernment <span class="tag">governing method</span></h3>
+  <p><em>We do not judge truth claims; we judge clinical consequence.</em> Keep what
+  works, report honestly (including non-responders). Every model labeled
+  <b>established</b> or <b>hypothesis under investigation.</b></p>
+  <h3>Ch 3 — Innate Intelligence &amp; PRI/PRM</h3>
+  <p>Innate intelligence taught as measurable biology. PRI/PRM, the Reciprocal Tension
+  Membrane / dura (falx cerebri, tentorium cerebelli, falx cerebelli, diaphragma
+  sellae), and "dura as buttress" (W.G. Arbuckle, DO — cite historically) are
+  cranial-osteopathic <em>models under investigation.</em> The dural anatomy is real;
+  the PRM claims are the hypothesis.</p>
+  <h3>Ch 4 — Anatomy for Airway Function <span class="tag">established</span></h3>
+  <p>Viscerocranium &amp; sphenoid; hyoid apparatus; mandibular plane. Solid, mainstream base.</p>
+  <h3>Ch 5 — Tensegrity / Biotensegrity <span class="tag">core framing</span></h3>
+  <p>Fuller/Snelson; <b>biotensegrity — Stephen Levin, MD.</b> The body as a
+  pre-stressed, load-sharing network; <b>motion is distributed, deformation is shared —
+  the system yields.</b> Suture micromotion is real; the sleep/airway significance is
+  what CSA tests. CSA <b>applies</b> this — it did not invent it.</p>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Part II</div><h2>Sleep Science &amp; Airway Mechanics</h2><div class="map">Course map: Week 1 continued</div></div>
+  <h3>Ch 6 — The hidden epidemic (awareness)</h3>
+  <p>Not only "overweight men who snore." Watch <b>children</b> (narrow palates, mouth
+  breathing), <b>women</b> (often misread as insomnia/anxiety), <b>athletes</b>
+  (forward-head from tech/training), <b>veterans</b> (neck/cranial trauma). DCs
+  <em>see structure</em> — FHP, flattened lordosis, asymmetric nasal airflow, high/
+  retruded palate, pelvic torsion — mechanical predisposition visible before diagnosis.</p>
+  <h3>Ch 7 — Snoring &amp; the airway as a suspended tube</h3>
+  <p>Snoring = turbulent flow through a narrowing airway. The airway is a flexible
+  tube suspended by bone, muscle, fascia; when support or tone drops, negative
+  pressure pulls the walls inward. Roots: FHP, retruded mandible/TMJ, cranial-base
+  flexion, maxillary constriction, pelvic torsion. Nestor's <em>Breath</em> (with
+  Stanford's Jayakar Nayak): mouth breathing narrows the airway — <em>form dictates
+  function.</em></p>
+  <div class="keeper">"Correct the frame — quiet the sound."</div>
+  <h3>Ch 8 — UAOSA, Central apnea &amp; hypopnea</h3>
+  <ul>
+    <li><b>UAOSA</b> — mechanical collapse (effort continues). "UAOSA is the collapse
+      of structure, not the failure of will."</li>
+    <li><b>Central apnea</b> — the brainstem <b>pre-Bötzinger complex</b> is the
+      pacemaker; central events = no effort. <em>(The idea that cranial/dural mechanics
+      influence the medullary environment is a hypothesis — never stated as fact.)</em></li>
+    <li><b>Hypopnea</b> — partial collapse (~≥30% airflow drop). "A hypopnea is the
+      biomechanical whisper before the body screams with apnea." The DC's early window
+      — measured, co-managed.</li>
+  </ul>
+  <h3>Ch 9 — Testing &amp; severity <span class="tag">physician-read</span></h3>
+  <p><b>AHI (AASM):</b> Normal &lt;5 · Mild 5–14 · Moderate 15–29 · Severe ≥30.</p>
+  <table><thead><tr><th>Test</th><th>Use</th></tr></thead><tbody>
+    <tr><td>Home Sleep Test (HST)</td><td>DC-coordinated screening/telemedicine; confirms presence/severity</td></tr>
+    <tr><td>Polysomnography (PSG)</td><td>Gold standard; complex/central cases</td></tr>
+    <tr><td>Overnight pulse-oximetry</td><td>Pre-HST screen / progress tracking</td></tr>
+    <tr><td>Acoustic / airflow</td><td>Nasal resistance, flow limitation</td></tr>
+  </tbody></table>
+  <p><b>Parameters:</b> AHI · ODI · snore index · body-position correlation · HRV.
+  <b>Classification:</b> UAOSA (airflow stops, effort continues) · Central (both stop)
+  · Mixed. DC correlates numbers with structure <b>within scope.</b></p>
+  <h3>Ch 10 — The Consequence Standard in practice</h3>
+  <p>Document <b>before/after</b>: posture, CBCT/lateral-ceph airway volume, HST
+  metrics, patient-reported outcomes. <b>Report responders and non-responders.</b>
+  Retest ~30–60 days. Improvement shows structure <em>contributed in that case</em> —
+  never a cure. Data → the <b>CSA Outcomes Registry.</b></p>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Part III</div><h2>VAET™ as a Framework</h2><div class="map">Course map: Week 2 protocol + Week 3 biomechanics</div></div>
+  <h3>Ch 11 — What VAET Is</h3>
+  <p>Not a new technique — a <b>condition-specific application framework</b> sequencing
+  established methods (CFR/BNS, SOT, AK, CBP, postural foundation) for the airway
+  indication. A legitimate <b>early structural intervention, honestly framed</b> —
+  measured, co-managed, <b>never</b> a replacement for CPAP, appliances, or surgery.</p>
+  <h3>Ch 12 — The VAET lineage <span class="tag">verify names/dates</span></h3>
+  <p>Airway-expansion cranial work has a real chiropractic lineage: <b>Stober</b> —
+  Bilateral Nasal Specific (BNS) → <b>Dean Howell, DC</b> — NeuroCranial Restructuring
+  (NCR) → <b>Adam Del Torto, DC</b> — Cranial Facial Release (CFR) → <b>Robert
+  Zeravica, DC</b> — VAET (adds SOT/AK pelvic–cranial integration, targets the
+  viscerocranium for sleep and airway). Contemporary collaborator: <b>Glenn Frieder,
+  DC.</b> Honor the lineage; keep claims measured.</p>
+  <h3>Ch 13 — CFR / BNS <span class="tag">with safety</span></h3>
+  <p>Balloon mobilization of cranial sutures via the nasal passages, in a full-body
+  model. <b>Safety:</b> sterile nasal balloons only; contraindications include recent
+  nasal surgery, severe sinus infection, uncontrolled hypertension; informed consent;
+  document nasal patency pre/post.</p>
+  <h3>Ch 14 — SOT, CBP &amp; postural foundation</h3>
+  <p>SOT pelvic categories I–III (incl. the Lovett-Brother TMJ↔SIJ pairing); CBP
+  cervical-lordosis correction — integrated and <b>measured</b> (pre/post angles).
+  "Lordosis change → reduced AHI" is a <em>per-case hypothesis to test.</em></p>
+  <h3>Ch 15 — Cerebrospinal Fluid</h3>
+  <p><b>CSF exchange is rhythmic and sleep-enhanced</b> (glymphatic — established).
+  Whether <b>cranial mechanics assist</b> it is <em>CSA's model under investigation.</em>
+  State the clauses separately.</p>
+  <h3>Ch 16 — Sequential, co-managed care model <span class="tag">the right framing</span></h3>
+  <table><thead><tr><th>Phase</th><th>Objective</th><th>Lead</th></tr></thead><tbody>
+    <tr><td>Phase 1 — Mechanical restoration</td><td>Postural, cranial, TMJ, pelvic correction</td><td>DC</td></tr>
+    <tr><td>Phase 2 — Physiologic support</td><td>CPAP / oral appliance where indicated to stabilize oxygenation</td><td>MD / DDS</td></tr>
+    <tr><td>Phase 3 — Functional reintegration</td><td>Reassess; reinforce nasal breathing; taper devices only under the prescriber</td><td>DC-led team</td></tr>
+  </tbody></table>
+  <p><em>Collaboration without collapsing scope — structure first, devices as needed,
+  everyone in their lane.</em></p>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Part IV</div><h2>Whole-Person Support</h2><div class="map">Course map: Week 4 lifestyle · evidence-based only</div></div>
+  <h3>Ch 17 — Lifestyle foundations</h3>
+  <p>Sleep hygiene, nutrition, weight where relevant, <b>hydration</b>, movement,
+  stress — evidence-based habit prescriptions, measured. A simple mnemonic (Air ·
+  Water · Salt · Oil / NEW START) can organize patient education using the plain,
+  defensible versions.</p>
+  <div class="callout warn"><b>Removed from the professional CE curriculum, and why.</b>
+  Energy/frequency "medicine" (scalar, Rife, ozone insufflation, EMF-foil/copper-
+  grounding); <b>structured/alkaline "Kangen" water, microclustering, ORP,
+  deuterium-depleted water</b>; the grander hydration claims ("water is the primary
+  communicator of biological intelligence"); and <b>commercial product endorsements</b>
+  (Enagic, etc.) are <b>out.</b> They read as pseudoscience to the MD/DDS/college
+  audience, some carry safety/regulatory concerns, and endorsements create
+  conflict-of-interest exposure. Plain hydration guidance stays; the special-water
+  science does not.</div>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Part V</div><h2>Applied Clinical Protocols</h2><div class="map">Course map: Week 2 protocol</div></div>
+  <h3>Ch 18 — Apnea Awareness Screening Script (3–5 min)</h3>
+  <p><em>Opening:</em> "Many sleep problems begin as structural or breathing issues
+  that happen when we rest. I'll ask a few questions to understand how your airway and
+  posture may be affecting your sleep."</p>
+  <div class="qgroup"><b>Symptoms (1–5):</b> snoring/gasping/choking? told you stop
+  breathing? wake tired? morning headache/dry mouth/congestion? wake to change
+  position from discomfort? <em>(flag → Insomnia–Positional Pain™)</em></div>
+  <div class="qgroup"><b>Breathing/behavior (6–10):</b> mouth-breathing? both nostrils
+  clear now? daytime sleepiness/caffeine? wake startled/short of breath? prior
+  apnea/asthma/sinus dx?</div>
+  <div class="qgroup"><b>Structural/postural (11–15):</b> told you have FHP/neck
+  misalignment? jaw clenching/TMJ/grinding? nasal surgery/orthodontics/extractions
+  that changed the bite? shoulder rounding/upper-back tension? chronic pelvic/low-back
+  imbalance?</div>
+  <div class="qgroup"><b>Lifestyle (16–20):</b> alcohol/nicotine/sedatives near bed?
+  hours slept &amp; how refreshed? exercise/stretch? anxiety/stress at night? prior
+  HST/sleep study?</div>
+  <p><em>Close:</em> "This helps me understand how your structure, breathing, and
+  sleep connect. The next step is to measure your sleep at home, then correct the
+  mechanics that may be causing your fatigue."</p>
+
+  <h3>Ch 19 — The Apnea Exam (structural, 8 components)</h3>
+  <table><thead><tr><th>Section</th><th>Assess</th><th>Why</th></tr></thead><tbody>
+    <tr><td>Postural</td><td>Head carriage, shoulders, cervical curve, pelvic rotation</td><td>FHP reduces airway volume; pelvic torsion alters dural tension</td></tr>
+    <tr><td>Craniofacial</td><td>Facial symmetry, palate height, maxillary width, dental crowding, nasal bridge</td><td>Constriction / retruded mandible reduce airway space</td></tr>
+    <tr><td>Airway</td><td>Mallampati (education, not dx), tongue posture, bilateral nasal airflow, uvular vibration</td><td>Patency &amp; vibration potential</td></tr>
+    <tr><td>TMJ / mandibular</td><td>Condyle motion, clicks, clenching, masseter/temporalis/pterygoid tone</td><td>TMJ dysfunction correlates with obstruction/bruxism</td></tr>
+    <tr><td>Cervical</td><td>Occiput–C1–C2 alignment, SCM/scalene/hyoid tone</td><td>Alters hyoid &amp; tongue position</td></tr>
+    <tr><td>Respiratory</td><td>Paradoxical breathing, diaphragm motion, ribcage restriction</td><td>Reflects compromised PRM</td></tr>
+    <tr><td>Neuro screen</td><td>CN IX/X/XII, gag, tongue deviation, swallow/phonation</td><td>Hypoglossal/vagal control of airway tone</td></tr>
+    <tr><td>Sleep-position sim</td><td>Supine → observe snoring/narrowing</td><td>Helps the patient <em>see</em> the problem</td></tr>
+  </tbody></table>
+  <p><em>Optional objective tools:</em> digital posture/CBP scan, lateral cervical
+  X-ray, acoustic rhinometry, HST.</p>
+  <div class="keeper">"Apnea is visible in posture, palpable in the neck, measurable in motion."</div>
+
+  <h3>Ch 20 — Clinical interpretation &amp; workflow</h3>
+  <table><thead><tr><th>Pattern</th><th>Likely category</th><th>Next step</th></tr></thead><tbody>
+    <tr><td>Snoring + FHP + mouth-breathing</td><td>UAOSA</td><td>HST; cranial/cervical eval; structural plan</td></tr>
+    <tr><td>Fatigue + micro-arousals + positional pain</td><td>Insomnia–Positional Pain™</td><td>Postural/cranial assessment; SOT/AK</td></tr>
+    <tr><td>Gasping + no effort + occiput/atlas fixation</td><td>Central apnea</td><td>Neuromechanical eval; <b>refer for sleep study</b></td></tr>
+  </tbody></table>
+  <p><b>Workflow:</b> Screen → order HST (physician-read) → interpret AHI/desat vs.
+  structure → consult/educate → structural care plan (co-managed) → <b>retest 30–60
+  days.</b> Scope: screen, correlate, co-manage, refer. De-identified data → Outcomes
+  Registry (responders + non-responders).</p>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Part VI</div><h2>Professional Development</h2><div class="map">Course map: Week 4 — Communication &amp; Practice Integration</div></div>
+  <h3>Ch 21 — The CSA continuing-education model</h3>
+  <p>CE approved by the <b>California Board of Chiropractic Examiners</b>
+  (state-specific). Competencies: screen; interpret HST in a biomechanical context
+  within scope; design a co-managed plan; document outcomes. Pathway: workbook →
+  documented case → practical competence → exam → <b>Certified Chiropractic Sleep &amp;
+  Upper-Airway Specialist™.</b></p>
+  <h3>Ch 22 — Ethical growth &amp; collaboration</h3>
+  <p>Build a sleep/airway practice on <b>data and collaboration</b>, not
+  disparagement. <em>(Cut from professional copy: device "dishonorable mentions" and
+  slogans — they violate the no-disparagement rule and undercut co-management.)</em>
+  Describe named mentors/influences accurately; imply no endorsement without consent.</p>
+  <h3>Ch 23 — Outcomes, recognition &amp; future</h3>
+  <p>Publish de-identified outcomes; pursue academic/CE recognition on the strength of
+  <b>data</b>; expand tracks as evidence supports. (Keep EDD/VA disability
+  documentation as a separate line of work — not folded into the CE curriculum.)</p>
+</section>
+
+<section class="part">
+  <div class="sec-head"><div class="eyebrow">Appendices &amp; Pre-Print</div><h2>Appendices and Editor's Checklist</h2></div>
+  <p><b>Appendices:</b> A. Foundation (faith, marked) · B. Mallampati chart (education) ·
+  C. Postural checklist · D. SOT pelvic-category flow chart · E. Apnea Exam form
+  (8 components + asymmetric palatal-yield) · F. Screening Script (20 Qs +
+  interpretation guide) · G. Pre/Post outcomes worksheet (responder + non-responder) ·
+  H. VAET lineage page (verify dates/citations) · I. References (AASM; craniofacial-OSA;
+  Levin biotensegrity; glymphatic/CSF-in-sleep; Nestor <em>Breath</em>).</p>
+  <div class="callout"><b>Editor's checklist before print</b>
+  <ul>
+    <li>Verify credentials/abbreviations <b>and lineage names/dates</b> against sources.</li>
+    <li>State CE as "California Board of Chiropractic Examiners" (per-state).</li>
+    <li>Confirm no energy/structured-water/product-endorsement content re-entered.</li>
+    <li>No device disparagement. Devices = Phase 2.</li>
+    <li>Every mechanism labeled established vs. hypothesis; no cure claims; no "instead of CPAP."</li>
+    <li>Faith only in the bracketed Foundation section; secular twin leads clinically.</li>
+    <li>One brand + domain: Chiropractic Sleep Academy™ / .net.</li>
+    <li>Attorney review of scope ("diagnose" only within state scope) and CE/liability.</li>
+  </ul></div>
+</section>
+
+</body>
+</html>
