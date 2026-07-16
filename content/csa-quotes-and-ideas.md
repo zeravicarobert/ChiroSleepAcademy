@@ -4,6 +4,18 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — CSA identity line**
+> CSA is where uncoordinated forces meet, are interpreted, and safely redirected.
+
+*(Strong "what CSA is" line. Reads two ways, both on-brand: (1) **providers** —
+the fragmented MD/DDS/ENT/sleep-lab forces get coordinated (the liaison /
+integrated-care model, white papers); (2) **biomechanics** — literal structural
+forces / "pressure vectors" get interpreted and redirected. "Safely redirected"
+keeps it co-managed and non-cure. Pairs with "Complex problems require a
+Liaison — Dr. Zeravica, DC" and the Fragmented→Integrated diagram.)*
+
+---
+
 **2026-07-16 — teaching line (Cranial Sleep Infrastructure)**
 > Sleep sets the ceiling for human performance, and the hard palate is one of the
 > quiet structures that determines that ceiling — if that ceiling is functional.
