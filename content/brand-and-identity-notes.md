@@ -29,3 +29,17 @@ Likely true, not fully claimed yet:
 - **Chiropractic Sleep Academy** — teaches clinicians how to *see*.
 - **Clinical Sleep Architecture** — defines how findings *relate*.
 - **Integrated Sleep Infrastructure** — ensures nothing is *missed*.
+
+## Positioning: Dr. Z as the "Liaison" (2026-07-16)
+
+- **"Complex problems require coordinated expertise."**
+- **"Apnea problems require a Liaison — Dr. Zeravica, DC."**
+
+Dr. Z as the **liaison / quarterback** who coordinates the sleep-airway team
+(MD, DDS, ENT, DC) — never replacing them, connecting them.
+
+**⭐ Authentic tie-in:** Robert served in **3rd ANGLICO** — *Air Naval Gunfire
+**Liaison** Company.* His Marine role was, literally, **liaison.** "From ANGLICO
+liaison to airway liaison." True, memorable brand thread — and it reinforces the
+interdisciplinary / co-managed positioning (red-line safe: additive, not
+replacing medicine).
