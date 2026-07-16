@@ -70,6 +70,25 @@ Presentation idea (Robert): link Cranial Facial Release (CFR) to the brain's
   as *a model we're exploring.* **Never** in patient/MD/DDS clinical copy as
   fact, and **never** as a cure/treat claim for apnea (red lines §5).
 
+## Teaching framework: Extractive patterns across structure, fluid & energy
+
+Robert teaches that some conditions run **extractive (parasitic) patterns** —
+they draw from the host — across **three domains:**
+- **Structure** — mechanical/biomechanical load (airway collapse, cranial/
+  cervical restriction, posture).
+- **Fluid** — biochemical/liquid load (blood gases, inflammation, CSF /
+  glymphatic).
+- **Energy** — metabolic/neurological load (recovery capacity, autonomic drain).
+
+**Sleep apnea is the model case:** it extracts across all three, largely outside
+awareness — until it is **named, understood, and addressed** (→ Awareness-
+Disruption Model). The parasite notes below are the fluid-domain instance of
+this framework.
+
+*Guardrail:* define **"energy" as metabolic / physiological energy** (ATP,
+recovery, autonomic load) — **not** vitalistic "energy medicine" — to stay
+credible with MDs (red lines §5).
+
 ## Sleep apnea as "biochemical parasitism" (liquid-domain model)
 
 > **⭐ Preferred framing (2026-07-16 — publishable, patient-safe):**
