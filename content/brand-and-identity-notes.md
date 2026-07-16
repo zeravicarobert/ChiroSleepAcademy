@@ -13,6 +13,17 @@ Brand / About material and CSA framing lines. Robert-authored.
 - **Connector** — links people, ideas, and opportunities
 - **Endurance** — stays in long games others quit
 
+## Dr. Z's latent (underutilized) talents — outside-the-box
+
+Likely true, not fully claimed yet:
+- **Cultural architect** — doesn't just build offers, builds worlds
+- **Language creator** — names things in ways others adopt
+- **Signal filtering** — knows what *not* to do (rare gift)
+- **Initiation leader** — people change identity after working with you
+- **Meaning translator** — connects money, health, belief, and purpose
+- **Strategic restraint** — knows when *not* to scale
+- **Tribal gravity** — people orbit you even without formal roles
+
 ## Academy · Architecture · Infrastructure (CSA framing)
 
 - **Chiropractic Sleep Academy** — teaches clinicians how to *see*.
