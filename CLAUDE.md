@@ -7,7 +7,15 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-21
+**Last updated:** 2026-07-16
+
+> **⭐ CANONICAL STRATEGIC SOURCE:** `PROJECT_MASTER_SUMMARY.md` (Robert's
+> authoritative summary, status **July 10, 2026**). It is **newer than most
+> of this file** and **wins on strategy, clinical framework, terminology,
+> pricing intent, and sequencing.** This `CLAUDE.md` is the *operational*
+> memory (accounts, file/tracker locations, working agreements) and defers
+> to the Master Summary. Read §17 below for the reconciliation and the open
+> strategic question before acting on older sections.
 
 ---
 
@@ -557,3 +565,73 @@ behind it.
 vs DC pricing, HST vendor, Tecopa patient logistics, and a
 consent-to-track/publish form before enrolling anyone in the 2-year window.
 See the "Open questions" in `funnel/patient-ecosystem-funnel.md`.
+
+---
+
+## 17. Reconciliation with the July 10 Master Summary (added 2026-07-16)
+
+`PROJECT_MASTER_SUMMARY.md` (status July 10, 2026) is the canonical strategic
+source and is newer than the May-21 body of this file. Key deltas and how they
+affect existing work:
+
+### ⚠️ Biggest strategic flag — DC-first vs. patient-first
+The Master Summary is emphatically **chiropractor-first**: the founding cohort
+and participant journey (§9, §11, §24 Priority 5) are DCs; **patients are a
+*secondary* audience**. It also says CSA "should **not** be confused with the
+disability-certification offer," that **EDD/SDI should grow organically** (not
+via aggressive expansion), and that Robert doesn't want central energy going to
+EDD growth (§16). The recent **patient-facing work** (the EDD/SDI sleep email +
+the `/funnel` patient ecosystem, see §16 above) is therefore the **secondary
+track** per the canonical doc. **Open question for Robert (unresolved):** is the
+patient/EDD track a deliberate current priority (e.g., as the fastest outcomes-
+data engine using his own patients), or should we re-center on the DC-first
+pathway? Do not send the patient email blast until this is confirmed.
+
+### Terminology / brand (must flow into the website + all copy)
+The Master Summary supplies the real IP language the site docs lack:
+- **Unsubluxated Structural Breathing System™** (Level-2 master framework).
+- **VAET = Viscerocranial Airway Expansion Therapy** (Level-3 clinical method).
+- Preferred verbs: **Unsubluxate, Expand, Establish, Stabilize** — *not* "restore."
+- Phrases: "Structural Breathing Stability," "Chiropractic 2.0 of breathing,"
+  "There is a head / Chiropractors: there is a head," "Heal the healer first,"
+  "Breathe easier," "Airway chronobiomechanics."
+- **CSA 1.0 → 2.0 ladder** and the 6-level hierarchy (§23) are the spine.
+- Positioning boundaries (§14) restate/extend the red lines — no cure claims,
+  no "discontinue CPAP," no unproven-mechanism-as-fact, interdisciplinary tone.
+→ **`site/csa-website-architecture.md` needs a v2 pass** to fold in this
+  language and map Robert's 5 nav categories onto the Master Summary's 7
+  educational pillars (§12) + 6-level hierarchy. (Pillar 5 "Data & Outcomes"
+  aligns with the **CSA Outcomes Registry**, Level 5.)
+
+### Pricing deltas vs. this file's §8
+- HST: Master Summary = **$300 HST + separate $100 ROF fee** ($400 total).
+  This file's §8 folded review into a single $300 "Sleep Baseline." Treat the
+  Master Summary split as current.
+- CBCT: Master Summary = **$400 + $100 review** (≈ this file's $500 Airway Baseline).
+- Tecopa: consistent (**$3,500 clinical / ~$5,500 all-in**). Past concepts:
+  4-day $9,999, 2-day/4-visit $7,999.
+- **This file's §8 Step 5 ($15K–$25K Guided Case Plan) and Step 6 membership
+  tiers ($297/mo, $1.5–3.5K onboarding, $10K implementation, $25K Inner Circle)
+  are NOT in the Master Summary**, which marks Step 5 pricing and the whole
+  membership/certification/licensing model **unresolved** (§15, §21). Flag as
+  possibly-stale; confirm with Robert before quoting those numbers.
+
+### New facts now available (were missing from this file)
+- **Founder bio/story (§3):** DC since 1999 (~26 yrs); Pepperdine business
+  degree; former US Marine (4th Force Recon, 3rd ANGLICO); AK/SOT/CFR/CBP/MUA/
+  cranial; author of *The Living Soul – A Christian Chiropractor's Perspective*;
+  built the CA disability/telehealth business; developed VAET. → This is the
+  real material for the **email story** and the **"About Dr. Z"** page (handle
+  the faith-based book carefully in patient-facing copy — red line §5 on not
+  over-spiritualizing medical copy; likely fine on DC-facing/About).
+- **Team:** Santiago (media collaborator); media infra (NAS / Z: drive);
+  officers **Adelaide Zeravica** and **Zac Zeravica** (docs exist in Drive).
+  Peter's up-to-40% performance-based earn-in is consistent with §15 here.
+- **"CSA Outcomes Registry"** is the canonical name for the outcomes program —
+  use it for the `/funnel` outcomes tracking and Pillar 5.
+
+### Governing cautions to hold going forward
+- **Offer-complexity & distraction risk (§22):** the Master Summary explicitly
+  warns against launching everything at once. Sequence; one thing at a time.
+- **Legal/compliance is Priority 1 (§24):** reinforces the HIPAA/consent flags
+  already placed on the patient funnel.
