@@ -459,9 +459,16 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
-- Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+- `/site` — CSA website architecture + build docs (added 2026-07-16).
+  `site/csa-website-architecture.md` is the master blueprint: DC-facing
+  academy site on ClickFunnels 2.0, 5 pillars (Anatomy & Physiology;
+  Practice Management; Case Presentation & Closing; Provider Network;
+  Data & Outcomes), all feeding the free Alignment Call. Pillar 5 (Data)
+  is fed by the patient outcomes tracking in `/funnel`. Domain switch
+  (GoDaddy → CF 2.0) checklist: `site/domain-godaddy-to-clickfunnels-checklist.md`
+  — point DNS (Option A), don't transfer registration.
+- Future: `/content` for course/educational assets. Structure added when
+  first needed — not before.
 - `/funnel` — patient-facing ecosystem funnel definition + trackers
   (added 2026-07-15). See section 16.
 
