@@ -5,6 +5,11 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 ---
 
 **2026-07-16**
+> My story's job is not to educate — it's to convert attention into belief.
+
+*(Brand/storytelling principle — guides how the founder story and About page
+are written: build belief, don't lecture.)*
+
 > Sleep is biological infrastructure, because it governs cranial pump capacity.
 
 > In infants, the palate is highly compliant and participates in feeding,
