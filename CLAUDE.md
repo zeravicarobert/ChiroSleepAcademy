@@ -119,14 +119,19 @@ authenticated to a *different* one:
 
 | Integration | Account |
 |---|---|
-| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` |
+| Gmail (read/draft) | `zeravicarobert@gmail.com` |
 | Calendar (primary) | `robertzeravica91324@gmail.com` |
 | Drive (file owner) | `zeravicarobert@gmail.com` |
 
+> **Corrected 2026-07-16:** Gmail is `zeravicarobert@gmail.com` (verified from
+> actual mail — Joy/Book-To-Buyer emails land there and Sent mail comes from
+> it), NOT `DrZeravicaOffice` as previously noted. Gmail and Drive are the
+> **same** account now.
+
 Implications:
-- Email scans run against `DrZeravicaOffice` only. To search the other
-  two inboxes, Robert must connect them in Claude Code on the web →
-  Settings → Connections.
+- Email scans run against `zeravicarobert@gmail.com` only. To search other
+  inboxes (e.g. `DrZeravicaOffice`), Robert must connect them in Claude Code
+  on the web → Settings → Connections.
 - Drive files searched/read here are those owned by or shared with
   `zeravicarobert@gmail.com`.
 - Calendar events live on `robertzeravica91324@gmail.com`.
