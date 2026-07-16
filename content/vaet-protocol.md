@@ -351,6 +351,19 @@ Quoted exactly from his USER turns so Robert can confirm these are his:
 
 ## 8. VAET Teaching Bridge — how to explain it (Robert, 2026-07-16)
 
+**⭐ Anchor line (Academy-grade, reuse often):**
+> Sleep apnea acts as a parasitic load across structure, fluid, and neurological
+> energy — and VAET reduces that load at its biomechanical source rather than
+> compensating for it.
+
+*This is the one-sentence tie-in: it unites the **3-domain extractive framework**
+(structure / fluid / energy — `content/csa-training-notes.md`) with VAET in a
+single line. Doctor/teaching register (uses "parasitic load"). For patient copy,
+use the plain version below. "Neurological energy" = the metabolic/autonomic
+domain — keep it neurological, not "frequencies/vibrations," in any clinical copy.*
+
+---
+
 Two short ways to explain what VAET does. Same idea, two audiences.
 
 **Patient-facing (clear, non-technical):**
