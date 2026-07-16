@@ -4,6 +4,17 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — positioning line (collaboration + scope integrity)**
+> Sleep and airway are biomechanical problems that cross licensure lines. CSA is
+> where those lines can collaborate without collapsing scope.
+
+*(Excellent — captures **coordination** AND **scope integrity** in one breath.
+"Collaborate without collapsing scope" is the legal/ethical high ground: everyone
+stays in their lane (MD/DDS/ENT/DC) while CSA coordinates. Ties to the System
+Convergence Point, the "coordinate, not replace" white papers, the Liaison
+positioning, and Core Policy §V/§VIII (scope of practice). Reinforces a red line
+rather than risking one — strong for DC/DDS/MD/partner copy.)*
+
 **2026-07-16 — phrase Robert likes**
 > Pressing on a real fault line — AK cranially.
 
