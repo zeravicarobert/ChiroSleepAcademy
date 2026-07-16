@@ -24,6 +24,22 @@
 
 ## 1. What VAET Is (in Dr. Z's framing)
 
+> **CANONICAL DEFINITION (Robert, 2026-07-16):** VAET is **not a new cranial
+> technique**, but a **condition-specific application framework utilizing
+> established chiropractic methods.**
+>
+> Viscerocranial Airway Expansion Therapy (VAET) is a whole-system, airway-
+> focused clinical treatment protocol for **Upper-Airway Obstructive Sleep
+> Apnea (UAOSA)** that applies sleep and airway sciences through functional
+> anatomy and physiology, utilizing established chiropractic methods — CFR/BNS,
+> SOT/AK, CBP, lower-extremity and postural-foundation correction (foot levelers
+> and custom orthotics), and other supportive biomechanical interventions —
+> adapted to a doctor–patient clinical setting and delivered in a defined
+> sequence and time-limited treatment window.
+>
+> *Resolves gap #1 (technique vs. framework): VAET is a **framework/application**,
+> not a new technique.*
+
 **VAET = Viscerocranial Airway Expansion Therapy.** It is Dr. Z's
 proprietary, condition-specific **clinical protocol** for what he calls
 **UAOSA** (Upper-Airway Obstructive Sleep Apnea — his own term for the

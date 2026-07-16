@@ -35,9 +35,9 @@ Management; Case Presentation & Closing).
 - **Resolved 2026-07-16:** the CSA X.0 ladder **stops at 3.0.** Provider Network
   and Data are **NOT** 4.0/5.0 — they stand **side by side** with the 3 as
   parallel supports (network + proof), not higher rungs.
-- **"Pillars" is being retired as the label.** Robert is choosing a new name
-  for the 5 site categories (they are the load-bearing parts of the **CSA
-  Academy**). Update this doc when he gives it.
+- **"Pillars" stays** (Robert's call 2026-07-16). The 5 site categories are the
+  **Pillars of the CSA Academy** — 3 in the CSA X.0 learning ladder, plus
+  Provider Network and Data standing beside them.
 
 ### Collision fix vs. the Master Summary
 `PROJECT_MASTER_SUMMARY.md` §5 uses "CSA 1.0 / 2.0" for a **clinical** ladder
