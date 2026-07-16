@@ -736,3 +736,12 @@ the **Unsubluxated Structural Breathing System** progression. Claude's earlier
 - Use the fewest words possible.
 - Say clearly: what I did, or what I want him to do.
 - Avoid long sentences, jargon, and packed parentheses.
+
+### 2026-07-16 — Robert's position: he DOES diagnose (within CA DC scope)
+Robert states that as a California DC he can interpret and diagnose (incl. OSA)
+per CA DC Board rules; sleep tests are read by a sleep-MD or polysomnographic
+tech, and he makes the clinical read within his scope. This **modifies the §5
+red line "DCs don't diagnose OSA" for Robert's own practice.** ⚠️ Flagged as a
+scope-of-practice claim to confirm in writing with his attorney / the DC Board
+before relying on it in copy or the study. Applied in
+`funnel/patient-consent-optin-sleep-study.md`.
