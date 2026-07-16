@@ -64,8 +64,10 @@ sleepiness score. We compare before and after.
   **de-identified** results (no name, nothing that points to you) in teaching,
   talks, or research.
 - **Costs.** **Free:** watch my short intro video about sleep, breathing and the
-  airway, and your early-, mid-, and late-intervention options. **Paid:** [fill
-  in — e.g., home sleep test fee, treatment fees.]
+  airway, and your early-, mid-, and late-intervention options. **Paid:** a
+  **$180 home sleep test.** It is **disposable** — you take it once, then throw
+  it away (nothing to mail back). Your results upload to the cloud, a report is
+  made, and Dr. Z goes over it with you. [Treatment fees, if any: confirm.]
 - **Risks.** [Fill in with attorney/MD: e.g., normal risks of chiropractic care;
   the home sleep test is non-invasive.]
 
