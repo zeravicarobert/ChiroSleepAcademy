@@ -47,6 +47,29 @@ biomechanics brings in:
 - Frame mainstream sleep medicine as **incomplete, not wrong** — stay respectful
   of MDs and DDSs.
 
+## CFR, the Sphenoid & the Septum Pellucidum (presentation model — SPECULATIVE)
+
+Presentation idea (Robert): link Cranial Facial Release (CFR) to the brain's
+"Joy Center" (septum pellucidum) through the **sphenoid bone.**
+- **Septum pellucidum** — a thin membrane; relay near the limbic system
+  (emotion/stress). Sits above the pituitary, which sits in the sphenoid's
+  saddle (sella turcica).
+- **CFR interaction** — CFR mobilizes the sphenoid (the skull's "keystone"),
+  proposed to: (1) **reduce dural torque** on the limbic system; (2) **stimulate
+  CSF flow** ("wash" the brain, clear "toxic sludge," lower intracranial
+  pressure); (3) **regulate the HPA axis** — shifting from a sympathetic
+  "stress/apnea" state toward a parasympathetic "joy/relaxation" state.
+
+⚠️ **Guardrails — the most speculative model so far. Handle with care:**
+- The **anatomy** is roughly real (sphenoid is a keystone bone; pituitary sits
+  in the sella turcica; septum pellucidum sits near septal/limbic structures).
+- The **mechanism chain** (CFR → CSF "washing" → HPA shift → disrupting apnea)
+  is **hypothesis, not proven.** "Toxic sludge," "Joy Center," and "pumping the
+  pituitary" are vivid *teaching* language — **not established physiology.**
+- **Use only** in DC-facing / teaching / presentation settings, clearly labeled
+  as *a model we're exploring.* **Never** in patient/MD/DDS clinical copy as
+  fact, and **never** as a cure/treat claim for apnea (red lines §5).
+
 ## Related asides (in `content/csa-quotes-and-ideas.md`) — tagged for training
 - Infant palate is highly compliant (feeding, breathing, cranial fluid); adults
   lose compliance → possible loss of neurological efficiency in sleep.
