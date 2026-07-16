@@ -4,6 +4,18 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — teaching hook / analogy**
+> Airflow determines "horsepower" — whether in engines or biology.
+
+*(Punchy performance hook: better airflow → better output. Works well as a
+lecture/teaching line. Guardrails: it's an **analogy**, not a mechanism — in
+patient/MD copy don't let it imply VAET "adds horsepower" or cures anything.
+Keep the "energy" it points to as **metabolic / performance / oxygen delivery**
+(the defensible version), not frequencies/vibrations. Pairs naturally with the
+"pressure vectors" line below and the biomechanics-of-the-airway theme.)*
+
+---
+
 **2026-07-16 — teaching line (Robert likes this wording)**
 > Abnormal skeletal alignment could impose abnormal pressure vectors…
 
