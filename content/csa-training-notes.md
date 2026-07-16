@@ -89,6 +89,20 @@ keep the sleep/airway payoff as CSA's investigative claim. Pairs with
 "the system yields," the palate-as-diaphragm note, and "Biomechanics: the Missing
 80%?"
 
+**CSF teaching phrase (Robert, 2026-07-16):**
+> Rhythmically assisted fluid exchange in the cranial vault.
+
+A careful, credible way to describe CSF dynamics. Split it honestly:
+- **The "rhythmic fluid exchange" part is increasingly evidence-backed** — CSF flow
+  is pulsatile (cardiac/respiratory-coupled) and **sleep-enhanced** (glymphatic
+  clearance; sleep-coupled CSF flux is documented). So "rhythmically assisted fluid
+  exchange" is on solid, current ground — good for MD/patient copy.
+- **What stays hypothesis-level** is the claim that **cranial-bone mechanics
+  drive/assist that exchange.** Keep *that* as CSA's model under investigation.
+- Net phrasing rule: say CSF exchange **is rhythmic and sleep-enhanced** (evidence);
+  say cranial mechanics **may support** it (hypothesis). Don't fuse the two into one
+  asserted fact. Avoids the old "cranial pump washes toxic sludge" overreach.
+
 ## CFR, the Sphenoid & the Septum Pellucidum (presentation model — SPECULATIVE)
 
 Presentation idea (Robert): link Cranial Facial Release (CFR) to the brain's
