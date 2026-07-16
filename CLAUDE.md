@@ -536,6 +536,11 @@ Resolved during intake:
 - ~~HST vendor candidates~~ → **Sleep Doctor (active), self-supplied + Will Spriggs (existing), unnamed free-DC-testing vendor, SleepImage (researching) — see section 8**
 
 Still open:
+- **⭐ Homepage hero (REMINDER Robert requested 2026-07-16):** when the CSA
+  homepage/landing-page copy is built, **lead with the AI-era hero line** (the
+  "biological infrastructure / roof of the mouth = floor of the nose" line, marked
+  ⭐ HERO in `content/csa-quotes-and-ideas.md`; also reserved in
+  `site/csa-website-architecture.md`). Surface this when homepage work begins.
 - **HST vendor decision** — which vendor becomes the CSA *default*? The
   $50 cost ceiling vs. Sleep Doctor's $189 cash-pay creates a margin
   tension that needs a clear answer (insurance-first model, $397

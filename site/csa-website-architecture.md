@@ -11,6 +11,14 @@ first — homepage, the 5 pillars, navigation, and how every page feeds the
 funnel — so we can then fill in copy one pillar at a time without the whole
 thing drifting.
 
+> **⭐ RESERVED — Homepage hero (Robert's call 2026-07-16):** when the homepage
+> copy is written, **lead with the AI-era hero line** (full text + guardrails in
+> `content/csa-quotes-and-ideas.md`, marked ⭐ HERO):
+> *"In an AI-accelerated world, performance is no longer limited by intelligence —
+> it's limited by the biological infrastructure that sustains it… the ceiling is
+> the roof of the mouth, which is the floor of the nose."* Robert asked to be
+> reminded of this when homepage work begins.
+
 ---
 
 ## Who this site is for
