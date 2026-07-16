@@ -16,8 +16,8 @@ separate legal step, see the launch checklist.)
 | **UAOSA** | Two intentional readings — **Upper-Airway Obstructive Sleep Apnea** (mainstream medicine's diagnosis) and **Upper Airway Obstructive Structural Alignment** (CSA's structural reframe). See note ↓. | Defined 2026-07-16 |
 | **VANI-R** | **Viscerocranial Airway Neurocranial Impulse–Relaxation** (R = Relaxation — shift sympathetic-dominant patients toward parasympathetic). See note ↓. | ⚠️ Uncertain — Robert may drop it (2026-07-16) |
 | **Biomechanical Systems Integration** | The "missing layer" of sleep-apnea care: how jaw/appliance changes affect spine, pelvis, cranium, and load transfer over time — the integration CSA owns between DDS, DC, and device makers. From the white paper. | Defined 2026-07-16 |
-| **Systems Intelligence** | Robert's DC-philosophy concept: the uniting link between **Universal Intelligence** and **Innate Intelligence** (Palmer terms). See note ↓. | ⚠️ DC-register ONLY (2026-07-16) |
-| **Structural Intelligence** | The Operating Doctrine that grounds the CSA Core Policy (§II) — governance by structural law, written policy, defined roles, measured outputs. | ⚠️ Reconcile with "Systems Intelligence" — same idea or distinct? (2026-07-16) |
+| **Systems Intelligence** | **The BODY.** The body as one coordinated system; the uniting link between **Universal** and **Innate Intelligence** (Palmer terms). Clinical/philosophy. See note ↓. | 🔒 LOCKED 2026-07-16 — body/clinical (DC-register) |
+| **Structural Intelligence** | **The ORGANIZATION.** CSA's operating doctrine (Core Policy §II): run on structural law, written policy, defined roles, measured outputs — not personality or memory. Governance. | 🔒 LOCKED 2026-07-16 — organization/governance |
 
 ---
 
@@ -41,6 +41,16 @@ Same acronym, used as a reframe: **mainstream medicine** reads it as *Sleep
 Apnea* (the diagnosis); **CSA** reads it as *Structural Alignment* (the
 structural contributor). In clinical copy, make clear which one you mean so you
 don't confuse clinicians.
+
+### Note — Systems vs. Structural Intelligence (🔒 LOCKED 2026-07-16)
+**Two different things, one shared principle.** Never use interchangeably.
+- **Systems Intelligence = the BODY** (clinical/philosophy): the body is one
+  coordinated system; the link between Universal + Innate Intelligence.
+- **Structural Intelligence = the ORGANIZATION** (governance): CSA runs on
+  structure — law, policy, roles, measured outputs — not personality or memory.
+- **Shared principle:** *intelligence expresses itself through structure* — in the
+  body (anatomy) and in the business (policy). Full write-up:
+  `content/structural-vs-systems-intelligence.md`.
 
 ### Note — Systems Intelligence (register guardrail)
 Robert's concept uniting **Universal Intelligence** and **Innate Intelligence**

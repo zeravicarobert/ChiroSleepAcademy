@@ -1,8 +1,8 @@
 # Structural Intelligence vs. Systems Intelligence
 
 **Question from Robert (2026-07-16):** are these the same, or two different things?
-**Recommended answer: two different things — one shared principle, two domains.**
-Keep both, in clear lanes. (Robert to confirm.)
+**🔒 DECIDED & LOCKED (Robert, 2026-07-16): two different things — one shared
+principle, two domains. Keep both, never interchangeably.**
 
 ---
 
