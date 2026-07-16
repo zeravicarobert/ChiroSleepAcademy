@@ -687,6 +687,20 @@ The Master Summary supplies the real IP language the site docs lack:
 Canonical positioning calls Robert has made. These govern all copy; when new
 material conflicts, these win (alongside the §5 red lines).
 
+### 2026-07-16 — Independence + Clinical Consequence (CSA's shield)
+Two paired governing principles (full text: `content/positioning-clinical-consequence.md`):
+> **CSA does not judge truth claims. CSA judges clinical consequence.**
+> **CSA is not afraid of Scripture, science, or technique traditions — because it
+> is not owned by any of them.**
+Independence (owned by none) → free to draw from all → judge only by **measured**
+consequence. Shields CSA from cult accusations, religious pushback, technique
+wars, and philosophical dead ends. **Nuance:** "doesn't judge truth claims" =
+won't arbitrate metaphysical/religious/technique-superiority claims — it does NOT
+lower the evidence bar. Consequence must be **honestly measured** (before/after,
+non-responders), never a cure claim. Raises rigor, doesn't lower it. Disarming
+line for skeptics/MDs: *"CSA doesn't argue the mechanism is true — we measure the
+clinical consequence and report it."*
+
 ### 2026-07-16 — VAET/CSA stance: **Early structural-first, honestly framed**
 VAET is presented as a legitimate *early* structural intervention that belongs
 in the airway conversation and is often appropriate to try first for suitable
