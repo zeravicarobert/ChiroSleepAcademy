@@ -35,6 +35,17 @@ rotation, and they shape airflow without being a valve.
 
 → **Teaching point:** the palate behaves like a *diaphragm of the skull.* Losing
 palatal compliance may mean losing that function.
+
+**Companion line (Robert, 2026-07-16):**
+> Small structural interfaces often determine system-level performance. The palate
+> is one of them — specifically the **palatine bones.**
+
+Strong systems-thinking framing: a **small interface** can gate **whole-system
+output** (the way a narrow port limits a whole engine). Pairs with "compliant
+interfaces," "usable biological throughput," and the hero line (palate = roof of
+mouth / floor of nose). *Guardrail:* palatine-bone **anatomy** is real; the claim
+that the palate **determines sleep/airway/performance** is CSA's model under
+investigation — keep "often determine" hedged, tie it to measurement.
 *(Flag: cranial motion / "cranial pump" / palatal deformation are hypothesis-
 level, rooted in cranial-osteopathic theory — teach as CSA's investigative model,
 not settled fact.)*
