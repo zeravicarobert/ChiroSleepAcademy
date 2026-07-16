@@ -475,8 +475,17 @@ Claude should:
   is fed by the patient outcomes tracking in `/funnel`. Domain switch
   (GoDaddy → CF 2.0) checklist: `site/domain-godaddy-to-clickfunnels-checklist.md`
   — point DNS (Option A), don't transfer registration.
-- Future: `/content` for course/educational assets. Structure added when
-  first needed — not before.
+- `/content` — educational/brand/evidence assets (added 2026-07-16).
+  `content/evidence/penn-state-moving-brain-csa.md` — how to responsibly use
+  the Penn State "moving brain" paper (*Nature Neuroscience*, abdomen↔brain
+  mechanical coupling) as CSA positioning. Supportive context, NOT proof;
+  includes a "Do NOT say" list and two accuracy guardrails (the study tracked
+  abdominal contraction/locomotion, NOT respiration or the cardiac cycle, and
+  models a movement/wake flush OPPOSITE to sleep-time flow). Feeds Master
+  Summary §6.7 + §14 and Pillar 5. Also proposes a **CSA 3.0** ladder rung
+  (neurofluid/autonomic/brain–body regulation) — flagged PROPOSED, awaiting
+  Robert's OK before it joins the canonical CSA 1.0→2.0 ladder (Master
+  Summary §5).
 - `/funnel` — patient-facing ecosystem funnel definition + trackers
   (added 2026-07-15). See section 16.
 
