@@ -15,6 +15,8 @@ separate legal step, see the launch checklist.)
 | **Awareness-Disruption Model for Sleep Apnea™** | When a patient sees apnea through CSA's structural lens (not only the mainstream medical or sleep-dental view), that new awareness may help them *disrupt* their apnea. See note ↓. | Defined 2026-07-16 |
 | **UAOSA** | Two intentional readings — **Upper-Airway Obstructive Sleep Apnea** (mainstream medicine's diagnosis) and **Upper Airway Obstructive Structural Alignment** (CSA's structural reframe). See note ↓. | Defined 2026-07-16 |
 | **VANI-R** | **Viscerocranial Airway Neurocranial Impulse–Relaxation** (R = Relaxation — shift sympathetic-dominant patients toward parasympathetic). See note ↓. | ⚠️ Uncertain — Robert may drop it (2026-07-16) |
+| **Biomechanical Systems Integration** | The "missing layer" of sleep-apnea care: how jaw/appliance changes affect spine, pelvis, cranium, and load transfer over time — the integration CSA owns between DDS, DC, and device makers. From the white paper. | Defined 2026-07-16 |
+| **Systems Intelligence** | Robert's DC-philosophy concept: the uniting link between **Universal Intelligence** and **Innate Intelligence** (Palmer terms). See note ↓. | ⚠️ DC-register ONLY (2026-07-16) |
 
 ---
 
@@ -38,6 +40,15 @@ Same acronym, used as a reframe: **mainstream medicine** reads it as *Sleep
 Apnea* (the diagnosis); **CSA** reads it as *Structural Alignment* (the
 structural contributor). In clinical copy, make clear which one you mean so you
 don't confuse clinicians.
+
+### Note — Systems Intelligence (register guardrail)
+Robert's concept uniting **Universal Intelligence** and **Innate Intelligence**
+(chiropractic-philosophy / Palmer terms) via a "systems" link. **Full strength
+for DC-facing / philosophy venues only.** To dentists, MDs, and device
+manufacturers this reads as insider metaphysics and can cost credibility — keep
+it **out of industry / MD / DDS / patient copy** (two-register rule, CLAUDE.md
+§18). The white paper's *industry* version drops it; a *DC-facing* edition keeps
+it.
 
 ### Note — VANI-R
 **Viscerocranial Airway Neurocranial Impulse–Relaxation.**
