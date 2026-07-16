@@ -47,6 +47,25 @@ mouth / floor of nose). *Guardrail:* palatine-bone **anatomy** is real; the clai
 that the palate **determines sleep/airway/performance** is CSA's model under
 investigation — keep "often determine" hedged, tie it to measurement.
 
+**Refined scientific statements (Robert, 2026-07-16) — use these for credible copy:**
+> The palatine bones participate in a diaphragmatic function through **compliant
+> deformation, not hinge-like articulation.**
+
+> The system functions best when the **palate can yield, the airway is patent, and
+> rhythmic motion is unimpeded.**
+
+- The first is the **tensegrity-correct** phrasing of the palate-as-diaphragm idea:
+  *compliant deformation, not hinge* — exactly Levin's "distributed motion, shared
+  deformation." Credible register; ties to the suture-micromotion anchor.
+- The second is a clean statement of the **functional goal state** — it *is*
+  **Structural Breathing Stability** (`csa-coined-terms.md`) described mechanically:
+  palate yields + airway patent + rhythm unimpeded.
+- *Guardrail:* "diaphragmatic function" of the palate is CSA's **model** (the
+  compliant-deformation mechanics are defensible; the diaphragm *role* in
+  sleep/airway is the hypothesis). Say the palate **can behave** like a compliant
+  interface (credible); say it **functions as** the airway's diaphragm only as
+  CSA's investigative claim. Measure it.
+
 ### Clinical skill to teach DCs — asymmetric palatal yield (2026-07-16)
 Teach DCs to assess the palate for **asymmetric yield between the left and right
 palatal halves** (the paired maxillary palatine processes + palatine bones meeting

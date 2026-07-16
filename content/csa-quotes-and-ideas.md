@@ -4,6 +4,17 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — identity line (the connector thesis)**
+> The most valuable player is the connector, not the expert.
+
+*(Core to Dr. Z's positioning — the **Liaison**, the **System Convergence Point**,
+the connector gift (brand-and-identity notes). It also underwrites "renting
+credibility" (the connector's value is the network + coordination, not just
+expertise) and the whole coordinate-not-replace stance. Strong for DC/partner
+copy. Nuance: "not the expert" ≠ "expertise doesn't matter" — the connector still
+has to be credible; it means connection *outvalues* solo expertise in a fragmented
+system.)*
+
 **2026-07-16 — positioning line (collaboration + scope integrity)**
 > Sleep and airway are biomechanical problems that cross licensure lines. CSA is
 > where those lines can collaborate without collapsing scope.
