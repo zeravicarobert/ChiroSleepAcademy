@@ -72,6 +72,20 @@ Presentation idea (Robert): link Cranial Facial Release (CFR) to the brain's
 
 ## Sleep apnea as "biochemical parasitism" (liquid-domain model)
 
+> **⭐ Preferred framing (2026-07-16 — publishable, patient-safe):**
+> In physiology and behavior, some conditions act *parasitically* — **not as
+> identities, but as mechanisms** that draw from the host until **awareness
+> interrupts them.**
+> Sleep apnea behaves like a parasite. It feeds on disrupted breathing,
+> fragmented sleep, and reduced awareness. Like any parasite, it loses power
+> when it is **named, understood, and addressed.**
+> → Use this as the lead. It's credible (says "behaves like," an analogy, not a
+> literal diagnosis) and it ties straight into the **Awareness-Disruption
+> Model** (awareness → disruption).
+
+The deeper (internal / teaching) version below is stronger physiology but riskier
+wording — keep it for DC/teaching, not patient/MD copy.
+
 Framing (Robert): a parasitic condition in the **liquid domain** repeatedly
 alters blood gases, inflammatory signaling, and metabolic chemistry — forcing
 the body into a **chronic compensatory state** that extracts energy and recovery
