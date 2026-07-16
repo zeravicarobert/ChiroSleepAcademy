@@ -70,6 +70,35 @@ Presentation idea (Robert): link Cranial Facial Release (CFR) to the brain's
   as *a model we're exploring.* **Never** in patient/MD/DDS clinical copy as
   fact, and **never** as a cure/treat claim for apnea (red lines §5).
 
+## Sleep apnea as "biochemical parasitism" (liquid-domain model)
+
+Framing (Robert): a parasitic condition in the **liquid domain** repeatedly
+alters blood gases, inflammatory signaling, and metabolic chemistry — forcing
+the body into a **chronic compensatory state** that extracts energy and recovery
+capacity.
+
+**Sleep-apnea example:**
+- repeated hypoxia
+- CO₂ retention
+- inflammatory cytokines
+- impaired glymphatic clearance
+- altered CSF dynamics
+
+→ Robert's stance: this is **biochemical parasitism, not metaphorical.**
+
+*Guardrails (red lines §5):*
+- The core physiology is **real and evidence-based** — OSA does cause
+  intermittent hypoxia, CO₂ retention, and systemic inflammatory cytokines.
+- The **glymphatic-clearance and CSF-dynamics** links are **emerging /
+  hypothesis**, not settled.
+- The **"parasitism" label is a conceptual / teaching frame.** Strong for
+  DC/teaching audiences; for MD/patient copy, lead with the *established*
+  physiology and present "parasitism" as CSA's *lens*, not a literal medical
+  diagnosis.
+- *("Your earlier definition was weak" implies a broader **Parasites** concept —
+  possibly liquid vs. other domains — from Robert's prior work. Flag to build out
+  if he wants.)*
+
 ## Related asides (in `content/csa-quotes-and-ideas.md`) — tagged for training
 - Infant palate is highly compliant (feeding, breathing, cranial fluid); adults
   lose compliance → possible loss of neurological efficiency in sleep.
