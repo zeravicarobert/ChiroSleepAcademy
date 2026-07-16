@@ -14,7 +14,7 @@ separate legal step, see the launch checklist.)
 | **Integrated Sleep Infrastructure** | Ensures nothing is *missed*. | Brand framing |
 | **Awareness-Disruption Model for Sleep Apnea™** | When a patient sees apnea through CSA's structural lens (not only the mainstream medical or sleep-dental view), that new awareness may help them *disrupt* their apnea. See note ↓. | Defined 2026-07-16 |
 | **UAOSA** | Two intentional readings — **Upper-Airway Obstructive Sleep Apnea** (mainstream medicine's diagnosis) and **Upper Airway Obstructive Structural Alignment** (CSA's structural reframe). See note ↓. | Defined 2026-07-16 |
-| **VANI-R** | **Viscerocranial Airway Neurocranial Impulse–Restoration** — coined CSA technique. See note ↓. | NEW 2026-07-16 |
+| **VANI-R** | **Viscerocranial Airway Neurocranial Impulse–Relaxation** (R = Relaxation — shift sympathetic-dominant patients toward parasympathetic). See note ↓. | ⚠️ Uncertain — Robert may drop it (2026-07-16) |
 
 ---
 
@@ -40,9 +40,9 @@ structural contributor). In clinical copy, make clear which one you mean so you
 don't confuse clinicians.
 
 ### Note — VANI-R
-**Viscerocranial Airway Neurocranial Impulse–Restoration.**
-- ⚠️ **"Restoration"** is a retired verb — you prefer *unsubluxate / expand /
-  establish / stabilize*, not "restore" (Master Summary §5). Reconcile the name,
-  or keep it as an exception?
-- **Relation to VAET** (Viscerocranial Airway Expansion Therapy) is TBD — is
-  VANI-R part of VAET, a companion technique, or distinct?
+**Viscerocranial Airway Neurocranial Impulse–Relaxation.**
+- **R = Relaxation** (not "Restoration"). Goal: move **sympathetic-dominant**
+  patients toward **parasympathetic** (rest). This clears the retired-verb flag.
+- ⚠️ **Robert may not use VANI-R at all** (2026-07-16). **Parked** — don't build
+  on it until he decides.
+- Relation to VAET still TBD if kept.
