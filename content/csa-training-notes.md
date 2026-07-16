@@ -59,6 +59,25 @@ biomechanics brings in:
 - Frame mainstream sleep medicine as **incomplete, not wrong** — stay respectful
   of MDs and DDSs.
 
+## Cranial mechanics — how the cranium actually behaves (teaching maxim)
+
+Robert's framing (2026-07-16):
+> In cranial mechanics: **motion is distributed, deformation is shared, no single
+> joint "moves" — the system yields.**
+
+A crisp, **tensegrity-correct** way to teach the cranium: not a set of hinge
+joints that "pop," but a connected system that **yields** and **shares load**.
+This is the defensible register (Stephen Levin's biotensegrity, the "curved
+tensegrity" reading already noted in `vaet-protocol.md`) — far stronger than
+"cranial bones pump" language.
+
+*Guardrails:* the **fact of measurable cranial-bone motion is still contested** in
+mainstream science — so teach this as **how CSA models cranial behavior** (a
+distributed, yielding system), CSA's model under investigation, not settled
+physiology. Pairs with the palate-as-diaphragm note (deformation, not rotation)
+and "Biomechanics: the Missing 80%?" Keep it out of patient/MD copy as fact; great
+for DC teaching.
+
 ## CFR, the Sphenoid & the Septum Pellucidum (presentation model — SPECULATIVE)
 
 Presentation idea (Robert): link Cranial Facial Release (CFR) to the brain's
