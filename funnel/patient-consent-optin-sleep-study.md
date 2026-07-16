@@ -63,11 +63,18 @@ sleepiness score. We compare before and after.
 - **Your privacy.** We store your health data securely. We may share
   **de-identified** results (no name, nothing that points to you) in teaching,
   talks, or research.
-- **Costs.** **Free:** watch my short intro video about sleep, breathing and the
-  airway, and your early-, mid-, and late-intervention options. **Paid:** a
-  **$180 home sleep test.** It is **disposable** — you take it once, then throw
-  it away (nothing to mail back). Your results upload to the cloud, a report is
-  made, and Dr. Z goes over it with you. [Treatment fees, if any: confirm.]
+- **Costs.**
+  - **Free:** watch my short intro video about sleep, breathing and the airway,
+    and your early-, mid-, and late-intervention options.
+  - **Paid:**
+    - **$180** — home sleep test. It is **disposable** — take it once, then throw
+      it away (nothing to mail back). Results upload to the cloud, a report is
+      made, and Dr. Z goes over it with you.
+    - **$3,500** — VAET (the first structural treatment step).
+    - **~$4,000** — CBP + SOT/AK care for the 3 months after.
+    - Maintenance adjustments after that: [confirm price].
+  - So the full sequence is about **$7,680**, plus maintenance. You can stop at
+    any step.
 - **Risks.** [Fill in with attorney/MD: e.g., normal risks of chiropractic care;
   the home sleep test is non-invasive.]
 
