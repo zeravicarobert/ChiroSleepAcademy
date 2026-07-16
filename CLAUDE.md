@@ -495,6 +495,12 @@ Claude should:
     mined from Robert's ChatGPT export (2,447 total conversations; 474 mention
     CSA terms; 317 higher-confidence catalogued). **Raw chats are NOT in the
     repo** (personal data + size).
+  - `content/gerd-csa-positioning.md` — canonical GERD positioning (Robert-
+    authored): reflux as a sleep-airway-biomechanical *recognition* cue, not
+    something CSA treats. Red-line safe.
+  - `content/vaet-protocol.md` — VAET protocol reconstructed from Robert's
+    ChatGPT chats (v1 DRAFT for his confirmation; Master Summary §21 marks the
+    exact protocol unresolved).
 
 ### Re-mining the ChatGPT export (method that works)
 The full export lives in Drive folder **"ChatGPT download"** (`zeravicarobert@
