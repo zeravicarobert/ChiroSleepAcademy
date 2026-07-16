@@ -71,12 +71,23 @@ This is the defensible register (Stephen Levin's biotensegrity, the "curved
 tensegrity" reading already noted in `vaet-protocol.md`) — far stronger than
 "cranial bones pump" language.
 
-*Guardrails:* the **fact of measurable cranial-bone motion is still contested** in
-mainstream science — so teach this as **how CSA models cranial behavior** (a
-distributed, yielding system), CSA's model under investigation, not settled
-physiology. Pairs with the palate-as-diaphragm note (deformation, not rotation)
-and "Biomechanics: the Missing 80%?" Keep it out of patient/MD copy as fact; great
-for DC teaching.
+**Supporting line (Robert, 2026-07-16):**
+> Micromotion, compliance, and deformation under load is not a bad thing —
+> **sutures do it all the time.**
+
+This is the **credible anchor** for the whole cranial-motion model: cranial
+**sutures** are viscoelastic joints that genuinely permit micromotion and
+compliance under load — that part is defensible, not fringe. It reframes "cranial
+motion" from a mystical pump to ordinary **suture mechanics**: bones yield a little
+at their seams, as loaded connective joints do.
+
+*Guardrails:* **suture micromotion/compliance is real**; what stays
+**hypothesis-level** is the *degree* of motion and its *clinical significance for
+airflow, sleep, and neurological recovery* — that's CSA's model under
+investigation, not settled physiology. Lead with the suture framing (defensible),
+keep the sleep/airway payoff as CSA's investigative claim. Pairs with
+"the system yields," the palate-as-diaphragm note, and "Biomechanics: the Missing
+80%?"
 
 ## CFR, the Sphenoid & the Septum Pellucidum (presentation model — SPECULATIVE)
 

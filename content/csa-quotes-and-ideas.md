@@ -23,6 +23,23 @@ fragmented — CSA doesn't have to convince it there's a problem, just be the
 the System Convergence Point, and "market to decision-makers, infrastructure
 language." Great one-liner for DC/partner/investor decks.)*
 
+**2026-07-16 — ⭐ HERO line, scientific/credible register (MD-safe twin)**
+> The future is no longer limited by intelligence — it is limited by the human
+> infrastructure that sustains recovery and performance. Sleep is a foundational
+> component of that infrastructure. Structures such as the hard palate, formed by
+> suturally mediated cranial bones, function as compliant interfaces that influence
+> airflow, neurological recovery, and physiological rhythm during sleep. CSA exists
+> to train chiropractors to recognize and remove these quiet constraints on human
+> performance.
+
+*(The **credible-register twin** of the ⭐ hero line below — use this version for
+**MD/DDS/academic/investor** audiences; use the punchier "roof of the mouth =
+floor of the nose" version for a landing-page cold open. "Suturally mediated…
+compliant interfaces" is defensible (suture micromotion is real —
+`csa-training-notes.md`); keep "influence airflow / neurological recovery /
+rhythm" as CSA's model under investigation. "Recognize and remove quiet
+constraints" = improvement, not a cure claim — good.)*
+
 **2026-07-16 — ⭐ HERO line (AI-era performance → biological infrastructure)**
 > In an AI-accelerated world, performance is no longer limited by intelligence —
 > it's limited by the biological infrastructure that sustains it. Sleep, airway,
