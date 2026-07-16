@@ -4,6 +4,21 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — reframe (focus vs. infrastructure)**
+> What appears to be a lack of focus — whether in a patient or a clinician — is
+> often something else: a massive vision without one streamlined infrastructure
+> capable of organizing and carrying it.
+
+*(A generous reframe: not scattered — **under-infrastructured.** Two uses:
+(1) **Brand/positioning** — CSA *is* that infrastructure (Integrated / Cranial
+Sleep Infrastructure; "infrastructure language attracts decision-makers"). The
+same reframe applies to a **patient** whose "brain fog / can't focus" is really a
+sleep/airway infrastructure problem — nice bridge to the clinical story.
+(2) **Personal/true for Robert** — big vision needing one streamlined system; it's
+the exact through-line of this whole build (the master tracker, the hat chart, the
+policy archive = giving the vision an infrastructure to be carried on). Compassion
+guardrail for patient copy: frame as "your system, not your willpower.")*
+
 **2026-07-16 — combustion analogy (airflow → usable power)**
 > When airflow is restricted, combustion is inefficient. When the airway is
 > optimized, the system produces more usable power with less strain.
