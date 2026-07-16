@@ -77,8 +77,24 @@ sleepiness score. We compare before and after.
       **$1,920** over 2 years.
   - So the full 2-year plan is about **$7,680 up front + up to ~$1,920
     maintenance ≈ $9,600 total.** You can stop at any step.
-- **Risks.** [Fill in with attorney/MD: e.g., normal risks of chiropractic care;
-  the home sleep test is non-invasive.]
+- **Risks.** *(Draft wording — your attorney and an MD must review and finalize
+  this before use. The neck-adjustment line especially has legal weight.)*
+  - **The home sleep test** is non-invasive and low-risk. You might get minor
+    skin irritation from a sensor, some discomfort wearing it, or a test that
+    doesn't record well and has to be redone.
+  - **The chiropractic and structural care** (VAET, cranial, CBP, SOT/AK, and
+    maintenance adjustments) can cause temporary soreness, stiffness, tiredness,
+    or headache after a visit. This usually passes in a day or two.
+  - **Serious problems are rare.** As with any hands-on care, injury is possible
+    but uncommon. Neck adjustments carry a rare risk of serious injury
+    (including, very rarely, stroke). Dr. Z reviews your history and screens for
+    anything that would make care unsafe. Tell him about any health changes.
+  - **This model is not proven.** It may not help your sleep. Your numbers may
+    not improve. You may spend time and money without the result you hoped for.
+  - **Sleep apnea can be serious.** This study does not replace medical care. Do
+    not delay, stop, or skip care your other doctors gave you. Keep using CPAP or
+    any prescribed treatment.
+  - **Results vary. There is no guarantee.**
 
 ### Your choice (check the boxes you agree to)
 
