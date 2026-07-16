@@ -126,3 +126,39 @@ only apply to others is not a standard at all.
 
 We begin, as we always will, with the same question. Not *is it true?* — but
 *what changed, and can we show it?*
+
+---
+
+# The Technique Deconstruction Framework
+
+**Motto (Robert, 2026-07-16):** *Show me what still works when belief is removed.*
+
+The operational engine of the book / Post-Dogmatic Chiropractic Review. It's a
+**keep-what-works** filter, run technique by technique (or claim by claim). The
+whole move: **subtract the belief and see what measurable effect is left standing.**
+
+**The five passes:**
+1. **State it plainly.** Name the technique and the specific claim, in ordinary
+   language — no in-group vocabulary.
+2. **Strip the story.** Set aside the mechanism, philosophy, and founder authority.
+   Not "is the explanation true?" — just set it down for now.
+3. **Name the measurable consequence.** What observable, objective change would this
+   produce if it works? (ROM, posture, HST/AHI/ODI/SpO₂, Epworth…) If nothing
+   measurable is even claimed, note that — it's a finding, not a failure.
+4. **Test it.** Before/after, reproducibly, **including non-responders.** Does the
+   effect survive when belief is removed and only measurement remains?
+5. **Sort the result.**
+   - **Keep** — reproducible consequence → endorse it, use it, still be honest you
+     may not know *why*.
+   - **Hold loosely** — the *explanation/story*: interesting, unproven, never given
+     the authority the consequence earned.
+   - **Set down** — unfalsifiable claims and "you didn't do it right" logic that put
+     the method beyond testing.
+
+**What it is not:** a verdict on people or a ranking of camps. It's clinical
+hygiene — keep the instrument, remove what shouldn't be on it. Most techniques
+**keep** something. That's the point.
+
+*(This is the working rubric behind Chapter 3. The tagline "show me what still works
+when belief is removed" is the cleanest one-line statement of the Consequence
+Standard.)*

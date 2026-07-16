@@ -13,6 +13,7 @@ separate legal step, see the launch checklist.)
 | **Clinical Sleep Architecture** | Defines how findings *relate*. | Brand framing |
 | **Integrated Sleep Infrastructure** | Ensures nothing is *missed* (the whole coordinated system/care). | Brand framing |
 | **Cranial Sleep Infrastructure** | The **anatomical + rhythmic systems** that enable neurological recovery, fluid exchange, and hormonal regulation during sleep. Teaching umbrella for palate, sphenoid, PRI, CSF, airway, sleep depth. See note ↓. | Defined 2026-07-16 |
+| **Technique Deconstruction Framework** | The keep-what-works filter behind the Post-Dogmatic Chiropractic Review. Motto: *"Show me what still works when belief is removed."* Strip the story → measure the consequence → keep what survives. Full rubric: `content/book-kingdom-draft.md`. | Defined 2026-07-16 |
 | **Awareness-Disruption Model for Sleep Apnea™** | When a patient sees apnea through CSA's structural lens (not only the mainstream medical or sleep-dental view), that new awareness may help them *disrupt* their apnea. See note ↓. | Defined 2026-07-16 |
 | **UAOSA** | Two intentional readings — **Upper-Airway Obstructive Sleep Apnea** (mainstream medicine's diagnosis) and **Upper Airway Obstructive Structural Alignment** (CSA's structural reframe). See note ↓. | Defined 2026-07-16 |
 | **VANI-R** | **Viscerocranial Airway Neurocranial Impulse–Relaxation** (R = Relaxation — shift sympathetic-dominant patients toward parasympathetic). See note ↓. | ⚠️ Uncertain — Robert may drop it (2026-07-16) |
