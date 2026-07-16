@@ -72,9 +72,11 @@ sleepiness score. We compare before and after.
       made, and Dr. Z goes over it with you.
     - **$3,500** — VAET (the first structural treatment step).
     - **~$4,000** — CBP + SOT/AK care for the 3 months after.
-    - Maintenance adjustments after that: [confirm price].
-  - So the full sequence is about **$7,680**, plus maintenance. You can stop at
-    any step.
+    - **~$80/month** — maintenance adjustments for up to 2 years, done at
+      **The Joint Chiropractic** (a franchise near you). That's up to about
+      **$1,920** over 2 years.
+  - So the full 2-year plan is about **$7,680 up front + up to ~$1,920
+    maintenance ≈ $9,600 total.** You can stop at any step.
 - **Risks.** [Fill in with attorney/MD: e.g., normal risks of chiropractic care;
   the home sleep test is non-invasive.]
 
