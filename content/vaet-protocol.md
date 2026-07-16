@@ -194,6 +194,15 @@ Summary Level 5). **[T]**
 
 ## 5. Claims Boundaries (red lines, restated for VAET)
 
+> ✅ **DECIDED STANCE (2026-07-16): Early structural-first, honestly framed.**
+> VAET is presented as a legitimate *early* structural intervention that
+> belongs in the airway conversation and is often appropriate to try first for
+> suitable cases — **always** measured (pre/post HST), **co-managed** with
+> MD/ENT, **never** claimed to cure or treat OSA, **never** positioned as
+> superior to or a replacement for CPAP/oral appliances/surgery, and **never**
+> advising a patient to stop prescribed therapy. All "VAET first, not CPAP" and
+> "without drugs or machines" language is retired.
+
 These are non-negotiable and, in several places, **cut against Dr. Z's own raw
 marketing language** in the transcripts (see §7):
 
@@ -229,13 +238,15 @@ before VAET is standardized.
   CFR/BNS. Both framings appear in his own words. Which is canonical? (This
   drives IP, teaching, and regulator language.)
 
-2. **First-line vs. adjunct — direct contradiction.** Dr. Z repeatedly insists
-  *"VAET for UAOSA 1st, not CPAPs, and not Oral Appliances,"* calls it superior
-  and "addresses the root cause," and says apnea can be "treated without drugs
-  or machines." Elsewhere the safe framing is "complementary, co-manage,
-  no cure." **These cannot both stand.** The red lines require the adjunct
-  framing; his marketing instinct is the first-line one. Needs an explicit
-  decision and a rewrite of any copy carrying the first-line/cure language.
+2. ✅ **RESOLVED (2026-07-16) — Early structural-first, honestly framed.**
+  Robert's decision: VAET is positioned as a legitimate *early* structural
+  intervention, often appropriate to try first for suitable cases, but always
+  measured, co-managed with MD/ENT, with **no cure claim**, **no "superior to /
+  instead of CPAP/appliances,"** and **no "treat without drugs or machines."**
+  The raw *"VAET for UAOSA 1st, not CPAPs"* / *"without drugs or machines"*
+  language (§7 quotes 5) is **retired** and any copy carrying it must be
+  rewritten. This keeps the structural-first conviction while staying inside the
+  red lines, chiropractic scope, and advertising law.
 
 3. **Does VAET physically expand bone, or release tension?** The shift from
   "dural tension release" to "airway aperture **expansion**" was made by Dr. Z

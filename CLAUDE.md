@@ -670,3 +670,27 @@ The Master Summary supplies the real IP language the site docs lack:
   warns against launching everything at once. Sequence; one thing at a time.
 - **Legal/compliance is Priority 1 (§24):** reinforces the HIPAA/consent flags
   already placed on the patient funnel.
+
+---
+
+## 18. Positioning Decisions (living log)
+
+Canonical positioning calls Robert has made. These govern all copy; when new
+material conflicts, these win (alongside the §5 red lines).
+
+### 2026-07-16 — VAET/CSA stance: **Early structural-first, honestly framed**
+VAET is presented as a legitimate *early* structural intervention that belongs
+in the airway conversation and is often appropriate to try first for suitable
+cases — but **always** measured (pre/post HST), **co-managed** with MD/ENT,
+**never** claimed to cure or treat OSA/GERD, **never** positioned as superior to
+or a replacement for CPAP / oral appliances / surgery, and **never** advising a
+patient to stop prescribed therapy.
+- **Retired language** (from Robert's older ChatGPT chats): "VAET for UAOSA 1st,
+  not CPAPs," "superior to," "addresses the root cause" (as a cure claim),
+  "treat/treated without drugs or machines." Any existing copy carrying these
+  must be rewritten.
+- **Consistent with:** the early/mid/late framing already in
+  `outreach/patient-email-sleep-early-intervention.md`; Master Summary §14 + §22.
+- **Ripples to:** website copy (esp. Pillar 3 messaging), the VAET protocol doc
+  (`content/vaet-protocol.md` §5–6, now marked RESOLVED), any DC/DDS/MD-facing
+  materials, and future ad copy.
