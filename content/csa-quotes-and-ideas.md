@@ -4,6 +4,17 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — teaching line (Robert likes this wording)**
+> Abnormal skeletal alignment could impose abnormal pressure vectors…
+
+*(Strong, credible biomechanics language. "Could impose" keeps it a hypothesis,
+not a claim — exactly right (red lines §5). "Pressure vectors" is real mechanics,
+far safer than energy/frequency talk. Fits the airway-as-biomechanical-system
+model and the "Biomechanics: the Missing 80%?" teaching. Good candidate for a
+lecture slide or the Foundations Workbook. Natural completion for copy: "…on the
+airway, the cranial base, and the structures that keep the airway open." Keep the
+tentative verb — measure it, don't assert it.)*
+
 **2026-07-16 — idea/angle**
 > Sleep Apnea Widowhood (is a thing).
 
