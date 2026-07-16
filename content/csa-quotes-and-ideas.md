@@ -4,6 +4,15 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — idea/angle**
+> Sleep Apnea Widowhood (is a thing).
+
+*(The partner of an apnea sufferer suffers too — broken sleep from the snoring,
+fear during the breathing pauses, separate bedrooms ("sleep divorce"). A real
+concept ("apnea widow / widower"). Strong, humane outreach angle: the bed
+partner is often the first to notice and the one who pushes for help — a natural
+person to reach. No cure claims; lead with empathy.)*
+
 **2026-07-16**
 > My story's job is not to educate — it's to convert attention into belief.
 
