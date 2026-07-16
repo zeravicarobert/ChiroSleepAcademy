@@ -55,9 +55,19 @@ Keep all of the above. The problem is what's mixed *in* with it.
    rewrite to **complementary, co-managed, measured** — never positioned as
    replacing CPAP/appliances/surgery.
 
-4. **"CE-approved" / "CE credit" claims.** Repeatedly stated. → If it isn't
-   actually accredited yet, this is a **false claim** (legal/ethics). **Action:**
-   remove all CE-approval language until real accreditation exists.
+4. ✅ **CE-approval — CORRECTED (Robert, 2026-07-16): his teaching IS CE-approved
+   by the California Board of Chiropractic Examiners.** So the CE claim is
+   **legitimate** — real credibility. Two wording protections only (not a problem
+   with the claim itself):
+   - **State the jurisdiction precisely:** *"CE-approved by the California Board of
+     Chiropractic Examiners"* (name the body + CA), not a bare "CE-approved" that
+     implies national/all-state approval. CE approval is generally **per-state**;
+     DCs in other states have their own boards.
+   - **Keep the workbook content within what was actually approved.** Board CE
+     approval covers the **specific course/hours submitted** — it does **not**
+     bless clinical claims, and content that wasn't in the approved course (e.g.
+     the energy-medicine/ozone material) shouldn't ride under the CE-approved
+     banner. Match the printed workbook to the approved curriculum.
 
 ## 🟠 SERIOUS — credibility
 
