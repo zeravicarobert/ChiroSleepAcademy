@@ -4,6 +4,18 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — teaching line (Cranial Sleep Infrastructure)**
+> Sleep sets the ceiling for human performance, and the hard palate is one of the
+> quiet structures that determines that ceiling — if that ceiling is functional.
+
+*(Great CSA 1.0 hook for the "Cranial Sleep Infrastructure" umbrella — see
+`csa-coined-terms.md`. "One of the quiet structures" and "if functional" keep it
+properly hedged. Guardrail: palate's role in sleep-depth/performance is CSA's
+model under investigation — teach as such, not proven. Pairs with the
+"airflow = horsepower" and "pressure vectors" lines.)*
+
+---
+
 **2026-07-16 — mechanism line (airway aperture → airflow → recovery)**
 > By increasing airway aperture, we reduce resistance to airflow — improving
 > oxygen availability during sleep, which supports recovery and performance.
