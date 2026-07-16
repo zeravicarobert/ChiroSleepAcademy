@@ -159,7 +159,7 @@ foundation) for the airway indication in a defined order/window. A legitimate
 co-managed, **never** positioned as superior to or a replacement for CPAP, appliances,
 or surgery.
 
-**Ch 12 — The VAET lineage (verify names/dates before print).** Airway-expansion
+**Ch 12 — The VAET lineage (names confirmed 2026-07-16).** Airway-expansion
 cranial work has a real chiropractic lineage: **Bilateral Nasal Specific
 (BNS)** — founded by **Dr. J. Richard Stober, DC, ND**, an endonasal cranial
 adjusting procedure developed in the 1960s–1970s → **Dean Howell, ND —
