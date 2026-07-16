@@ -1,0 +1,3 @@
+Patient/Case ID,Date Screened,Referral Source,Patient's Doctor,Snores?,Wakes Tired?,Stops Breathing?,Mouth Breathing?,Jaw / Head Pain?,Neck / Posture Issues?,Tried CPAP?,Tried Appliances?,Bed Partner Noticed?,Daytime Sleepiness (Epworth 0-24),Screen Result,Next Action
+CASE-001,2026-07-16,Wives social post,Dr. Smith (PCP),Yes,Yes,Yes,Yes,No,Yes,Rejected it,No,Yes,13,Refer for HST,Book free consult
+CASE-002,,,, , , , , , , , , , ,,
