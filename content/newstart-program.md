@@ -114,3 +114,62 @@ better night of rest, one restored rhythm at a time—this is how healing begins
   clinical or MD-facing CSA copy, where they'd read as fringe.
 - "Gentle mouth taping" is debated and has some risk — frame carefully and
   never as medical advice.
+
+---
+
+## Rewrite (v2 — tighter, cleaner)
+
+**NEW START — A Simple Whole-Person Lifestyle Program**
+*by Dr. Robert Zeravica, DC*
+
+Start in the right direction. Remove what blocks life. Restore what supports it.
+Let the body do what it was made to do.
+
+**N — Nutrition.** Food is information — it tells your body how to run. Start
+with real, whole foods and fewer processed ones. Going deeper, we add a
+consultation, a 0–4 symptom survey, and — when useful — lab work (blood counts,
+metabolic, lipid, thyroid, and functional or genetic testing) to find hidden
+gaps. Support may include whole-food supplements, minerals, salts, and oils that
+help the body heal, not just mask symptoms.
+
+**E — Exercise.** Movement is how the body circulates life. Start with daily
+walking, stretching, and changing positions often. Then add full-body stretching
+(eyes, jaw/TMJ, tongue, neck, spine), range-of-motion, strength and resistance
+work, and posture correction — with adjustments, bodywork, Pilates, or training
+as needed. As Jack LaLanne taught: keep moving, stay young.
+
+**W — Water.** Every cell depends on it. Start by drinking enough clean water
+daily. Go deeper into quality, minerals, and filtration. (Some explore ionized,
+structured, or "fourth-phase" water — Enagic, Emoto, Pollack. Treat these as
+ideas to explore, not settled science.)
+
+**S — Sunlight.** Light is timing for the nervous system. Get outside daily.
+Morning light starts your day chemistry; sunset light tells your body to wind
+down for rest and repair. Add grounding (bare feet on the earth) and time in
+natural water.
+
+**T — Temperance.** Remove what poisons the body — artificial sweeteners
+(aspartame), tobacco, excess alcohol, hydrogenated fats, margarine, ultra-
+processed factory food. Temperance isn't deprivation; it's wisdom. Less chemical
+stress means more energy for healing.
+
+**A — Air.** How you breathe matters. Start with nasal breathing — at rest, in
+activity, and in sleep — not mouth breathing. Go deeper with slower breathing,
+tongue posture, and CO₂ tolerance (James Nestor; Dan Bruce's breathwork). Simple
+tools: nasal strips, gentle nighttime mouth taping, saline rinses. In Scripture,
+life begins when breath enters the nostrils — nasal breathing is part of our
+design.
+
+**R — Rest.** Rest is where healing sets in — daily recovery, weekly Sabbath,
+and monthly rhythm. Learn the three common sleep disturbances: insomnia,
+snoring, and sleep apnea. Honor the Sabbath, a weekly reset, and the New Moon,
+an old monthly marker for rest and renewal. Rest is physical, mental, emotional,
+and spiritual. Without it, no therapy fully works.
+
+**T — Trust in God.** Healing comes from God, not effort alone. Your body is the
+temple of the Holy Spirit; caring for it is stewardship and worship. Doctors
+remove obstacles and support physiology — but God heals. Align your life with
+His design, and healing follows in His timing.
+
+**Close.** You don't do it all at once. One better breath, one better meal, one
+better night's rest, one restored rhythm at a time. That's how healing begins.

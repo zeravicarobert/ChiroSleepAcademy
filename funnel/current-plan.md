@@ -3,13 +3,16 @@
 Updated 2026-07-16. This is the simple, current plan. When in doubt, read this.
 
 ## What I ask patients
-Just one thing: **book a Zoom Sleep Consultation.**
+To start: **book a free Zoom Sleep Consultation.**
 
 ## The steps
-1. **Sleep consult** (Zoom) — patients + new patients.
-2. **Exam** — home sleep test ($180) + CBCT.
-3. **VAET** ($3,500).
-4. **Done.** Anything after is up to them (CBP, SOT/AK, disc decompression,
+1. **Free consult** (Zoom) — get them thinking like Dr. Z / CSA (the "aware"
+   part of the Awareness-Disruption Model).
+2. **Paid consult** (Zoom) — deeper; this is where Dr. Z does the work that
+   leads into the exam.
+3. **Exam** — home sleep test ($180) + CBCT.
+4. **VAET** ($3,500).
+5. **Done.** Anything after is up to them (CBP, SOT/AK, disc decompression,
    Foot Levelers, The Joint maintenance). I don't coordinate it — for now.
 
 ## Live now
