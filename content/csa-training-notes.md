@@ -27,6 +27,26 @@ palatal compliance may mean losing that function.
 level, rooted in cranial-osteopathic theory — teach as CSA's investigative model,
 not settled fact.)*
 
+## Biomechanics: The Missing 80%? (positioning + teaching)
+
+Framing (Robert): mainstream sleep medicine often treats the airway as a
+**static tube** (a pipe) rather than a **dynamic biomechanical system.** Adding
+biomechanics brings in:
+- **Leverage** — how jaw and hyoid-bone positions create tension.
+- **Torque** — how dural tension (from the sphenoid) affects the brainstem's
+  breathing centers.
+- **Fluid dynamics** — how movement of the 22 cranial bones facilitates
+  cerebrospinal fluid (CSF) flow.
+
+*Guardrails (red lines §5):*
+- **"The Missing 80%?"** is a rhetorical hook, not a measured statistic. Keep
+  the question mark; never state 80% as a fact (no exaggerated evidence).
+- **Cranial-bone motion, sphenoid/dural torque, and CSF-flow claims are
+  hypothesis-level** (cranial-osteopathic theory, contested in mainstream
+  science). Teach as CSA's model *under investigation*, not proven fact.
+- Frame mainstream sleep medicine as **incomplete, not wrong** — stay respectful
+  of MDs and DDSs.
+
 ## Related asides (in `content/csa-quotes-and-ideas.md`) — tagged for training
 - Infant palate is highly compliant (feeding, breathing, cranial fluid); adults
   lose compliance → possible loss of neurological efficiency in sleep.
