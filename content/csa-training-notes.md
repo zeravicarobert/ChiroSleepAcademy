@@ -197,6 +197,34 @@ capacity.
   possibly liquid vs. other domains — from Robert's prior work. Flag to build out
   if he wants.)*
 
+## How CSA uses science: test a hypothesis, measure before/after
+
+Approach (from Robert's presentation notes): don't "prove mainstream wrong" —
+**test a hypothesis and measure.**
+- **Mainstream view:** OSA involves airway anatomy, muscle tone, and (for
+  *central* apnea) brain signaling.
+- **CSA hypothesis:** in many cases, cranial and spinal **structural restriction/
+  alignment** is a contributor that can be measured and changed.
+- **Method:** document **before/after** — airway volume or flow, plus HST metrics
+  (AHI/ODI/SpO₂) — before and after care; report what changes.
+
+*Guardrails (red lines §5):*
+- Frame as **"test / add a lens,"** NOT "prove mainstream medicine wrong."
+  Mainstream *already* accepts craniofacial/anatomical contributions to OSA (it's
+  why oral appliances and surgery exist) — so this is **additive, not a
+  refutation.** Avoid the strawman.
+- If metrics improve, that shows **structure contributed in that case** — not
+  that the diagnosis was "wrong," and **never** a cure claim. Apnea may not
+  "disappear"; report honestly, including non-responders.
+- The physician still reads the sleep test; the DC interprets structurally
+  within scope.
+
+**⚠️ Two terms to resolve:**
+1. **UAOSA — acronym conflict.** The VAET definition uses UAOSA = *Upper-Airway
+   Obstructive **Sleep Apnea**.* This note uses UAOSA = *Upper Airway Obstructive
+   **Structural Alignment**.* Same acronym, two meanings — pick one.
+2. **VANI-R Technique** — new/undefined. Needs a definition.
+
 ## Related asides (in `content/csa-quotes-and-ideas.md`) — tagged for training
 - Infant palate is highly compliant (feeding, breathing, cranial fluid); adults
   lose compliance → possible loss of neurological efficiency in sleep.
