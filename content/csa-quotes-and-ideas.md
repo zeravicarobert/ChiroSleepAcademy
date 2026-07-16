@@ -4,6 +4,25 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — mechanism line (airway aperture → airflow → recovery)**
+> By increasing airway aperture, we reduce resistance to airflow — improving
+> oxygen availability during sleep, which supports recovery and performance.
+
+*(Completes the chain: pressure vectors → aperture → airflow → oxygen →
+"horsepower"/recovery. The **physics is sound** (a wider aperture lowers airflow
+resistance).*
+*⚠️ One guardrail: "**By increasing airway aperture**" states as fact the thing
+VAET has to **prove** — that the structural work measurably enlarges the aperture
+(hypothesis-level per `vaet-protocol.md`, confirm on CBCT/HST). For patient/MD
+copy, hedge the verb and tie to measurement, e.g.:*
+> *"When structural work improves airway aperture, resistance to airflow can drop —
+> which may improve oxygen availability during sleep and support recovery. We
+> measure this before and after."*
+*Keep "supports recovery and performance" as a general benefit, never a cure
+claim. Robert's original wording is great for a DC/teaching slide.)*
+
+---
+
 **2026-07-16 — plain-language translations for "subluxation" (audience hooks)**
 Ways to explain a subluxation to non-chiropractic audiences:
 > Choke-point · Bottleneck · Pressure-Release Valve (esp. for Boilermakers) ·
