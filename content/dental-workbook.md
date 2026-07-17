@@ -6,9 +6,10 @@ www.ChiropracticSleepAcademy.net · © 2025 Robert Zeravica.
 
 > **Audience: dentists (DDS/DMD) doing dental sleep medicine.** DDS-benefit voice.
 > Red-line safe: respectful of dentistry, oral appliances presented as effective and
-> *supported* (not replaced), sleep studies physician-read, no cure claims, all
-> outcomes measured and co-managed. Faith content intentionally omitted (secular,
-> professional audience). Companion to the one-pager
+> *supported* (not replaced), no cure claims, outcomes measured. The CA Doctor of
+> Chiropractic **diagnoses and manages** the sleep case within full scope and
+> collaborates with the DDS/MD/ENT as peers. Faith content intentionally omitted
+> (secular, professional audience). Companion to the one-pager
 > `content/ddc-collaboration-onepager.md`. Home: Provider Network pillar.
 
 ---
@@ -84,12 +85,12 @@ it's finishing the job at both ends of the same system.
 > **The dentist works the TMJ. The Doctor of Chiropractic finishes it at the SIJ.**
 
 **A note on coordination (California).** Because a California Doctor of Chiropractic's
-scope covers the whole skeleton — skull to sacrum to feet — the DC is well-placed to
-serve as the **case manager of the whole-body sleep case** while you run the
-oral-appliance part of the play. This isn't about rank; it's about who holds the
-whole-body view. Sleep studies
-stay physician-read, and moderate-to-severe disease is co-managed with the sleep
-physician. *(Scope described here is California-specific.)*
+scope covers the whole skeleton — skull to sacrum to feet — the DC serves as the
+**case manager of the whole-body sleep case** while you run the oral-appliance part
+of the play. In California the Doctor of Chiropractic **diagnoses and manages** sleep
+apnea, snoring, and insomnia within full scope, and brings in an MD or ENT as a
+**peer** when a complex case calls for it. This isn't about rank; it's about who
+holds the whole-body view. *(Scope described here is California-specific.)*
 
 ## Part 4 — The Proper Role of the Oral Appliance
 Oral appliances **work** — they can support airway patency and reduce collapse, and
@@ -109,8 +110,8 @@ doesn't replace it.**
 4. **DDS + DC** select the appliance together.
 5. **DDS** delivers the appliance.
 6. **DC** reassesses global mechanics post-delivery.
-7. Adjustments and supports added as needed; **retest (physician-read HST) at ~30–60
-   days** to confirm.
+7. Adjustments and supports added as needed; **retest with HST at ~30–60 days** to
+   confirm.
 
 **No turf war. No duplication. No guessing.**
 
@@ -127,12 +128,13 @@ usually cost:
 ## Part 7 — Protection (why this covers everyone)
 - **Dentists** reduce chair time and, through documented co-management, may reduce
   liability exposure. *(Have your attorney confirm any liability language.)*
-- **Doctors of Chiropractic** practice within scope.
+- **Doctors of Chiropractic** diagnose and manage the case within full scope.
 - **Manufacturers** stay in their lane.
 - **Patients** get better outcomes.
 
-Sleep studies remain **physician-read**; moderate-to-severe disease is co-managed with
-the sleep physician. Everyone stays in their lane; the case gets coordinated.
+The Doctor of Chiropractic diagnoses and manages the case; complex cases are
+co-managed with an MD or ENT **as peers, by choice.** Everyone contributes; the case
+gets coordinated.
 
 ## Part 8 — How to Start (a simple partnership)
 1. **Find a CSA-trained DC** (or one skilled in CBP/SOT/AK/cranial) near you.
@@ -153,7 +155,7 @@ being considered, question for the DC ("can the body accept/hold this device?").
 - [ ] DC: cervical curve & posture load
 - [ ] DC: pelvic/cranial response
 - [ ] Joint: device choice + titration plan
-- [ ] Plan: physician-read HST pre & ~30–60 days post
+- [ ] Plan: HST pre & ~30–60 days post
 
 **C. Who does what.**
 | Step | DDS | DC | Physician |
@@ -161,21 +163,23 @@ being considered, question for the DC ("can the body accept/hold this device?").
 | Screen / open conversation | ● | ○ | |
 | CBCT / dental airway view | ● | | |
 | Whole-system biomechanics | | ● | |
-| Sleep study read | | | ● |
+| Sleep test — clinical read / diagnosis | | ● | ○ (peer) |
 | Appliance choice | ● (co) | ● (co) | |
 | Appliance delivery | ● | | |
 | Post-delivery reassessment | ○ | ● | |
-| Moderate–severe management | co | co | ● |
+| Complex-case management | co | ● | co (peer) |
 
-**D. Red flags → physician now.** Severe daytime sleepiness with driving risk,
-witnessed apneas with cardiac history, oxygen desaturation concerns — route to the
-sleep physician promptly; structural care is co-managed, not a substitute.
+**D. Red flags → bring in an MD now.** Severe daytime sleepiness with driving risk,
+witnessed apneas with cardiac history, oxygen-desaturation concerns — bring in an MD
+or ENT promptly and co-manage as peers. Good medicine, not a limit on scope.
 
 ---
 
 > **Final thought (keep this):** Dentists open the door. Doctors of Chiropractic assess the
 > whole house. Oral appliances support the structure — they don't replace it.
 
-*Editor's note: red-line safe and DDS-respectful throughout. Only "reduce liability"
-is softened and flagged for attorney review. No faith content (secular audience). No
-cure claims; appliances honored; physician-read testing preserved.*
+*Editor's note: red-line safe and DDS-respectful throughout. The CA DC is presented
+as diagnosing and managing the case within full scope, coordinating the DDS/MD/ENT as
+peers — no subordination language. Only "reduce liability" is softened and flagged for
+attorney review. No faith content (secular audience). No cure claims; appliances
+honored.*

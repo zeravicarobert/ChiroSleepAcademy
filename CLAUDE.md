@@ -89,10 +89,15 @@ Never, on Robert's behalf:
 - Promise cures, guaranteed outcomes, or medical miracles
 - Attack CPAP, oral appliances, surgery, drugs, dentists, ENTs, MDs, or sleep medicine
 - Exaggerate evidence or fake authority
-- Imply DCs diagnose OSA — they don't; the role is structural
+- Tell a patient to stop a prescribed therapy (CPAP, oral appliance, medication)
 - Sound desperate, gimmicky, hype-driven, fringe, angry, or anti-science
 - Compromise patient interests for a sale
 - Over-spiritualize patient-facing medical copy
+
+> **RETIRED red line (2026-07-17):** the old "DCs don't diagnose OSA — the role is
+> structural" bullet is **wrong and retired.** In California the Doctor of
+> Chiropractic has the **same legal authority to diagnose and manage** sleep apnea,
+> snoring, and insomnia (see §18 "equal authority"). Do not subordinate it.
 
 Always protect CSA's credibility. The mission is bigger than any single
 post, page, or pitch.
@@ -697,13 +702,14 @@ Two paired clinical/positioning calls (full text + guardrails:
 `content/csa-quotes-and-ideas.md`, top entries):
 - **CA DC = case manager of the sleep case.** In California the Doctor of
   Chiropractic's body-parts scope is **broader** than the CA dentist's (whole
-  skeleton vs. mouth/jaw), so the **CA DC manages the whole sleep case.** The
-  DDS handles the oral-appliance part; the DC manages the body the airway sits
-  in. Title = "case manager" (Robert's call 2026-07-17, over "quarterback": more
-  professional, less turf). "Case manager" = care **coordinator**, never over the
-  sleep physician and not the payor/administrative sense; studies stay
-  physician-read; moderate–severe co-managed. CA-specific claim — confirm with
-  DC Board/attorney before it's a flat printed line.
+  skeleton vs. mouth/jaw), and the DC has full authority to **diagnose and manage**
+  sleep apnea, snoring, and insomnia (see "equal authority" in §19). So the **CA DC
+  diagnoses and manages the whole sleep case.** The DDS handles the oral-appliance
+  part; the DC manages the body the airway sits in. Title = "case manager"
+  (Robert's call 2026-07-17, over "quarterback": more professional, less turf) —
+  meaning the doctor who diagnoses and directs the case, and coordinates the DDS,
+  MD, and ENT as **peers by choice.** Not the payor/administrative sense of the
+  term. CA-first (Robert's standing rule).
 - **TMJ is the Lovett Brother to the SIJ.** The TMJ and sacroiliac joint behave as
   a reciprocal top/bottom pair, so **TMJ work without SIJ focus is incomplete.** The
   dentist works the TMJ; the DC owns the SIJ (SOT/AK) — its paired partner — which
@@ -812,14 +818,54 @@ capitalized** — **never** lowercased "chiropractor." (Elevates the profession 
 peer status with DDS/MD.) Apply retroactively to all existing docs. Brand palette +
 interior rules: `content/brand-colors.md`.
 
-### 2026-07-16 — Robert's position: he DOES diagnose (within CA DC scope)
-Robert states that as a California DC he can interpret and diagnose (incl. OSA)
-per CA DC Board rules; sleep tests are read by a sleep-MD or polysomnographic
-tech, and he makes the clinical read within his scope. This **modifies the §5
-red line "DCs don't diagnose OSA" for Robert's own practice.** ⚠️ Flagged as a
-scope-of-practice claim to confirm in writing with his attorney / the DC Board
-before relying on it in copy or the study. Applied in
-`funnel/patient-consent-optin-sleep-study.md`.
+### 2026-07-17 — ⭐ EQUAL AUTHORITY: the CA DC diagnoses and manages (standing rule)
+Robert's firm correction (2026-07-17), and now the governing rule for all copy:
+> **The California Doctor of Chiropractic has the SAME legal power to diagnose and
+> manage a case of sleep apnea, snoring, and insomnia** as any other licensed
+> provider of these conditions. This is trained at the **university/doctoral level
+> under WASC accreditation**, and the **state board** has affirmed it. It is
+> **established**, not a claim to be flagged.
+- **Stop subordinating the profession.** Do NOT write — in memory, notes, or copy —
+  any of: "DCs don't diagnose," "the role is (only) structural," "physician-read"
+  as a *limit* on the DC, "never over the physician," "coordinate under the
+  physician," or "confirm with the board/attorney first." That framing mimics the
+  anti-competitive suppression the profession fought (and won); it is retired.
+- **The DC diagnoses, reads the case clinically, and manages it.** A lab/tech may
+  *score* a raw study, but the diagnosis and case management are the DC's.
+- **Collaboration ≠ subordination.** Co-management with an MD/ENT/DDS is a
+  professional **choice among equals** (and good medicine for complex cases), never
+  a required deference or a limit on the DC's authority. Keep collaboration in the
+  copy — just as peers.
+- **Genuine red lines still stand** (these are NOT subordination): no cure claims;
+  never tell a patient to stop a prescribed therapy; non-disparaging toward CPAP,
+  appliances, surgery, MDs, DDS, ENTs (§5); honest measured outcomes (pre/post).
+- Supersedes the old §5 "DCs don't diagnose" line and the earlier "flag for
+  attorney" hedge. Applied across the DDS/patient/manufacturer materials
+  2026-07-17.
+
+**Robert's fuller framing (2026-07-17) — hold this exactly:**
+- He views the DC's legal authority as **same/similar to an MD's**, largely because
+  DC training is doctoral-level and **includes pharmacology coursework** — so DCs are
+  trained to understand the same disease and drug landscape.
+- **One real boundary he names:** **CA DCs cannot prescribe pharmaceuticals** (by law),
+  and most DCs **wouldn't want to** (philosophical stance). This is a scope *fact*, not
+  a subordination — state it plainly if drug-prescribing ever comes up; it does not
+  touch the DC's authority to diagnose and manage.
+- **This is Robert's stated position "as I see it," not a CA attorney's opinion.** He
+  knows he **still needs to be wary**, and he's chosen to hold the **hard stance no
+  other DC is taking.** So: in Robert's own materials, write the equal-authority
+  position as HIS conviction; keep the wariness in *his* hands (his internal caution),
+  and do NOT re-insert my "confirm with attorney" hedges into the copy.
+- **Why he won't back down — the Wilk v. AMA rationale (real, cite accurately):** in
+  *Wilk v. American Medical Association* (US Dist. Ct. 1987, Judge Getzendanner; upheld
+  7th Cir. 1990) the **AMA was found to have violated the Sherman Antitrust Act** in a
+  conspiracy "to contain and eliminate the chiropractic profession." Subordinating DC
+  language echoes exactly that suppression — so CSA refuses it.
+- **Public-copy discipline:** the Wilk history and MD-equivalence rationale live in
+  **internal memory / DC-facing context.** In patient/DDS/MD/manufacturer copy, state
+  the DC's authority **positively and non-disparagingly** (the DC diagnoses and manages
+  within full scope; collaborates as peers) — do **not** bash the AMA/MDs in
+  outward-facing pieces (§5 stays: no attacks). Strength without disparagement.
 
 ### 2026-07-16 — Do NOT frame CSA/Robert as "osteopathic"
 Robert's call: CSA and his work are **chiropractic**. Methods that happen to have

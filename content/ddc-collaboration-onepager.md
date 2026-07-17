@@ -41,12 +41,11 @@ of the spine. So **TMJ work without SIJ focus is incomplete.** The dentist works
 TMJ; the Doctor of Chiropractic owns the SIJ (SOT/AK) — its paired partner.
 
 Because a **California** Doctor of Chiropractic's body-parts scope is broader than the
-dentist's (whole skeleton vs. mouth/jaw), the DC is well-placed to serve as the
-**case manager of the whole-body sleep case** while the dentist handles the
-oral-appliance part. This is about who holds the whole-body view, not rank — the DC
-coordinates the team, never overriding the sleep physician. Sleep studies stay
-physician-read; moderate-to-severe disease is co-managed. *(Scope described here is
-California-specific.)*
+dentist's (whole skeleton vs. mouth/jaw), the DC serves as the **case manager of the
+whole-body sleep case.** In California the Doctor of Chiropractic **diagnoses and
+manages** sleep apnea, snoring, and insomnia within full scope — and coordinates the
+dentist on the appliance, and an MD/ENT when a case calls for it, as **peers.**
+*(Scope described here is California-specific.)*
 
 ## Section 4 — The Proper Role of the Oral Appliance
 Oral appliances can support airway patency and reduce collapse — and must be chosen

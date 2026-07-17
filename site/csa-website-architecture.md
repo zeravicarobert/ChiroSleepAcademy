@@ -111,7 +111,8 @@ For each pillar: **purpose**, **what lives there**, **primary CTA**, and
   standing Free Alignment Call.
 - **Red-line note:** Explain mechanism and rationale; be explicit about what
   is established vs. still being studied. No claim that structural care cures
-  OSA. DCs don't diagnose — frame the role as structural.
+  OSA. In California the DC **diagnoses and manages** sleep apnea, snoring, and
+  insomnia within full scope (CLAUDE.md §19 equal authority) — do not subordinate.
 
 ### Pillar 2 — Practice Management (Consult, Exam, ROFs)
 - **Purpose:** Show DCs *how to run it* — the clinical workflow that replaces
@@ -122,8 +123,8 @@ For each pillar: **purpose**, **what lives there**, **primary CTA**, and
   checklists, HST pathway, ROF structure. Member layer holds the actual
   templates/forms.
 - **CTA:** "Learn how to present and enroll the case →" (to Pillar 3).
-- **Red-line note:** HST is physician-read; Dr. Z / the DC coordinate and
-  interpret structurally. Keep scope honest.
+- **Red-line note:** the DC orders the HST, reads it clinically, and diagnoses
+  and manages the case within full CA scope. Keep scope honest — no subordination.
 
 ### Pillar 3 — Case Presentation & Closing  *(Sales & Closing)*
 - **Purpose:** Help DCs ethically present findings and enroll patients into

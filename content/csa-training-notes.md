@@ -367,8 +367,9 @@ Approach (from Robert's presentation notes): don't "prove mainstream wrong" —
 - If metrics improve, that shows **structure contributed in that case** — not
   that the diagnosis was "wrong," and **never** a cure claim. Apnea may not
   "disappear"; report honestly, including non-responders.
-- The physician still reads the sleep test; the DC interprets structurally
-  within scope.
+- In California the DC reads the case clinically, diagnoses, and manages it within
+  full scope; a lab/tech may score the raw study, and an MD/ENT co-manages complex
+  cases as a peer, by choice. (CLAUDE.md §19 equal authority.)
 
 **⚠️ Two terms to resolve:**
 1. **UAOSA — acronym conflict.** The VAET definition uses UAOSA = *Upper-Airway

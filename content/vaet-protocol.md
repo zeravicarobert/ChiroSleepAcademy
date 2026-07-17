@@ -135,7 +135,7 @@ is **thin** in the transcripts; the strongest specifics come from the
 "Chiropractic airway expansion" chat and are marked accordingly.
 
 **Overall pathway (matches §8 CSA pathway):**
-> Tele-screen → HST (physician-read) → 2-day VAET block → post-testing → plan.
+> Tele-screen → HST (DC clinical read + diagnosis) → 2-day VAET block → post-testing → plan.
 
 **Step A — Screening / consultation.** ~15-minute telemedicine screen: sleep
 history (snoring, witnessed apnea, gasping, daytime sleepiness), CPAP /
@@ -225,9 +225,12 @@ marketing language** in the transcripts (see §7):
 - **No cure/resolution claims.** VAET does **not** cure, treat, or resolve
   sleep apnea or GERD. Frame it as a **structural intervention being measured**,
   reporting only what objective testing shows.
-- **DCs do not diagnose OSA.** HST is **physician-read**; the DC/Dr. Z role is
-  **structural evaluation, coordination, education, and integration** — not
-  diagnosis. Moderate-to-severe OSA is co-managed with an MD/ENT.
+- **The CA DC diagnoses and manages.** In California the Doctor of Chiropractic has
+  the **same legal authority to diagnose and manage** sleep apnea, snoring, and
+  insomnia; Dr. Z orders the HST, reads the case clinically, diagnoses, and directs
+  it. Complex OSA is **co-managed with an MD/ENT as peers, by choice** — collaboration,
+  not subordination. (Do not write "DCs don't diagnose" or "physician-read" as a
+  limit — retired 2026-07-17, CLAUDE.md §19 equal authority.)
 - **Respect the alternatives.** No positioning of VAET as "superior to" or a
   replacement for CPAP, oral appliances, surgery, MDs, DDS, or ENTs. VAET is
   **complementary / interdisciplinary**, not a substitute, and patients are

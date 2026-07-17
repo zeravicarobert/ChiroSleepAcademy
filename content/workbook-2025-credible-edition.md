@@ -22,12 +22,13 @@ Examiners** (for California DCs; DCs elsewhere confirm your own board).
 ---
 
 ## Disclaimers
-Education for Doctors of Chiropractic. Does not diagnose, treat, or prescribe for
-any disease; not individualized medical advice. Sleep studies are **physician-read**;
-the DC's role is structural evaluation, education, coordination, and — within a
-state's scope — clinical interpretation. Moderate-to-severe disease is **co-managed**.
-Nothing here replaces CPAP, oral appliances, surgery, or medication, and no patient
-is advised to stop prescribed therapy.
+This workbook is **education** for Doctors of Chiropractic — it is not individualized
+medical advice and not a diagnosis of any individual reader or patient. In California
+the Doctor of Chiropractic **diagnoses and manages** sleep apnea, snoring, and
+insomnia within full scope: the DC reads the case clinically and directs it, and
+**co-manages complex cases with an MD/ENT as peers, by choice.** Nothing here replaces
+CPAP, oral appliances, surgery, or medication, and no patient is advised to stop
+prescribed therapy.
 
 ## Foundation (founder's faith basis — clearly marked; optional to the science)
 > **Two registers.** The clinical science stands on its own — no belief required.
@@ -41,8 +42,8 @@ meaningful clinical work.
 register; the clinical chapters make no theological claims.)*
 
 ## Mission
-Equip DCs to **raise awareness, screen, coordinate physician-read testing, educate,
-plan structural care, co-manage, and re-evaluate** patients with airway-related
+Equip DCs to **raise awareness, screen, order and interpret testing, diagnose,
+educate, manage and plan structural care, co-manage, and re-evaluate** patients with airway-related
 sleep concerns — restoring structure so sleep, breathing, and function can improve,
 always measured and within scope.
 
@@ -133,7 +134,7 @@ mouth breathing and facial shrinkage narrow the airway — *form dictates functi
   biomechanical whisper before the body screams with apnea."* The DC's window to act
   early — always measured, always co-managed.
 
-**Ch 9 — Testing & severity (physician-read).**
+**Ch 9 — Testing & severity (HST + clinical interpretation).**
 - **AHI (AASM):** Normal <5 · Mild 5–14 · Moderate 15–29 · Severe ≥30.
 - **Testing options:** HST (DC-coordinated screening/telemedicine); PSG (gold
   standard, complex/central cases); overnight pulse-oximetry (pre-HST / progress);
@@ -261,8 +262,8 @@ measurable in motion."
 | Fatigue + micro-arousals + positional pain | Insomnia–Positional Pain™ | Postural/cranial assessment; SOT/AK |
 | Gasping + no effort + occiput/atlas fixation | Central apnea | Neuromechanical eval; **refer for sleep study** |
 
-**Workflow:** Screen → order HST (physician-read) → interpret AHI/desat vs. structural
-findings → consult/educate → structural care plan (co-managed) → **retest 30–60 days.**
+**Workflow:** Screen → order HST → interpret AHI/desat vs. structural findings →
+diagnose/consult/educate → structural care plan (co-manage complex cases) → **retest 30–60 days.**
 *Scope:* screen, correlate, co-manage, refer — "Insomnia–Positional Pain™" is a
 clinical-reasoning/screening lens, not a claim DCs diagnose insomnia outside scope.
 De-identified data → the Outcomes Registry (responders + non-responders).

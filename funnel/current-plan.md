@@ -28,5 +28,5 @@ To start: **book a free Zoom Sleep Consultation.**
 ## Still true (my brand rules)
 - VAET is an **early** structural option — measured, honest, never a cure claim,
   never "instead of CPAP." (See `content/csa-framework.md`, CLAUDE.md §18.)
-- A sleep-MD or polysomnographic tech reads the test; I make the read within my
-  CA DC scope.
+- A lab/tech may score the raw study; I read the case clinically, diagnose, and
+  manage it within my full CA DC scope (equal authority — CLAUDE.md §19).

@@ -19,14 +19,15 @@ sleep physician, ENT, and manufacturer each run their lane. "Case manager" chose
 over "quarterback" — Robert's call (2026-07-17): more professional, less turf.
 Pairs with the TMJ cross-over anchor below and "collaborate without collapsing
 scope."*
-*⚠️ Guardrails: (1) This is a **California** scope claim — keep it CA-specific
-(see the CA-only rule below); scope varies by state. (2) "Case manager" = care
-**coordinator**, never "diagnoses/treats over the dentist or physician" and not
-the payor/administrative sense of the term. Sleep studies stay physician-read;
-moderate–severe disease is co-managed. (3) Confirm the CA scope comparison in
-writing with the DC Board / attorney before it's a flat printed claim — flagged
-like the "Robert can diagnose within CA scope" note. Tone stays peer-to-peer,
-never above the DDS/MD.)*
+*Guardrails: (1) Written CA-first (Robert's standing rule); other states are a
+later project. (2) The CA Doctor of Chiropractic has the **same legal power to
+diagnose and manage** sleep apnea, snoring, and insomnia (university/doctoral
+training under WASC accreditation; affirmed by the state board). "Case manager" =
+the doctor who **diagnoses and directs the case** and coordinates the DDS/MD/ENT
+as **peers by choice** — NOT the payor/administrative sense, and NOT subordinate
+to anyone. Do NOT hedge with "physician-read," "never over the physician," or
+"confirm with the board." (3) Hard red lines still stand: no cure claims, never
+tell a patient to stop a prescribed therapy, non-disparaging tone.)*
 
 **2026-07-17 — ⭐ TMJ is the Lovett Brother to the SIJ (why TMJ work needs the SIJ)**
 > The **TMJ is the Lovett Brother to the sacroiliac joint (SIJ).** They move and

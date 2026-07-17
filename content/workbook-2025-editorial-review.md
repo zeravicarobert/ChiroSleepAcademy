@@ -43,11 +43,13 @@ Keep all of the above. The problem is what's mixed *in* with it.
    **Drop "Electromagnetic" from the VAET subtitle.**
 
 2. **"Diagnose and treat sleep apnea" taught to all DCs.** Mission + cover +
-   blurbs say DCs "diagnose… treat" sleep-disordered breathing. → §5 red line +
-   **state scope-of-practice/legal.** Your own diagnose-within-CA-scope note is
-   Robert-specific and flagged for attorney (§18). **Action:** reframe to
-   **screen / recognize / co-manage / refer**; the sleep study is physician-read;
-   only use "diagnose" where a given DC's state scope allows, attorney-reviewed.
+   blurbs say DCs "diagnose… treat" sleep-disordered breathing. → **UPDATED
+   2026-07-17 (CLAUDE.md §19 equal authority):** in California the DC **diagnoses
+   and manages** sleep apnea, snoring, and insomnia within full scope. **Action:**
+   keep "diagnose" and "manage" for the CA DC; the earlier "reframe to
+   screen/recognize/refer; sleep study is physician-read; flag for attorney"
+   advice is **retired** as subordinating. Genuine red lines stay: no cure claims,
+   no "stop your therapy," non-disparaging.
 
 3. **"Before a machine or a pill" / "not the CPAP" / "non-pharmaceutical,
    non-surgical."** All over the funnel + workbook. → This is the **retired

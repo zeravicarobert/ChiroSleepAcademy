@@ -6,7 +6,7 @@ www.ChiropracticSleepAcademy.net · © 2025 Robert Zeravica.
 
 > **Audience: oral-appliance manufacturers.** B2B voice. **Pro-device** — the goal
 > is to make appliances *work better and fail less*. Red-line safe: respectful of
-> dentistry and devices, sleep studies physician-read, no cure claims, measured
+> dentistry and devices, the DC diagnoses and manages within scope, no cure claims, measured
 > outcomes. "Doctor of Chiropractic," never "chiropractor." Third piece in the
 > provider set: Doctor of Chiropractic → Dentist → **Manufacturer.**
 
@@ -81,7 +81,7 @@ The Doctor of Chiropractic sees what your clinicians and your telemetry can't: t
 - pre/post **posture** and cervical-curve notes,
 - **TMJ / cervical load** response to advancement,
 - signs of **downstream compensation** (pelvic, cranial),
-- correlation with **physician-read HST** change (AHI/ODI/SpO₂),
+- correlation with **HST** change (AHI/ODI/SpO₂),
 - **responder vs. non-responder** patterns by device type.
 This is a feedback loop your competitors don't have.
 
@@ -120,4 +120,4 @@ reduction and outcome improvement**, not influence:
   above leads with risk/outcomes/differentiation, which is the sellable, defensible
   message.
 - Pro-device throughout; no cure claims; cranial-motion effects labeled as CSA's
-  investigative lens; physician-read testing preserved.
+  investigative lens; the DC diagnoses and manages the case within scope.

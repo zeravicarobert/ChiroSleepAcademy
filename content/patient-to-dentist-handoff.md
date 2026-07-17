@@ -54,12 +54,11 @@ your scope. You choose and deliver the device; we support the body around it.
 
 ## Page 5 — How the team works (everyone in their lane)
 - **You (dentist):** open the conversation, image, choose and deliver the appliance.
-- **Doctor of Chiropractic:** whole-system structural evaluation and support; in
-  California, the case manager for the whole-body case around your appliance work.
-- **Sleep physician:** reads the sleep study and manages moderate-to-severe disease.
+- **Doctor of Chiropractic:** diagnoses and manages the whole-body sleep case, and
+  makes sure the body can accept and hold the appliance.
+- **Sleep physician:** a peer we bring in when a case calls for it.
 
-Sleep studies stay **physician-read.** Everyone stays in their lane; the patient gets
-a coordinated plan.
+Everyone works as peers; the patient gets a coordinated plan.
 
 ## Page 6 — Let's coordinate
 If you'd like to compare notes on this patient — or set up a simple referral pathway
@@ -79,9 +78,9 @@ my airway — here's a note for you."*
 
 ---
 
-*Editor's notes: red-line safe (respectful of dentistry, appliances honored,
-physician-read testing, no cure claims). Keep the contact block fillable so each
-CSA-certified DC personalizes it. This is a **referral/relationship** tool — it says
-nothing a board or attorney should object to, but have counsel glance at any
-"co-management" language before wide distribution. Render the PDF in the confirmed
+*Editor's notes: red-line safe (respectful of dentistry, appliances honored, no cure
+claims). The CA DC is presented as diagnosing and managing the case within full
+scope, collaborating as peers — no subordination language. Keep the contact block
+fillable so each CSA-certified DC personalizes it. This is a **referral/relationship**
+tool. Render the PDF in the confirmed
 Provider-Network color lane.*

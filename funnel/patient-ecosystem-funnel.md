@@ -25,10 +25,12 @@ years from the VAET date**. The companion trackers are:
 
 ## Guiding rules
 
-- **Physician reads the test; Dr. Z reads it structurally.** Diagnosing a
-  sleep disorder is the reading physician's role. Dr. Z screens, educates,
-  coordinates, reviews structurally, and tracks outcomes. (CLAUDE.md red
-  line: DCs don't diagnose OSA.)
+- **Dr. Z diagnoses and manages the case.** In California the Doctor of
+  Chiropractic has the same legal authority to diagnose and manage sleep apnea,
+  snoring, and insomnia. Dr. Z screens, orders the HST, reads it clinically,
+  diagnoses, educates, manages, and tracks outcomes — bringing in an MD/ENT as a
+  peer when a case calls for it. (CLAUDE.md §19: equal authority; "DCs don't
+  diagnose" retired.)
 - **No cure claims.** VAET is offered as a structural intervention we are
   *measuring*, not a promised fix for sleep apnea. The entire point of the
   2-year tracking is to find out honestly whether it helps.
