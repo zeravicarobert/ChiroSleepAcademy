@@ -5,13 +5,21 @@ palette. It reads **premium / luxury** — consistent with the §4 price positio
 ("premium to implement, high-ticket for full transformation"). Retires the ad-hoc
 navy/teal/warm colors Claude used earlier.
 
-## The palette
-- **Black** — primary ground. Suggested `#0E0E10` (true, slightly soft black).
-- **Matte gold** — lettering, headings, rules, accents. *Matte, not shiny/metallic* —
-  muted and sophisticated. Suggested `#C2A24A` (confirm exact value against the logo
-  once the logo exists).
-- **Cream / warm off-white** — body text on dark, and page ground for readable
-  interiors. Suggested `#ECE6D8`.
+## The palette — matched to the CSA logo (crescent-spine moon, 2026-07-16)
+- **Charcoal-black** — primary ground. **`#15181E`** — a dark, slightly cool charcoal
+  (the logo background is NOT pure black).
+- **Champagne matte gold** — logo mark, lettering, headings, rules, accents. *Soft,
+  muted, matte champagne-tan* (lighter than a saturated gold). **`#CDB488`**.
+- **Cream / warm off-white** — body text on the dark ground. **`#ECE6D8`**.
+- **Antique gold** (for small gold text/accents on WHITE interiors, for contrast):
+  **`#9C7E45`**.
+
+> ⚠️ **Estimated from viewing the logo image (pasted inline — not available as a file
+> to pixel-sample).** These are close reads, not exact hex. **Send the logo as a PNG
+> file** and Claude will (a) save it as the official CSA asset in `content/assets/`,
+> (b) sample the exact charcoal + champagne-gold hex, and (c) reskin the whole library
+> to the precise values. Prior placeholder `#C2A24A` is retired — the logo gold is the
+> lighter champagne above.
 
 ## Usage rules (readability + print sanity)
 - **Covers, branding, headers, accents, short premium leave-behinds** → full
