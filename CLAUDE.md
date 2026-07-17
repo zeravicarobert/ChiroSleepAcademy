@@ -98,6 +98,11 @@ Never, on Robert's behalf:
 > structural" bullet is **wrong and retired.** In California the Doctor of
 > Chiropractic has the **same legal authority to diagnose and manage** sleep apnea,
 > snoring, and insomnia (see §18 "equal authority"). Do not subordinate it.
+>
+> **Scope of the "Attack MDs / sleep medicine" line:** it protects the **individual**
+> MD/DDS/ENT peers CSA collaborates with — it is **NOT** a gag on stating documented
+> fact about the **AMA as an institution** (e.g., the *Wilk v. AMA* antitrust finding).
+> Naming an adjudicated ruling is fact, not an attack. See §19 "On the AMA / Wilk."
 
 Always protect CSA's credibility. The mission is bigger than any single
 post, page, or pitch.
@@ -861,11 +866,25 @@ Robert's firm correction (2026-07-17), and now the governing rule for all copy:
   7th Cir. 1990) the **AMA was found to have violated the Sherman Antitrust Act** in a
   conspiracy "to contain and eliminate the chiropractic profession." Subordinating DC
   language echoes exactly that suppression — so CSA refuses it.
-- **Public-copy discipline:** the Wilk history and MD-equivalence rationale live in
-  **internal memory / DC-facing context.** In patient/DDS/MD/manufacturer copy, state
-  the DC's authority **positively and non-disparagingly** (the DC diagnoses and manages
-  within full scope; collaborates as peers) — do **not** bash the AMA/MDs in
-  outward-facing pieces (§5 stays: no attacks). Strength without disparagement.
+- **On the AMA / Wilk (corrected 2026-07-17 — Robert's push-back):** citing the Wilk
+  finding is **fact, not "bashing."** It is an adjudicated federal ruling and may
+  appear in CSA materials — including public and DC-facing copy — wherever it serves
+  the story. Claude's earlier "keep it internal / don't bash the AMA" instruction was
+  **wrong and is retired**; it echoed the power structure's own framing. The ONLY
+  discipline is **accuracy + audience fit, never suppression:**
+  - **Bulletproof phrasing:** in *Wilk v. AMA*, the AMA was **found liable for an
+    unlawful conspiracy under §1 of the Sherman Antitrust Act** to "contain and
+    eliminate the chiropractic profession" (its **Committee on Quackery** was the
+    vehicle). US Dist. Ct. 1987 (Judge Getzendanner); **affirmed 7th Cir. 1990**;
+    permanent injunction issued. It was a **civil** antitrust finding — say "found
+    liable / found to have violated the Sherman Act" (airtight; don't let anyone
+    reframe "guilty" as criminal-only to dodge it).
+  - **The §5 "no attacks" line ≠ hide Wilk.** §5 is about not gratuitously alienating
+    the **individual** DDS/MD/ENT you want to collaborate with in a given piece.
+    Distinguish the **institution's adjudicated conduct** (fair to name plainly) from
+    **individual peers** (collaborate with). Naming the ruling is not attacking a peer.
+  - Robert's framing stands: the AMA is a power structure **found guilty of conspiring
+    to eliminate his profession** — CSA does not owe it deference or euphemism.
 
 ### 2026-07-16 — Do NOT frame CSA/Robert as "osteopathic"
 Robert's call: CSA and his work are **chiropractic**. Methods that happen to have
