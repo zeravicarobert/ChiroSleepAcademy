@@ -771,6 +771,14 @@ progression. Claude's earlier "CSA 3.0 = neurofluid" idea is retired.
 - Say clearly: what I did, or what I want him to do.
 - Avoid long sentences, jargon, and packed parentheses.
 
+### 2026-07-16 — ⭐ COPY STANDARD: "Doctor of Chiropractic," never "chiropractor"
+In **all** CSA documents — **especially anything going to dentists** — refer to the
+practitioner as **"Doctor of Chiropractic"** (exact natural capitalization). Do
+**not** use "chiropractor." If a short form is genuinely needed, use **"Chiropractor"
+capitalized** — **never** lowercased "chiropractor." (Elevates the profession to
+peer status with DDS/MD.) Apply retroactively to all existing docs. Brand palette +
+interior rules: `content/brand-colors.md`.
+
 ### 2026-07-16 — Robert's position: he DOES diagnose (within CA DC scope)
 Robert states that as a California DC he can interpret and diagnose (incl. OSA)
 per CA DC Board rules; sleep tests are read by a sleep-MD or polysomnographic

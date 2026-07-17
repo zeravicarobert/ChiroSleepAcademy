@@ -26,8 +26,25 @@ navy/teal/warm colors Claude used earlier.
   navy/teal mistake). DC vs. DDS vs. patient is distinguished by **title and content**,
   not by different colors. Everything is black + matte gold.
 
+## Confirmed interior rule (Robert, 2026-07-16)
+**Inside** any book/booklet/workbook: **white pages, black ink text, matte-gold
+accents.** (Covers and short premium leave-behinds may be full black + gold.) On
+white, keep gold for **rules, eyebrows, dividers, bullets, and black-ground table
+headers** — headings stay black/dark for readability (bright gold text on white is
+low-contrast). Use a darker "antique gold" for any small gold text on white.
+
+## Logo gold (Robert, 2026-07-16)
+Robert is providing the **CSA logo**; **use the exact gold from the logo** as the
+matte-gold value everywhere. Until the logo arrives, `#C2A24A` is a placeholder —
+swap it for the logo's gold when received.
+
+## Copy standard (see CLAUDE.md §19)
+Always **"Doctor of Chiropractic"** (exact natural capitalization), never
+"chiropractor." Short form only as **"Chiropractor"** (capitalized), never
+lowercased. Especially in dentist-facing docs.
+
 ## To do
-- [ ] Confirm the **exact matte-gold hex** against the CSA logo when finalized.
-- [ ] Reskin existing covers (DC workbook, dental workbook, guides) to black + matte
-  gold when Robert says go.
-- [ ] Recolor the wives guide off teal into the brand palette (light interior + gold).
+- [ ] **Swap in the logo's exact gold** once the logo is received.
+- [ ] Reskin existing covers to black + matte gold; interiors white + black + gold.
+- [ ] Recolor the wives guide off teal into the brand palette.
+- [ ] Sweep all docs for "chiropractor" → "Doctor of Chiropractic."

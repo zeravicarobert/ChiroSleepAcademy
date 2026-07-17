@@ -1,5 +1,5 @@
 # How Dentists Increase Chair-Hour Efficiency in Sleep Apnea Cases
-### By Working With Chiropractors — A Practical Workbook for Dentists
+### By Working With Doctors of Chiropractic — A Practical Workbook for Dentists
 
 **By Dr. Robert Zeravica, DC** · Chiropractic Sleep Academy™ ·
 www.ChiropracticSleepAcademy.net · © 2025 Robert Zeravica.
@@ -14,7 +14,7 @@ www.ChiropracticSleepAcademy.net · © 2025 Robert Zeravica.
 ---
 
 ## Introduction — The Playground
-A new kid joins the school playground. The dentist and the chiropractor both want to
+A new kid joins the school playground. The dentist and the Doctor of Chiropractic both want to
 help. Someone has to explain the rules.
 
 This workbook explains what the playground is (sleep apnea care), who sets the rules
@@ -52,7 +52,7 @@ When the global frame isn't addressed, an oral appliance is being placed on a bo
 that may be fighting it — which is where intolerance, relapse, and TMJ strain come
 from. The device isn't wrong; it's **unsupported.**
 
-## Part 3 — What the Chiropractor Adds (the Biomechanical Integrator)
+## Part 3 — What the Doctor of Chiropractic Adds (the Biomechanical Integrator)
 A post-graduate-trained DC evaluates the whole structural frame the airway sits in:
 - **posture / cervical curve** (CBP),
 - **pelvis & SIJ** (SOT / AK),
@@ -104,7 +104,7 @@ usually cost:
 ## Part 7 — Protection (why this covers everyone)
 - **Dentists** reduce chair time and, through documented co-management, may reduce
   liability exposure. *(Have your attorney confirm any liability language.)*
-- **Chiropractors** practice within scope.
+- **Doctors of Chiropractic** practice within scope.
 - **Manufacturers** stay in their lane.
 - **Patients** get better outcomes.
 
@@ -150,7 +150,7 @@ sleep physician promptly; structural care is co-managed, not a substitute.
 
 ---
 
-> **Final thought (keep this):** Dentists open the door. Chiropractors assess the
+> **Final thought (keep this):** Dentists open the door. Doctors of Chiropractic assess the
 > whole house. Oral appliances support the structure — they don't replace it.
 
 *Editor's note: red-line safe and DDS-respectful throughout. Only "reduce liability"

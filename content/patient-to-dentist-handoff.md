@@ -19,15 +19,15 @@ Provider Network (pending Robert's brand-color decision).**
 care.*
 
 ## Page 1 — Why you're holding this
-Your patient is working with a chiropractor certified by the **Chiropractic Sleep
+Your patient is working with a Doctor of Chiropractic certified by the **Chiropractic Sleep
 Academy™** on the **structural side** of their sleep and airway. They wanted you to
 have this, because the best airway outcomes happen when the **dentist and the
-chiropractor coordinate** — not compete.
+Doctor of Chiropractic coordinate** — not compete.
 
 This isn't about changing anything you do. It's about making your work **easier and
 more durable.**
 
-## Page 2 — What a CSA-certified chiropractor does
+## Page 2 — What a CSA-certified Doctor of Chiropractic does
 We evaluate the **whole structural frame** the airway sits in — posture and cervical
 curve, pelvis, cranial mechanics, and how the body loads from the feet up. In plain
 terms: we help make sure the body can **accept and hold** an oral appliance, instead
@@ -60,14 +60,14 @@ for future airway cases — I'd welcome the conversation.
 > **Dr. [Name], DC** · [clinic] · [phone] · [email]
 > Certified — Chiropractic Sleep Academy™
 
-*Front-desk tip for the patient: "My chiropractor and dentist are working together on
+*Front-desk tip for the patient: "My Doctor of Chiropractic and dentist are working together on
 my airway — here's a note for you."*
 
 ---
 
 ## ⭐ Final line
-> Dentists open the door. Chiropractors assess the whole house. Oral appliances
-> support the structure — they don't replace it.
+> Dentists open the door. Doctors of Chiropractic assess the whole house. Oral
+> appliances support the structure — they don't replace it.
 
 ---
 
