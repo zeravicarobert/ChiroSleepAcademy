@@ -5,21 +5,20 @@ palette. It reads **premium / luxury** — consistent with the §4 price positio
 ("premium to implement, high-ticket for full transformation"). Retires the ad-hoc
 navy/teal/warm colors Claude used earlier.
 
-## The palette — matched to the CSA logo (crescent-spine moon, 2026-07-16)
-- **Charcoal-black** — primary ground. **`#15181E`** — a dark, slightly cool charcoal
-  (the logo background is NOT pure black).
-- **Champagne matte gold** — logo mark, lettering, headings, rules, accents. *Soft,
-  muted, matte champagne-tan* (lighter than a saturated gold). **`#CDB488`**.
-- **Cream / warm off-white** — body text on the dark ground. **`#ECE6D8`**.
-- **Antique gold** (for small gold text/accents on WHITE interiors, for contrast):
-  **`#9C7E45`**.
+## The palette — EXACT, sampled from the CSA logo file (2026-07-16)
+Logo (crescent moon formed by a spine + wordmark) recovered from the session and
+saved: `content/assets/CSA-logo.png`, `CSA-logo-transparent.png`, `CSA-logo.webp`.
+Colors **pixel-sampled** from the file:
+- **CSA Charcoal** — primary dark ground. **`#202127`** (the logo background; a dark,
+  slightly cool charcoal — not pure black).
+- **CSA Champagne Gold** — logo mark, wordmark, headings, rules, accents. **`#C2AE94`**
+  (soft, muted, matte champagne-tan — the exact logo gold).
+- **Cream** — body text on the dark ground. **`#ECE6D8`**.
+- **Antique gold** — for small gold TEXT on WHITE interiors (the champagne is too light
+  for contrast on white): **`#8F7440`**.
 
-> ⚠️ **Estimated from viewing the logo image (pasted inline — not available as a file
-> to pixel-sample).** These are close reads, not exact hex. **Send the logo as a PNG
-> file** and Claude will (a) save it as the official CSA asset in `content/assets/`,
-> (b) sample the exact charcoal + champagne-gold hex, and (c) reskin the whole library
-> to the precise values. Prior placeholder `#C2A24A` is retired — the logo gold is the
-> lighter champagne above.
+*(Prior placeholder `#C2A24A` and the estimated `#CDB488`/`#15181E` are retired —
+these are the real values.)*
 
 ## Usage rules (readability + print sanity)
 - **Covers, branding, headers, accents, short premium leave-behinds** → full
