@@ -350,7 +350,7 @@ no DC is blindsided.
 
 ### Step 5 — Full CSA Guided Case Plan
 **Price:** $15,000–$25,000 depending on complexity
-Dr. Z as quarterback for a high-ticket, doctor-led case plan.
+Dr. Z as case manager for a high-ticket, doctor-led case plan.
 
 - **Lower end ($15K):** simpler cases with fewer outside providers
 - **Higher end ($25K):** complex cases involving Tecopa VAET, SOT, CBP,
@@ -692,15 +692,17 @@ The Master Summary supplies the real IP language the site docs lack:
 Canonical positioning calls Robert has made. These govern all copy; when new
 material conflicts, these win (alongside the §5 red lines).
 
-### 2026-07-17 — CA DC is the quarterback; TMJ is the SIJ's Lovett Brother
+### 2026-07-17 — CA DC is the case manager; TMJ is the SIJ's Lovett Brother
 Two paired clinical/positioning calls (full text + guardrails:
 `content/csa-quotes-and-ideas.md`, top entries):
-- **CA DC = quarterback of the sleep case.** In California the Doctor of
+- **CA DC = case manager of the sleep case.** In California the Doctor of
   Chiropractic's body-parts scope is **broader** than the CA dentist's (whole
-  skeleton vs. mouth/jaw), so the **CA DC coordinates the whole sleep case.** The
-  DDS runs the oral-appliance play; the DC quarterbacks the body the airway sits
-  in. "Quarterback" = care **coordinator**, never over the sleep physician; studies
-  stay physician-read; moderate–severe co-managed. CA-specific claim — confirm with
+  skeleton vs. mouth/jaw), so the **CA DC manages the whole sleep case.** The
+  DDS handles the oral-appliance part; the DC manages the body the airway sits
+  in. Title = "case manager" (Robert's call 2026-07-17, over "quarterback": more
+  professional, less turf). "Case manager" = care **coordinator**, never over the
+  sleep physician and not the payor/administrative sense; studies stay
+  physician-read; moderate–severe co-managed. CA-specific claim — confirm with
   DC Board/attorney before it's a flat printed line.
 - **TMJ is the Lovett Brother to the SIJ.** The TMJ and sacroiliac joint behave as
   a reciprocal top/bottom pair, so **TMJ work without SIJ focus is incomplete.** The
@@ -791,7 +793,7 @@ progression. Claude's earlier "CSA 3.0 = neurofluid" idea is retired.
 
 ### 2026-07-17 — ⭐ STANDING RULE: all CSA material reflects California (CA)
 Everything Robert writes or says is about **practicing in California.** All CSA
-copy — scope claims, the DC-as-quarterback frame, TMJ/diagnosis language, the
+copy — scope claims, the DC-as-case-manager frame, TMJ/diagnosis language, the
 whole provider model — must be written for **CA rules and CA scope of practice.**
 > "I know other States have other rules… but I can't focus on other States. I have
 > to make it work in CA. Then I can think (and do) other States." — Robert

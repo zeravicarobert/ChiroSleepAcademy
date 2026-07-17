@@ -55,7 +55,7 @@ your scope. You choose and deliver the device; we support the body around it.
 ## Page 5 — How the team works (everyone in their lane)
 - **You (dentist):** open the conversation, image, choose and deliver the appliance.
 - **Doctor of Chiropractic:** whole-system structural evaluation and support; in
-  California, coordinates the whole-body case around your appliance work.
+  California, the case manager for the whole-body case around your appliance work.
 - **Sleep physician:** reads the sleep study and manages moderate-to-severe disease.
 
 Sleep studies stay **physician-read.** Everyone stays in their lane; the patient gets

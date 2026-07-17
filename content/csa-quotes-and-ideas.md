@@ -4,26 +4,29 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
-**2026-07-17 — ⭐ CA DC is the quarterback of the sleep case**
+**2026-07-17 — ⭐ CA DC is the case manager of the sleep case**
 > In California, the Doctor of Chiropractic's scope of practice (the body parts a
 > DC is licensed to evaluate and work on) is **broader** than the California
 > dentist's. Because the DC's structural jurisdiction covers the whole skeleton —
 > skull to sacrum to feet — and the DDS's covers the mouth and jaw, the **CA Doctor
-> of Chiropractic is, and should be, the quarterback of the sleep case.** The
-> dentist runs a critical part of the play (the oral appliance, the dental airway
-> view); the DC coordinates the whole body the airway sits in.
+> of Chiropractic is, and should be, the case manager of the sleep case.** The
+> dentist handles a critical part (the oral appliance, the dental airway view);
+> the DC manages the whole body the airway sits in.
 
-*(This is the natural leadership frame for the DC↔DDS model: not "who's more
-important," but "who has the whole-body view." The DC quarterbacks; the DDS,
-sleep physician, ENT, and manufacturer each run their lane. Pairs with the TMJ
-cross-over anchor below and "collaborate without collapsing scope."*
+*(This is the natural coordination frame for the DC↔DDS model: not "who's more
+important," but "who has the whole-body view." The DC manages the case; the DDS,
+sleep physician, ENT, and manufacturer each run their lane. "Case manager" chosen
+over "quarterback" — Robert's call (2026-07-17): more professional, less turf.
+Pairs with the TMJ cross-over anchor below and "collaborate without collapsing
+scope."*
 *⚠️ Guardrails: (1) This is a **California** scope claim — keep it CA-specific
-(see the CA-only rule below); scope varies by state. (2) "Quarterback" = care
-**coordinator**, never "diagnoses/treats over the dentist or physician." Sleep
-studies stay physician-read; moderate–severe disease is co-managed. (3) Confirm
-the CA scope comparison in writing with the DC Board / attorney before it's a
-flat printed claim — flagged like the "Robert can diagnose within CA scope" note.
-Tone stays peer-to-peer, never above the DDS/MD.)*
+(see the CA-only rule below); scope varies by state. (2) "Case manager" = care
+**coordinator**, never "diagnoses/treats over the dentist or physician" and not
+the payor/administrative sense of the term. Sleep studies stay physician-read;
+moderate–severe disease is co-managed. (3) Confirm the CA scope comparison in
+writing with the DC Board / attorney before it's a flat printed claim — flagged
+like the "Robert can diagnose within CA scope" note. Tone stays peer-to-peer,
+never above the DDS/MD.)*
 
 **2026-07-17 — ⭐ TMJ is the Lovett Brother to the SIJ (why TMJ work needs the SIJ)**
 > The **TMJ is the Lovett Brother to the sacroiliac joint (SIJ).** They move and

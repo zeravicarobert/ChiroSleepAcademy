@@ -85,8 +85,9 @@ it's finishing the job at both ends of the same system.
 
 **A note on coordination (California).** Because a California Doctor of Chiropractic's
 scope covers the whole skeleton — skull to sacrum to feet — the DC is well-placed to
-**coordinate the whole-body sleep case** while you run the oral-appliance part of the
-play. This isn't about rank; it's about who holds the whole-body view. Sleep studies
+serve as the **case manager of the whole-body sleep case** while you run the
+oral-appliance part of the play. This isn't about rank; it's about who holds the
+whole-body view. Sleep studies
 stay physician-read, and moderate-to-severe disease is co-managed with the sleep
 physician. *(Scope described here is California-specific.)*
 

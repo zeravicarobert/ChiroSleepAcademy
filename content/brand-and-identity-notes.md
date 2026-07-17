@@ -61,7 +61,7 @@ the Provider Network pillar: respectful, clear lanes, no turf war.)*
 - **"Complex problems require coordinated expertise."**
 - **"Apnea problems require a Liaison — Dr. Zeravica, DC."**
 
-Dr. Z as the **liaison / quarterback** who coordinates the sleep-airway team
+Dr. Z as the **liaison / case manager** who coordinates the sleep-airway team
 (MD, DDS, ENT, DC) — never replacing them, connecting them.
 
 **⭐ Authentic tie-in:** Robert served in **3rd ANGLICO** — *Air Naval Gunfire

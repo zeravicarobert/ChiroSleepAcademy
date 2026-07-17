@@ -41,9 +41,10 @@ of the spine. So **TMJ work without SIJ focus is incomplete.** The dentist works
 TMJ; the Doctor of Chiropractic owns the SIJ (SOT/AK) — its paired partner.
 
 Because a **California** Doctor of Chiropractic's body-parts scope is broader than the
-dentist's (whole skeleton vs. mouth/jaw), the DC is well-placed to **coordinate the
-whole-body sleep case** — the quarterback — while the dentist runs the oral-appliance
-play. This is about who holds the whole-body view, not rank. Sleep studies stay
+dentist's (whole skeleton vs. mouth/jaw), the DC is well-placed to serve as the
+**case manager of the whole-body sleep case** while the dentist handles the
+oral-appliance part. This is about who holds the whole-body view, not rank — the DC
+coordinates the team, never overriding the sleep physician. Sleep studies stay
 physician-read; moderate-to-severe disease is co-managed. *(Scope described here is
 California-specific.)*
 
