@@ -4,6 +4,23 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-16 — ⭐ positioning anchor: the TMJ is the DC↔DDS cross-over joint**
+> In the ideal situation, the TMJ is the **cross-over joint** between a Doctor of
+> Chiropractic and a dentist. Both licenses' scope of practice cover the TMJ — so
+> the TMJ is where the two professions overlap, and where **co-treatment starts** —
+> in the patient's mind and in the practitioners' minds.
+
+*(Strong, concrete anchor for the whole DDS-DC collaboration model: co-treatment
+isn't abstract — it has a **specific shared joint** where both are licensed to
+work. This is the natural "front door" for co-management. Weave into the dental
+workbook, the collaboration one-pager, and the patient-to-dentist handoff as the
+place where "everyone in their lane" becomes "and here's where the lanes meet."
+Ties to Lovett-Brother TMJ↔SIJ, the co-decision model, and "collaborate without
+collapsing scope."*
+*Guardrail: TMJ is within DC scope in many/most states and within DDS scope —
+but **scope varies by state**; keep "in the ideal situation / both licenses'
+scope cover TMJ" and confirm per state before making it a flat claim in copy.)*
+
 **2026-07-16 — reframe (focus vs. infrastructure)**
 > What appears to be a lack of focus — whether in a patient or a clinician — is
 > often something else: a massive vision without one streamlined infrastructure
