@@ -117,8 +117,8 @@ snoring-recorder app (like SnoreLab) can capture a night so it's not just your
 word against his memory.
 
 **3. Get a real sleep test.** A **home sleep test** is simple — he sleeps in his
-own bed, and a physician reads the results. It turns "I think something's wrong"
-into actual numbers.
+own bed, and a doctor reads and explains the results. It turns "I think
+something's wrong" into actual numbers.
 
 **4. Ask about the airway — not just the mask.** Whatever path you choose,
 it's fair to ask: *"What is his airway actually doing, and what's shaping it?"*
@@ -156,8 +156,8 @@ breathing — clear language, no spam. 👉 [link]
 ---
 
 *Educational information only. This guide does not diagnose any condition and is
-not a substitute for care from your physician or dentist. If you notice someone
-repeatedly stop breathing, gasp, or choke during sleep, please see a licensed
-physician. Sleep apnea is diagnosed from a sleep study read by a physician.
-Never start or stop any prescribed treatment, including CPAP, without your
+not a substitute for a visit with a qualified doctor. If you notice someone
+repeatedly stop breathing, gasp, or choke during sleep, please get them evaluated.
+Sleep apnea is diagnosed from a sleep study, read and interpreted by a qualified
+doctor. Never start or stop any prescribed treatment, including CPAP, without your
 doctor. © 2026 Robert Zeravica.*

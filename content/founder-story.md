@@ -51,10 +51,11 @@ telehealth and disability-certification practice from the ground up. And I
 developed VAET — Viscerocranial Airway Expansion Therapy — a structural,
 hands-on approach to the airway.
 
-I want to be clear about what VAET is and is not. I do not diagnose sleep apnea.
-A sleep physician reads the sleep test. I do not claim to cure anything. I do not
-tell anyone to stop CPAP, an oral appliance, or any care their doctor
-prescribed. I respect that care and the doctors who provide it. My role is
+I want to be clear about what VAET is and is not. I read your case, diagnose it,
+and manage it within my California scope — and I bring in an MD or ENT when a case
+calls for it. I do not claim to cure anything. I do not tell anyone to stop CPAP,
+an oral appliance, or any care their doctor prescribed. I respect that care and the
+doctors who provide it. My role is
 structural. I measure before and after with a real home sleep test. I work
 alongside medical and dental providers, not against them. VAET is an early,
 honest, structural option inside a bigger team — never a replacement for it.
@@ -100,14 +101,15 @@ Breathing is a whole-body, living function. It is more than the air a machine
 moves. It is more than the gas your body trades. A body breathes. So how the
 body is built and how it holds itself matters for how you breathe and sleep.
 
-I want to be honest with you about what I do and do not do. I do not diagnose
-sleep apnea. A sleep physician reads your sleep test. I do not promise a cure. I
-will never tell you to stop CPAP or any care your doctor gave you. Those tools
-help many people, and I respect them.
+I want to be honest with you about what I do and do not do. I read your case,
+diagnose it, and manage it within my California scope, and I bring in an MD or ENT
+when a case calls for it. I do not promise a cure. I will never tell you to stop
+CPAP or any care your doctor gave you. Those tools help many people, and I respect
+them.
 
 Here is how I can help. We start simple. We look at your sleep history. If it
-makes sense, you take a home sleep test, and a physician reads it. Then we talk
-through what it shows. From there, we look at whether structural care might help
+makes sense, you take a home sleep test, and I read what it shows and diagnose the
+case. Then we talk through it together. From there, we look at whether structural care might help
 your case — measured honestly, with real numbers before and after, and always
 alongside your other providers.
 

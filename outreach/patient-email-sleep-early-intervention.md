@@ -85,9 +85,9 @@ A **home sleep test** — the same kind of objective look I did on myself:
   center, no overnight stay somewhere strange.
 - **It's a disposable test.** You wear it while you sleep in your own bed,
   and there's nothing to ship back — the results upload on their own.
-- **A board-certified sleep physician reads your results.** Diagnosing
-  sleep conditions is a physician's job, and that's exactly who reviews
-  your data.
+- **A doctor reads and diagnoses your results.** As a California Doctor of
+  Chiropractic, I read your case, diagnose it, and manage it within my scope —
+  and I bring in an MD or ENT when a case calls for it.
 - **Then you and I go over it together on Zoom.** I'll walk you through
   what your results mean, from a structural and airway point of view — how
   your posture, breathing, and structure fit into the picture — and we'll
