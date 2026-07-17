@@ -702,6 +702,28 @@ The Master Summary supplies the real IP language the site docs lack:
 Canonical positioning calls Robert has made. These govern all copy; when new
 material conflicts, these win (alongside the §5 red lines).
 
+### 2026-07-17 — Legitimacy assets + the "MSK-box breakout"
+- **New assets:** `content/positioning-closed-loop-legitimacy.md` (closed self-
+  certifying loop = illegitimate; loop grounded in external measured reality =
+  legitimate — pairs with the Independence + Clinical Consequence shield);
+  `content/founding-legitimacy-wilk-ama.md` (the *Wilk v. AMA* Committee→Goal→
+  Liability founding story + DO-absorption contrast + "I lead from that vindicated
+  ground"); `content/unlicensed-manipulation-complaint-template.md` (CA regulatory
+  complaint template).
+- **⭐ MSK-box breakout (Robert's insight 2026-07-17):** post-*Wilk* normalization
+  (Medicare/VA/military/low-back-pain guidelines) also **pigeonholed** DCs into
+  musculoskeletal pain-management. CSA's category move = **break the MSK box**: the
+  Doctor of Chiropractic is *also* a sleep-and-airway doctor. Frame CSA as expanding
+  the DC's recognized domain, not just MSK.
+- **Accuracy notes for this whole thread:** "found **liable**," not "guilty" (civil);
+  the COQ was **disbanded ~1974** (say the *function* persisted, not the committee);
+  present-day containment = **argument**, the 1963–90 story = **adjudicated fact**;
+  chiropractic is best described as a **top-tier / largest drugless (CAM) doctoral
+  profession**, not flatly "#2 healthcare system" (keep claims defensible). New
+  accountability targets (insurers, VA, boards, DDS, 3rd parties) need **their own
+  receipts** — defamation risk; regulatory/payer channels, not borrowed *Wilk*
+  finality.
+
 ### 2026-07-17 — CA DC is the case manager; TMJ is the SIJ's Lovett Brother
 Two paired clinical/positioning calls (full text + guardrails:
 `content/csa-quotes-and-ideas.md`, top entries):
