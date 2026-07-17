@@ -4,6 +4,16 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-17 — founder "why" (keep)**
+> Patients are losing access to distinct manual arts — the DO's, the DC's. That's
+> sad for patients. Someone has to fight for them. It's me — because it helped me,
+> in my own life, with my health and my body.
+
+*(Robert's personal motive line. Honest, first-person, non-hype — good raw material
+for the About/founder-story and DC-recruiting copy. Pairs with "Heal the healer
+first." Guardrail: keep it about restoring access + measured help, never a cure
+claim or a knock on devices/drugs as care.)*
+
 **2026-07-17 — ⭐ CA DC is the case manager of the sleep case**
 > In California, the Doctor of Chiropractic's scope of practice (the body parts a
 > DC is licensed to evaluate and work on) is **broader** than the California
