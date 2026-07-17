@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>For Your Dentist — CSA</title>
+<style>
+  :root{
+    --black:#0e0e10; --panel:#151518; --gold:#c2a24a; --gold-2:#d9be76;
+    --cream:#ece6d8; --cream-2:#b9b3a4; --line:#332f26;
+    --serif:Georgia,"Iowan Old Style",'Times New Roman',serif;
+    --sans:-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box} html,body{margin:0}
+  body{font-family:var(--sans);background:var(--black);color:var(--cream);line-height:1.6;font-size:11pt;
+    -webkit-print-color-adjust:exact;print-color-adjust:exact}
+  p{margin:0 0 9px} strong{color:var(--gold-2);font-weight:600} em{color:var(--cream-2)}
+  ul{margin:0 0 9px;padding-left:18px} li{margin:3px 0}
+
+  .page{min-height:247mm;break-after:page;padding:22mm 20mm;display:flex;flex-direction:column}
+  .brand{font-size:10pt;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700}
+  .rule{height:1px;background:linear-gradient(90deg,var(--gold),transparent);border:0;margin:14px 0 22px}
+
+  /* cover */
+  .cover{justify-content:center;text-align:left}
+  .cover .mark{width:44px;height:44px;color:var(--gold);margin-bottom:26px}
+  .cover h1{font-family:var(--serif);font-size:30pt;line-height:1.12;color:var(--gold);margin:0 0 14px;font-weight:600;letter-spacing:.01em}
+  .cover .dek{font-family:var(--serif);font-style:italic;font-size:14pt;color:var(--cream);margin:0;max-width:130mm}
+  .cover .foot{margin-top:auto;font-size:10pt;color:var(--cream-2);letter-spacing:.04em}
+  .cover .foot b{color:var(--gold)}
+
+  h2{font-family:var(--serif);font-size:20pt;color:var(--gold);margin:0 0 4px;font-weight:600;letter-spacing:.01em}
+  .kicker{font-size:9.5pt;letter-spacing:.2em;text-transform:uppercase;color:var(--cream-2);font-weight:700;margin-bottom:2px}
+  .lead{font-size:13pt;color:var(--cream);font-family:var(--serif);margin-bottom:12px}
+  .pull{font-family:var(--serif);font-style:italic;font-size:15pt;color:var(--gold-2);border-left:2px solid var(--gold);padding-left:14px;margin:16px 0}
+  .card{border:1px solid var(--line);border-radius:8px;padding:16px 20px;background:var(--panel);margin-top:8px}
+  .card .name{font-family:var(--serif);font-size:14pt;color:var(--gold);margin-bottom:2px}
+  .tip{font-size:10pt;color:var(--cream-2);font-style:italic;margin-top:14px}
+  .final{margin-top:auto;font-family:var(--serif);font-style:italic;font-size:13.5pt;color:var(--gold-2);
+    border-top:1px solid var(--line);padding-top:16px}
+  @page{size:Letter;margin:0}
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<section class="page cover">
+  <svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12c3 0 3-5 6-5s3 5 6 5 3-4 6-4"/><path d="M3 17c3 0 3-3 6-3s3 3 6 3 3-2 6-2"/></svg>
+  <div class="brand">Chiropractic Sleep Academy</div>
+  <hr class="rule">
+  <h1>Your patient asked me<br>to give you this.</h1>
+  <p class="dek">A short note about working together on airway care.</p>
+  <div class="foot">Given to you by your patient · on behalf of their <b>CSA-certified chiropractor</b></div>
+</section>
+
+<!-- P1 -->
+<section class="page">
+  <div class="brand">Chiropractic Sleep Academy</div><hr class="rule">
+  <div class="kicker">Why you're holding this</div>
+  <h2>A coordinated hand, not a competing one</h2>
+  <p class="lead">Your patient is working with a chiropractor certified by the
+  Chiropractic Sleep Academy™ on the <strong>structural side</strong> of their sleep
+  and airway.</p>
+  <p>They wanted you to have this, because the best airway outcomes happen when the
+  <strong>dentist and the chiropractor coordinate</strong> — not compete.</p>
+  <p>This isn't about changing anything you do. It's about making your work
+  <strong>easier and more durable.</strong></p>
+</section>
+
+<!-- P2 -->
+<section class="page">
+  <div class="brand">Chiropractic Sleep Academy</div><hr class="rule">
+  <div class="kicker">What a CSA-certified chiropractor does</div>
+  <h2>The global picture around your local one</h2>
+  <p>We evaluate the <strong>whole structural frame</strong> the airway sits in —
+  posture and cervical curve, pelvis, cranial mechanics, and how the body loads from
+  the feet up.</p>
+  <p>In plain terms: we help make sure the body can <strong>accept and hold</strong>
+  an oral appliance, instead of quietly fighting it.</p>
+  <p class="pull">CBCT shows a local picture of the airway. We add the global picture around it.</p>
+</section>
+
+<!-- P3 -->
+<section class="page">
+  <div class="brand">Chiropractic Sleep Academy</div><hr class="rule">
+  <div class="kicker">Why this helps your chair time</div>
+  <h2>Fewer failures. Faster acceptance.</h2>
+  <p>When the structural frame is addressed alongside your appliance:</p>
+  <ul>
+    <li>fewer remakes and titration stalls,</li>
+    <li>fewer TMJ and intolerance call-backs,</li>
+    <li>faster patient acceptance of the plan,</li>
+    <li>shared documentation and pre/post testing you can stand behind.</li>
+  </ul>
+  <p>The appliance <strong>supports the structure — it doesn't replace it</strong>,
+  and we never touch your scope. You choose and deliver the device; we support the
+  body around it.</p>
+</section>
+
+<!-- P4 -->
+<section class="page">
+  <div class="brand">Chiropractic Sleep Academy</div><hr class="rule">
+  <div class="kicker">How the team works</div>
+  <h2>Everyone in their lane</h2>
+  <ul>
+    <li><strong>You (dentist):</strong> open the conversation, image, choose and deliver the appliance.</li>
+    <li><strong>Chiropractor:</strong> whole-system structural evaluation and support.</li>
+    <li><strong>Sleep physician:</strong> reads the sleep study and manages moderate-to-severe disease.</li>
+  </ul>
+  <p>Sleep studies stay <strong>physician-read.</strong> Everyone stays in their lane;
+  the patient gets a coordinated plan.</p>
+</section>
+
+<!-- P5 -->
+<section class="page">
+  <div class="brand">Chiropractic Sleep Academy</div><hr class="rule">
+  <div class="kicker">Let's coordinate</div>
+  <h2>I'd welcome the conversation</h2>
+  <p>If you'd like to compare notes on this patient — or set up a simple referral
+  pathway for future airway cases — please reach out.</p>
+  <div class="card">
+    <div class="name">Dr. ____________________, DC</div>
+    <div>Certified — Chiropractic Sleep Academy™</div>
+    <div style="margin-top:6px;color:var(--cream-2)">Clinic · Phone · Email</div>
+  </div>
+  <div class="tip">For the patient: "My chiropractor and dentist are working together on my airway — here's a note for you."</div>
+  <div class="final">Dentists open the door. Chiropractors assess the whole house.
+  Oral appliances support the structure — they don't replace it.</div>
+</section>
+
+</body>
+</html>
