@@ -68,6 +68,28 @@ This answers one question that protects your appliance work:
 The DC doesn't touch your scope. You choose and deliver the device. The DC makes sure
 the body can accept and hold it.
 
+## Where the Lanes Meet — the TMJ (and the Joint That Finishes It)
+In the ideal case, the **TMJ is the cross-over joint** between you and the Doctor of
+Chiropractic. Both of your licenses cover it, so it's the natural front door for
+working together — the one joint where "everyone in their lane" becomes "and here's
+where the lanes meet."
+
+Here's the part most sleep programs miss. In the chiropractic biomechanical model,
+the **TMJ and the sacroiliac joint (SIJ) behave as a reciprocal pair** — top and
+bottom of the spine, moving in relationship. In that model, **TMJ work done without
+addressing the SIJ is incomplete.** You work the TMJ; the Doctor of Chiropractic
+owns the SIJ (SOT/AK) — the TMJ's paired partner. That's not a courtesy referral;
+it's finishing the job at both ends of the same system.
+
+> **The dentist works the TMJ. The Doctor of Chiropractic finishes it at the SIJ.**
+
+**A note on coordination (California).** Because a California Doctor of Chiropractic's
+scope covers the whole skeleton — skull to sacrum to feet — the DC is well-placed to
+**coordinate the whole-body sleep case** while you run the oral-appliance part of the
+play. This isn't about rank; it's about who holds the whole-body view. Sleep studies
+stay physician-read, and moderate-to-severe disease is co-managed with the sleep
+physician. *(Scope described here is California-specific.)*
+
 ## Part 4 — The Proper Role of the Oral Appliance
 Oral appliances **work** — they can support airway patency and reduce collapse, and
 for many patients they're the right tool. They must be chosen carefully, and

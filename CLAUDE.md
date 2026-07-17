@@ -692,6 +692,24 @@ The Master Summary supplies the real IP language the site docs lack:
 Canonical positioning calls Robert has made. These govern all copy; when new
 material conflicts, these win (alongside the §5 red lines).
 
+### 2026-07-17 — CA DC is the quarterback; TMJ is the SIJ's Lovett Brother
+Two paired clinical/positioning calls (full text + guardrails:
+`content/csa-quotes-and-ideas.md`, top entries):
+- **CA DC = quarterback of the sleep case.** In California the Doctor of
+  Chiropractic's body-parts scope is **broader** than the CA dentist's (whole
+  skeleton vs. mouth/jaw), so the **CA DC coordinates the whole sleep case.** The
+  DDS runs the oral-appliance play; the DC quarterbacks the body the airway sits
+  in. "Quarterback" = care **coordinator**, never over the sleep physician; studies
+  stay physician-read; moderate–severe co-managed. CA-specific claim — confirm with
+  DC Board/attorney before it's a flat printed line.
+- **TMJ is the Lovett Brother to the SIJ.** The TMJ and sacroiliac joint behave as
+  a reciprocal top/bottom pair, so **TMJ work without SIJ focus is incomplete.** The
+  dentist works the TMJ; the DC owns the SIJ (SOT/AK) — its paired partner — which
+  makes co-management mechanically required, not optional. Present as CSA's
+  chiropractic **clinical model**, not undisputed anatomical law.
+- Both feed the DDS/DC materials (dental workbook, collaboration one-pager,
+  patient-to-dentist handoff) and sit on top of the TMJ cross-over anchor.
+
 ### 2026-07-16 — Independence + Clinical Consequence (CSA's shield)
 Two paired governing principles (full text: `content/positioning-clinical-consequence.md`):
 > **CSA does not judge truth claims. CSA judges clinical consequence.**
@@ -770,6 +788,19 @@ progression. Claude's earlier "CSA 3.0 = neurofluid" idea is retired.
 - Use the fewest words possible.
 - Say clearly: what I did, or what I want him to do.
 - Avoid long sentences, jargon, and packed parentheses.
+
+### 2026-07-17 — ⭐ STANDING RULE: all CSA material reflects California (CA)
+Everything Robert writes or says is about **practicing in California.** All CSA
+copy — scope claims, the DC-as-quarterback frame, TMJ/diagnosis language, the
+whole provider model — must be written for **CA rules and CA scope of practice.**
+> "I know other States have other rules… but I can't focus on other States. I have
+> to make it work in CA. Then I can think (and do) other States." — Robert
+- Default every scope/legal claim to **California** unless Robert says otherwise.
+- Other states are a **later** project, not this one. Don't dilute copy with
+  "varies by state" hedging as the main frame — state it CA-first, and footnote
+  the state-variation caveat where a printed claim needs it.
+- This governs the DDS/DC materials, patient consent/study docs, and any future
+  page or ad.
 
 ### 2026-07-16 — ⭐ COPY STANDARD: "Doctor of Chiropractic," never "chiropractor"
 In **all** CSA documents — **especially anything going to dentists** — refer to the

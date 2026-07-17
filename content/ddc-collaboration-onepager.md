@@ -11,7 +11,7 @@ care model**, and "collaborate without collapsing scope." Source PDF:
 
 ## Introduction — The New Kid in the Sandbox
 - Sleep apnea patients are entering dental and chiropractic offices more than ever.
-- Dentists and chiropractors often "see" the same patient at the same time.
+- Dentists and Doctors of Chiropractic often "see" the same patient at the same time.
 - Without a shared framework, care becomes fragmented.
 
 This explains **how coordination works best**, and **why sequence matters.**
@@ -27,11 +27,25 @@ show spinal-curve load, pelvic imbalance, respiratory mechanics, postural
 compensation, foot–spine relationships. **A narrow airway is a local finding; sleep
 apnea is a global condition.**
 
-## Section 3 — The Chiropractor as Biomechanical Integrator
-A post-graduate-trained DC evaluates posture (CBP), pelvis & SIJ (SOT/AK), cranial
-mechanics (BNS/CFR), spinal loading, and foot–pelvis–spine integration — answering
-one question: *Will an oral appliance help — or create new problems — without
-correcting global mechanics?*
+## Section 3 — The Doctor of Chiropractic as Biomechanical Integrator
+A post-graduate-trained Doctor of Chiropractic evaluates posture (CBP), pelvis & SIJ
+(SOT/AK), cranial mechanics (BNS/CFR), spinal loading, and foot–pelvis–spine
+integration — answering one question: *Will an oral appliance help — or create new
+problems — without correcting global mechanics?*
+
+## Section 3.5 — Where the Lanes Meet: the TMJ (and the SIJ that finishes it)
+The **TMJ is the cross-over joint** — both licenses cover it, so it's the natural
+front door for working together. And in the chiropractic biomechanical model, the
+**TMJ and the sacroiliac joint (SIJ) behave as a reciprocal pair** — top and bottom
+of the spine. So **TMJ work without SIJ focus is incomplete.** The dentist works the
+TMJ; the Doctor of Chiropractic owns the SIJ (SOT/AK) — its paired partner.
+
+Because a **California** Doctor of Chiropractic's body-parts scope is broader than the
+dentist's (whole skeleton vs. mouth/jaw), the DC is well-placed to **coordinate the
+whole-body sleep case** — the quarterback — while the dentist runs the oral-appliance
+play. This is about who holds the whole-body view, not rank. Sleep studies stay
+physician-read; moderate-to-severe disease is co-managed. *(Scope described here is
+California-specific.)*
 
 ## Section 4 — The Proper Role of the Oral Appliance
 Oral appliances can support airway patency and reduce collapse — and must be chosen
@@ -50,16 +64,17 @@ evaluates biomechanical consequences. Both providers should be trained on the de
 **No turf war. No duplication. No guessing.**
 
 ## Section 6 — Why This Protects Everyone
-Dentists reduce chair time and liability exposure; chiropractors practice within
-scope; manufacturers stay in their lane; patients get better outcomes.
+Dentists reduce chair time and may reduce liability exposure through documented
+co-management; Doctors of Chiropractic practice within scope; manufacturers stay in
+their lane; patients get better outcomes.
 
 ## Conclusion — The Playground Has Rules
 > When everyone knows the rules of the playground, the new kid doesn't get hurt —
 > and everyone wins.
 
 ## ⭐ Final thought (keeper)
-> **Dentists open the door. Chiropractors assess the whole house. Oral appliances
-> support the structure — they don't replace it.**
+> **Dentists open the door. Doctors of Chiropractic assess the whole house. Oral
+> appliances support the structure — they don't replace it.**
 
 ---
 

@@ -4,6 +4,46 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-17 — ⭐ CA DC is the quarterback of the sleep case**
+> In California, the Doctor of Chiropractic's scope of practice (the body parts a
+> DC is licensed to evaluate and work on) is **broader** than the California
+> dentist's. Because the DC's structural jurisdiction covers the whole skeleton —
+> skull to sacrum to feet — and the DDS's covers the mouth and jaw, the **CA Doctor
+> of Chiropractic is, and should be, the quarterback of the sleep case.** The
+> dentist runs a critical part of the play (the oral appliance, the dental airway
+> view); the DC coordinates the whole body the airway sits in.
+
+*(This is the natural leadership frame for the DC↔DDS model: not "who's more
+important," but "who has the whole-body view." The DC quarterbacks; the DDS,
+sleep physician, ENT, and manufacturer each run their lane. Pairs with the TMJ
+cross-over anchor below and "collaborate without collapsing scope."*
+*⚠️ Guardrails: (1) This is a **California** scope claim — keep it CA-specific
+(see the CA-only rule below); scope varies by state. (2) "Quarterback" = care
+**coordinator**, never "diagnoses/treats over the dentist or physician." Sleep
+studies stay physician-read; moderate–severe disease is co-managed. (3) Confirm
+the CA scope comparison in writing with the DC Board / attorney before it's a
+flat printed claim — flagged like the "Robert can diagnose within CA scope" note.
+Tone stays peer-to-peer, never above the DDS/MD.)*
+
+**2026-07-17 — ⭐ TMJ is the Lovett Brother to the SIJ (why TMJ work needs the SIJ)**
+> The **TMJ is the Lovett Brother to the sacroiliac joint (SIJ).** They move and
+> mirror as a pair top-and-bottom of the spine. So TMJ work done **without** focus
+> on the SIJ is **incomplete** — you're treating one end of a linked pair and
+> ignoring the other.
+
+*(This is the clinical "why" under the TMJ cross-over anchor: the dentist works
+the TMJ; the Doctor of Chiropractic owns the SIJ (SOT/AK) — the TMJ's paired
+partner. So co-management isn't optional courtesy, it's **mechanically required**:
+finishing TMJ work means addressing the SIJ, which is squarely the DC's lane.
+Strong bridge from "here's the shared joint" (TMJ) to "here's why you need the DC"
+(the SIJ it's paired with). Powerful in the dental workbook and the handoff.*
+*⚠️ Guardrail: "Lovett Brother / Lovett reactor" is a **chiropractic/SOT
+biomechanical model** (TMJ↔SIJ, upper↔lower reciprocal pairing), not a settled
+anatomical law in the broader literature. In DDS/MD copy present it as CSA's
+**clinical model** ("in the chiropractic biomechanical model, the TMJ and SIJ
+behave as a reciprocal pair"), not as undisputed fact. Keep it a lens, tie to
+what's measured/observed — don't overclaim.)*
+
 **2026-07-16 — ⭐ positioning anchor: the TMJ is the DC↔DDS cross-over joint**
 > In the ideal situation, the TMJ is the **cross-over joint** between a Doctor of
 > Chiropractic and a dentist. Both licenses' scope of practice cover the TMJ — so

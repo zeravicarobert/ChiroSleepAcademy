@@ -35,7 +35,14 @@ of quietly fighting it.
 
 CBCT shows a **local** picture of the airway. We add the **global** picture around it.
 
-## Page 3 — Why this helps your chair time
+## Page 3 — Where our work meets: the TMJ
+The **TMJ is the joint we share** — both our licenses cover it, so it's the natural
+place to work together. And in our biomechanical model, the **TMJ and the sacroiliac
+joint (SIJ) work as a pair** — top and bottom of the spine. So TMJ work is only
+finished when the SIJ is addressed too. **You work the TMJ; we finish it at the SIJ.**
+*(This is our clinical model; scope described here is California-specific.)*
+
+## Page 4 — Why this helps your chair time
 When the structural frame is addressed alongside your appliance:
 - fewer remakes and titration stalls,
 - fewer TMJ and intolerance call-backs,
@@ -45,15 +52,16 @@ When the structural frame is addressed alongside your appliance:
 The appliance **supports the structure — it doesn't replace it**, and we never touch
 your scope. You choose and deliver the device; we support the body around it.
 
-## Page 4 — How the team works (everyone in their lane)
+## Page 5 — How the team works (everyone in their lane)
 - **You (dentist):** open the conversation, image, choose and deliver the appliance.
-- **Chiropractor:** whole-system structural evaluation and support.
+- **Doctor of Chiropractic:** whole-system structural evaluation and support; in
+  California, coordinates the whole-body case around your appliance work.
 - **Sleep physician:** reads the sleep study and manages moderate-to-severe disease.
 
 Sleep studies stay **physician-read.** Everyone stays in their lane; the patient gets
 a coordinated plan.
 
-## Page 5 — Let's coordinate
+## Page 6 — Let's coordinate
 If you'd like to compare notes on this patient — or set up a simple referral pathway
 for future airway cases — I'd welcome the conversation.
 
