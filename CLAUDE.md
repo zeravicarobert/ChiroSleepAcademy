@@ -715,6 +715,10 @@ Review**) and the phrase "sleep chiropractic" are kept as **campaign / model / t
 language UNDER CSA**, never as a separate academy. Centralize identity under one name;
 index everything under it. Apply going forward and when touching the editorial/position
 -paper assets.
+- **Parked future umbrella:** Robert is thinking ahead to a bigger academy ("The
+  Lifestyle Academy") with CSA as a department under it — **not active.** Full map +
+  his "Lifestyle-connotation" flag in `content/future-brand-architecture.md`. CSA stays
+  the brand now; do not build under the umbrella until Robert says "activate."
 
 ### 2026-07-17 — Legitimacy assets + the "MSK-box breakout"
 - **New assets:** `content/positioning-closed-loop-legitimacy.md` (closed self-

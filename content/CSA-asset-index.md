@@ -51,6 +51,7 @@
 | `content/gerd-csa-positioning.md` | GERD as recognition cue (red-line-safe) | INT |
 | `content/strategy-renting-credibility.md` | "Renting credibility" / endorsement strategy | INT |
 | `content/csa-quotes-and-ideas.md` | Robert's one-liners, hero lines, asides | INT |
+| `content/future-brand-architecture.md` | 🅿️ PARKED — future "Lifestyle Academy" umbrella map (CSA stays active now) | INT |
 | `content/csa-coined-terms.md` | Coined-terms / trademark registry | INT |
 | `content/dc-manifesto.md`, `content/analogy-bitcoin-original-protocol.md` | Manifesto + protocol analogy | INT |
 
