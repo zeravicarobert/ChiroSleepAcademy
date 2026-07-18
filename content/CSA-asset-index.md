@@ -31,8 +31,8 @@
 | `content/manufacturer-workbook.md` ↔ `assets/CSA-Manufacturer-Workbook.pdf` | Biomechanical primer for appliance makers | MFR | ✅ |
 | `content/foundations-workbook-v1.1.md` ↔ `assets/CSA-Foundations-Workbook-v1.1.pdf` | Foundations workbook | DC | ✅ |
 | `content/founding-legitimacy-wilk-ama.md` ↔ `assets/CSA-Wilk-Founding-Legitimacy.pdf` | Wilk v. AMA founding-legitimacy one-pager | DC | ✅ |
-| `content/editorial-skull-down-mandate.md` | "Skull-Down Mandate" editorial (faith credo + secular twin) | DC/PT | ✅ (not yet designed) |
-| `content/position-paper-skull-down-credible.md` | Skull-Down position paper (MD/DDS-safe) | DDS/INT | ✅ (not yet designed) |
+| `content/editorial-skull-down-mandate.md` ↔ `assets/CSA-Editorial-Skull-Down.pdf` | "Skull-Down Mandate" editorial — pg1 faith credo (dark), pg2 secular twin (light) | DC/PT | ✅ |
+| `content/position-paper-skull-down-credible.md` ↔ `assets/CSA-Position-Paper-Skull-Down.pdf` | Skull-Down position paper (MD/DDS-safe) | DDS/INT | ✅ |
 | `content/whitepaper-biomechanical-gap-dc-edition.md` | "Closing the Biomechanical Gap" — DC edition | DC | ✅ |
 | `content/whitepaper-biomechanical-gap.md` | Biomechanical-gap white paper (industry) | MFR/INT | ✅ |
 | `content/csa-outcomes-before-after-template.html` | Before/after outcomes chart template | DC | ✅ |
@@ -122,8 +122,8 @@ official CSA logo. Palette + rules in `content/brand-colors.md`.
 ---
 
 ## Open loops (things flagged, awaiting input)
-- **Design PDFs still to build:** editorial, position paper, and re-skin the DDS
-  collaboration one-pager to brand.
+- **Design PDFs still to build:** re-skin the DDS collaboration one-pager to brand
+  (`ddc-collaboration-onepager`). *(Editorial + position paper — done.)*
 - **Credentials to verify** (MUA, CFR, BNS, CBBC, SOT status, USMC years) before print.
 - **HST vendor decision** (default vendor / margin) — CLAUDE.md §8/§15.
 - **MSK-box breakout** — positioning to develop further (CLAUDE.md §18).
