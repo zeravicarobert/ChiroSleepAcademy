@@ -44,6 +44,7 @@
 |---|---|---|
 | `content/positioning-clinical-consequence.md` | Independence + Clinical Consequence (the shield) | INT |
 | `content/positioning-closed-loop-legitimacy.md` | Closed loop vs. grounded loop = legitimacy | INT |
+| `content/positioning-conservative-care-first.md` | Conservative-care-first standard (ethical order + sleep/airway extension) | INT |
 | `content/csa-doctrine-states-of-matter.md` | Chiropractic 1.0 Solids / 2.0 Liquids / 3.0 Gas | INT |
 | `content/csa-framework.md` | Version ladders + Breathing Distinction | INT |
 | `content/positioning-pain-to-sleep.md` | Pain→sleep bridge positioning | INT |
@@ -129,4 +130,4 @@ official CSA logo. Palette + rules in `content/brand-colors.md`.
 - **Credentials to verify** (MUA, CFR, BNS, CBBC, SOT status, USMC years) before print.
 - **HST vendor decision** (default vendor / margin) — CLAUDE.md §8/§15.
 - **MSK-box breakout** — positioning to develop further (CLAUDE.md §18).
-- **Conservative-Care-First Standard** note — offered, not yet built.
+- ~~Conservative-Care-First Standard note~~ ✅ built (`positioning-conservative-care-first.md`).
