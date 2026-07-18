@@ -49,6 +49,21 @@ Honest brand-guardian notes for when he revisits:
   is already used one level down, so avoid double-use.)
 - No decision needed now — parked.
 
+## Other parked names / future entities
+- **USA National Alliance of Chiropractic Sleep Doctors** *(parked 2026-07-17).* A
+  potential **professional membership alliance / association** — the collective body for
+  Doctors of Chiropractic practicing sleep & airway. Different in kind from the academies
+  above: an academy *teaches/certifies*; an **alliance** *organizes, credentials-by-
+  membership, sets standards, and advocates.* Natural fits:
+  - the **membership/representation tier** (CLAUDE.md §8 Step 6) — the "home" a
+    CSA-certified DC belongs to,
+  - the **advocacy vehicle** for the payer/scope/reimbursement fights (associations do
+    that at scale — the credible way to press insurers/VA/boards, vs. solo),
+  - a **founding-cohort** identity ("founding member" of the national alliance).
+  - *Notes for activation:* elevates the title ("Chiropractic Sleep Doctors" → keep
+    "Doctor" prominent, copy rule). Check name availability + whether to incorporate as a
+    nonprofit/association; trademark review. Parked — not active.
+
 ## When Robert activates this
 1. Confirm the umbrella name (resolve the "Lifestyle" question).
 2. **Trademark/registration** review with an attorney before using any ™ mark publicly.
