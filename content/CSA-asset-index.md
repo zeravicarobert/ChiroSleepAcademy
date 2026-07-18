@@ -73,6 +73,7 @@
 | `content/reference-biotensegrity-levin.md` | Biotensegrity (Levin) reference | INT |
 | `content/evidence/README.md` + papers | CSA Evidence Library (Penn State, cervical lymphatics) | INT |
 | `content/book-kingdom-*.md` | Book drafts (Kingdom of Techniques / Post-Dogmatic Review) | INT |
+| `content/book-kingdom-ch1-consequence-standard.md` | Book Ch.1 — "The Consequence Standard" (the filter/rubric) | DC/INT |
 | `content/newstart-program.md` | NEWSTART program note | INT |
 
 ## 6. Legal / accountability

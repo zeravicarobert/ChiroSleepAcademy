@@ -127,6 +127,9 @@ The **method is gold.** The **execution is where the danger is.** Four hard flag
   measured data, attorney-reviewed before publication.
 
 ## Next step (when Robert says go)
-Claude drafts **Chapter 1 — "The Consequence Standard"** (the filter/rubric): a
-respectful, publishable method for judging any technique by measurable response —
-no named targets, pure method.
+~~Claude drafts Chapter 1 — "The Consequence Standard."~~ ✅ **Drafted 2026-07-17:**
+`content/book-kingdom-ch1-consequence-standard.md` — the filter/rubric (9-step method),
+built on the keystone principle, pure method / no named targets, red-line safe.
+**Next candidates:** Chapter 2 "The Pattern" (how systems drift into sacred language —
+taught as a human pattern, not an accusation), or the internal per-system scorecards
+(measured-data-backed, attorney-reviewed before any public use).
