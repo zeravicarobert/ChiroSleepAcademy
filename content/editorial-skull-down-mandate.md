@@ -5,10 +5,10 @@
 book / origin / movement / DC-faith venues; the **secular twin** for MD / DDS / patient /
 professional venues. Three overclaim fixes applied (see editor's notes).
 
-> **⚠️ Naming still open.** Robert used "Sleep Chiropractics™ / Sleep Chiropractor
-> Academy." That is a **working title** pending his decision vs. the canonical
-> "Chiropractic Sleep Academy (CSA)" / "Structural Airway Chiropractic." Preserved his
-> wording here; do not treat as final brand until he confirms.
+> **✅ Naming locked (2026-07-17): brand = "Chiropractic Sleep Academy."** The
+> "Sleep Chiropractics™ / Sleep Chiropractor Academy" fork is retired. "Skull-Down"
+> (Model / Mandate / Review) and "sleep chiropractic" stay as **campaign/model language
+> under CSA** — not a separate academy. (See CLAUDE.md §18 "NAME LOCKED.")
 
 ---
 

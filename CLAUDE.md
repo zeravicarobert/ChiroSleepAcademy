@@ -702,6 +702,17 @@ The Master Summary supplies the real IP language the site docs lack:
 Canonical positioning calls Robert has made. These govern all copy; when new
 material conflicts, these win (alongside the §5 red lines).
 
+### 2026-07-17 — ⭐ NAME LOCKED: "Chiropractic Sleep Academy" (no brand fork)
+Robert's decision: the brand/academy is **Chiropractic Sleep Academy (CSA)**; the
+discipline is **Structural Airway Chiropractic.** The "**Sleep Chiropractics™ / Sleep
+Chiropractor Academy**" coinages (from the editorial + position-paper drafts) are
+**retired as a competing brand** — they were a fork, and the Master Summary warns
+against splintering. **"Skull-Down"** language (**The Skull-Down Model / Mandate /
+Review**) and the phrase "sleep chiropractic" are kept as **campaign / model / tagline
+language UNDER CSA**, never as a separate academy. Centralize identity under one name;
+index everything under it. Apply going forward and when touching the editorial/position
+-paper assets.
+
 ### 2026-07-17 — Legitimacy assets + the "MSK-box breakout"
 - **New assets:** `content/positioning-closed-loop-legitimacy.md` (closed self-
   certifying loop = illegitimate; loop grounded in external measured reality =
