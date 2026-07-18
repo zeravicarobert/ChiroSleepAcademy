@@ -480,6 +480,9 @@ Claude should:
 ## 14. Repo Conventions
 
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
+- `content/CSA-asset-index.md` — **the master asset index** (the "where is everything"
+  map: every deliverable, note, template, and PDF with audience + status). Keep it
+  current each session when assets are added or change.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `/site` — CSA website architecture + build docs (added 2026-07-16).
