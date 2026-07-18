@@ -4,6 +4,25 @@ A home for one-liners and ideas Robert wants kept. Add new ones at the top.
 
 ---
 
+**2026-07-17 — ⭐ technique identity masks clinical insufficiency**
+> Clinical insufficiency is often masked by technique identity. When practitioners
+> over-identify with a technique, they stop seeing where it fails, and the technique
+> becomes a substitute for true clinical reasoning.
+>
+> Technique should never become identity.
+> Identity should never override clinical reasoning.
+> **Clinical reasoning must always override technique.**
+>
+> Because the moment a technique becomes identity, the Doctor of Chiropractic becomes blind.
+
+*(Keystone principle for the "Kingdom of Techniques" / Consequence Standard book — full
+entry + guardrails in `content/book-kingdom-of-techniques.md`. Introspective, not an
+attack; it's the "why" under the whole Technique Deconstruction / Post-Dogmatic thread,
+and the same closed-loop-vs-grounded-loop logic applied to the self. Copy rule: "Doctor
+of Chiropractic," kept.)*
+
+---
+
 **2026-07-17 — founder "why" (keep)**
 > Patients are losing access to distinct manual arts — the DO's, the DC's. That's
 > sad for patients. Someone has to fight for them. It's me — because it helped me,

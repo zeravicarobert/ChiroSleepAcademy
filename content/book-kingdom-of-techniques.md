@@ -21,6 +21,29 @@ claims; keep what produces response; feed it into CSA without ideology.
 
 ---
 
+## ⭐ Keystone principle (Robert, 2026-07-17) — technique identity masks clinical insufficiency
+> **Clinical insufficiency is often masked by technique identity.** When practitioners
+> over-identify with a technique, they stop seeing where it fails — and the technique
+> becomes a substitute for true clinical reasoning.
+
+**The principle (the hierarchy):**
+> Technique should never become identity.
+> Identity should never override clinical reasoning.
+> **Clinical reasoning must always override technique.**
+
+**Why:** the moment a technique becomes identity, the Doctor of Chiropractic becomes
+**blind** — blind to where the tool fails, because admitting the failure now feels like
+admitting a failure of *self*. That blindness is exactly what the Consequence Standard
+cures: it moves the loyalty **from the technique to the measured result.** This is the
+"why" under the whole book — *why* a filter is needed at all.
+
+*(On-brand and safe: it's an **introspective** principle about the practitioner's own
+reasoning, not an attack on any technique or person — it even protects the "keep what
+works" stance, because you can only keep what works if you can still **see** where it
+doesn't. Pairs with `positioning-closed-loop-legitimacy.md`: technique-as-identity is a
+closed self-certifying loop; clinical reasoning grounded in measured consequence is the
+open one.)*
+
 ## The core idea (Robert's words, organized)
 
 **What the book does:**
