@@ -49,12 +49,14 @@ And maybe that's the message for Christian believers, too:
 I didn't invent this longing — it's an old and deep Christian truth
 wearing a story I've loved since I was a boy:
 
-- *"Our citizenship is in heaven."* — Philippians 3:20
-- *"Here we have no lasting city, but we seek the city that is to come."*
+- *"For our conversation is in heaven."* — Philippians 3:20
+- *"For here have we no continuing city, but we seek one to come."*
   — Hebrews 13:14
-- *"They were strangers and pilgrims on the earth."* — Hebrews 11:13
-- *"Thou hast made us for Thyself, and our heart is restless until it
-  rests in Thee."* — Augustine
+- *"And confessed that they were strangers and pilgrims on the earth."*
+  — Hebrews 11:13
+- *"Come unto me, all ye that labour and are heavy laden, and I will give
+  you rest."* — Matthew 11:28
+- *"Return unto thy rest, O my soul."* — Psalm 116:7
 
 The ache E.T. felt — that pull to go home — is the same ache Scripture
 names. We're pilgrims passing through. Home is real, and we're headed
@@ -87,18 +89,28 @@ signature from outside can never be fully satisfied inside. That is why
 we are restless here. We carry something the enclosure was never built to
 hold.
 
-C.S. Lewis said it plainly:
+Scripture names it plainly:
 
-> *"If I find in myself a desire which no experience in this world can
-> satisfy, the most probable explanation is that I was made for another
-> world."*
+> *"He hath made every thing beautiful in his time: also he hath set the
+> world in their heart."* — Ecclesiastes 3:11
+
+He set eternity in the heart. That is the desire no experience in this
+world can satisfy — the ache for a country we were made for but have not
+yet seen:
+
+> *"But now they desire a better country, that is, an heavenly."*
+> — Hebrews 11:16
 
 And the enclosed dome overhead — the sky itself — is, in the oldest
 telling, described as something *temporary.* Genesis 1 calls it the
-**raqia**, the firmament, the expanse. The Psalm says God "stretchest out
-the heavens like a tent-curtain" (Psalm 104:2). A tent. You don't build a
-forever home out of a tent. Even the roof over us is pictured as a
-covering for pilgrims passing through.
+**firmament**, the expanse. And Isaiah says of God:
+
+> *"...that stretcheth out the heavens as a curtain, and spreadeth them
+> out as a tent to dwell in."* — Isaiah 40:22
+
+A tent to dwell in. You don't build a forever home out of a tent. Even
+the roof over us is pictured, in the Word itself, as a covering for
+pilgrims passing through.
 
 So it holds together:
 - the roof is a tent,
