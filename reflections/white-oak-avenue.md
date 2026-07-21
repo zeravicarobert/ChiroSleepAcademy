@@ -61,5 +61,47 @@ it's becoming the kind of person the destination is made for.
 
 ---
 
+## Why home might not be here
+
+The deepest part of this is the recognition that *home might not be
+here.*
+
+I notice how different we are from every other creature under this sky.
+The animals are home. A bird doesn't lie awake wondering what it's all
+for. A deer doesn't bury its dead, or build an altar, or look up at the
+stars and ache. No animal repents; no animal rejoices at a promise it
+cannot yet see. They fit the enclosure perfectly — and somehow, we
+don't.
+
+That not-fitting isn't a defect. It's the fingerprint. Genesis gives the
+reason in a single line: the animals are made "after their kind," but the
+human is made **in the image of God** (Genesis 1:26–27). We are the one
+creature stamped with a signature from *outside* the system — and a
+signature from outside can never be fully satisfied inside. That is why
+we are restless here. We carry something the enclosure was never built to
+hold.
+
+C.S. Lewis said it plainly:
+
+> *"If I find in myself a desire which no experience in this world can
+> satisfy, the most probable explanation is that I was made for another
+> world."*
+
+And the enclosed dome overhead — the sky itself — is, in the oldest
+telling, described as something *temporary.* Genesis 1 calls it the
+**raqia**, the firmament, the expanse. The Psalm says God "stretchest out
+the heavens like a tent-curtain" (Psalm 104:2). A tent. You don't build a
+forever home out of a tent. Even the roof over us is pictured as a
+covering for pilgrims passing through.
+
+So it holds together:
+- the roof is a tent,
+- the animals are home and we are not,
+- and the reason for the difference is the image we carry.
+
+Home isn't here — because we were signed by Someone who isn't from here.
+
+---
+
 *Written near White Oak Avenue, where I once watched a bike fly, and
 where I now bring my own kids.*
