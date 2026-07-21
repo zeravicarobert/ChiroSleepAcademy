@@ -16,12 +16,18 @@ crate on the front of Elliott's BMX bike — the handlebar box — and the
 bike goes airborne. The bike takes off into the air.
 
 I watched them film that. I was a kid. My mom had picked me up after
-school one day, and we stood and watched the filming together. I still
-remember it today.
+school one day, and we watched the filming together. I still remember it
+today.
 
-And now, all these years later, I'm renting an Airbnb for me, Zach, and
-Adelaide near my home and my business here in Northridge — back under the
-same canopy, on the same ground.
+And I truly saw it become real — *internationally* real. That scene
+became one of the most famous moments in film. I stood there before it
+was anything, and then the whole world knew it.
+
+Now, all these years later, I'm renting an Airbnb for me, Zac, and
+Adelaide near my home and my business here in Northridge. My children
+haven't yet stood on that same ground — they were sitting in my truck as
+we drove past White Oak. Not yet. But we drove by, and I carried the
+memory for them.
 
 ---
 
@@ -40,7 +46,7 @@ And maybe that's the message for Christian believers, too:
 
 ## Why it holds
 
-I didn't invent this longing — it's an old and deep Christian idea
+I didn't invent this longing — it's an old and deep Christian truth
 wearing a story I've loved since I was a boy:
 
 - *"Our citizenship is in heaven."* — Philippians 3:20
@@ -104,4 +110,5 @@ Home isn't here — because we were signed by Someone who isn't from here.
 ---
 
 *Written near White Oak Avenue, where I once watched a bike fly, and
-where I now bring my own kids.*
+where I now drive my own kids past — carrying the memory until the day
+they stand there too.*
