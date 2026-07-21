@@ -17,11 +17,15 @@ Chiropractic Sleep Academy is a category-building project that teaches
 chiropractors how to build a credible sleep-and-airway division around
 **Structural Airway Chiropractic** — a skull-down, sleep-first model that
 integrates patient education, structural correction (including VAET),
-home sleep testing (HST), CBCT imaging, and ethical collaboration with
-dentists, ENTs, and sleep physicians.
+home sleep testing (HST), CBCT imaging, and — from its own table, on its
+own convictions — working alongside dentists, ENTs, and sleep physicians
+where a case calls for it.
 
-CSA is not just a course. It is a movement to make chiropractic a
-credible, ethical voice in the sleep-and-airway conversation.
+CSA is not just a course. It is a movement to give chiropractic a
+credible, conviction-led voice in sleep and airway — **setting its own
+table for believers rather than seeking a seat at the secular medical
+table.** (No attacks on other providers; see red lines. Not seeking their
+approval either.)
 
 ---
 
@@ -51,13 +55,15 @@ Patients are the downstream beneficiary, but the direct customer is the DC.
 
 ## 4. Brand Voice & Tone
 
-- Clear, direct, educational — a doctor-teacher voice
-- Professional, structural, collaborative, category-building
+- Clear, direct, educational — a Doctor-Teacher voice
+- Structural, conviction-led, category-building — sets its own table,
+  does not seek a secular seat or trim convictions to earn one
 - No hype, no fear-based marketing, no internet-bro energy
-- Respectful toward MDs, DDS, ENTs, sleep medicine, CPAP, oral appliances
+- No attacks on MDs, DDS, ENTs, sleep medicine, CPAP, or oral appliances
+  — but convictions are never softened to win their approval
 - Honest about what is proven and what is still being proven
 
-When in doubt: write like a respected clinician explaining something
+When in doubt: write like a conviction-led clinician explaining something
 important to a peer.
 
 ### Price Positioning
