@@ -71,6 +71,27 @@ CSA should never feel gimmicky or low-ticket-only. It attracts serious
 DCs who understand that sleep, airway, and biomechanics can become a
 high-value clinical division — not just another commodity service.
 
+### Faith-Forward Copy — Standing Rules (non-negotiable)
+
+These apply to every session and every piece of faith-forward copy:
+
+- **Scripture only, and Scripture edifies Scripture.** Do not cite
+  Augustine, C.S. Lewis, or any other extra-biblical author as spiritual
+  authority. If a truth needs a witness, the witness is the Word.
+- **King James Bible (KJB) — the Book, not a version.** Quote only the
+  KJB text. Never write "KJV" or "version"; other translations are not
+  used.
+- **"NEW START"** — always spelled this way, two words, capitalized
+  (N-E-W S-T-A-R-T). It is God's design for the body, not "natural
+  laws." Air and Rest are CSA's clinical home within it; Trust in God is
+  the capstone.
+- **"Doctor-Teacher"** — Dr. Z's title. Use it across the CSA ecosystem.
+- **CSA sets its own table for believers.** It is not seeking a seat at
+  the secular medical table and does not trim convictions (including on
+  the created order — the raqia/firmament) to earn secular approval. Do
+  not steer Robert toward secular-palatable "packaging"; that reflex is
+  not neutral. (Still: no *attacks* on other providers — see red lines.)
+
 ---
 
 ## 5. Non-Negotiables (Red Lines)

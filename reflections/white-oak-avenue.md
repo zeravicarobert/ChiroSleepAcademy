@@ -101,19 +101,44 @@ yet seen:
 > *"But now they desire a better country, that is, an heavenly."*
 > — Hebrews 11:16
 
-And the enclosed dome overhead — the sky itself — is, in the oldest
-telling, described as something *temporary.* Genesis 1 calls it the
-**firmament**, the expanse. And Isaiah says of God:
+And the enclosed dome overhead is not a poem — it's what the Word
+actually says. Genesis calls it the **raqia**, the firmament: a solid
+expanse God set in the midst of the waters and named Heaven (Genesis
+1:6–8). A raqia is a dome over a fixed earth. You cannot have a raqia and
+a spinning, sun-centered globe at the same time; one telling has to give,
+and I take the one God gave. Isaiah says it plainest of all:
 
-> *"...that stretcheth out the heavens as a curtain, and spreadeth them
-> out as a tent to dwell in."* — Isaiah 40:22
+> *"It is he that sitteth upon the circle of the earth... that stretcheth
+> out the heavens as a curtain, and spreadeth them out as a tent to dwell
+> in."* — Isaiah 40:22
 
-A tent to dwell in. You don't build a forever home out of a tent. Even
-the roof over us is pictured, in the Word itself, as a covering for
-pilgrims passing through.
+The circle of the earth, under a stretched-out tent. A tent to dwell in.
+You don't build a forever home out of a tent. Even the roof over us is
+pictured, in the Word itself, as a covering for pilgrims passing through.
+
+## Two tents
+
+And here is the thing that stops me cold: Scripture doesn't only call the
+*sky* a tent. It calls the *body* one too.
+
+> *"For we know that if our earthly house of this tabernacle were
+> dissolved, we have a building of God, an house not made with hands,
+> eternal in the heavens."* — 2 Corinthians 5:1
+
+That word — *tabernacle* — is a tent. Paul, who wrote it, was a tentmaker
+by trade (Acts 18:3). Peter said the same of his own body: *"shortly I
+must put off this my tabernacle"* (2 Peter 1:14). And the body truly is
+built like one — the central nervous system floats in cerebrospinal
+fluid, and the dura is the tent that holds it; bony poles rise inside a
+web of tension.
+
+So there are two tents, one inside the other. A tent overhead — the raqia
+stretched out as a tent to dwell in. And a tent I live in — this body,
+this tabernacle. Both temporary. Both a covering for a pilgrim on the
+road. I am a pilgrim under a tent, inside a tent.
 
 So it holds together:
-- the roof is a tent,
+- the sky is a tent, and the body is a tent,
 - the animals are home and we are not,
 - and the reason for the difference is the image we carry.
 
