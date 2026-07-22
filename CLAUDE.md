@@ -148,6 +148,35 @@ Implications:
   has personally been through the Sleep Doctor patient workflow,
   which strengthens the "Heal the Healer First" credibility story.
 
+- **`ChiroSecure (Malpractice Insurance Carrier)`** (Drive folder,
+  owned by `zeravicarobert@gmail.com`) — Robert's malpractice carrier
+  and risk-management partner. Three files:
+  - *Policy* — Chiropractic malpractice certificate for **Zeravica
+    Chiropractic Inc** (Robert Zeravica, D.C.). Cert # COVC-322167-01,
+    master policy COVC2020-02, producer Adam Del Torto Jr. Period
+    **6/4/2025 → 6/4/2026**, $0 deductible, total premium $2,080.72.
+    Coverage: Professional Liability $1M/$3M (occurrence), Premises
+    $1M/$3M, Cyber $10K, EPLI $10K, HIPAA defense $10K, Admin Hearings
+    defense $10K, plus first-aid / med-pay / deposition reimbursements.
+  - *Informed Consent Packet* (PDF + docx stub) — ChiroSecure's
+    attorney-reviewed informed-consent process (Dr. Stuart Hoffman /
+    Dr. Gerry Clum; approved by the National Association of Chiropractic
+    Attorneys). A ready-made, credible consent framework CSA can adapt
+    for its clinical pathway.
+
+  → Two CSA implications: (1) the policy insures *in-office
+  chiropractic* — CSA's new activities (telehealth Zoom consults with
+  out-of-state DCs, VAET at Tecopa, HST ordering/coordination, storing
+  HST/CBCT outcomes data, training DCs to represent CSA) may fall
+  outside its scope and need a coverage conversation with Adam Del Torto
+  / Robert's attorney. This is the "legal/compliance protection"
+  starting point named in the Rob–Peter term sheet. (2) The consent
+  packet is a proven base for CSA-pathway consent language (airway /
+  HST / VAET), reinforcing the red-line discipline of no cure claims.
+  **Verify renewal:** folder holds only the 2025–26 certificate, which
+  expired 6/4/2026 — confirm a current dec page exists before relying
+  on coverage.
+
 ---
 
 ## 7. The CSA Offer (2026) — "Heal the Healer First"
@@ -496,5 +525,17 @@ Still open:
   observation. Full discussion record & term sheet (30 open questions for the
   attorney) lives at `partnership/rob-peter-csa-agreement.md`. Not yet a
   signed contract — needs attorney review before either party relies on it.
+- **CSA malpractice coverage gap** — Robert's ChiroSecure policy (see
+  section 6) insures *in-office chiropractic* for Zeravica Chiropractic
+  Inc. CSA's new activities may fall outside it: telehealth Zoom consults
+  with out-of-state DCs, VAET treatment at Tecopa, HST ordering /
+  coordination, storing HST/CBCT outcomes data (cyber capped at $10K), and
+  training DCs to represent CSA. Needs a coverage conversation with the
+  producer (Adam Del Torto) and/or Robert's attorney before CSA scales.
+- **ChiroSecure policy renewal** — folder holds only the 2025–26
+  certificate (expired 6/4/2026). Confirm a current dec page exists.
+- **CSA informed-consent forms** — adapt ChiroSecure's attorney-reviewed
+  consent packet (section 6) into CSA-pathway consent language for the
+  airway exam / HST / VAET steps, keeping the no-cure-claims red line.
 
 When any of these are resolved, update this file.
