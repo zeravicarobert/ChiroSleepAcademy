@@ -27,6 +27,19 @@ table for believers rather than seeking a seat at the secular medical
 table.** (No attacks on other providers; see red lines. Not seeking their
 approval either.)
 
+**The potluck vision (canonical positioning metaphor).** There was no
+table for what Robert does, so he built one — *"there was no table for
+me, so I created one."* CSA's posture toward the healthcare world is a
+**potluck**: many tables, each bringing a real dish. CSA's table is the
+**first table** — early intervention (breathing, rest, structure): come
+here first, before things harden. Patients are then free to go to the
+other tables (physician, dentist, surgeon) and take what they genuinely
+need — and free to pass a dish by (CPAP, oral appliance, drug, surgery)
+when it isn't wanted or needed. No attacks, no pressure either way. Early
+intervention first; everything else by real need, never by fear. This
+frame is how CSA relates to other providers without cowering and without
+attacking.
+
 ---
 
 ## 2. Mission
@@ -90,7 +103,10 @@ These apply to every session and every piece of faith-forward copy:
 - **"NEW START"** — always spelled this way, two words, capitalized
   (N-E-W S-T-A-R-T). It is God's design for the body, not "natural
   laws." Air and Rest are CSA's clinical home within it; Trust in God is
-  the capstone.
+  the capstone. Robert carried NEW START out of the SDA movement he left
+  — CSA keeps the good, credits the movement with nothing, and does not
+  promote it. Each letter is anchored in the King James Bible (see
+  `site/founders-creed.md`), so it stands on the Word, not on a movement.
 - **"Doctor-Teacher"** — Dr. Z's title. Use it across the CSA ecosystem.
 - **CSA sets its own table for believers.** It is not seeking a seat at
   the secular medical table and does not trim convictions (including on

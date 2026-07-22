@@ -67,6 +67,26 @@ to thrive, carried under one word: **NEW START.**
 | **R** | **Rest** | **How we sleep** |
 | **T** | **Trust in God** | What holds it all together |
 
+I carried NEW START out of a movement I left. I kept what was good and
+left the rest. And what's good doesn't stand on that movement — it stands
+on the Word. Here is the King James Bible under each letter:
+
+- **N — Nutrition** · *"I have given you every herb bearing seed... to you
+  it shall be for meat."* (Genesis 1:29)
+- **E — Exercise** · *"But I keep under my body, and bring it into
+  subjection."* (1 Corinthians 9:27)
+- **W — Water** · *"...a well of water springing up into everlasting
+  life."* (John 4:14)
+- **S — Sunlight** · *"...the Sun of righteousness arise with healing in
+  his wings."* (Malachi 4:2)
+- **T — Temperance** · *"But the fruit of the Spirit is... temperance."*
+  (Galatians 5:22–23)
+- **A — Air** · *"...and breathed into his nostrils the breath of life;
+  and man became a living soul."* (Genesis 2:7)
+- **R — Rest** · *"...for so he giveth his beloved sleep."* (Psalm 127:2)
+- **T — Trust in God** · *"Trust in the LORD with all thine heart; and
+  lean not unto thine own understanding."* (Proverbs 3:5)
+
 Read that list and look at where the Chiropractic Sleep Academy sits. Two
 of the eight — **Air** and **Rest** — *are* the whole work. Breathing and
 sleep. CSA didn't invent a niche and dress it up. CSA is one honest room
@@ -125,6 +145,31 @@ proper lanes — and I want you to know exactly where that line is:
 
 Faith explains the *why.* The structural work stands on its own *what.*
 I don't blur the two, and I won't.
+
+---
+
+## The Table
+
+For a long time there was no table for what I do — no seat set for a
+chiropractor who leads with sleep, airway, and structure. So I stopped
+waiting for one. **There was no table for me, so I built my own.**
+
+I grew up around potlucks — every family bringing a dish, setting it on
+the table, the whole room eating together. That's the picture I hold for
+the healthcare world: a **potluck.** Many tables, each with something
+real to offer.
+
+CSA's table is the **first table** — the early-intervention table. Come
+here first. Sit down and get your breathing, your rest, and your
+structure looked at honestly, *early*, before things harden.
+
+And then you're free. Free to go to the other tables — the physician's,
+the dentist's, the surgeon's — and take what you genuinely need; some
+truly do need them, and that's good. Free, too, to pass a dish by — the
+CPAP, the oral appliance, the drug, the surgery — when it isn't wanted or
+needed for you. No one at my table will pressure you toward the next
+table, or away from it. Early intervention first; everything else by real
+need, never by fear.
 
 ---
 
