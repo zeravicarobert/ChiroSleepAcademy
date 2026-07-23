@@ -13,9 +13,11 @@
 
 ## 1. Purpose
 
-SimpleTalk answers **all inbound new-patient phone calls** and routes each
-caller by type, following Rob's protocol. All patient types below are
-**California EDD SDI (State Disability Insurance)** patients.
+SimpleTalk answers **every inbound phone call**, identifies which type of
+caller it is, and handles each one per Rob's protocol. This is not limited
+to new patients — it also includes existing patients and **third-party
+entities** (see §2). The patient types are **California EDD SDI (State
+Disability Insurance)** patients; third parties are everyone else who calls.
 
 ---
 
@@ -38,6 +40,16 @@ caller by type, following Rob's protocol. All patient types below are
   transition into a new-patient interaction).
 - Definition + handling: **TBD** (Rob to dictate).
 
+### Third-party entities (non-patient callers)
+Everyone calling who is not a patient. SimpleTalk must recognize these and
+route them differently from patient calls. Starter list (add as identified):
+- **Power partners** — established or potential referral/strategic partners.
+- **Partnership inbound** — people reaching out wanting Rob to partner with
+  them.
+- **Insurance / records requests** — third-party entities (e.g. insurance
+  companies) asking for medical records.
+- Handling per type: **TBD** (Rob to dictate).
+
 ---
 
 ## 3. The Algorithm / Protocol
@@ -57,3 +69,8 @@ caller by type, following Rob's protocol. All patient types below are
 - [ ] Any additional caller types beyond 1A / 1B.
 - [ ] How SimpleTalk distinguishes referral (1A) vs. online (1B) on the call.
 - [ ] Where the call ends: booked appointment, callback, text follow-up, etc.
+- [ ] Finish the third-party entity list and each one's handling (power
+      partners, partnership inbound, insurance/records requests, others).
+- [ ] How SimpleTalk verifies identity before releasing any medical records
+      info to an insurance/records caller (privacy — do not disclose PHI to
+      unverified callers).
