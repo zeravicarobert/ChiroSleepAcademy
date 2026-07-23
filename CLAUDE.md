@@ -102,7 +102,9 @@ post, page, or pitch.
 - Offer structure: defined (see section 7) — pricing locked (see section 8)
 - Funnel: not yet built
 
-Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
+Active trackers: `JULY_2026_GOALS.md` (foundation) and `AUGUST_2026_GOALS.md`
+(outreach + conversion) — the six unfinished May goals were carried forward and
+redistributed on 2026-07-23. `MAY_2026_GOALS.md` is retained as history.
 
 ### Google account map (Claude's reach in this environment)
 
@@ -439,7 +441,7 @@ accountability partner.
   to other branches without explicit permission.
 - Before drafting public-facing copy, re-read sections 4 and 5 of this file.
 - When in doubt about scope, voice, or ethics: ask Robert. Don't guess.
-- Treat `MAY_2026_GOALS.md` as the active monthly tracker — update it,
+- Treat `JULY_2026_GOALS.md` / `AUGUST_2026_GOALS.md` as the active trackers — update them,
   don't replace it mid-month.
 - Don't add new monthly goals mid-month; park new ideas for the next month.
 - Honest progress beats optics. An 80%-done goal at month-end is a win.
@@ -496,5 +498,28 @@ Still open:
   observation. Full discussion record & term sheet (30 open questions for the
   attorney) lives at `partnership/rob-peter-csa-agreement.md`. Not yet a
   signed contract — needs attorney review before either party relies on it.
+
+### Parked ideas from the 2026-07-23 TPA/insurance session
+Studied but deliberately NOT made into July/August goals (keep focus). Full
+teaching + glossary saved at `reference/tpa-insurance-primer.md`.
+
+- **CSA-as-TPA** — understood and set aside. Heavy state/federal regulation
+  (DOI Certificate of Registration, bonding, ERISA), and CSA has no insured pool
+  to administer. Not the move.
+- **CSA membership/plan + hire an existing TPA** — the smarter version: CSA
+  designs a cash-pay membership (DPC-style, defined services, no risk transfer)
+  and rents an existing TPA for admin. Must stay on the safe side of the
+  insurance line (access to services ≠ reimbursing outside costs). Needs
+  attorney review (ties to Peter's legal/compliance role).
+- **Insurance benefit-verification one-pager (with Peter)** — productize the
+  Dr. Shirazi bottleneck (HST → dx → verify insurance → quote patient's copay/
+  OOP). Benefit verification for a provider's *own* services is normal
+  revenue-cycle work and does NOT need a TPA license. Potential Power Partnership
+  wedge into airway dentists.
+- **Jay Abraham Power Partnerships** — map CSA's before/during/after/instead-of
+  partners. Robert has a Jay Abraham trove in Drive (folders "Jay Abraham's
+  Relational Capital applied to Dr Robert Zeravica DC (and CSA)" and "RZ The
+  Jay Abraham-ite", plus several docs). Read deeply and tailor in a dedicated
+  session.
 
 When any of these are resolved, update this file.
