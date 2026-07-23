@@ -11,6 +11,8 @@
 
 ---
 
+**Phone number SimpleTalk answers:** 818-276-5054
+
 ## 1. Purpose
 
 SimpleTalk answers **every inbound phone call**, identifies which type of
@@ -41,14 +43,17 @@ Disability Insurance)** patients; third parties are everyone else who calls.
 - Definition + handling: **TBD** (Rob to dictate).
 
 ### Third-party entities (non-patient callers)
-Everyone calling who is not a patient. SimpleTalk must recognize these and
-route them differently from patient calls. Starter list (add as identified):
-- **Power partners** — established or potential referral/strategic partners.
-- **Partnership inbound** — people reaching out wanting Rob to partner with
-  them.
-- **Insurance / records requests** — third-party entities (e.g. insurance
-  companies) asking for medical records.
-- Handling per type: **TBD** (Rob to dictate).
+Everyone calling who is not a patient. Two buckets:
+
+1. **Partnership inbound** — power partners, and people reaching out wanting
+   Rob to partner with them.
+   - Handling: **TBD** (Rob to dictate).
+
+2. **Insurance / medical records requests** — third-party entities (e.g.
+   insurance companies) asking for medical records.
+   - **FIRM RULE:** whatever Twilio or SimpleTalk divulges to a medical
+     records request is **always** the phrase: **"by mail only."** Nothing
+     else is disclosed on the call.
 
 ---
 
