@@ -24,6 +24,16 @@ hitting a monthly spend threshold on qualifying purchases made with
 | 1    | $250+ in a month         | 2%             |
 | 2    | $1,500+ in a month       | 5%             |
 
+**Program mechanics update (submitted 2026-07-23):**
+Venmo is also changing how the Stash program itself operates:
+- **No merchant bundle selection required.** You no longer have to select
+  a merchant bundle in the Bundle cash back program.
+- **More brands eligible.** You can now earn cash back from more Stash
+  brands.
+
+Net effect: less setup friction and broader coverage — more everyday
+spend should qualify without pre-picking categories/bundles.
+
 **Notes / open questions:**
 - "Qualifying purchases" is Venmo's term — exact exclusions not yet
   confirmed (need the full terms).
@@ -32,6 +42,8 @@ hitting a monthly spend threshold on qualifying purchases made with
   hit, or only spend above the threshold. (Assumed: all qualifying spend
   in the month, pending confirmation.)
 - Only spend routed through Venmo checkout or the Venmo Debit Card counts.
+- Confirm which brands are now included as "Stash brands" and whether the
+  2%/5% tiers apply across all of them or vary by brand.
 
 **Illustrative monthly earnings (assuming rate applies to all qualifying spend):**
 
