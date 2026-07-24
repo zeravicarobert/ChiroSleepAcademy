@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-21
+**Last updated:** 2026-07-24
 
 ---
 
@@ -106,22 +106,28 @@ Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
 
 ### Google account map (Claude's reach in this environment)
 
-Robert uses three Google accounts; each MCP integration is currently
-authenticated to a *different* one:
+Robert uses three Google accounts. As of **2026-07-24**, all three
+connected MCP integrations authenticate to the **same** account —
+`zeravicarobert@gmail.com` — verified directly this session (Calendar
+events created here show `zeravicarobert@gmail.com` as organizer; Gmail
+inbox/Sent are `zeravicarobert@gmail.com`). The earlier note claiming
+Gmail = `DrZeravicaOffice` and Calendar = `robertzeravica91324` was
+incorrect.
 
 | Integration | Account |
 |---|---|
-| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` |
-| Calendar (primary) | `robertzeravica91324@gmail.com` |
+| Gmail (read/draft) | `zeravicarobert@gmail.com` |
+| Calendar (primary) | `zeravicarobert@gmail.com` |
 | Drive (file owner) | `zeravicarobert@gmail.com` |
 
 Implications:
-- Email scans run against `DrZeravicaOffice` only. To search the other
-  two inboxes, Robert must connect them in Claude Code on the web →
-  Settings → Connections.
+- Email scans run against `zeravicarobert@gmail.com` only. The
+  `DrZeravicaOffice@gmail.com` and `robertzeravica91324@gmail.com`
+  inboxes are **not** connected here — to reach them, Robert must
+  connect them in Claude Code on the web → Settings → Connections.
 - Drive files searched/read here are those owned by or shared with
   `zeravicarobert@gmail.com`.
-- Calendar events live on `robertzeravica91324@gmail.com`.
+- Calendar events live on `zeravicarobert@gmail.com`.
 
 ### Existing CSA assets discovered
 
