@@ -498,3 +498,24 @@ Still open:
   signed contract — needs attorney review before either party relies on it.
 
 When any of these are resolved, update this file.
+
+---
+
+## 16. Watch List (monitor, don't act)
+
+Science/industry developments Robert is tracking for narrative and
+partner-conversation value only — **not** clinical claims, and **not**
+part of the CSA offer or pathway. Handle per red lines (section 5): never
+overstate evidence or imply CSA/VAET does any of this.
+
+- **Tooth regeneration (USAG-1 / TRG035, Toregem BioPharma + Kyoto Univ.)** —
+  antibody that blocks USAG-1 to regrow teeth. As of 2026: Phase I human
+  safety trials (adults missing a molar); early readouts show no serious
+  side effects; ~$5.3M raised toward Phase II. First indication is
+  **congenital tooth agenesis** (people born missing teeth), with *hoped*
+  future extension to teeth lost from decay/injury. Years from clinical use.
+  **No proven airway/sleep/breathing connection** — do not draw that thread
+  publicly. CSA value: (1) "future of the mouth" thought-leadership hook that
+  reinforces the structural, changeable-jaw frame; (2) warm-touch excuse to
+  reconnect with dental-sleep partners (Miraglia, Carstensen, Glassman DDS).
+  Source: BBC Future, 2026-07-17.
