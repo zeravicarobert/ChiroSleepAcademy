@@ -20,6 +20,33 @@ Serbia. Check off each item the night before and again at the door.
 
 ---
 
+## Professional / Clinical Gear (Portable CFR + Adjusting Setup)
+
+Equipment for doing portable chiropractic + CFR work in Serbia. Check
+airline size/weight limits and pack fragile/electronic items carefully.
+
+- [ ] **Tesla machine**
+- [ ] **H2 machine**
+- [ ] **Small portable chiropractic adjusting table**
+- [ ] **Rolling CFR interlocking boxes** (Lowe's electrician/construction-style
+      rolling boxes used for portable CFR)
+- [ ] **CFR supplies** (packed in the interlocking boxes):
+  - [ ] Bulbs
+  - [ ] Balloons
+  - [ ] Grommets
+  - [ ] Leader balloons
+  - [ ] Bleeding cots
+  - [ ] Finger cots
+  - [ ] Gloves
+  - [ ] Lubrication
+  - [ ] Faceplate
+  - [ ] Paper towels
+  - [ ] CFR flyers
+- [ ] **Arthrostim** adjustment tool
+- [ ] **Vibracussor** adjustment tool
+- [ ] Chargers / power for Tesla, H2, Arthrostim, Vibracussor (check voltage —
+      use the international converter from the Italian passport bag)
+
 ## Travel Documents
 
 - [ ] Passport (check expiry — valid at least 6 months past return)
