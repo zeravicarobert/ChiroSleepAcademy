@@ -94,7 +94,7 @@ post, page, or pitch.
 ## 6. Current State (May 2026)
 
 - Brand: Chiropractic Sleep Academy
-- Timezone: **Pacific (PST/PDT)** — use for all scheduling, reminders, and calendar events
+- Timezone: **Pacific — PDT** — use for all scheduling, reminders, and calendar events
 - Domain: **www.ChiropracticSleepAcademy.net**
 - Site platform: **ClickFunnels 2.0**
 - Audience: ~28 opted-in DCs in a warm database, 1 active mentee asking for a Letter of Engagement
