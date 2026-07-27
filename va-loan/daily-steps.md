@@ -48,9 +48,15 @@ respond fast, and collect the documents._
 - [ ] Fill in the **Letter of Explanation** (`letter-of-explanation.md`)
 - [ ] Order your **Certificate of Eligibility** (lender can do this)
 
-## 🎖️ Track B — Disability claim
+## 🎖️ Track B — Disability claim (now the linchpin — it may be your qualifying income)
 
-- [ ] Attend the **VSO appointment**; bring DD-214 + medical history
+- [ ] **Find your PRIOR denial letter** (rating decision) — note its **date** and
+      the **reason** for denial. This one date decides your whole strategy.
+- [ ] **Request your C-file** (VA claims file) so you/the VSO can see the old evidence
+- [ ] Ask the VSO which path fits: **Supplemental Claim / Higher-Level Review**
+      (if denial < 1 yr old — preserves the original effective date) **or CUE**
+      (old final denial that was clearly erroneous — reaches the original date; use an attorney)
+- [ ] Attend the **VSO appointment**; bring DD-214 + medical history + the prior denial
 - [ ] List every condition you believe is service-connected
 - [ ] Gather **service treatment records** + current medical evidence (nexus)
 - [ ] With the VSO, **submit Form 21-526EZ**
@@ -58,8 +64,17 @@ respond fast, and collect the documents._
 
 ## 🏠 Track C — Home search (matched to your REAL number: ~$300K)
 
-- [ ] Confirm with the lender: **will disability comp + rental income raise my approval?**
-- [ ] Pick the target market: **Las Vegas metro vs. inland CA** (Vegas = cheapest + near your desert base)
+> ⚠️ **Income reality:** ~99% of current income is CA EDD **SDI, which is
+> temporary** — a lender likely **won't count it** as qualifying income. The
+> mortgage probably waits on **countable income**: VA disability compensation
+> (permanent, tax-free — see Track B) and/or an established practice/CSA track
+> record. **Confirm this with the lender before spending on a home search.**
+
+- [ ] **Ask the lender:** "My income is mostly temporary SDI — what income are you
+      qualifying me on, must it continue 3 years, and what happens when SDI ends?"
+- [ ] Confirm: **will VA disability comp + projected rental income let me qualify?**
+- [ ] Target market: **San Diego County (dream, budget-gated) or Las Vegas metro**
+      — *not* inland CA. Vegas fits the budget and sits by your desert base.
 - [ ] Set a home-search alert at/under your approved price (single-family to house-hack, or a duplex)
 - [ ] Line up a VA-savvy real estate agent in that market
 
