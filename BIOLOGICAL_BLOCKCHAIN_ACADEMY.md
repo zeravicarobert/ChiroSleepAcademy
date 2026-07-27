@@ -129,15 +129,40 @@ medical credibility. Hold these lines:
   four "aren't I helping?" rationalizations, that is the tell the diagnosis is
   being driven by the outcome.
 - **CA SDI (DE 2501) rules that gate any temp-disability model:** (1) EDD
-  accepts DC certification only for **physical** conditions within scope — not
+  accepts DC certification for **physical** conditions within scope — not
   mental/financial-stress bases; (2) the claimant must be **under care AND
   treatment**, established within 8 days and *continuing* to keep benefits.
-  This collides with an "evaluate-only, I don't treat" telehealth model — that
-  requirement must be solved (treat or refer into documented treatment). The
-  DE 2501 medical certificate is signed **under penalty of perjury**. Verify
-  the whole workflow with a CA healthcare/EDD attorney and EDD before scaling;
-  history-only telehealth certification at volume is a known SDI-fraud risk
-  marker.
+  This collides with "evaluate-only, I don't treat" — but the CSA treatment
+  program (VAET → CBP/SOT → diversified) *resolves* it: the fix is to own that
+  you are the **treating provider**, which is more defensible than eval-only.
+  The DE 2501 is signed **under penalty of perjury**. History-only telehealth
+  certification at volume is a known SDI-fraud risk marker. SDI caps at 52
+  weeks; DC certifications are generally expected to be shorter-duration.
+- **Disability clock ≠ treatment clock.** Certified disability duration must
+  match the period the patient is *genuinely unable to do their regular work*,
+  NOT the length of the treatment program. "In treatment" ≠ "unable to work" —
+  people work full-time through months of CBP/SOT/diversified care. Setting a
+  12-month disability because the program runs 12 months is the reversed arrow
+  applied to time (program-driven duration). Natural-healing timelines can
+  justify a longer *recovery*, but recovery time and disability time are
+  different clocks.
+- **Sleep apnea / upper-airway obstruction (UAOSA) is a weak SDI basis.** OSA
+  is chronic/managed, and having it does not by itself make someone unable to
+  do their regular work (most people with OSA work). Certifying a year of temp
+  disability for OSA via structural chiropractic would be very hard to justify
+  and draws scrutiny. (Untreated OSA disqualifying a commercial DOT driver is a
+  fitness-for-duty issue, not SDI temp disability.)
+- **The earned-benefit / sovereignty argument — where it holds and breaks.**
+  True: CA SDI is 100% worker-funded, an earned benefit (not welfare), and the
+  patient's right to stop working needs no one's permission. But SDI is
+  *insurance against a covered event* (medically unable to do regular work),
+  not a withdraw-at-will account. The DC certificate is a factual attestation
+  that the covered event exists — not agreement with the patient's wish to take
+  time off. If the claim lacks a genuine disability, the *patient* bears
+  clawback + ~30% penalty + possible fraud referral, so certifying a wish
+  rather than a fact harms the patient. Patient-first thinking reaches the same
+  line: find the real condition and certify it confidently, or don't manufacture
+  one — help via real treatment, unpaid/FMLA leave, and BBA financial education.
 - **Wilk v. AMA (1987) is an antitrust/anti-boycott ruling, not a scope
   expansion.** It does not enlarge what a CA DC may diagnose, treat, certify,
   or bill; scope is set by CA state law (Chiropractic Act / Title 16).
