@@ -148,6 +148,13 @@ medical credibility. Hold these lines:
   The DE 2501 is signed **under penalty of perjury**. History-only telehealth
   certification at volume is a known SDI-fraud risk marker. SDI caps at 52
   weeks; DC certifications are generally expected to be shorter-duration.
+- **The EDD independent evaluator is not a loophole.** EDD may send a claimant
+  to an independent doctor (MD/DO/DC) EDD pays, who evaluates only (no treatment
+  plan) and can support benefits. That doctor is EDD's *referee* — a different
+  role from the claimant's own certifying/treating provider — and does not erase
+  the claimant's "under care AND treatment" eligibility rule. Being that
+  evaluator is a job working *for* EDD, not a way to run a private
+  certify-and-funnel model.
 - **Disability clock ≠ treatment clock.** Certified disability duration must
   match the period the patient is *genuinely unable to do their regular work*,
   NOT the length of the treatment program. "In treatment" ≠ "unable to work" —
