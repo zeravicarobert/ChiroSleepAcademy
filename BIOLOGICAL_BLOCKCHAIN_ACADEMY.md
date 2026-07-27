@@ -175,6 +175,22 @@ medical credibility. Hold these lines:
   certificate is never the funnel. SDI does not cover a "paid reflection period
   to change careers"; and note the irony that SDI is a W-2 benefit funding an
   exit from W-2.
+- **"Two perspectives" is an equivocation, not a defense.** The claim that
+  "medically unable to work" vs. "chose to take time off" are just the system's
+  view vs. the patient's view collapses two *different facts* into one. Fact A:
+  is there a condition making them unable to do their regular work? Fact B: do
+  they want out / hate the job? A patient can have B without A; SDI pays only on
+  A. The patient's perspective (burnout, "wage slavery," wanting an adult
+  time-out) is valid but answers a different question than the certificate asks.
+  Relabeling B as A to draw the benefit is misrepresentation, not viewpoint.
+  Note: if discontent has *genuinely* become a disabling condition (real
+  clinical depression/anxiety, evaluated by the appropriate provider), it is
+  Fact A and legitimately certifiable — the line is honest threshold, not
+  "discontent never counts." Legitimate time-off tools that need no false
+  claim: unpaid leave, FMLA (job-protected), negotiated leave, saving for a
+  sabbatical, or quitting into the W2ExodusBlueprint path. Fraud is not
+  sovereign — it is dependency on a false statement plus clawback/penalty/fraud
+  exposure; real freedom is built (1099 income, savings, ownership), not filed.
 - **The earned-benefit / sovereignty argument — where it holds and breaks.**
   True: CA SDI is 100% worker-funded, an earned benefit (not welfare), and the
   patient's right to stop working needs no one's permission. But SDI is
