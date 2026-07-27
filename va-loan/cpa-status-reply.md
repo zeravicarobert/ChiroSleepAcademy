@@ -18,15 +18,17 @@ Thank you both — and apologies for the delay on my end. Let me get everything 
 
 **2. Engagement letters.** I believe I've already signed the 2025 engagement letters and fee addendums for **both my S-Corp (Zeravica Chiropractic Inc.) and my Individual return** via SafeSend — can you confirm you have both on file? If either is still outstanding, resend it and I'll complete it immediately.
 
-**3. Documents you requested on 6/10.** I'm uploading through your secure link: my prior-year personal returns for **[YEARS]** and every IRS notice I currently have. If any year is missing, tell me which and I'll pull IRS/FTB transcripts to fill the gaps.
-
-**4. The status summary I most need.** Could you send me a short written rundown of where each return stands:
+**3. Before I send anything further, I need a clear picture of where we stand.** I've worked with a few advisors on this, so I want us fully aligned before I hand over more documents. Could you send me a short written rundown:
 - Which tax years are still open/unfiled — **S-Corp and personal, federal and California**
 - For each year: **prepared / in draft / filed & accepted** (with dates)
+- **Exactly what you still need from me** for each year (so I send only what's actually required)
 - **Balances owed** to the IRS and FTB once filed, and whether any **tax lien** exists
 - **Target filing dates**, and please confirm the **2025 extension deadline (Oct 15, 2026)**
+- **Current/estimated fees** to complete everything
 
-**5. Why the urgency.** I'm preparing a **home-loan application**. My lender qualifies me on the **net income shown on filed returns**, so I need these filed and will need **filed copies plus IRS/FTB account transcripts**. I'd also value a brief call to discuss how deductions affect my qualifying income before we finalize the returns.
+**4. Documents.** Once I understand the scope, status, and fees above, I'll promptly provide the prior-year returns and IRS notices you need through your secure link. I'd just like us on the same page about the plan first.
+
+**5. Why timing matters.** I'm preparing a **home-loan application**. My lender qualifies me on the **net income shown on filed returns**, so I ultimately need these filed and will need **filed copies plus IRS/FTB account transcripts**. I'd also value a brief call to discuss how deductions affect my qualifying income before we finalize the returns.
 
 Please let me know the best next step and anything else you need from me. Thank you for your patience — I'm ready to move quickly now.
 
@@ -38,6 +40,6 @@ Robert Zeravica, DC
 
 ### After you send it
 - [ ] Confirm both engagement letters are on file (complete any still outstanding)
-- [ ] Upload prior-year returns + IRS notices via their secure link
+- [ ] **Wait for their written status/plan** — then send *only* the specific documents they still need
 - [ ] Calendar the **Oct 15, 2026** deadline for the 2025 return
 - [ ] Log their reply (years, status, balances, timeline) in `daily-steps.md`
