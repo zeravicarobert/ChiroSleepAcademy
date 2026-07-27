@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-05-21
+**Last updated:** 2026-07-27
 
 ---
 
@@ -488,6 +488,29 @@ Still open:
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
+- **Sal Rodas** — strategic liaison target for exposure into the dental
+  sleep-and-airway world. **Fellow US Marine** (warm, authentic opener).
+  Dental/medical-tech executive, 20+ years C-level. Current roles:
+  President, HASS Bio America; Chief Product Officer, SleepArchiTx (dental-sleep
+  practice-building platform); **Executive Director, Foundation for Airway
+  Health** (multidisciplinary airway-advocacy org). Former COO of Space
+  Maintainers Laboratories, where he **presided over the SMILE Foundation** —
+  the lab's dental-education division that ran CE seminars nationwide with
+  leading dental lecturers (an education vehicle, not a charity; not confirmed
+  to be the separately-registered "S M I L E Foundation Inc." nonprofit,
+  EIN 460962521). Has delivered hundreds of CE hours on sleep medicine, airway
+  management, 3D/CBCT technology, and practice growth.
+  - **Why he matters to CSA:** he *is* the bridge to CSA's named strategic
+    partners — airway-aware dentists, CE partners, 3D/CBCT. Foundation for
+    Airway Health is a natural platform for a chiropractor bringing the
+    *structural* layer to the airway conversation; his CE work is a potential
+    stage for Robert (and his credibility a draw for CSA's DCs).
+  - **Guardrail:** approach as a collaborator who *adds* the structural layer —
+    never a competitor to oral appliances or CPAP (red line, section 5).
+  - **Contact:** LinkedIn linkedin.com/in/salrodas (President, HASS Bio
+    America); salrodas.com.
+  - **Status:** Robert wants to liaison re: exposure. Outreach message not yet
+    drafted (Marine-to-Marine, collaborative, no hype). Next action: draft it.
 - **Rob–Peter CSA/SDI partnership** — Peter (possible Acting COO / Founding
   Operations Partner) may earn *up to 40%* of defined CSA economics through
   milestone-based, vested, revocable performance terms. No SDI income for
