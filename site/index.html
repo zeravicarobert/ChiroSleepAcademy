@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chiropractic Sleep Academy — There's a structural answer to sleep. Learn to practice it.</title>
+  <meta name="description" content="Chiropractic Sleep Academy trains chiropractors to build a credible, structural sleep-and-airway division — and to experience the model themselves first. Structural Airway Chiropractic." />
+  <style>
+    :root {
+      --navy: #0e2440;
+      --navy-2: #14315a;
+      --ink: #1c2733;
+      --slate: #4a5a6c;
+      --mist: #eef3f8;
+      --paper: #f7fafc;
+      --line: #dbe4ee;
+      --accent: #2f8f9d;      /* calm teal-blue — airway/sleep */
+      --accent-dk: #226c78;
+      --gold: #c08a2d;         /* premium warm accent, used sparingly */
+      --white: #ffffff;
+      --shadow: 0 10px 40px rgba(14, 36, 64, 0.10);
+      --radius: 14px;
+      --maxw: 1080px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      font-family: "Georgia", "Iowan Old Style", "Times New Roman", serif;
+      color: var(--ink);
+      background: var(--white);
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    h1, h2, h3, .kicker, .btn, nav, .stat-num, .eyebrow {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    h1, h2, h3 { line-height: 1.18; color: var(--navy); font-weight: 700; letter-spacing: -0.01em; }
+
+    p { margin: 0 0 1.1em; }
+
+    a { color: var(--accent-dk); }
+
+    .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
+
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--accent-dk);
+      margin-bottom: 14px;
+    }
+
+    /* ---------- Nav ---------- */
+    header.site {
+      position: sticky; top: 0; z-index: 50;
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: saturate(180%) blur(8px);
+      border-bottom: 1px solid var(--line);
+    }
+    .navbar { display: flex; align-items: center; justify-content: space-between; height: 68px; }
+    .brand { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-weight: 700; color: var(--navy); font-size: 1.05rem; letter-spacing: -0.01em; text-decoration: none; }
+    .brand span { color: var(--accent-dk); }
+    nav .links { display: flex; gap: 28px; align-items: center; }
+    nav .links a { color: var(--ink); text-decoration: none; font-size: 0.92rem; font-weight: 500; }
+    nav .links a:hover { color: var(--accent-dk); }
+    nav .links a.btn { color: #fff; }
+    @media (max-width: 760px){ nav .links a:not(.btn){ display:none; } }
+
+    /* ---------- Buttons ---------- */
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.98rem;
+      padding: 14px 26px;
+      border-radius: 999px;
+      border: 1px solid var(--accent);
+      transition: transform .12s ease, background .2s ease;
+      box-shadow: 0 6px 18px rgba(47, 143, 157, 0.28);
+    }
+    .btn:hover { background: var(--accent-dk); transform: translateY(-1px); }
+    .btn.ghost {
+      background: transparent; color: var(--navy); border-color: var(--line);
+      box-shadow: none;
+    }
+    .btn.ghost:hover { background: var(--mist); }
+    .btn.lg { padding: 17px 34px; font-size: 1.05rem; }
+
+    /* ---------- Hero ---------- */
+    .hero {
+      background:
+        radial-gradient(1200px 500px at 80% -10%, rgba(47,143,157,0.14), transparent 60%),
+        linear-gradient(180deg, #f3f8fb 0%, #ffffff 100%);
+      border-bottom: 1px solid var(--line);
+      padding: 74px 0 66px;
+    }
+    .hero h1 { font-size: clamp(2.1rem, 5vw, 3.5rem); margin: 0 0 22px; max-width: 15ch; }
+    .hero .sub { font-size: clamp(1.1rem, 2.2vw, 1.32rem); color: var(--slate); max-width: 60ch; margin-bottom: 30px; }
+    .hero .cta-row { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
+    .hero .microcopy { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.86rem; color: var(--slate); margin-top: 18px; }
+    .hero .microcopy strong { color: var(--navy); }
+
+    /* ---------- Sections ---------- */
+    section { padding: 76px 0; }
+    section.tint { background: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .section-head { max-width: 62ch; margin-bottom: 44px; }
+    .section-head h2 { font-size: clamp(1.7rem, 3.4vw, 2.4rem); margin: 0 0 16px; }
+    .section-head p { font-size: 1.12rem; color: var(--slate); margin: 0; }
+
+    /* ---------- Category cards ---------- */
+    .grid { display: grid; gap: 22px; }
+    .grid.g3 { grid-template-columns: repeat(3, 1fr); }
+    .grid.g2 { grid-template-columns: repeat(2, 1fr); }
+    @media (max-width: 860px){ .grid.g3, .grid.g2 { grid-template-columns: 1fr; } }
+
+    .card {
+      background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 28px; box-shadow: var(--shadow);
+    }
+    .card h3 { font-size: 1.18rem; margin: 0 0 10px; }
+    .card p { color: var(--slate); font-size: 0.98rem; margin: 0; }
+    .card .num {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-weight: 700; color: var(--accent); font-size: 0.85rem; letter-spacing: 0.08em;
+      display: inline-block; margin-bottom: 12px;
+    }
+
+    /* ---------- Heal the healer callout ---------- */
+    .healer {
+      background: linear-gradient(135deg, var(--navy) 0%, var(--navy-2) 100%);
+      color: #dfe9f4; border-radius: 20px; padding: 52px; box-shadow: var(--shadow);
+    }
+    .healer .eyebrow { color: #7fc7d1; }
+    .healer h2 { color: #fff; font-size: clamp(1.6rem, 3.2vw, 2.2rem); margin: 0 0 18px; max-width: 24ch; }
+    .healer p { color: #c7d6e6; font-size: 1.1rem; max-width: 58ch; }
+    .healer .line { color: #fff; font-weight: 600; border-left: 3px solid var(--gold); padding-left: 18px; margin: 26px 0 6px; }
+
+    /* ---------- Pathway ---------- */
+    .steps { display: grid; gap: 16px; }
+    .step {
+      display: grid; grid-template-columns: 52px 1fr auto; gap: 20px; align-items: center;
+      background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 22px 26px;
+    }
+    @media (max-width: 700px){ .step { grid-template-columns: 44px 1fr; } .step .price { grid-column: 2; } }
+    .step .dot {
+      width: 44px; height: 44px; border-radius: 50%;
+      background: var(--mist); color: var(--accent-dk);
+      display: flex; align-items: center; justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; font-size: 1.05rem;
+      border: 1px solid var(--line);
+    }
+    .step h3 { font-size: 1.12rem; margin: 0 0 4px; }
+    .step p { margin: 0; color: var(--slate); font-size: 0.95rem; }
+    .step .price {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700;
+      color: var(--navy); white-space: nowrap; font-size: 1rem; text-align: right;
+    }
+    .step .price small { display:block; font-weight:500; color: var(--slate); font-size: 0.72rem; letter-spacing: 0.04em; text-transform: uppercase; }
+    .step.free .dot { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+    .ladder {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      text-align:center; color: var(--slate); font-size: 0.98rem; margin-top: 34px;
+    }
+    .ladder b { color: var(--navy); }
+
+    /* ---------- Audience chips ---------- */
+    .chips { display: flex; flex-wrap: wrap; gap: 12px; }
+    .chip {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 0.92rem;
+      background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 10px 18px; color: var(--navy);
+    }
+
+    /* ---------- Principles ---------- */
+    .principle { display: flex; gap: 14px; align-items: flex-start; margin-bottom: 20px; }
+    .principle .mk {
+      flex: none; width: 26px; height: 26px; border-radius: 50%; background: var(--mist);
+      color: var(--accent-dk); display:flex; align-items:center; justify-content:center; font-weight:700;
+      font-family: -apple-system, sans-serif; margin-top: 3px;
+    }
+    .principle p { margin: 0; color: var(--slate); }
+    .principle p strong { color: var(--navy); }
+
+    /* ---------- Final CTA ---------- */
+    .final {
+      text-align: center;
+      background:
+        radial-gradient(900px 400px at 50% 0%, rgba(47,143,157,0.16), transparent 60%),
+        linear-gradient(180deg, #f3f8fb 0%, #ffffff 100%);
+    }
+    .final h2 { font-size: clamp(1.8rem, 3.6vw, 2.6rem); margin: 0 auto 16px; max-width: 20ch; }
+    .final p { font-size: 1.14rem; color: var(--slate); max-width: 54ch; margin: 0 auto 30px; }
+
+    /* ---------- Footer ---------- */
+    footer {
+      background: var(--navy); color: #a9bdd4; padding: 44px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 0.9rem;
+    }
+    footer .row { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 14px; }
+    footer .fbrand { color: #fff; font-weight: 700; font-size: 1rem; }
+    footer a { color: #7fc7d1; text-decoration: none; }
+    footer .disclaimer { max-width: 62ch; margin-top: 22px; font-size: 0.8rem; color: #7f97b3; line-height: 1.6; }
+  </style>
+</head>
+<body>
+
+  <!-- ============ NAV ============ -->
+  <header class="site">
+    <div class="wrap navbar">
+      <a class="brand" href="#top">Chiropractic <span>Sleep Academy</span></a>
+      <nav>
+        <div class="links">
+          <a href="#category">The Category</a>
+          <a href="#model">The Model</a>
+          <a href="#pathway">The Pathway</a>
+          <a href="#call" class="btn">Book a Free Alignment Call</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="top">
+    <div class="wrap">
+      <div class="eyebrow">For Chiropractors · Structural Airway Chiropractic</div>
+      <h1>There's a structural answer to sleep. Learn to practice it.</h1>
+      <p class="sub">
+        Sleep and airway are one of the biggest unmet needs your patients bring you every day — and
+        chiropractic has a real, structural role to play. Chiropractic Sleep Academy trains DCs to build a
+        credible, skull-down, sleep-first division in their practice, working alongside dentists, ENTs, and
+        sleep physicians rather than around them.
+      </p>
+      <div class="cta-row">
+        <a href="#call" class="btn lg">Book a Free Alignment Call</a>
+        <a href="#model" class="btn ghost lg">See how it works</a>
+      </div>
+      <p class="microcopy">
+        <strong>Start as the doctor — or start as the patient.</strong> Many DCs begin by living the model
+        themselves before they bring it to their practice. Both doors open here.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ THE CATEGORY ============ -->
+  <section id="category">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">The Category</div>
+        <h2>What is Structural Airway Chiropractic?</h2>
+        <p>
+          A skull-down, sleep-first way of thinking about the spine, cranium, and airway. It gives
+          chiropractors a structural lens on sleep complaints — and a clear, ethical scope: not to diagnose
+          sleep apnea, but to screen, educate, correct what is structural, and coordinate the right care.
+        </p>
+      </div>
+      <div class="grid g3">
+        <div class="card">
+          <span class="num">01</span>
+          <h3>Structural, not diagnostic</h3>
+          <p>DCs don't diagnose obstructive sleep apnea — physicians do. Your role is the structural and
+             postural picture, and knowing exactly when and to whom to refer.</p>
+        </div>
+        <div class="card">
+          <span class="num">02</span>
+          <h3>Objective, not opinion</h3>
+          <p>A home sleep test becomes the sleep-and-airway equivalent of the X-ray: the objective data that
+             anchors an honest conversation with the patient.</p>
+        </div>
+        <div class="card">
+          <span class="num">03</span>
+          <h3>Collaborative, not competitive</h3>
+          <p>CPAP, oral appliances, and surgery all have their place. CSA teaches you to work with dentists,
+             ENTs, and sleep medicine — and to be a credible voice in the room.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HEAL THE HEALER (patient door) ============ -->
+  <section class="tint" id="model">
+    <div class="wrap">
+      <div class="healer">
+        <div class="eyebrow">The Model · Heal the Healer First</div>
+        <h2>Before you practice it on patients, live it yourself.</h2>
+        <p>
+          The best way to learn this work is to go through it. Most DCs start as the patient: a one-on-one
+          Zoom sleep &amp; airway consultation with Dr. Z, a structural airway exam, a home sleep test, and a
+          real report of findings — the same pathway you'll one day run for the people in your practice.
+        </p>
+        <p>
+          You experience the model from the inside first. Then you learn to teach it, then you bring it to
+          your own patient base — at your own pace.
+        </p>
+        <div class="line">Heal the doctor → Teach the doctor → Help the doctor help patients.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ THE PATHWAY ============ -->
+  <section id="pathway">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">The Pathway</div>
+        <h2>A clear, stepped path — at your pace</h2>
+        <p>
+          Free to explore. Affordable to test. Premium to implement. You never move to the next step until
+          the last one has earned it. It starts with a conversation.
+        </p>
+      </div>
+
+      <div class="steps">
+        <div class="step free">
+          <div class="dot">1</div>
+          <div>
+            <h3>CSA Doctor Alignment Call</h3>
+            <p>A short Zoom to see whether you're a fit — as a patient, as a business-builder, or both. A real conversation, not a sales pitch.</p>
+          </div>
+          <div class="price">Free<small>Start here</small></div>
+        </div>
+
+        <div class="step">
+          <div class="dot">2</div>
+          <div>
+            <h3>CSA Sleep Baseline</h3>
+            <p>A home sleep test ordered through CSA and reviewed through the structural-airway lens — your objective starting point.</p>
+          </div>
+          <div class="price">$300<small>Affordable to test</small></div>
+        </div>
+
+        <div class="step">
+          <div class="dot">3</div>
+          <div>
+            <h3>CSA Airway Baseline</h3>
+            <p>CBCT imaging with an airway-focused report review, adding the structural picture to the sleep data.</p>
+          </div>
+          <div class="price">$500<small>Add the imaging</small></div>
+        </div>
+
+        <div class="step">
+          <div class="dot">4</div>
+          <div>
+            <h3>Tecopa VAET Trial Experience</h3>
+            <p>A hands-on test-adjustment experience where you live the structural model directly with Dr. Z over two days.</p>
+          </div>
+          <div class="price">~$5,500<small>Experience it</small></div>
+        </div>
+
+        <div class="step">
+          <div class="dot">5</div>
+          <div>
+            <h3>Full CSA Guided Case Plan</h3>
+            <p>Dr. Z as quarterback for a doctor-led, multi-provider case plan — coordinated care from imaging to therapy to follow-up.</p>
+          </div>
+          <div class="price">$15K–$25K<small>Full transformation</small></div>
+        </div>
+
+        <div class="step">
+          <div class="dot">6</div>
+          <div>
+            <h3>CSA Doctor Training &amp; Representation</h3>
+            <p>For DCs ready to bring the model to their own patients — membership, onboarding, and implementation.</p>
+          </div>
+          <div class="price">Membership+<small>Bring it home</small></div>
+        </div>
+      </div>
+
+      <p class="ladder">
+        <b>Free Alignment Call</b> → Sleep Baseline → Airway Baseline → VAET Trial → Guided Case Plan → <b>Doctor Training</b>
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ WHO IT'S FOR ============ -->
+  <section class="tint">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="eyebrow">Who This Is For</div>
+        <h2>Built for the structural, posture-aware chiropractor</h2>
+        <p>
+          If you already think about the spine, cranium, and posture as a system — and you've wondered where
+          sleep and airway fit — this was built for you.
+        </p>
+      </div>
+      <div class="chips">
+        <span class="chip">SOT chiropractors</span>
+        <span class="chip">Applied Kinesiology (AK)</span>
+        <span class="chip">Craniopathy / CFR</span>
+        <span class="chip">Chiropractic BioPhysics (CBP)</span>
+        <span class="chip">Posture-focused DCs</span>
+        <span class="chip">Airway-aware DCs curious about sleep</span>
+        <span class="chip">DCs who want a structural answer to sleep complaints</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PRINCIPLES / CREDIBILITY ============ -->
+  <section>
+    <div class="wrap">
+      <div class="grid g2" style="align-items:start;">
+        <div>
+          <div class="eyebrow">How We Practice</div>
+          <h2 style="font-size:clamp(1.7rem,3.4vw,2.4rem); margin:0 0 22px;">Credibility is the whole point.</h2>
+          <p style="color:var(--slate); font-size:1.08rem; max-width:48ch;">
+            CSA exists to make chiropractic a credible, ethical voice in the sleep-and-airway conversation.
+            That means being honest about what is proven, clear about scope, and respectful of every other
+            provider at the table. These lines don't move.
+          </p>
+        </div>
+        <div>
+          <div class="principle"><span class="mk">✓</span><p><strong>We don't claim to cure sleep apnea.</strong> Chiropractic and VAET are structural care, not a cure for a medical condition.</p></div>
+          <div class="principle"><span class="mk">✓</span><p><strong>We don't diagnose OSA.</strong> DCs screen and refer; physicians diagnose. Everyone stays in scope.</p></div>
+          <div class="principle"><span class="mk">✓</span><p><strong>We respect CPAP, oral appliances, and surgery.</strong> The goal is collaboration with dentists, ENTs, and sleep medicine — never competition.</p></div>
+          <div class="principle"><span class="mk">✓</span><p><strong>We lead with objective data.</strong> Home sleep testing and imaging anchor an honest report of findings, not a hard sell.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FINAL CTA ============ -->
+  <section class="final" id="call">
+    <div class="wrap">
+      <div class="eyebrow">The Front Door</div>
+      <h2>There's a structural answer to sleep. Learn to practice it.</h2>
+      <p>
+        Start with a free alignment call. We'll figure out together whether CSA is a fit for you — as the
+        doctor, as the patient, or both.
+      </p>
+      <a href="mailto:ZeravicaRobert@gmail.com?subject=CSA%20Doctor%20Alignment%20Call" class="btn lg">Book Your Free Alignment Call</a>
+      <p class="microcopy" style="margin-top:20px;">No cost. No obligation. A real conversation about whether this model fits your practice.</p>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer>
+    <div class="wrap">
+      <div class="row">
+        <span class="fbrand">Chiropractic Sleep Academy</span>
+        <span><a href="https://www.ChiropracticSleepAcademy.net">www.ChiropracticSleepAcademy.net</a></span>
+      </div>
+      <p class="disclaimer">
+        Chiropractic Sleep Academy provides structural chiropractic care and professional education. It does
+        not diagnose or treat obstructive sleep apnea or any medical condition, and does not replace evaluation
+        by a physician or sleep specialist. Home sleep testing is ordered through and interpreted by licensed
+        partners; diagnosis of sleep disorders is made by qualified physicians. Individual results vary. CSA
+        works collaboratively with dentists, ENTs, and sleep medicine.
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>
