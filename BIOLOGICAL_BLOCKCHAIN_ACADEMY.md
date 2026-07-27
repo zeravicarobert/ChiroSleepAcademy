@@ -20,6 +20,17 @@ stress affects sleep, anxiety, and overall health. BBA is the *education*
 arm addressing the financial-stress side of that picture. It teaches; it
 does not treat, diagnose, or give financial/investment advice.
 
+### Curriculum scope
+
+BBA's financial-literacy teaching is broader than crypto:
+- **Bitcoin / blockchain** across networks — BSV, BTC, Bitcoin Cash, others
+- **Precious metals** — silver and gold investment / holding
+- **Currency vs. money** — the foundational distinction: fiat *currency*
+  (medium of exchange, can be inflated/debased) vs. *money* as a durable
+  store of value (the historical role of gold/silver, and the argument for
+  scarce/hard assets). This "what is money" literacy frames the whole BBA
+  program.
+
 ### ICD-10 framing
 
 Financial stress can be coded via ICD-10-CM Z-codes (social determinants of
