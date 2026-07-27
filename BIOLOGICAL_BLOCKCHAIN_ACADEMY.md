@@ -101,17 +101,35 @@ medical credibility. Hold these lines:
   scope does not extend to financial counseling or mental-health treatment.
 - **Honest about volatility and risk.** Crypto is volatile; framing it as a
   stress *reliever* without acknowledging risk would be misleading.
-- **NEVER use these codes to take a worker off work.** A Z-code (Z59.86x,
-  Z59.87, Z73.x) is a *circumstance*, not a disabling condition, and financial
-  hardship is outside a DC's neuromusculoskeletal scope. Certifying disability
-  or writing a work excuse on Z59.87 to trigger SDI/wage-replacement benefits
-  is a false, out-of-scope certification — i.e., disability/insurance fraud,
-  with license-loss and criminal exposure. There is no "saving the state a
-  work-comp case" here: material hardship is not a work injury, and SDI is a
-  claim against a state fund, not a saving. Z59.87 may only appear as a
-  *secondary* SDOH code alongside a genuine, in-scope diagnosis actually being
-  treated. The legitimate CSA/BBA response to financial stress is **education
-  and referral**, never disability certification. Any disability-certification
+- **The red line is outcome-driven diagnosis, not "who owns the code."**
+  Correction to an earlier overstatement: ICD codes are not owned by a
+  profession — any licensed provider uses codes that fit conditions *within
+  their scope*, and CA DCs are trained to diagnose within the neuromusculo-
+  skeletal (NMS) scope. What is fraud is choosing a diagnosis to reach a
+  predetermined outcome (e.g., getting a W-2 worker off work / onto SDI) and
+  reverse-engineering a billable code to justify it. This is true whether the
+  code is Z59.87 or a legitimate NMS code like M54.50 — the problem is the
+  *direction of reasoning*, not the code.
+- **Z59.87 cannot support disability by itself.** It is a *circumstance*
+  (material hardship), not a disabling condition, and time off *worsens*
+  financial hardship. It may appear only as a *secondary* SDOH code alongside
+  a genuine, in-scope diagnosis actually found on exam. There is no "saving the
+  state a work-comp case": hardship is not a work injury, and SDI is a claim
+  against a state fund, not a saving.
+- **The legitimate NMS path is real, and follows findings — not the goal.**
+  Stress genuinely drives real musculoskeletal pathology (biopsychosocial
+  model). If a patient truly presents with disabling low-back pathology — real
+  exam findings, real functional impairment — the DC diagnoses the real NMS
+  condition (M54.50 or a more specific M54.5x), treats it in full scope, and
+  where CA law permits addresses work status; stress as a contributing cause is
+  legitimate to document. Order matters: examine → findings → code + work
+  decision. Never: desired outcome → shop for a code. If you need the four
+  "aren't I helping?" rationalizations, that is the tell the diagnosis is being
+  driven by the outcome.
+- **Wilk v. AMA (1987) is an antitrust/anti-boycott ruling, not a scope
+  expansion.** It does not enlarge what a CA DC may diagnose, treat, certify,
+  or bill; scope is set by CA state law (Chiropractic Act / Title 16).
+- **BBA's role stays education + referral.** Any disability-certification
   workflow must be cleared by a CA healthcare attorney and the CA Board of
   Chiropractic Examiners first.
 
