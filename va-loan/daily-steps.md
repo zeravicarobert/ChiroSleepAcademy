@@ -30,12 +30,23 @@ you are. Momentum beats intensity.
 
 ## 🧾 Track A — Loan file cleanup
 
-_You already have a CPA and a bookkeeper — use them. Your job is to drive status,
-respond fast, and collect the documents._
+**Your team (as of July 2026):**
+- **Bookkeeper — Complete Controller** (QuickBooks Online for *Zeravica Chiropractic Inc.*,
+  S-Corp; ~$500/mo). Contact: Sheryl Phelps-Fisher (accountservices@completecontroller.com);
+  portal "Talk2CC." Sends monthly financial reports — the source of your P&L.
+- **CPA — SingerLewak LLP** (Los Angeles). Contacts: Michelle Lamb
+  (msweedler@singerlewak.com, 424.320.3390) and Asiia Taylor (ataylor@singerlewak.com).
 
-- [ ] Confirm with the CPA **which of the 3 years are filed & accepted** vs. drafted
-- [ ] For any year only *prepared*: **get it signed and e-filed this week**
-- [ ] Get **filed copies + IRS/FTB account transcripts** for all 3 years from the CPA
+**Where it actually stands (the bottleneck is on your side — drifting since April):**
+- 2025 **extension filed & accepted** by the IRS (2025 return due **Oct 15, 2026**).
+- 2025 **draft return** prepared; **engagement letters (S-Corp + Individual) NOT signed**.
+- Michelle requested **prior-year returns + IRS notices** on 6/10 — likely still owed.
+
+- [ ] **Send the SingerLewak reply** in `cpa-status-reply.md` (signs letters, sends docs, asks for status)
+- [ ] **Sign both engagement letters** via SafeSend — *nothing files until this is done*
+- [ ] **Upload prior-year returns + all IRS notices** to their secure link
+- [ ] Get their **written status**: which years (S-Corp + personal, fed + CA), prepared vs. filed, dates
+- [ ] Get **filed copies + IRS/FTB account transcripts** for every open year
 - [ ] Ask the CPA to **check for any recorded federal or state tax lien**
 - [ ] Once balances are known: **set up the IRS installment agreement** online
       (ask if the CPA will set it up for you)
