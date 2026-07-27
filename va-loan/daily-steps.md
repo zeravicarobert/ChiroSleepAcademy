@@ -1,0 +1,66 @@
+# Daily Small Steps — VA Loan + Disability Claim
+
+The rule: **one small step a day.** Every step here is designed to take **under
+~30 minutes**. Don't look at the whole list and freeze — just do the next
+unchecked box. Check it off (`[x]`) when done so the daily reminder knows where
+you are. Momentum beats intensity.
+
+> Two tracks run in parallel: **(A) get the loan file clean** and **(B) get the
+> disability rating**. Some steps wait on others (CPA, seasoning) — while you
+> wait, pull the next step from the other track.
+
+---
+
+## 🚀 This week — the foundation (do these first, most are 15–20 min)
+
+- [ ] **File a VA "Intent to File" (Form 21-0966) at VA.gov** — locks your
+      disability-claim effective date. *Highest-value 15 minutes on this list.*
+- [ ] **Find your DD-214 and scan it** (needed for both the COE and the claim)
+- [ ] **Look up your County Veterans Service Office** and book an appointment for
+      the disability claim (free help — don't file solo)
+- [ ] **Log into / create your IRS.gov Online Account** (id.me)
+- [ ] **Log into / create MyFTB** at FTB.ca.gov
+- [ ] **Log into StudentAid.gov** — check each loan's status (⚠️ flag any default)
+- [ ] **Log into your child-support case portal** (or note the caseworker number)
+- [ ] **Write down the 3 unfiled tax years** and gather any W-2s/1099s you have
+- [ ] **Call 2–3 CPAs/Enrolled Agents** about back-filing; book one
+
+## 🧾 Track A — Loan file cleanup
+
+- [ ] Send the CPA everything they need for the 3 back years
+- [ ] **File the 3 federal + CA returns** (CPA leads; your job is to respond fast)
+- [ ] Once balances are known: **set up the IRS installment agreement** online
+- [ ] **Set up the FTB installment agreement** online
+- [ ] Make **IRS payment #1** → then #2 → then #3 (seasoning — one a month)
+- [ ] Make **FTB payment #1** → then #2 → then #3
+- [ ] Request the **child-support current-status letter** (template in `status-letter-requests.md`)
+- [ ] Request the **student-loan status letter** from each servicer
+- [ ] Pull **2 months of bank statements** for all accounts
+- [ ] Fill in the **Letter of Explanation** (`letter-of-explanation.md`)
+- [ ] Order your **Certificate of Eligibility** (lender can do this)
+
+## 🎖️ Track B — Disability claim
+
+- [ ] Attend the **VSO appointment**; bring DD-214 + medical history
+- [ ] List every condition you believe is service-connected
+- [ ] Gather **service treatment records** + current medical evidence (nexus)
+- [ ] With the VSO, **submit Form 21-526EZ**
+- [ ] Attend any **C&P (compensation & pension) exam** the VA schedules
+
+## 🏠 Track C — Home search (matched to your REAL number: ~$300K)
+
+- [ ] Confirm with the lender: **will disability comp + rental income raise my approval?**
+- [ ] Pick the target market: **Las Vegas metro vs. inland CA** (Vegas = cheapest + near your desert base)
+- [ ] Set a home-search alert at/under your approved price (single-family to house-hack, or a duplex)
+- [ ] Line up a VA-savvy real estate agent in that market
+
+---
+
+## Guardrails (read when tempted)
+
+- **No new monthly debts until the loan closes** — that includes **Steve's
+  seller-financed land note.** A new payment lowers your approval. Land is a
+  *later* move. Ask Steve to hold the terms; don't sign now.
+- **Match the house to the $300K approval**, not to $1.2M fourplex dreams. The
+  first rung is the machine that buys the dream later.
+- **One step a day is a win.** An 80%-done week beats a perfect plan you never start.
