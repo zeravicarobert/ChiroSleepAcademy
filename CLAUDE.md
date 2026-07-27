@@ -123,6 +123,13 @@ Implications:
   `zeravicarobert@gmail.com`.
 - Calendar events live on `robertzeravica91324@gmail.com`.
 
+### Platform logins
+
+- **ClickFunnels 2.0** (the CSA site platform) — login account is
+  `RobertZeravica91324@gmail.com` (same address as the Calendar
+  account). This is the account to use when building or editing the
+  funnel/site in ClickFunnels.
+
 ### Existing CSA assets discovered
 
 - **`CSA Relationship Strategies`** (Google Sheet, owned by
