@@ -101,6 +101,19 @@ medical credibility. Hold these lines:
   scope does not extend to financial counseling or mental-health treatment.
 - **Honest about volatility and risk.** Crypto is volatile; framing it as a
   stress *reliever* without acknowledging risk would be misleading.
+- **NEVER use these codes to take a worker off work.** A Z-code (Z59.86x,
+  Z59.87, Z73.x) is a *circumstance*, not a disabling condition, and financial
+  hardship is outside a DC's neuromusculoskeletal scope. Certifying disability
+  or writing a work excuse on Z59.87 to trigger SDI/wage-replacement benefits
+  is a false, out-of-scope certification — i.e., disability/insurance fraud,
+  with license-loss and criminal exposure. There is no "saving the state a
+  work-comp case" here: material hardship is not a work injury, and SDI is a
+  claim against a state fund, not a saving. Z59.87 may only appear as a
+  *secondary* SDOH code alongside a genuine, in-scope diagnosis actually being
+  treated. The legitimate CSA/BBA response to financial stress is **education
+  and referral**, never disability certification. Any disability-certification
+  workflow must be cleared by a CA healthcare attorney and the CA Board of
+  Chiropractic Examiners first.
 
 ## Open Questions
 
