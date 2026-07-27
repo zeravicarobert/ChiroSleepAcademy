@@ -81,6 +81,16 @@ providers already document it. That legitimizes BBA's premise. But BBA does
 with licensed clinicians; BBA teaches financial literacy as the upstream,
 non-clinical response to the circumstance those Z-codes describe.
 
+## Related Assets
+
+- **W2ExodusBlueprint.com** — Robert's offer to help burned-out W-2 workers
+  transition to 1099/self-employment, financial literacy, Bitcoin education,
+  and the movement/community. Legitimate as a **standalone, self-funded**
+  education business (people pay directly, by choice). To build next: audience,
+  promise, and an honest "W2 → 1099 → financial sovereignty" path that states
+  the real tradeoffs (loss of employer benefits, self-employment tax, no
+  unemployment insurance, income volatility, loss of the SDI safety net).
+
 ## Reference Links
 
 - https://whatsonchain.com/ — Bitcoin SV (BSV) blockchain explorer. Kept
@@ -152,6 +162,19 @@ medical credibility. Hold these lines:
   disability for OSA via structural chiropractic would be very hard to justify
   and draws scrutiny. (Untreated OSA disqualifying a commercial DOT driver is a
   fitness-for-duty issue, not SDI temp disability.)
+- **Doctor-and-vendor conflict of interest (bright line).** The disability
+  certificate must NEVER be the funding mechanism or on-ramp for a program
+  Robert profits from (BBA / W2ExodusBlueprint / the movement). If Robert
+  certifies a patient off work AND sells them the program they enter during
+  that leave, his clinical certification is no longer independent — he has a
+  financial stake in his own medical decision. This corrupts the certification
+  (clinically and legally) and exploits vulnerable patients (steering the
+  stressed/broke into volatile Bitcoin during a certified leave). Keep the two
+  fully separate: honest medicine on one side, self-funded education people pay
+  for by choice on the other. A patient may *later* become a student — the
+  certificate is never the funnel. SDI does not cover a "paid reflection period
+  to change careers"; and note the irony that SDI is a W-2 benefit funding an
+  exit from W-2.
 - **The earned-benefit / sovereignty argument — where it holds and breaks.**
   True: CA SDI is 100% worker-funded, an earned benefit (not welfare), and the
   patient's right to stop working needs no one's permission. But SDI is
