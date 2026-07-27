@@ -101,31 +101,43 @@ medical credibility. Hold these lines:
   scope does not extend to financial counseling or mental-health treatment.
 - **Honest about volatility and risk.** Crypto is volatile; framing it as a
   stress *reliever* without acknowledging risk would be misleading.
-- **The red line is outcome-driven diagnosis, not "who owns the code."**
-  Correction to an earlier overstatement: ICD codes are not owned by a
-  profession — any licensed provider uses codes that fit conditions *within
-  their scope*, and CA DCs are trained to diagnose within the neuromusculo-
-  skeletal (NMS) scope. What is fraud is choosing a diagnosis to reach a
-  predetermined outcome (e.g., getting a W-2 worker off work / onto SDI) and
-  reverse-engineering a billable code to justify it. This is true whether the
-  code is Z59.87 or a legitimate NMS code like M54.50 — the problem is the
-  *direction of reasoning*, not the code.
+- **CA DC scope is broad, per CCR Title 16 §302.** A licensed CA DC "may treat
+  any condition, disease, or injury… and may diagnose," by chiropractic methods,
+  short of practicing medicine (no surgery/drugs/penetrating tissue/obstetrics).
+  Not "neuromusculoskeletal only" — earlier notes overstated this. Diagnosis
+  authority is wide.
+- **Code ownership:** CPT (procedures) is copyrighted by the AMA; ICD-10-CM
+  (diagnoses — Z/M/F codes) is public-domain (CDC/NCHS + CMS, adapted from WHO).
+  No profession gatekeeps ICD diagnosis codes.
+- **The red line is outcome-driven diagnosis, not the code or the scope.**
+  Honest reasoning runs: evaluation → findings → diagnosis → (if warranted) work
+  restriction. Fraud reverses the arrow: start from the desired result (worker
+  off work + SDI check) and pick a diagnosis to produce it. The falsity is in
+  the *direction*, not the code — M54.50 is real and in-scope, but selecting it
+  to unlock benefits makes the certification materially false. Honesty test:
+  "Would I reach this same diagnosis if no disability check were attached?"
 - **Z59.87 cannot support disability by itself.** It is a *circumstance*
   (material hardship), not a disabling condition, and time off *worsens*
   financial hardship. It may appear only as a *secondary* SDOH code alongside
   a genuine, in-scope diagnosis actually found on exam. There is no "saving the
   state a work-comp case": hardship is not a work injury, and SDI is a claim
   against a state fund, not a saving.
-- **The legitimate NMS path is real, and follows findings — not the goal.**
+- **The legitimate path is real, and follows findings — not the goal.**
   Stress genuinely drives real musculoskeletal pathology (biopsychosocial
-  model). If a patient truly presents with disabling low-back pathology — real
-  exam findings, real functional impairment — the DC diagnoses the real NMS
-  condition (M54.50 or a more specific M54.5x), treats it in full scope, and
-  where CA law permits addresses work status; stress as a contributing cause is
-  legitimate to document. Order matters: examine → findings → code + work
-  decision. Never: desired outcome → shop for a code. If you need the four
-  "aren't I helping?" rationalizations, that is the tell the diagnosis is being
-  driven by the outcome.
+  model). If honest history/eval independently establishes a genuinely
+  disabling physical condition, certifying it can be legitimate. If you need the
+  four "aren't I helping?" rationalizations, that is the tell the diagnosis is
+  being driven by the outcome.
+- **CA SDI (DE 2501) rules that gate any temp-disability model:** (1) EDD
+  accepts DC certification only for **physical** conditions within scope — not
+  mental/financial-stress bases; (2) the claimant must be **under care AND
+  treatment**, established within 8 days and *continuing* to keep benefits.
+  This collides with an "evaluate-only, I don't treat" telehealth model — that
+  requirement must be solved (treat or refer into documented treatment). The
+  DE 2501 medical certificate is signed **under penalty of perjury**. Verify
+  the whole workflow with a CA healthcare/EDD attorney and EDD before scaling;
+  history-only telehealth certification at volume is a known SDI-fraud risk
+  marker.
 - **Wilk v. AMA (1987) is an antitrust/anti-boycott ruling, not a scope
   expansion.** It does not enlarge what a CA DC may diagnose, treat, certify,
   or bill; scope is set by CA state law (Chiropractic Act / Title 16).
