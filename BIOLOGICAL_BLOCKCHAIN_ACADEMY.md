@@ -31,17 +31,55 @@ BBA's financial-literacy teaching is broader than crypto:
   scarce/hard assets). This "what is money" literacy frames the whole BBA
   program.
 
-### ICD-10 framing
+### ICD-10-CM codes (verified 2026-07-27)
 
-Financial stress can be coded via ICD-10-CM Z-codes (social determinants of
-health), e.g.:
-- **Z59.86** — Financial insecurity
-- **Z59.87** — Material hardship
-- **Z59.9** — Problem related to housing and economic circumstances, unspecified
+Financial stress shows up in ICD-10-CM in **two layers**: the *circumstance*
+(SDOH Z-codes) and the *diagnosable condition* it can trigger (F-codes). This
+distinction matters — it's exactly why BBA is *education* and not treatment.
 
-These Z-codes describe *circumstances*, not mental disorders. Any co-occurring
-mental-health condition (e.g., anxiety) is coded separately by a qualified
-provider. BBA does not assign codes or make clinical determinations.
+**Layer 1 — the circumstance (SDOH / "Z-codes"), Z59 "Problems related to
+housing and economic circumstances":**
+
+- **Z59.86 — Financial insecurity** *(non-billable header as of FY2026 — you
+  must use one of the children below)*
+  - **Z59.861** — Financial insecurity, difficulty paying for utilities *(billable)*
+  - **Z59.868** — Other specified financial insecurity *(billable)*
+  - **Z59.869** — Financial insecurity, unspecified *(billable)*
+- **Z59.87** — Material hardship due to limited financial resources, NEC *(billable)*
+- **Z59.82** — Transportation insecurity
+- **Z59.811 / .812 / .819** — Housing instability (risk of homelessness / past
+  homelessness / unspecified)
+
+  The Z59.86 → .861/.868/.869 split is **new for FY2026, effective Oct 1,
+  2025** (the Z59.86 header itself dates to Oct 1, 2022). This is why the
+  "financial insecurity" line item now bills at the 5th-character level.
+
+**Layer 1b — stress / life-management, Z73 "Problems related to
+life-management difficulty":**
+
+- **Z73.0** — Burn-out
+- **Z73.3** — Stress, not elsewhere classified
+
+**Layer 2 — the diagnosable mental-health condition (F-chapter), assigned by a
+qualified provider when financial stress produces clinical symptoms:**
+
+- **F43.20** — Adjustment disorder, unspecified
+- **F43.22** — Adjustment disorder with anxiety
+- **F43.23** — Adjustment disorder with mixed anxiety and depressed mood
+- **F41.1** — Generalized anxiety disorder
+- **F41.9** — Anxiety disorder, unspecified
+
+**How they fit together in a chart:** a provider codes the *F-diagnosis* as the
+condition and adds the *Z-code* as the contributing social determinant (e.g.,
+`F43.22` adjustment disorder with anxiety **+** `Z59.869` financial insecurity).
+The Z-code documents the "why"; the F-code documents the diagnosis.
+
+**What this means for BBA:** these codes prove that "financial stress affects
+health" is *recognized in the medical record system itself* — insurers and
+providers already document it. That legitimizes BBA's premise. But BBA does
+**not** assign codes, diagnose, treat, or bill. BBA educates. The coding lives
+with licensed clinicians; BBA teaches financial literacy as the upstream,
+non-clinical response to the circumstance those Z-codes describe.
 
 ## Reference Links
 
