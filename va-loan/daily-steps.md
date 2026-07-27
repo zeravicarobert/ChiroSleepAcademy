@@ -48,7 +48,7 @@ respond fast, and collect the documents._
 - [ ] Fill in the **Letter of Explanation** (`letter-of-explanation.md`)
 - [ ] Order your **Certificate of Eligibility** (lender can do this)
 
-## 🎖️ Track B — Disability claim (now the linchpin — it may be your qualifying income)
+## 🎖️ Track B — Disability claim (funding-fee waiver + possible back pay)
 
 - [ ] **Find your PRIOR denial letter** (rating decision) — note its **date** and
       the **reason** for denial. This one date decides your whole strategy.
@@ -64,17 +64,24 @@ respond fast, and collect the documents._
 
 ## 🏠 Track C — Home search (matched to your REAL number: ~$300K)
 
-> ⚠️ **Income reality:** ~99% of current income is CA EDD **SDI, which is
-> temporary** — a lender likely **won't count it** as qualifying income. The
-> mortgage probably waits on **countable income**: VA disability compensation
-> (permanent, tax-free — see Track B) and/or an established practice/CSA track
-> record. **Confirm this with the lender before spending on a home search.**
+> ✅ **Income reality:** self-employment income as a DC certifying EDD SDI
+> applicants — **~$57K/mo revenue, ~$12K/mo overhead → ~$45K/mo (~$540K/yr) net.**
+> Strong, ongoing income. The gate is **DOCUMENTATION, not income**: lenders
+> qualify self-employed borrowers on **net income shown on FILED tax returns**.
+> Filing the 3 years (Track A) is what converts this cash flow into *qualifying*
+> income — and should lift the $300K pre-approval substantially.
+>
+> ⚠️ **The write-off trade-off:** aggressive deductions lower your *taxable* net,
+> which lowers *qualifying* income. For the 2 years feeding the mortgage app,
+> decide **with your CPA + lender together** how much to deduct — more write-offs =
+> less tax but a smaller loan; fewer = more tax but more borrowing power. Ask the
+> lender which deductions they **add back** (depreciation, one-time expenses).
 
-- [ ] **Ask the lender:** "My income is mostly temporary SDI — what income are you
-      qualifying me on, must it continue 3 years, and what happens when SDI ends?"
-- [ ] Confirm: **will VA disability comp + projected rental income let me qualify?**
-- [ ] Target market: **San Diego County (dream, budget-gated) or Las Vegas metro**
-      — *not* inland CA. Vegas fits the budget and sits by your desert base.
+- [ ] **Ask the lender:** "Once my returns show ~$500K+ net, what loan amount do I
+      qualify for? Which add-backs do you apply? Do you offer bank-statement loans?"
+- [ ] Confirm: **will projected rental income from a 2–4 unit raise it further?**
+- [ ] Target market: **San Diego County (now likely reachable once income is
+      documented) or Las Vegas metro** — *not* inland CA.
 - [ ] Set a home-search alert at/under your approved price (single-family to house-hack, or a duplex)
 - [ ] Line up a VA-savvy real estate agent in that market
 
