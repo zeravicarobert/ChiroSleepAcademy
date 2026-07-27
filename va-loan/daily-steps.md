@@ -39,11 +39,11 @@ you are. Momentum beats intensity.
 
 **Where it actually stands (the bottleneck is on your side — drifting since April):**
 - 2025 **extension filed & accepted** by the IRS (2025 return due **Oct 15, 2026**).
-- 2025 **draft return** prepared; **engagement letters (S-Corp + Individual) NOT signed**.
-- Michelle requested **prior-year returns + IRS notices** on 6/10 — likely still owed.
+- 2025 **draft return** prepared; **engagement letters likely signed** (confirm SingerLewak has both on file).
+- Michelle requested **prior-year returns + IRS notices** on 6/10 — likely still owed (**probable current bottleneck**).
 
-- [ ] **Send the SingerLewak reply** in `cpa-status-reply.md` (signs letters, sends docs, asks for status)
-- [ ] **Sign both engagement letters** via SafeSend — *nothing files until this is done*
+- [ ] **Send the SingerLewak reply** in `cpa-status-reply.md` (confirms letters, sends docs, asks for status)
+- [ ] **Confirm both engagement letters are on file**; complete any still outstanding
 - [ ] **Upload prior-year returns + all IRS notices** to their secure link
 - [ ] Get their **written status**: which years (S-Corp + personal, fed + CA), prepared vs. filed, dates
 - [ ] Get **filed copies + IRS/FTB account transcripts** for every open year

@@ -16,7 +16,7 @@ Thank you both — and apologies for the delay on my end. Let me get everything 
 
 **1. Email on file.** Please update my primary email to **ZeravicaRobert@gmail.com** (you can keep robertzeravica91324@gmail.com as a secondary).
 
-**2. Engagement letters.** I'm signing the 2025 engagement letters and fee addendums for **both my S-Corp (Zeravica Chiropractic Inc.) and my Individual return** via SafeSend today. If you need them re-sent for e-signature, please resend and I'll complete them immediately.
+**2. Engagement letters.** I believe I've already signed the 2025 engagement letters and fee addendums for **both my S-Corp (Zeravica Chiropractic Inc.) and my Individual return** via SafeSend — can you confirm you have both on file? If either is still outstanding, resend it and I'll complete it immediately.
 
 **3. Documents you requested on 6/10.** I'm uploading through your secure link: my prior-year personal returns for **[YEARS]** and every IRS notice I currently have. If any year is missing, tell me which and I'll pull IRS/FTB transcripts to fill the gaps.
 
@@ -37,7 +37,7 @@ Robert Zeravica, DC
 ---
 
 ### After you send it
-- [ ] Sign both engagement letters (SafeSend)
+- [ ] Confirm both engagement letters are on file (complete any still outstanding)
 - [ ] Upload prior-year returns + IRS notices via their secure link
 - [ ] Calendar the **Oct 15, 2026** deadline for the 2025 return
 - [ ] Log their reply (years, status, balances, timeline) in `daily-steps.md`
