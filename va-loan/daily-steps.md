@@ -23,13 +23,22 @@ you are. Momentum beats intensity.
 - [ ] **Log into StudentAid.gov** — check each loan's status (⚠️ flag any default)
 - [ ] **Log into your child-support case portal** (or note the caseworker number)
 - [ ] **Write down the 3 unfiled tax years** and gather any W-2s/1099s you have
-- [ ] **Call 2–3 CPAs/Enrolled Agents** about back-filing; book one
+- [ ] **Ask your CPA the status of each of the 3 years: FILED & ACCEPTED, or only
+      PREPARED?** ("Prepared" ≠ "filed.") Get filed copies + IRS/FTB transcripts.
+- [ ] **Ask your bookkeeper for a YTD Profit & Loss + last 2 years' financials** —
+      the lender needs these to document self-employed income
 
 ## 🧾 Track A — Loan file cleanup
 
-- [ ] Send the CPA everything they need for the 3 back years
-- [ ] **File the 3 federal + CA returns** (CPA leads; your job is to respond fast)
+_You already have a CPA and a bookkeeper — use them. Your job is to drive status,
+respond fast, and collect the documents._
+
+- [ ] Confirm with the CPA **which of the 3 years are filed & accepted** vs. drafted
+- [ ] For any year only *prepared*: **get it signed and e-filed this week**
+- [ ] Get **filed copies + IRS/FTB account transcripts** for all 3 years from the CPA
+- [ ] Ask the CPA to **check for any recorded federal or state tax lien**
 - [ ] Once balances are known: **set up the IRS installment agreement** online
+      (ask if the CPA will set it up for you)
 - [ ] **Set up the FTB installment agreement** online
 - [ ] Make **IRS payment #1** → then #2 → then #3 (seasoning — one a month)
 - [ ] Make **FTB payment #1** → then #2 → then #3
