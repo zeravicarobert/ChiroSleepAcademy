@@ -1,10 +1,10 @@
 # BiologicalBlockchainAcademy.com — Notes
 
-A parking file for BiologicalBlockchainAcademy.com (BBA) references. BBA is
-currently tracked under the CSA repo for convenience; if it grows into its
-own project, split this into a dedicated repo.
+A parking file for BiologicalBlockchainAcademy.com (BBA) references.
 
 **Domain:** BiologicalBlockchainAcademy.com
+**Relationship to CSA:** BBA is an entity *within* Chiropractic Sleep Academy —
+not a separate business. It lives under the CSA umbrella.
 
 ## Reference Links
 
@@ -13,5 +13,7 @@ own project, split this into a dedicated repo.
 
 ## Open Questions
 
-- Is BBA its own brand/project, or a division under Chiropractic Sleep Academy?
-- What is the relationship between the two (shared audience, tech, ownership)?
+- What is BBA's purpose within CSA? (e.g., on-chain records for HST/outcomes
+  data, credentialing, patient consent, tokenized CE, something else?)
+- How does it connect to the CSA pathway and data-ownership requirements
+  (see CLAUDE.md §8, "Data ownership requirement")?
