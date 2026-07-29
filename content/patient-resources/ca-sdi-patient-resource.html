@@ -1,0 +1,386 @@
+<title>Getting Help With California SDI — Patient Resource</title>
+<style>
+  :root {
+    /* warm paper neutral with a faint blue-green bias, clinical + calm */
+    --paper: #FBF9F5;
+    --surface: #FFFFFF;
+    --ink: #1A2A2C;
+    --ink-soft: #4A5B5C;
+    --ink-faint: #71807F;
+    --line: #E2DED4;
+    --line-strong: #CFCabb;
+    --accent: #12615C;      /* deep teal — trustworthy, medical */
+    --accent-soft: #E4EFED;
+    --accent-ink: #0C4642;
+    --flag: #B5541F;        /* muted terracotta — used once, for the key route */
+    --flag-soft: #F6E9DF;
+    --flag-ink: #8A3D13;
+    --shadow: 0 1px 2px rgba(26,42,44,.06), 0 8px 24px rgba(26,42,44,.06);
+    --radius: 14px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #101516;
+      --surface: #171F20;
+      --ink: #EDEFEB;
+      --ink-soft: #B4BEBB;
+      --ink-faint: #869390;
+      --line: #29302F;
+      --line-strong: #3A4342;
+      --accent: #57C4B8;
+      --accent-soft: #16302E;
+      --accent-ink: #8FE0D5;
+      --flag: #E68A54;
+      --flag-soft: #33231A;
+      --flag-ink: #F0A876;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 10px 30px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="light"] {
+    --paper: #FBF9F5; --surface: #FFFFFF; --ink: #1A2A2C; --ink-soft: #4A5B5C;
+    --ink-faint: #71807F; --line: #E2DED4; --line-strong: #CFCabb;
+    --accent: #12615C; --accent-soft: #E4EFED; --accent-ink: #0C4642;
+    --flag: #B5541F; --flag-soft: #F6E9DF; --flag-ink: #8A3D13;
+    --shadow: 0 1px 2px rgba(26,42,44,.06), 0 8px 24px rgba(26,42,44,.06);
+  }
+  :root[data-theme="dark"] {
+    --paper: #101516; --surface: #171F20; --ink: #EDEFEB; --ink-soft: #B4BEBB;
+    --ink-faint: #869390; --line: #29302F; --line-strong: #3A4342;
+    --accent: #57C4B8; --accent-soft: #16302E; --accent-ink: #8FE0D5;
+    --flag: #E68A54; --flag-soft: #33231A; --flag-ink: #F0A876;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 10px 30px rgba(0,0,0,.35);
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 24px 72px;
+  }
+
+  /* ---- masthead ---- */
+  .office {
+    font-size: .8rem;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    font-weight: 600;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 14px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 6px 18px;
+  }
+  .office .edit { color: var(--accent); font-weight: 600; }
+
+  .eyebrow {
+    display: inline-block;
+    font-size: .74rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-soft);
+    padding: 5px 11px;
+    border-radius: 100px;
+    margin-bottom: 18px;
+  }
+  h1 {
+    font-size: clamp(1.9rem, 5vw, 2.6rem);
+    line-height: 1.1;
+    letter-spacing: -.02em;
+    margin: 0 0 .5rem;
+    text-wrap: balance;
+    font-weight: 800;
+  }
+  .lede {
+    font-size: 1.12rem;
+    color: var(--ink-soft);
+    margin: 0 0 8px;
+    max-width: 62ch;
+  }
+
+  h2 {
+    font-size: 1.32rem;
+    letter-spacing: -.01em;
+    margin: 48px 0 8px;
+    font-weight: 750;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+  h2 .num {
+    font-size: .82rem;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-soft);
+    border-radius: 8px;
+    padding: 3px 9px;
+    letter-spacing: 0;
+    position: relative;
+    top: -2px;
+    font-variant-numeric: tabular-nums;
+  }
+  h2 + .sub { color: var(--ink-soft); margin: 0 0 18px; }
+
+  /* ---- highlighted route card ---- */
+  .flagcard {
+    background: var(--flag-soft);
+    border: 1px solid color-mix(in srgb, var(--flag) 35%, transparent);
+    border-left: 5px solid var(--flag);
+    border-radius: var(--radius);
+    padding: 22px 24px;
+    margin: 26px 0 8px;
+  }
+  .flagcard .tag {
+    font-size: .72rem; letter-spacing: .1em; text-transform: uppercase;
+    font-weight: 800; color: var(--flag-ink); margin-bottom: 6px;
+  }
+  .flagcard h3 { margin: 0 0 8px; font-size: 1.24rem; letter-spacing: -.01em; }
+  .flagcard p { margin: 0 0 12px; color: var(--ink-soft); }
+  .flagcard p:last-child { margin-bottom: 0; }
+
+  ol.steps { margin: 10px 0 0; padding: 0; list-style: none; counter-reset: s; }
+  ol.steps li {
+    counter-increment: s;
+    position: relative;
+    padding: 0 0 14px 40px;
+    color: var(--ink);
+  }
+  ol.steps li:last-child { padding-bottom: 0; }
+  ol.steps li::before {
+    content: counter(s);
+    position: absolute; left: 0; top: -1px;
+    width: 26px; height: 26px;
+    background: var(--flag); color: #fff;
+    border-radius: 50%;
+    display: grid; place-items: center;
+    font-size: .82rem; font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ---- contact table ---- */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    margin-top: 8px;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 4px 20px;
+    align-items: center;
+    padding: 15px 22px;
+    border-top: 1px solid var(--line);
+  }
+  .row:first-child { border-top: none; }
+  .row .label { font-weight: 650; }
+  .row .meta { font-size: .88rem; color: var(--ink-faint); grid-column: 1; }
+  .row .tel {
+    font-size: 1.18rem;
+    font-weight: 750;
+    letter-spacing: -.01em;
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    text-decoration: none;
+  }
+  .row .tel:hover { text-decoration: underline; }
+
+  .hours {
+    display: flex; flex-wrap: wrap; gap: 10px 28px;
+    background: var(--accent-soft);
+    border-radius: var(--radius);
+    padding: 16px 22px;
+    margin-top: 14px;
+    font-size: .96rem;
+  }
+  .hours b { color: var(--accent-ink); }
+
+  /* ---- generic prose blocks ---- */
+  p.body { color: var(--ink-soft); }
+  ul.plain { margin: 12px 0 0; padding-left: 0; list-style: none; }
+  ul.plain li {
+    position: relative; padding: 7px 0 7px 30px; color: var(--ink);
+    border-top: 1px solid var(--line);
+  }
+  ul.plain li:first-child { border-top: none; }
+  ul.plain li::before {
+    content: ""; position: absolute; left: 4px; top: 15px;
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--accent);
+  }
+  a.inline { color: var(--accent); font-weight: 600; }
+  .mono { font-variant-numeric: tabular-nums; }
+
+  .callout {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 18px 22px;
+    margin-top: 16px;
+    box-shadow: var(--shadow);
+  }
+  .callout strong { color: var(--ink); }
+
+  /* ---- footer ---- */
+  footer {
+    margin-top: 56px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+    font-size: .82rem;
+    color: var(--ink-faint);
+    line-height: 1.55;
+  }
+  footer a { color: var(--ink-soft); }
+  footer .disc { margin-top: 12px; }
+
+  @media (max-width: 480px) {
+    .wrap { padding: 28px 18px 56px; }
+    .row { grid-template-columns: 1fr; }
+    .row .tel { grid-column: 1; grid-row: auto; }
+  }
+
+  @media print {
+    :root { --paper:#fff; --surface:#fff; --ink:#000; --ink-soft:#222;
+            --ink-faint:#444; --line:#bbb; --accent:#0C4642; --accent-soft:#eef4f3;
+            --flag:#8A3D13; --flag-soft:#f6efe9; --shadow:none; }
+    body { font-size: 12pt; }
+    .wrap { max-width: 100%; padding: 0; }
+    .card, .flagcard, .callout, .hours { break-inside: avoid; }
+    h2 { break-after: avoid; }
+    a { color: #000; text-decoration: none; }
+  }
+</style>
+
+<div class="wrap">
+
+  <div class="office">
+    <span>Prepared for our patients &nbsp;•&nbsp; Dr.&nbsp;Robert Zeravica, D.C.</span>
+    <span class="edit">▸ replace with your practice name / logo</span>
+  </div>
+
+  <span class="eyebrow">California SDI · Patient Resource</span>
+  <h1>How to actually get help with your California SDI claim</h1>
+  <p class="lede">If you're on State Disability Insurance (SDI) and can't get a
+  human on the phone, you're not alone — and the phone is not your only option.
+  Here are the routes that work, starting with the one most people don't know about.</p>
+
+  <!-- 1. The escape hatch -->
+  <h2><span class="num">01</span> The route most people miss</h2>
+  <p class="sub">When the EDD phone line won't get you a person, go around it.</p>
+
+  <div class="flagcard">
+    <div class="tag">Fastest way to break a stuck claim</div>
+    <h3>Ask your California state legislator's office for help</h3>
+    <p>Every California resident has a <strong>State Assembly Member</strong> and a
+    <strong>State Senator</strong>. Their offices have staff whose job is to help
+    constituents cut through state agencies — including EDD. This is often the single
+    most effective way to get a stuck SDI claim moving. It's free, and it's a normal
+    part of what their office does every day.</p>
+    <ol class="steps">
+      <li>Find your representatives at <strong>findyourrep.legislature.ca.gov</strong> — enter your home address.</li>
+      <li>Open your Assembly Member's website and look for <strong>“Contact,” “Help with a State Agency,”</strong> or <strong>“EDD Assistance.”</strong></li>
+      <li>Submit a short message: your name, the agency (<strong>EDD – State Disability Insurance</strong>), your claim number if you have one, and what's stuck.</li>
+      <li>Ask them to open a <strong>constituent case</strong> and act as your liaison with EDD. Keep the confirmation and follow up in about a week.</li>
+    </ol>
+  </div>
+  <div class="callout">
+    <strong>In our district (Northridge / West San Fernando Valley):</strong> that's
+    <span class="mono">Assembly District&nbsp;40</span>, Assemblymember <strong>Pilar Schiavo</strong>.
+    Her office has an <em>“EDD Assistance Needed”</em> option on its contact form.
+    If you live elsewhere, use the finder above to reach <em>your</em> representative.
+  </div>
+
+  <!-- 2. Phone -->
+  <h2><span class="num">02</span> EDD phone numbers</h2>
+  <p class="sub">Save these. The automated system runs 24/7 for claim status; live
+  reps keep business hours.</p>
+  <div class="card">
+    <div class="row">
+      <div class="label">Disability Insurance (SDI)</div>
+      <a class="tel" href="tel:18004803287">1-800-480-3287</a>
+      <div class="meta">English &amp; general SDI claims</div>
+    </div>
+    <div class="row">
+      <div class="label">Paid Family Leave (PFL)</div>
+      <a class="tel" href="tel:18772384373">1-877-238-4373</a>
+      <div class="meta">Bonding / caregiving claims</div>
+    </div>
+    <div class="row">
+      <div class="label">SDI — Spanish</div>
+      <a class="tel" href="tel:18666588846">1-866-658-8846</a>
+      <div class="meta">Servicio en español</div>
+    </div>
+    <div class="row">
+      <div class="label">TTY / hearing or speech impaired</div>
+      <a class="tel" href="tel:711">Dial 711</a>
+      <div class="meta">California Relay Service — then give the EDD number</div>
+    </div>
+  </div>
+  <div class="hours">
+    <span><b>Live representatives:</b> Mon–Fri, 8:00&nbsp;a.m.–5:00&nbsp;p.m. PT (closed state holidays)</span>
+    <span><b>Automated info line:</b> 24 hours / 7 days</span>
+  </div>
+
+  <!-- 3. Online -->
+  <h2><span class="num">03</span> Ask in writing through myEDD</h2>
+  <p class="sub">No hold music. You get a written answer tied to your claim.</p>
+  <p class="body">Signing in to <strong>myEDD / SDI Online</strong> at
+  <a class="inline" href="https://myedd.edd.ca.gov">myedd.edd.ca.gov</a> is usually
+  faster than calling — and it's the fastest way to apply, upload documents, and
+  check status. To send EDD a question about an existing claim:</p>
+  <ul class="plain">
+    <li>Sign in to myEDD and open <strong>SDI Online</strong>.</li>
+    <li>Select the <strong>Claim ID</strong> for your current claim.</li>
+    <li>Choose <strong>“Request Claim Update”</strong> and pick a request type.</li>
+    <li>Type your question and submit — EDD responds directly on your claim.</li>
+  </ul>
+
+  <!-- 4. Beating the hold -->
+  <h2><span class="num">04</span> If you do have to call</h2>
+  <p class="sub">Small things that cut the hold time.</p>
+  <ul class="plain">
+    <li><strong>Call right at 8:00 a.m.</strong> when lines open, and try Tuesday–Thursday rather than Monday.</li>
+    <li>After the recordings, <strong>say “representative” or press 0</strong> to reach a person.</li>
+    <li>Have ready: your <strong>Social Security number</strong> or EDD Customer Account Number, your <strong>Claim ID</strong>, and a pen.</li>
+    <li>Write down the <strong>date, time, and name</strong> of anyone you speak with.</li>
+    <li>Still stuck after a couple of tries? <strong>Go back to Step 01</strong> — your legislator's office.</li>
+  </ul>
+
+  <!-- 5. In person -->
+  <h2><span class="num">05</span> In person</h2>
+  <p class="body">EDD has SDI field offices around the state. Find the nearest one
+  with the <strong>Office Locator</strong> at
+  <a class="inline" href="https://edd.ca.gov/en/office_locator/">edd.ca.gov/en/office_locator</a>.</p>
+
+  <footer>
+    <div><strong>Official sources:</strong>
+      EDD “Contact State Disability Insurance” (edd.ca.gov/en/disability/Contact_SDI) ·
+      myEDD (myedd.edd.ca.gov) ·
+      California Legislature “Find Your Representative” (findyourrep.legislature.ca.gov).
+      Phone numbers and hours verified July 2026 — EDD can change them, so confirm on edd.ca.gov.</div>
+    <div class="disc">This handout is general information to help you reach the right
+    office. It is not legal advice and is not affiliated with or endorsed by the EDD or
+    any government agency. Your doctor's office does not manage or decide SDI claims —
+    those decisions are made by EDD.</div>
+  </footer>
+
+</div>
