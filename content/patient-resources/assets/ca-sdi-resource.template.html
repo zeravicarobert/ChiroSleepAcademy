@@ -1,0 +1,353 @@
+<title>California SDI — A Chiropractic Sleep Academy Patient Resource</title>
+<style>
+  :root {
+    --paper:#FBF8F2;
+    --surface:#FFFFFF;
+    --ink:#23262E;
+    --ink-soft:#535A63;
+    --ink-faint:#7E8790;
+    --line:#E7E0D2;
+    --navy:#1C212B;
+    --navy-deep:#151922;
+    --navy-soft:#2A3140;
+    --gold:#B8975E;
+    --gold-bright:#C9AD82;
+    --gold-deep:#9A7C46;
+    --gold-tint:#F3EBDA;
+    --gold-line:#E0CFA8;
+    --shadow:0 1px 2px rgba(28,33,43,.05), 0 10px 30px rgba(28,33,43,.07);
+    --radius:14px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --paper:#12151C; --surface:#1A1F29; --ink:#ECEAE3; --ink-soft:#B4B7BD;
+      --ink-faint:#868C94; --line:#2A303C;
+      --navy:#10141B; --navy-deep:#0C0F15; --navy-soft:#252C3A;
+      --gold:#C9AD82; --gold-bright:#DEC79B; --gold-deep:#B8975E;
+      --gold-tint:#221E16; --gold-line:#3C3320;
+      --shadow:0 1px 2px rgba(0,0,0,.35), 0 12px 34px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="light"]{
+    --paper:#FBF8F2; --surface:#FFFFFF; --ink:#23262E; --ink-soft:#535A63;
+    --ink-faint:#7E8790; --line:#E7E0D2; --navy:#1C212B; --navy-deep:#151922;
+    --navy-soft:#2A3140; --gold:#B8975E; --gold-bright:#C9AD82; --gold-deep:#9A7C46;
+    --gold-tint:#F3EBDA; --gold-line:#E0CFA8;
+    --shadow:0 1px 2px rgba(28,33,43,.05), 0 10px 30px rgba(28,33,43,.07);
+  }
+  :root[data-theme="dark"]{
+    --paper:#12151C; --surface:#1A1F29; --ink:#ECEAE3; --ink-soft:#B4B7BD;
+    --ink-faint:#868C94; --line:#2A303C; --navy:#10141B; --navy-deep:#0C0F15;
+    --navy-soft:#252C3A; --gold:#C9AD82; --gold-bright:#DEC79B; --gold-deep:#B8975E;
+    --gold-tint:#221E16; --gold-line:#3C3320;
+    --shadow:0 1px 2px rgba(0,0,0,.35), 0 12px 34px rgba(0,0,0,.4);
+  }
+
+  *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,Roboto,Helvetica,Arial,sans-serif;
+    font-size:16.5px; line-height:1.62; -webkit-font-smoothing:antialiased;
+  }
+  .serif{font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;}
+
+  .sheet{max-width:780px; margin:0 auto; background:var(--paper); box-shadow:var(--shadow);}
+  .pad{padding:0 40px;}
+
+  /* ---------- MASTHEAD ---------- */
+  .masthead{
+    background:var(--navy);
+    background-image:linear-gradient(135deg,var(--navy) 0%,var(--navy-deep) 100%);
+    color:#EFE7D6;
+    padding:26px 40px 22px;
+    border-bottom:3px solid var(--gold);
+  }
+  .brandrow{display:flex; align-items:center; gap:18px;}
+  .brandrow img{width:60px; height:auto; display:block; flex:none;}
+  .brandtext{display:flex; flex-direction:column; gap:3px;}
+  .wordmark{
+    font-family:"Iowan Old Style",Palatino,Georgia,serif;
+    font-weight:700; letter-spacing:.12em; text-transform:uppercase;
+    font-size:1.12rem; line-height:1.05; color:var(--gold-bright);
+  }
+  .tagline{font-size:.72rem; letter-spacing:.22em; text-transform:uppercase; color:#A9B0BC;}
+  .doctype{
+    margin-top:16px; display:flex; justify-content:space-between; align-items:baseline;
+    flex-wrap:wrap; gap:6px 16px;
+    border-top:1px solid rgba(197,173,130,.25); padding-top:12px;
+  }
+  .doctype .kind{font-size:.72rem; letter-spacing:.2em; text-transform:uppercase; color:var(--gold-bright); font-weight:700;}
+  .doctype .place{font-size:.72rem; letter-spacing:.05em; color:#9AA2AE;}
+
+  /* ---------- TITLE ---------- */
+  .titleblock{padding:34px 40px 6px;}
+  h1{
+    font-family:"Iowan Old Style",Palatino,Georgia,serif;
+    font-size:clamp(1.95rem,4.6vw,2.55rem); line-height:1.12; letter-spacing:-.01em;
+    margin:0 0 .5rem; text-wrap:balance; font-weight:700;
+  }
+  .lede{font-size:1.1rem; color:var(--ink-soft); margin:0; max-width:60ch;}
+
+  /* author byline */
+  .byline{
+    display:flex; align-items:center; gap:15px;
+    margin:26px 40px 0; padding:14px 18px;
+    background:var(--gold-tint); border:1px solid var(--gold-line); border-radius:var(--radius);
+  }
+  .byline img{width:56px; height:56px; border-radius:50%; flex:none;
+    border:2px solid var(--gold); object-fit:cover; box-shadow:0 2px 6px rgba(0,0,0,.18);}
+  .byline .who{line-height:1.4;}
+  .byline .who b{display:block; font-family:"Iowan Old Style",Palatino,Georgia,serif; font-size:1.06rem; color:var(--ink);}
+  .byline .who span{font-size:.86rem; color:var(--ink-soft);}
+  .byline .who .role{color:var(--gold-deep); font-weight:600; letter-spacing:.02em;}
+
+  /* ---------- SECTIONS ---------- */
+  section{padding:0 40px;}
+  h2{
+    font-family:"Iowan Old Style",Palatino,Georgia,serif;
+    font-size:1.34rem; letter-spacing:-.005em; margin:44px 0 4px; font-weight:700;
+    display:flex; align-items:baseline; gap:12px;
+  }
+  h2 .num{
+    font-family:-apple-system,system-ui,sans-serif;
+    font-size:.74rem; font-weight:700; letter-spacing:.05em;
+    color:var(--navy); background:var(--gold-bright);
+    border-radius:6px; padding:3px 8px; position:relative; top:-3px;
+    font-variant-numeric:tabular-nums;
+  }
+  @media (prefers-color-scheme: dark){ h2 .num{color:#14181F;} }
+  :root[data-theme="dark"] h2 .num{color:#14181F;}
+  h2 + .sub{color:var(--ink-soft); margin:0 0 16px;}
+
+  /* highlighted route card */
+  .flagcard{
+    background:linear-gradient(180deg,var(--gold-tint),transparent 140%);
+    border:1px solid var(--gold-line); border-left:5px solid var(--gold);
+    border-radius:var(--radius); padding:22px 24px; margin:22px 0 6px;
+  }
+  .flagcard .tag{font-size:.7rem; letter-spacing:.14em; text-transform:uppercase; font-weight:800; color:var(--gold-deep); margin-bottom:7px;}
+  .flagcard h3{font-family:"Iowan Old Style",Palatino,Georgia,serif; margin:0 0 8px; font-size:1.24rem;}
+  .flagcard p{margin:0 0 12px; color:var(--ink-soft);}
+  .flagcard p:last-child{margin-bottom:0;}
+  ol.steps{margin:12px 0 0; padding:0; list-style:none; counter-reset:s;}
+  ol.steps li{counter-increment:s; position:relative; padding:0 0 14px 42px; color:var(--ink);}
+  ol.steps li:last-child{padding-bottom:0;}
+  ol.steps li::before{
+    content:counter(s); position:absolute; left:0; top:-2px; width:28px; height:28px;
+    background:var(--navy); color:var(--gold-bright); border-radius:50%;
+    display:grid; place-items:center; font-size:.85rem; font-weight:700; font-variant-numeric:tabular-nums;
+  }
+
+  .callout{background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    padding:16px 20px; margin-top:14px; box-shadow:var(--shadow);}
+  .callout strong{color:var(--ink);}
+  .mono{font-variant-numeric:tabular-nums;}
+
+  /* contact table */
+  .card{background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    box-shadow:var(--shadow); overflow:hidden; margin-top:6px;}
+  .row{display:grid; grid-template-columns:1fr auto; gap:2px 20px; align-items:center;
+    padding:15px 22px; border-top:1px solid var(--line);}
+  .row:first-child{border-top:none;}
+  .row .label{font-weight:650;}
+  .row .meta{font-size:.85rem; color:var(--ink-faint); grid-column:1;}
+  .row .tel{font-size:1.2rem; font-weight:750; letter-spacing:-.01em; color:var(--gold-deep);
+    font-variant-numeric:tabular-nums; white-space:nowrap; grid-column:2; grid-row:1 / span 2; text-decoration:none;}
+  .row .tel:hover{text-decoration:underline;}
+
+  .hours{display:flex; flex-wrap:wrap; gap:8px 26px; background:var(--navy); color:#E7DFCF;
+    border-radius:var(--radius); padding:15px 22px; margin-top:14px; font-size:.94rem;}
+  .hours b{color:var(--gold-bright);}
+
+  p.body{color:var(--ink-soft);}
+  ul.plain{margin:10px 0 0; padding-left:0; list-style:none;}
+  ul.plain li{position:relative; padding:8px 0 8px 28px; color:var(--ink); border-top:1px solid var(--line);}
+  ul.plain li:first-child{border-top:none;}
+  ul.plain li::before{content:""; position:absolute; left:3px; top:16px; width:8px; height:8px;
+    border-radius:50%; background:var(--gold);}
+  a.inline{color:var(--gold-deep); font-weight:600;}
+
+  /* ---------- FOOTER ---------- */
+  footer{margin-top:48px; background:var(--navy);
+    background-image:linear-gradient(135deg,var(--navy) 0%,var(--navy-deep) 100%);
+    color:#C7CDD6; padding:26px 40px 30px; border-top:3px solid var(--gold);}
+  footer .sig{display:flex; align-items:center; gap:12px; margin-bottom:16px;}
+  footer .sig img{width:34px; height:auto;}
+  footer .sig b{font-family:"Iowan Old Style",Palatino,Georgia,serif; color:var(--gold-bright);
+    letter-spacing:.08em; text-transform:uppercase; font-size:.9rem;}
+  footer .src{font-size:.8rem; line-height:1.55; color:#AEB5BF;}
+  footer .disc{font-size:.76rem; line-height:1.5; color:#8B929C; margin-top:12px;
+    border-top:1px solid rgba(197,173,130,.2); padding-top:12px;}
+  footer a{color:#D9C9A3;}
+
+  @media (max-width:520px){
+    .pad,.masthead,.titleblock,section,footer{padding-left:22px; padding-right:22px;}
+    .byline{margin-left:22px; margin-right:22px;}
+    .row{grid-template-columns:1fr;} .row .tel{grid-column:1; grid-row:auto; margin-top:2px;}
+  }
+
+  /* ---------- PRINT ---------- */
+  @media print{
+    :root{--paper:#fff; --surface:#fff; --ink:#1a1a1a; --ink-soft:#333; --ink-faint:#555;
+      --line:#cfcabc; --gold-tint:#f5efe1;}
+    html,body{background:#fff;}
+    *{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+    .sheet{max-width:100%; box-shadow:none;}
+    body{font-size:11.5pt;}
+    .card,.flagcard,.callout,.hours,.byline{break-inside:avoid;}
+    h2{break-after:avoid;}
+    section a,.callout a{color:#1a1a1a; text-decoration:none;}
+  }
+</style>
+
+<div class="sheet">
+
+  <!-- MASTHEAD -->
+  <header class="masthead">
+    <div class="brandrow">
+      <img src="__CSA_MARK__" alt="Chiropractic Sleep Academy emblem">
+      <div class="brandtext">
+        <div class="wordmark">Chiropractic&nbsp;Sleep&nbsp;Academy</div>
+        <div class="tagline">Structural Airway Chiropractic</div>
+      </div>
+    </div>
+    <div class="doctype">
+      <span class="kind">Patient Resource · California SDI</span>
+      <span class="place">Free to share with any patient</span>
+    </div>
+  </header>
+
+  <!-- TITLE -->
+  <div class="titleblock">
+    <h1>How to actually get help with your California SDI claim</h1>
+    <p class="lede">If you're on State Disability Insurance and can't get a human on
+    the phone, you're not alone — and the phone is not your only option. Here are the
+    routes that work, starting with the one most people don't know about.</p>
+  </div>
+
+  <!-- AUTHOR -->
+  <div class="byline">
+    <img src="__DRZ_AVATAR__" alt="Dr. Robert Zeravica, D.C.">
+    <div class="who">
+      <b>Dr. Robert Zeravica, D.C.</b>
+      <span class="role">Founder, Chiropractic Sleep Academy</span>
+      <span>A Chiropractic Sleep Academy patient resource — written to help you get unstuck.</span>
+    </div>
+  </div>
+
+  <!-- 01 -->
+  <section>
+    <h2><span class="num">01</span> The route most people miss</h2>
+    <p class="sub">When the EDD phone line won't get you a person, go around it.</p>
+    <div class="flagcard">
+      <div class="tag">Fastest way to break a stuck claim</div>
+      <h3 class="serif">Ask your California state legislator's office for help</h3>
+      <p>Every California resident has a <strong>State Assembly Member</strong> and a
+      <strong>State Senator</strong>. Their offices have staff whose job is to help
+      constituents cut through state agencies — including EDD. This is often the single
+      most effective way to get a stuck SDI claim moving. It's free, and it's a normal
+      part of what their office does every day.</p>
+      <ol class="steps">
+        <li>Find your representatives at <strong>findyourrep.legislature.ca.gov</strong> — enter your home address.</li>
+        <li>Open your Assembly Member's website and look for <strong>“Contact,” “Help with a State Agency,”</strong> or <strong>“EDD Assistance.”</strong></li>
+        <li>Send a short message: your name, the agency (<strong>EDD – State Disability Insurance</strong>), your claim number if you have one, and what's stuck.</li>
+        <li>Ask them to open a <strong>constituent case</strong> and act as your liaison with EDD. Keep the confirmation and follow up in about a week.</li>
+      </ol>
+    </div>
+    <div class="callout">
+      <strong>In our district (Northridge / West San Fernando Valley):</strong> that's
+      <span class="mono">Assembly District&nbsp;40</span>, Assemblymember <strong>Pilar Schiavo</strong>,
+      whose office has an <em>“EDD Assistance Needed”</em> option on its contact form.
+      If you live elsewhere, use the finder above to reach <em>your</em> representative.
+    </div>
+  </section>
+
+  <!-- 02 -->
+  <section>
+    <h2><span class="num">02</span> EDD phone numbers</h2>
+    <p class="sub">Save these. The automated system runs 24/7 for claim status; live
+    representatives keep business hours.</p>
+    <div class="card">
+      <div class="row">
+        <div class="label">Disability Insurance (SDI)</div>
+        <a class="tel" href="tel:18004803287">1-800-480-3287</a>
+        <div class="meta">English &amp; general SDI claims</div>
+      </div>
+      <div class="row">
+        <div class="label">Paid Family Leave (PFL)</div>
+        <a class="tel" href="tel:18772384373">1-877-238-4373</a>
+        <div class="meta">Bonding / caregiving claims</div>
+      </div>
+      <div class="row">
+        <div class="label">SDI — Spanish</div>
+        <a class="tel" href="tel:18666588846">1-866-658-8846</a>
+        <div class="meta">Servicio en español</div>
+      </div>
+      <div class="row">
+        <div class="label">TTY / hearing or speech impaired</div>
+        <a class="tel" href="tel:711">Dial 711</a>
+        <div class="meta">California Relay Service — then give the EDD number</div>
+      </div>
+    </div>
+    <div class="hours">
+      <span><b>Live representatives:</b> Mon–Fri, 8:00&nbsp;a.m.–5:00&nbsp;p.m. PT (closed state holidays)</span>
+      <span><b>Automated info line:</b> 24 hours / 7 days</span>
+    </div>
+  </section>
+
+  <!-- 03 -->
+  <section>
+    <h2><span class="num">03</span> Ask in writing through myEDD</h2>
+    <p class="sub">No hold music. You get a written answer tied to your claim.</p>
+    <p class="body">Signing in to <strong>myEDD / SDI Online</strong> at
+    <a class="inline" href="https://myedd.edd.ca.gov">myedd.edd.ca.gov</a> is usually
+    faster than calling — and it's the fastest way to apply, upload documents, and check
+    status. To send EDD a question about an existing claim:</p>
+    <ul class="plain">
+      <li>Sign in to myEDD and open <strong>SDI Online</strong>.</li>
+      <li>Select the <strong>Claim ID</strong> for your current claim.</li>
+      <li>Choose <strong>“Request Claim Update”</strong> and pick a request type.</li>
+      <li>Type your question and submit — EDD responds directly on your claim.</li>
+    </ul>
+  </section>
+
+  <!-- 04 -->
+  <section>
+    <h2><span class="num">04</span> If you do have to call</h2>
+    <p class="sub">Small things that cut the hold time.</p>
+    <ul class="plain">
+      <li><strong>Call right at 8:00 a.m.</strong> when lines open, and try Tuesday–Thursday rather than Monday.</li>
+      <li>After the recordings, <strong>say “representative” or press 0</strong> to reach a person.</li>
+      <li>Have ready: your <strong>Social Security number</strong> or EDD Customer Account Number, your <strong>Claim ID</strong>, and a pen.</li>
+      <li>Write down the <strong>date, time, and name</strong> of anyone you speak with.</li>
+      <li>Still stuck after a couple of tries? <strong>Go back to Step 01</strong> — your legislator's office.</li>
+    </ul>
+  </section>
+
+  <!-- 05 -->
+  <section>
+    <h2><span class="num">05</span> In person</h2>
+    <p class="body">EDD has SDI field offices around the state. Find the nearest one with
+    the <strong>Office Locator</strong> at
+    <a class="inline" href="https://edd.ca.gov/en/office_locator/">edd.ca.gov/en/office_locator</a>.</p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="sig">
+      <img src="__CSA_MARK__" alt="">
+      <b>Chiropractic Sleep Academy</b>
+    </div>
+    <div class="src"><strong style="color:#D9C9A3;">Official sources:</strong>
+      EDD “Contact State Disability Insurance” (edd.ca.gov/en/disability/Contact_SDI) ·
+      myEDD (myedd.edd.ca.gov) ·
+      California Legislature “Find Your Representative” (findyourrep.legislature.ca.gov).
+      Phone numbers and hours verified July 2026 — EDD can change them, so confirm on edd.ca.gov.</div>
+    <div class="disc">This handout is general information from Chiropractic Sleep Academy to
+    help you reach the right office. It is not legal advice and is not affiliated with or
+    endorsed by the EDD or any government agency. Chiropractic Sleep Academy does not
+    manage, file, or decide SDI claims — those decisions are made by EDD.</div>
+  </footer>
+
+</div>
