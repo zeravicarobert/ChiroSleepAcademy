@@ -4,6 +4,12 @@
 
 ---
 
+> *"And the LORD God formed man of the dust of the ground, and breathed into
+> his nostrils the breath of life; and man became a living soul."*
+> — **Genesis 2:7**
+
+---
+
 Breath is the first thing we do when we are born, and the last thing we do
 when we die. It is the one function we repeat twenty thousand times a day and
 almost never think about.
@@ -74,10 +80,13 @@ ourselves. Then we carry it to the people we serve.
 ## The stand
 
 Your breath was the first gift you were given, and it is the most personal
-thing you are responsible for. Nobody breathes for you. Taking care of the
-structure behind it — early, on purpose, before you are forced to — is not
-just health. It is stewardship of the one thing you can never hand to
-someone else.
+thing you are responsible for. Nobody breathes for you. A machine can
+ventilate you; another person can perform respiration on you — and both can
+save a life. But that is ventilation. That is respiration. It is not breath.
+Breath is the living act — the breath of life — and it stays yours to the end.
+Caring for the structure behind it — early, on purpose, before you are forced
+to — is not just health. It is stewardship of the one thing you can never
+truly hand to someone else.
 
 We are here to give the breath its best chance by fixing what it moves through.
 

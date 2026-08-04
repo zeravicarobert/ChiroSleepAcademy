@@ -47,13 +47,35 @@ they must never **contradict**, even though they never fully **overlap**.
   (nobody else is responsible for your body — not the system) while honoring the
   conviction that we did not author the design.
 
+## Audience note — Liberpulco is spiritual and open to Scripture
+
+Per Robert (Aug 2026): the Liberpulco crowd is spiritual, and Scriptural — or
+at least open to it being Scriptural. So the public manifesto is **not** kept
+secular. It now carries **Genesis 2:7 as an open epigraph** — the same verse
+that anchors the Christian manifesto (Principles 2 & 18) — making the shared
+root explicit rather than hidden. The distinction from the Christian manifesto
+is now one of *depth and form*, not *presence of Scripture*: the Christian
+manifesto is a full exegesis (33 principles, KJV throughout); the Structural
+Airway manifesto is a declaration that wears one anchoring verse openly and
+lets the rest breathe.
+
+## Breath vs. ventilation/respiration (Robert's refinement)
+
+The stewardship line is reinforced by a clinical/theological distinction Robert
+drew: what a machine or a rescuer supplies is **ventilation** and
+**respiration** — mechanical gas exchange — **not breath**. Breath is the
+living, self-originated act (the breath of life, Genesis 2:7). This makes "the
+one thing you can never truly hand to someone else" literally precise: you can
+outsource ventilation, never breath. The manifesto honors medicine here ("both
+can save a life") so the distinction never reads as an attack on ventilators.
+
 ## Guidance for future use
 
-- Keep the public manifesto **lightly spiritual** — do not import KJV scripture
-  into it. The two-audience split is intentional.
+- The public manifesto may carry Scripture **openly** for this audience — anchor
+  on **Genesis 2:7**; add more only if it stays a declaration, not a sermon.
 - When a **Christian DC audience** is in the room, the Christian manifesto is the
   right artifact; when it's Liberpulco / partners / patients, use the Structural
-  Airway manifesto.
+  Airway manifesto. Both may now share the Genesis 2:7 anchor out loud.
 - The bridge line, if ever asked how faith relates to the work: *the body is
   fearfully and wonderfully made, and our work restores function within a design
   we did not author.*
