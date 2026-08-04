@@ -1,11 +1,11 @@
-# CA EDD / SDI Temporary Disability — Patient FAQ (v2)
+# CA EDD / SDI Temporary Disability — Patient FAQ (v3)
 
 **Practice:** Dr. Robert Zeravica, DC — Telehealth Temporary Disability Evaluations
 **Audience:** California W-2 employees who may qualify for State Disability Insurance (SDI)
 **Prepared for:** Delfina / front-desk use — answering the questions patients ask most
 **Source:** Built only from Dr. Z's own materials — intake form, lead-gen script, screening-page copy, EDD notes, **and the summaries of real patient consult calls** (Zoom recaps) in his own Gmail/Drive. Nothing pulled from outside the practice.
 
-> **What's new in v2:** Added a **"Filing & Process"** section drawn from actual recorded consultations (e.g., the claim start-date question, "do I tell my employer first," the SDI-vs-Paid-Family-Leave question, and the EDD website browser tip). Corrected the benefit figure to the **70–90%** range Dr. Z actually quotes on calls.
+> **What's new in v3:** Added **Part 3 — Payments, Status & Other Forms**, drawn from the real questions patients email the office (certification status/turnaround, "EDD gave me a number to give my doctor," how to pay, appeals after a denial, private-insurer/FMLA forms, extensions, and hardship). v2 added the Filing & Process section from recorded consult summaries and corrected the benefit figure to the **70–90%** range Dr. Z quotes on calls.
 
 > **How to use this:** These are the questions callers and web leads ask most, in plain language, with answers that match how Dr. Z already describes the service. Items marked **⚠️ Confirm with Dr. Z** need a hard number verified before quoting to a patient.
 
@@ -43,6 +43,8 @@ Yes. Dr. Zeravica is a **licensed California Doctor of Chiropractic with 26 year
 - **Starting fee:** **$400** — initial telehealth evaluation + first month of certification support (when medically appropriate)
 - **Ongoing certification support:** **$150 / month**, only while your disability remains medically supported
 - Occasional promo: **$50 off** the first payment (limited time)
+
+**How to pay:** Payment is by **Zelle to `DrZeravicaOffice@gmail.com`** (send to the **email**, not a phone number; add "Robert Zeravica" to your Zelle contacts). The office also takes card. *(Staff: confirm the current preferred method before quoting.)*
 
 ### 8. What kinds of conditions can qualify?
 Non-work conditions that keep you from your usual work — for example pain or an **injury outside of work**, **stress/burnout**, **sleep problems**, and other functional limitations. Every case is evaluated individually and honestly.
@@ -98,6 +100,39 @@ Submit your **name, phone, and email** through the intake form or funnel link; t
 - Intake form: `https://forms.gle/xfAiKKYZiChKB14r6`
 - Funnel: `https://zeravicachiropracticedd.myclickfunnels.com/ai-planning-funnel`
 - EDD filing portal (patient-facing): EDD **SDI Online** (use Chrome)
+
+---
+
+## Part 3 — Payments, Status & Other Forms (real office questions)
+
+*These are the questions patients email the office most once they've started.*
+
+### 21. I already paid — how long until my certification is done? What's the status?
+This is the **#1 follow-up.** Give the patient a **clear turnaround expectation** and confirm we received payment. Have them include their **full name and EDD claim number** so we can locate the claim quickly.
+> ⚠️ **Confirm with Dr. Z / office:** the standard turnaround time to quote (e.g., "within X business days of payment and a complete claim number").
+
+### 22. EDD told me to give my doctor a number to start my claim — what do I do?
+Send us that **claim number** (and any EDD form/receipt number). Dr. Z uses it to locate your claim in **myEDD/SDI Online** and complete the **medical certification** portion. If the number doesn't pull up a claim, we'll ask you to double-check it against your EDD paperwork.
+
+### 23. My claim is "awaiting medical certification." Can you complete it?
+Yes — completing the **medical certification** is exactly Dr. Z's role. Provide your **claim number** and the **body part / condition** involved (e.g., knee, shoulder, back) so it matches your evaluation.
+
+### 24. Can you also complete my employer or private-insurance disability forms?
+Often yes. Beyond CA SDI, the office regularly completes provider/physician certifications for **FMLA** and private carriers (for example **Lincoln Financial, Sedgwick, Voya, Manhattan Life, New York Life**, and employer STD packets). Email the **forms + deadline** and we'll complete the provider portion and return them.
+> ⚠️ These are separate from CA SDI. Confirm scope/fees per form with Dr. Z.
+
+### 25. How do I extend my certification / keep my benefits going?
+When your condition still keeps you from work, we can extend the certification. Ongoing certification support is **$150/month**, only while the disability remains medically supported. Reach out **before** your current certification period ends so there's no gap.
+
+### 26. My claim was denied (or I got a determination I disagree with). Can you help me appeal?
+The office does handle **EDD appeals/determinations.** Send the **EDD determination letter and any forms** you received, plus the **deadline** printed on them (appeal windows are short — don't wait).
+> ⚠️ Confirm with Dr. Z what appeal support is offered and any fee.
+
+### 27. Can I get a refund?
+Refund requests are **handled case-by-case by Dr. Z / the office** — route them to him with the patient name and reason. *(There isn't a written refund policy in our files yet — a one-line policy would make these easier to answer consistently.)* ⚠️ Confirm.
+
+### 28. I'm having financial hardship — can you help with the fee?
+The office has a **financial-hardship** option in some cases. Route these to Dr. Z. *(Handle honestly — hardship accommodations are about access, never about certifying a claim that isn't medically supported.)*
 
 ---
 
