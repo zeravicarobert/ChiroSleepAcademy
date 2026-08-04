@@ -73,10 +73,11 @@ ourselves. Then we carry it to the people we serve.
 
 ## The stand
 
-Your breath is the most personal thing you own. Nobody breathes for you.
-Taking care of the structure behind it — early, on purpose, before you are
-forced to — is not just health. It is responsibility for the one thing you can
-never hand to someone else.
+Your breath was the first gift you were given, and it is the most personal
+thing you are responsible for. Nobody breathes for you. Taking care of the
+structure behind it — early, on purpose, before you are forced to — is not
+just health. It is stewardship of the one thing you can never hand to
+someone else.
 
 We are here to give the breath its best chance by fixing what it moves through.
 
