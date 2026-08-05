@@ -1,6 +1,6 @@
-# SDI Lead-Gen Video Script (v2 — scope-corrected)
+# SDI Lead-Gen Video Script (v2 — scope-neutral)
 
-**Why v2:** The original script marketed "burnt out, stressed" as a qualifying basis. Mental-health/psychiatric conditions are **outside a California DC's scope** and can't be certified by a chiropractor for SDI. This version leads with **in-scope physical / musculoskeletal conditions** and keeps the honest-documentation guardrails. (~4–5 min, social.)
+**Why v2:** The original script marketed "burnt out, stressed" as a qualifying basis. Rather than assert which conditions are in or out of a CA DC's scope — that specific question is **still to be confirmed with EDD/attorney** — this version simply **makes no scope promise in the marketing.** It leads with clearly appropriate physical examples and lets the **evaluation + EDD** decide what qualifies. Honest-documentation guardrails kept. (~4–5 min, social.)
 
 > Guardrail: honest evaluation, honest documentation. We never promise approval — **EDD decides.**
 
@@ -27,7 +27,7 @@ You paid for this. Most people never use it because they don't know it exists.
 ## THE SOLUTION (1:15–2:15)
 This is where I come in.
 
-As a licensed Doctor of Chiropractic, I can **evaluate and certify** claims for **physical, musculoskeletal conditions within my scope** — the spine, joints, and related injuries. *(If your situation is really a mental-health condition, that has to be certified by the right provider, and I'll point you in that direction — honestly.)*
+As a licensed Doctor of Chiropractic, I evaluate your condition and, when it's appropriate, certify your claim. The **evaluation determines what can be certified**, and **EDD makes the final decision.**
 
 Here's how simple the process is:
 - **Step 1** — A free phone consultation to talk through your situation.
@@ -69,7 +69,7 @@ Tap the link below.
 - 4:00 — "Honest evaluation · EDD decides"
 
 ## WHAT CHANGED FROM v1
-- Removed "burnt out / stressed" as a qualifying basis (out of scope for a DC).
-- Led with in-scope **physical / musculoskeletal** conditions.
-- Added an explicit, honest referral line for mental-health situations.
+- Stopped marketing "burnt out / stressed" as a qualifying basis.
+- Makes **no scope claim** either way (in or out) — scope specifics are **to be confirmed with EDD/attorney**.
+- Leads with clearly appropriate physical examples; defers eligibility to the **evaluation + EDD**.
 - Softened "money you're owed" → "a benefit you may have," and kept "EDD decides."
