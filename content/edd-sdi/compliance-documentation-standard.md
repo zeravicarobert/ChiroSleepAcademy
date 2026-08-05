@@ -9,10 +9,11 @@
 > We **document what is medically true** and let **EDD (or the insurer) decide.** We never promise approval, never shape a story to get a claim approved, and never certify a disability that isn't genuinely supported by an evaluation.
 
 ## 1. Scope — what a California DC may certify
-- ✅ **Physical / neuromusculoskeletal conditions within CA chiropractic scope** — spine and **all joints/extremities** (e.g., back, neck, **knee, shoulder**), muscles, and connective tissue.
-- ❌ **Mental-health / psychiatric conditions** — stress, anxiety, depression, "burnout" as the disabling diagnosis. EDD accepts a chiropractor's certification **only for physical conditions.** Refer these to an appropriate provider (MD, psychiatrist, psychologist, LCSW) to certify.
-- ❌ Anything requiring the **practice of medicine** (prescribing, etc.).
-- **If a claim's real driver is mental health,** don't certify it as a physical claim to fit our scope — refer it out.
+> ⚠️ **TO BE CONFIRMED — do not treat as settled.** The exact range of conditions EDD will accept on a **chiropractor's** DE 2501 certification has **not** been verified against a primary source (EDD / statute) or counsel in this document. Confirm directly with **EDD and the attorney** before relying on any scope boundary below. Dr. Z's own knowledge as the licensed practitioner governs until then.
+
+- ✅ **Physical / neuromusculoskeletal conditions within CA chiropractic scope** — spine and **all joints/extremities** (e.g., back, neck, **knee, shoulder**), muscles, and connective tissue. *(Well established.)*
+- ✅ **No prescription-drug authority** — CA DCs cannot prescribe drugs. *(Well established.)*
+- ❓ **Mental-health / psychiatric conditions (stress, anxiety, depression, "burnout") — OPEN QUESTION.** An earlier draft stated these were categorically outside scope / must go to another provider; that claim was **not verified** and should not be treated as fact. **Confirm with EDD and counsel** exactly what EDD accepts from a DC before certifying — or declining — on this basis.
 
 ## 2. Every certification requires a real, individual evaluation
 - No certification without a documented telehealth (or in-person) evaluation of **that** patient for **that** condition.
@@ -41,7 +42,7 @@
 
 ## Red lines (never do)
 - Certify a disability not supported by an evaluation.
-- Certify outside chiropractic scope (esp. mental-health conditions).
+- Certify outside chiropractic scope (what that boundary is: **confirm with EDD/attorney** — see §1).
 - Let patients pick their own diagnoses/codes.
 - Back-date or misstate facts to EDD or an insurer.
 - Market or word anything as coaching a claim toward approval.
