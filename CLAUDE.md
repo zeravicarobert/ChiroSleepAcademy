@@ -365,6 +365,21 @@ Two sides:
 CSA is both a clinical pathway and a doctor education / implementation
 business.
 
+### Payment Methods
+
+CSA accepts **HRA (Health Reimbursement Arrangement) cards** and **HSA
+(Health Savings Account) cards** as methods of payment, in addition to
+standard payment methods.
+
+**Compliance flag:** HSA/HRA acceptance carries IRS rules — only
+"qualified medical expenses" are legitimately payable with those funds,
+and some services may require a Letter of Medical Necessity and itemized
+documentation. Clinical-service revenue vs. education/coaching revenue
+must be cleanly separated so card acceptance is compliant and not
+misrepresented. This is an open item for the compliance attorney (see
+section 16) — do not present HSA/HRA eligibility in marketing copy until
+counsel confirms which services qualify and how to document them.
+
 ---
 
 ## 9. 30-Day Goals (May 2026)
@@ -521,3 +536,57 @@ Still open:
   signed contract — needs attorney review before either party relies on it.
 
 When any of these are resolved, update this file.
+
+---
+
+## 16. Legal / Compliance Counsel (Ecosystem Proofreader)
+
+CSA needs a **California-licensed healthcare regulatory/compliance
+attorney** to act as the ongoing legal and ethical proofreader for the
+whole ecosystem. In the legal industry this is one recognized niche:
+**healthcare regulatory/compliance counsel for integrative & wellness
+practices** — that is the exact role to hire for (not litigation, PI, or
+a generalist).
+
+### Review scope (what the attorney covers)
+HIPAA + California CMIA · California telehealth rules for a DC · DC
+scope of practice (structural, *not* diagnostic — DC does not diagnose
+OSA) · ADA / disability (practice + website + telehealth) · clinical
+documentation · **marketing/advertising claims** (FTC substantiation +
+B&P §651 — this is the "ethics proofread" that enforces the section-5
+red lines) · **HRA/HSA payment eligibility** (IRS qualified-medical-
+expense rules, Letter of Medical Necessity, clean separation of
+clinical vs. education revenue) · business-structure/disclosure review
+(pathway + doctor-training side; Rob–Peter operating-partner terms may
+need separate corporate counsel).
+
+### Candidate firms (leads to vet — not yet endorsed)
+- **Cohen Healthcare Law Group** — closest fit: integrative/wellness +
+  chiropractic + FTC marketing claims + telehealth. Confirm the specific
+  attorney's CA bar admission.
+- **Chapman Law Group** — dedicated chiropractor practice group; confirm
+  a CA-licensed attorney staffs it (multi-state firm).
+- **Holt Law (djholtlaw.com)** — California-focused telehealth/HIPAA/
+  marketing compliance.
+- **San Diego Corporate Law** — narrower (professional chiropractic
+  corporation structure); useful for entity cleanup, not the compliance
+  proofread.
+
+### Five vetting questions
+(1) CA bar + regularly advises chiropractors? (2) HIPAA *and* CMIA?
+(3) marketing-claims review vs. FTC + B&P §651? (4) CA telehealth
+standard-of-care/consent for a DC? (5) flat-fee/retainer vs. hourly, and
+first-review cost?
+
+### Assets built (2026-08-07)
+- `legal/CSA-legal-compliance-scope-of-work.md` — one-pager to send firms
+  so they quote apples-to-apples.
+- `legal/2026-08-07-outreach-compliance-counsel.md` — outreach email in
+  Robert's voice for the top 1–2 firms.
+
+### Status / next action
+Assets drafted. **Next:** Robert reviews, then send outreach to Cohen
+Healthcare Law (and one alternate) with the scope-of-work attached.
+**Open until counsel confirms:** which CSA services qualify for HSA/HRA
+payment and how to document them — do not put HSA/HRA eligibility claims
+in marketing copy until then.
