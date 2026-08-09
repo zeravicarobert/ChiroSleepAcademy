@@ -292,3 +292,5 @@
   .cta-band .cta-row{justify-content:center;margin-top:26px}
 
   nav.main a.active{color:var(--ink);text-decoration:underline;text-underline-offset:6px;text-decoration-color:var(--ochre);text-decoration-thickness:2px}
+
+  .portrait-img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:50% 22%;border:1px solid var(--line-2);border-radius:4px;display:block}
