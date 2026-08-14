@@ -75,10 +75,15 @@ high-value clinical division — not just another commodity service.
 
 ## 4A. The AK Clinical Lens (How Robert Thinks)
 
-Robert reasons like a Goodheart-lineage Applied Kinesiologist. This is the
-worldview *underneath* Structural Airway Chiropractic, and every session
-should strategize and write from it — while translating it for the audience
-(see the guardrail below).
+Robert is **AK-certified** (ICAK / Goodheart lineage) — a credentialed
+Applied Kinesiologist and a licensed chiropractor who can diagnose. This is
+not just biography: it puts him squarely inside ICAK's own "limited to
+professionals licensed to diagnose" standard (see the credibility note
+below), so CSA's AK thinking is the credentialed-clinician kind, not the
+seminar-caricature kind. He reasons from this worldview, which sits
+*underneath* Structural Airway Chiropractic, and every session should
+strategize and write from it — while translating it for the audience (see
+the guardrail below).
 
 **Core frame — the Triad of Health.** Health is a vitalistic, whole-organism
 balance across three interdependent sides. Symptoms emerge when the body can
@@ -103,6 +108,20 @@ position sleep/airway as a *triad problem* without overclaiming — chiropractic
 leads the structural side and collaborates ethically on the other two. That
 maps cleanly onto section 5 (DC role is structural; MDs/DDS/sleep medicine own
 their sides) and the collaborative voice.
+
+**AK complements standard diagnosis — it never replaces it.** This is ICAK's
+own official position (Maffetone, Letter to the Editor, *Dynamic
+Chiropractic*, 1993, restating the ICAK Status Statement first adopted
+1983 and updated through 1992): AK muscle testing is to be used *in
+conjunction with* clinical history, physical examination, laboratory tests,
+and instrumentation — never as a standalone — and real AK is "limited to
+health care professionals licensed to diagnose." ICAK explicitly disowns the
+arm-pull-down group-muscle nutrition-seminar version. For CSA this is a
+**credibility shield, not a liability**: it mirrors CSA's own model
+(structural exam + HST + CBCT + labs anchor the case; AK adds the *reading*,
+not the diagnosis), and Robert's AK certification puts him inside the
+"licensed to diagnose" standard. Use this when a skeptic frames AK as
+unscientific — ICAK drew that line itself, decades ago.
 
 **The audience-translation guardrail (non-negotiable).** AK-internal language
 and mechanism claims — "Adrenal Stress Disorder," "adrenal fatigue,"
