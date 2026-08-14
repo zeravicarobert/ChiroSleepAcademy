@@ -75,8 +75,10 @@ high-value clinical division — not just another commodity service.
 
 ## 4A. The AK Clinical Lens (How Robert Thinks)
 
-Robert is **AK-certified** (ICAK / Goodheart lineage) — a credentialed
-Applied Kinesiologist and a licensed chiropractor who can diagnose. This is
+Robert is **100-hour post-graduate certified in Applied Kinesiology**
+(ICAK / Goodheart lineage) — the formal basic-proficiency AK certification —
+and a licensed chiropractor who can diagnose. (This is the 100-hour credential,
+not the DIBAK diplomate; don't conflate the two or overstate it.) This is
 not just biography: it puts him squarely inside ICAK's own "limited to
 professionals licensed to diagnose" standard (see the credibility note
 below), so CSA's AK thinking is the credentialed-clinician kind, not the
