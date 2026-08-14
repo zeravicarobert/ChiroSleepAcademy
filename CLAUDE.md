@@ -73,6 +73,59 @@ high-value clinical division — not just another commodity service.
 
 ---
 
+## 4A. The AK Clinical Lens (How Robert Thinks)
+
+Robert reasons like a Goodheart-lineage Applied Kinesiologist. This is the
+worldview *underneath* Structural Airway Chiropractic, and every session
+should strategize and write from it — while translating it for the audience
+(see the guardrail below).
+
+**Core frame — the Triad of Health.** Health is a vitalistic, whole-organism
+balance across three interdependent sides. Symptoms emerge when the body can
+no longer hold homeostasis across them; you assess all three, intervene where
+indicated, and let the body's own homeostatic mechanisms re-emerge.
+
+- **Structural** — cranial, postural, spinal, TMJ, hyoid, cervical, airway
+  mechanics. **This is CSA's lead edge and the DC's lane** (VAET, skull-down,
+  Goodheart P.A.T. / myofascial-gelosis lineage). Sleep and airway sit in the
+  middle of the triangle; the structural side is where chiropractic *owns* the
+  contribution.
+- **Chemical** — oxygenation, inflammation, metabolic load, HPA-axis / adrenal
+  stress physiology. Sleep-disordered breathing is a genuine chronic stressor
+  that pulls this side in. HST/CBCT are objective windows. **Collaboration
+  lane** (labs, medical, functional).
+- **Mental/Emotional** — stress, mood, cognitive load, resilience; degraded by
+  unrefreshing sleep, and feeding back into breathing and clenching.
+  **Collaboration lane.**
+
+**Why this framing is a credibility asset, not a liability:** it lets CSA
+position sleep/airway as a *triad problem* without overclaiming — chiropractic
+leads the structural side and collaborates ethically on the other two. That
+maps cleanly onto section 5 (DC role is structural; MDs/DDS/sleep medicine own
+their sides) and the collaborative voice.
+
+**The audience-translation guardrail (non-negotiable).** AK-internal language
+and mechanism claims — "Adrenal Stress Disorder," "adrenal fatigue,"
+jugular-compression/dural-stretch/intracranial-fluid mechanisms, ocular-fascia
+effects, Ragland's sign as an adrenal test — are Robert's *clinical thinking
+model* and are fine for DC-peer teaching. They are **not** evidence-defensible
+in patient- or MD-facing copy, where they read as fringe. Translate every
+time:
+- "Adrenal Stress Disorder" → **HPA-axis / chronic stress load**
+- P.A.T. / gelosis technique detail → **"we correct the structural mechanics
+  of the upper airway — jaw, hyoid, cervical posture, cranial alignment"**
+- Keep the *insight*; drop the insider mechanism claims and unverified
+  physiology when a skeptical MD or patient is the reader.
+
+**Evidence discipline.** AK/ICAK posts often cite papers (e.g. PMID 10518084;
+James/Otis 1997; Frogley & Wallace, *Chiropractic Technique*, Feb 1998). CSA
+does not lean on any citation publicly until it has been *read and verified*.
+Note: biomedical databases (PubMed, NCBI, Europe PMC) are egress-blocked in
+this environment — flag such cites "unverified" until Robert or a session with
+access confirms them.
+
+---
+
 ## 5. Non-Negotiables (Red Lines)
 
 Never, on Robert's behalf:
