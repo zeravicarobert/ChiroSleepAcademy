@@ -145,6 +145,29 @@ copy has to hold these lines:
 >
 > *Chiropractic Sleep Academy — [www.ChiropracticSleepAcademy.net](https://www.ChiropracticSleepAcademy.net)*
 
+### Plain-English version — simplest reading level, for a general crowd
+
+> **Sleep & Breathing Check-Up with Dr. Robert Zeravica, DC**
+> *Value: $500*
+>
+> Do you snore? Wake up tired? This is a one-on-one video call to look at your
+> head, neck, jaw, and airway — the parts your breath has to move through.
+>
+> You get:
+> - Short sleep quizzes
+> - One week of tracking your sleep at home with a phone app
+> - A 1-hour video call with Dr. Z
+> - A check of your posture and airway
+> - A written report telling you what he saw and what to do next
+> - A 30-minute follow-up call
+>
+> It's all by video, so you can live anywhere. Good for 12 months. You can give
+> it to someone in your family instead.
+>
+> This is not a test and not a diagnosis. It does not replace your doctor.
+> Chiropractors do not diagnose sleep apnea. If Dr. Z thinks you should see a
+> sleep doctor, he will tell you.
+
 ---
 
 ## 5. Certificate Text
