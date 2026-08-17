@@ -459,9 +459,10 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
-- Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+- `/site` — the public site. `/content` — course/educational assets.
+  `/outreach` — templates and trackers. `/partnership` — deal records.
+  `/talks` — speaking scripts and stage material. Structure added when
+  first needed — not before.
 
 ---
 
@@ -511,6 +512,16 @@ Still open:
     America); salrodas.com.
   - **Status:** Robert wants to liaison re: exposure. Outreach message not yet
     drafted (Marine-to-Marine, collaborative, no hype). Next action: draft it.
+- **Liberland speaking lane** — Vít (Liberland) has invited Robert back for a
+  second 30-minute talk: "Top 10 Things to Keep Liberlanders in Alignment,"
+  delivered in person. Script at `talks/2026-liberland-top-10-alignment.md`
+  (body-first, self-sovereignty as the through-line). This is a **lay**
+  audience, not DCs — the CSA red lines (section 5) matter more here, not
+  less, and the scope line ("I don't diagnose sleep apnea, a physician does")
+  is stated on stage. Strategically this is credibility and reach, not a
+  funnel step: no pitching from the stage. Open: what the *first* talk
+  covered (Robert to confirm, so callbacks land), and whether Liberland
+  becomes a recurring platform worth building material for.
 - **Rob–Peter CSA/SDI partnership** — Peter (possible Acting COO / Founding
   Operations Partner) may earn *up to 40%* of defined CSA economics through
   milestone-based, vested, revocable performance terms. No SDI income for
