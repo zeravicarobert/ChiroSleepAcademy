@@ -27,6 +27,48 @@ second language — keep the words simple and the sentences short.
 
 ---
 
+## Talk 1 — what this room already heard
+
+Source: `Liberpulco_Structural_Airway_Deck` (Google Drive) and
+`Liberpulco_Sovereignty_Script_v1`. Liberpulco 2026. About 15 minutes.
+
+**Title:** BREATH — "The oldest technology in the world. The one system you
+still own."
+
+**The beats they will remember:**
+1. Cold open — one slow nose breath on stage. "You will do this 20,000 times
+   today and never think about it once."
+2. Genesis 2:7 — breathed into his **nostrils.** Not the mouth. The nose was
+   the original design.
+3. **The disarm** — "I could throw rocks at the mask, the pill, the whole
+   system. I'm not going to. I don't have to."
+4. The giants — Wim Hof, James Nestor, Buteyko. Real respect. "None of them
+   starts with hands on the structure."
+5. **The kink in the pipe** — breathwork perfects the airflow. Nobody checks
+   whether the pipe is bent.
+6. Nose → skull → airway. The breathing pathway is a structure.
+7. He named it: **Structural Airway Chiropractic.**
+8. **Structural Early Intervention** — "The system waits until you qualify. A
+   symptom. A diagnosis. A label. I start before you are anyone's patient."
+9. What he does: top down, by hand, no drug, no machine, no cord. More room.
+10. Two invitations — come feel it, and build it with me.
+
+**So talk 1 was the WHY. Talk 2 is the WHAT TO DO.** That is the frame. Do not
+re-teach the pipe. They have it. Say it in one line and move.
+
+**Two things worth knowing before you commit to talk 2:**
+- Talk 1 leaned hard on sovereignty — "the one system you still own." Talk 2
+  drops politics on purpose. That is a real change of tone in the same room.
+  It is a fine choice, but it is a choice. Say the word if you want some of
+  that voice back.
+- Talk 1 told your own sleep-test story. Talk 2 cuts it. Same note — fine,
+  but this room already heard it, so leaving it out will not read as hiding.
+
+**Callbacks are marked ↩ below.** Use them. A room loves being reminded they
+were there for part one.
+
+---
+
 ## The one line to land
 
 > Sleep is not rest. It is work your body does. If you breathe badly while you
@@ -59,8 +101,16 @@ on 7 and 8. Never rush 4 or 10.
 > I am a chiropractor. For twenty years my job has been to look at a person and
 > see what is carrying weight the wrong way.
 >
-> Tonight I want to talk about the eight hours nobody watches. The hours you are
-> asleep.
+> Some of you were here last time. Last time I showed you the pipe. The nose,
+> the skull, the airway — the structure your breath travels through, and the
+> fact that almost nobody checks whether it is bent.
+>
+> Tonight is the other half. Not what it is. What to do about it.
+
+*↩ That is the whole callback. One breath. Do not re-teach the pipe.*
+
+> Because here is where the pipe matters most, and it is the part nobody
+> watches. The eight hours you are asleep.
 >
 > Most people think sleep is rest. It is not. Sleep is work. Your brain cleans
 > itself. Your body repairs. Your hormones reset. That work only happens if you
@@ -100,6 +150,9 @@ to about two minutes. No politics. No selling.
 Most people have those jobs mixed up."*
 
 **Teach:**
+- *↩ Optional, if it landed last time:* "Last time I read you the line from
+  Genesis — breathed into his **nostrils.** Not the mouth. That was the
+  original design." One line, then move. Do not preach it twice.
 - The nose warms, cleans, and wets the air. The mouth does none of that.
 - The nose also makes nitric oxide, which helps open the blood vessels in the
   lungs. Mouth breathing skips it.
@@ -175,6 +228,9 @@ in a narrow airway. It is information."*
 - If the test comes back positive, there are treatments that work — CPAP, mouth
   devices, sometimes surgery. They exist because they help the right people. I
   am not here to talk anyone out of any of them.
+- *↩ The disarm, said short:* "Same as last time. I am not throwing rocks at
+  the mask. I do not have to." This is your signature move in that room. It
+  costs six seconds and it buys the whole talk.
 - What I will say is this: the structure around the airway is a piece the
   conversation often skips. That is the piece I work on.
 
@@ -193,6 +249,9 @@ forward, your neck carries it like it weighs more."*
   bends and the space at the front of the throat gets tighter. **Your posture
   and your breathing are the same subject.** I cannot separate them and neither
   can you.
+- *↩ Say it plain:* "This is the kink I showed you last time. This is one of
+  the ways the pipe gets bent — and it is the one you are doing to yourself
+  right now, looking down at a phone." 
 - The fix is not sitting up straight for six seconds. It is raising your screen
   to eye level and getting the phone off your lap.
 - Bodies take the shape you hold most. That is not a character flaw. That is how
@@ -294,6 +353,10 @@ working around the problem for years."*
   posture, and your jaw. A few questions about how you sleep and breathe. If
   those questions raise a flag, then a real sleep test read by a doctor.
 - Then check again later. A baseline you never compare to is just a souvenir.
+- *↩ This is the line from last time, and this is where it belongs:* "The
+  system waits until you qualify. A symptom. A diagnosis. A label. I start
+  before you are anyone's patient." Last time that was an idea. Tonight it is
+  the instruction.
 - I will be honest about what this does. Getting checked does not make you
   bulletproof. It changes what you find out in year three instead of year
   fifteen.
@@ -335,18 +398,22 @@ working around the problem for years."*
 ```
 ONE LINE: Sleep is work, not rest. Breathe badly and the work does not happen.
 SCOPE:    I do not diagnose apnea. A medical doctor does. I do structure.
+TALK 1:   I showed you the pipe. Tonight: what to do about it. ONE line only.
 
  1 NOSE     mouth = eat + talk. Practice on a walk. NO taping before testing.
  2 CLOCK    same bed time, same wake time. Hours vary. DEPTH beats length.
  3 MEASURE  ring / band / app, every night. Trend, not one night. Not a test.
  4 TEST     snore, gasp, tired after 8h, AM headache -> home sleep test. MD reads.
             CPAP + oral devices WORK. Do not attack them.
+            +CALLBACK: "I am not throwing rocks at the mask. I do not have to."
  5 HEAD     5 kg. Screen to eye level. Posture and airway = SAME subject.
+            +CALLBACK: "this is the kink, and you are doing it to yourself"
  6 JAW      clicking, grinding, worn teeth, AM tightness. Jaw sits on the airway.
  7 LIGHT    outside 10-15 min AM. Dim at night. Clock is late, not broken.
  8 WALK     discs feed on motion. Daily 30-40 min. NOT "every 30 minutes".
  9 CALM     long slow breath out, nasal, 5-10 min. Same wind-down every night.
 10 CHECK    pain is LATE. Baseline while you feel fine. Then re-check.
+            +CALLBACK: "the system waits until you qualify. I start before."
 
 CLOSE  Take two: morning light + close your mouth.
        Snore or gasp -> go find out.
@@ -415,7 +482,6 @@ gone.
 - [ ] Read the ten out loud twice, on a timer. Cut whatever makes you late.
 - [ ] Print the podium card.
 - [ ] Ask Vít: is Q&A inside the 30 minutes or after?
-- [ ] Ask Vít: anything from the first talk you should call back to?
 - [ ] Check the room size and whether you get a microphone.
 - [ ] Decide if you want a one-page handout. If yes, it is the podium card
       without the stage notes.

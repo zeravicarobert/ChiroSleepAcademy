@@ -512,16 +512,33 @@ Still open:
     America); salrodas.com.
   - **Status:** Robert wants to liaison re: exposure. Outreach message not yet
     drafted (Marine-to-Marine, collaborative, no hype). Next action: draft it.
-- **Liberland speaking lane** — Vít (Liberland) has invited Robert back for a
+- **Liberland speaking lane** — **Talk 1** was Liberpulco 2026, ~15 min:
+  "BREATH — the oldest technology in the world / the one system you still
+  own." That talk *named the category* on stage: Genesis 2:7 nose framing, the
+  disarm ("I could throw rocks at the mask — I'm not going to"), the giants
+  (Hof/Nestor/Buteyko) respected but "none of them puts hands on the
+  structure," the kinked-pipe metaphor, nose → skull → airway, **Structural
+  Airway Chiropractic** named, **Structural Early Intervention** ("the system
+  waits until you qualify — I start before you're anyone's patient"), and two
+  invitations. Assets in Drive: `Liberpulco_Structural_Airway_Deck` and
+  `Liberpulco_Sovereignty_Script_v1` (folder `Liberpulco`). **Talk 1 = the
+  why. Talk 2 = the what-to-do.**
+  Vít has invited Robert back for a
   second 30-minute talk: "Top 10 Things to Keep Liberlanders in Alignment,"
   delivered in person. Script at `talks/2026-liberland-top-10-alignment.md`
   (body-first, self-sovereignty as the through-line). This is a **lay**
   audience, not DCs — the CSA red lines (section 5) matter more here, not
   less, and the scope line ("I don't diagnose sleep apnea, a physician does")
   is stated on stage. Strategically this is credibility and reach, not a
-  funnel step: no pitching from the stage. Open: what the *first* talk
-  covered (Robert to confirm, so callbacks land), and whether Liberland
-  becomes a recurring platform worth building material for.
+  funnel step: no pitching from the stage. Robert's locked shape for talk 2:
+  all-body points, **no politics/sovereignty framing**, no personal story, no
+  room drills, sleep-and-breathing focus, chiropractor voice front and center,
+  depth-of-sleep over hours, nightly tracking (ring/band/app) as its own
+  point, daily walking instead of "move every 30 minutes." Note the
+  deliberate tonal shift from talk 1, which leaned hard on sovereignty and
+  told Robert's own sleep-test story. Open: whether Liberland becomes a
+  recurring platform worth building material for, and whether Q&A sits inside
+  or outside the 30 minutes.
 - **Rob–Peter CSA/SDI partnership** — Peter (possible Acting COO / Founding
   Operations Partner) may earn *up to 40%* of defined CSA economics through
   milestone-based, vested, revocable performance terms. No SDI income for
