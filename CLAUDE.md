@@ -94,9 +94,19 @@ indicated, and let the body's own homeostatic mechanisms re-emerge.
 
 - **Structural** — cranial, postural, spinal, TMJ, hyoid, cervical, airway
   mechanics. **This is CSA's lead edge and the DC's lane** (VAET, skull-down,
-  Goodheart P.A.T. / myofascial-gelosis lineage). Sleep and airway sit in the
-  middle of the triangle; the structural side is where chiropractic *owns* the
+  Goodheart's **P.A.T. — Primary Atlas Technique** — later revised to fold in
+  the myofascial-gelosis procedures). Sleep and airway sit in the middle of
+  the triangle; the structural side is where chiropractic *owns* the
   contribution.
+  - *Terminology note:* **P.A.T. = Primary Atlas Technique.** Confirmed via
+    the Goodheart publication-title match ("Resume of the Primary Atlas
+    Technique" ↔ the pasted "Revised Resume of the P.A.T. Technic to Include
+    Myofascial Gelosis Procedures"), and consistent with the technique's
+    occiput/atlas/axis focus. The AI-suggested expansion "Piezoelectric
+    Acupressure Technique" was checked and **rejected** — unsupported anywhere
+    and inconsistent with the source (which roots the method in Raymond Dart's
+    postural work, not acupressure). Myofascial gelosis is a procedure set
+    folded *into* P.A.T., not its parent.
 - **Chemical** — oxygenation, inflammation, metabolic load, HPA-axis / adrenal
   stress physiology. Sleep-disordered breathing is a genuine chronic stressor
   that pulls this side in. HST/CBCT are objective windows. **Collaboration
