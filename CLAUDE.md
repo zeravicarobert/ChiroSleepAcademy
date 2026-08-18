@@ -123,10 +123,12 @@ Implications:
   `zeravicarobert@gmail.com`.
 - Calendar events live on `robertzeravica91324@gmail.com`.
 
-### August 2026 — Liberpulco (Acapulco) trip
+### August 2026 — Liberpulco trip (ARK Liberland Village, Serbia)
 
-Robert's first real in-person exposure event for CSA outside the chiropractic
-conference circuit. Concluded mid-August 2026. Full recap:
+Liberpulco 2026, **August 12–16, 2026, at ARK Liberland Village in Serbia** —
+the Liberland-hosted European sibling of Anarchapulco (which is in Acapulco,
+Mexico). Robert's parents' homeland. His first real in-person exposure event
+for CSA outside the chiropractic conference circuit. Full recap:
 `trips/2026-08-liberpulco-recap.md`.
 
 Outcomes:
@@ -544,7 +546,11 @@ Still open:
   Anarchapulco, not the goodwill.
 - **Permission to name Berwick / Zeck Sr. / Jedlička** in CSA marketing — not
   yet asked. Nothing public until each says yes in writing.
-- **Anarchapulco Feb 2027 mini clinic** — offer on the table (see § 6). Open:
+- **Anarchapulco Feb 2027 mini clinic** — offer on the table (see § 6).
+  **No email from `partners@anarchapulco.com` in `DrZeravicaOffice@gmail.com`**
+  as of 2026-08-18 — the offer appears to be verbal, or it went to one of the
+  two Google accounts not connected here. Warmest Anarchapulco contact on
+  record: **Kristaps ("Kris"), `logistics@anarchapulco.com`**. Open:
   who extended it and in what capacity, true cost to Robert, realistic revenue,
   whether it reaches any DCs at all, staffing, and — the deciding question —
   what the on-site CSA capture mechanism will be. Decide by ~November 2026.

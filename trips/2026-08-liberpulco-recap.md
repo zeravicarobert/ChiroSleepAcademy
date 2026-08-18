@@ -1,9 +1,18 @@
-# Trip Recap — Liberpulco (Acapulco), August 2026
+# Trip Recap — Liberpulco 2026, ARK Liberland Village, Serbia
 
+**Event:** Liberpulco 2026 — August 12–16, 2026, ARK Liberland Village, Serbia
 **Logged:** 2026-08-18 (trip just concluded)
 **Traveler:** Dr. Robert Zeravica
 **Context:** First real in-person exposure event for CSA / Structural Airway
-Chiropractic outside the chiropractic-conference circuit.
+Chiropractic outside the chiropractic-conference circuit. Liberpulco is the
+Liberland-hosted European sibling of Anarchapulco (Acapulco, Mexico) — which
+Robert attended in February 2026, and where the Feb 2027 mini-clinic offer
+points.
+
+**Known trip costs so far** (from email, 2026-02): Liberpulco ticket **$999**,
+prepaid in February; a VIP ticket was subsequently issued by Kristaps ("Kris")
+at `logistics@anarchapulco.com` — confirm whether that was in addition to or in
+place of the $999. Airfare to Serbia, lodging, and food still to be added.
 
 > Robert's own summary: *"So happy with all the compliments I received, and the
 > amount of people I helped. Two authors gave me their book because they liked
@@ -168,12 +177,19 @@ pricing (CLAUDE.md § 8) erodes in public.
 - [ ] Names / contacts of the two authors, and their book titles
 - [ ] Names and contacts of the other ~7 people treated
 - [ ] Names and contacts of everyone who messaged about VAET afterward
-- [ ] Confirm who extended the Anarchapulco offer, and in what capacity
+- [ ] Confirm who extended the Anarchapulco offer, and in what capacity.
+      **No email from `partners@anarchapulco.com` exists in
+      `DrZeravicaOffice@gmail.com`** (searched 2026-08-18). Either the offer was
+      verbal, or it landed in one of the two Google accounts not connected to
+      Claude. Warmest known Anarchapulco contact: **Kristaps ("Kris"),
+      `logistics@anarchapulco.com`** — issued Robert's Liberpulco VIP ticket and
+      already fielded his March 2026 note about speaking.
 - [ ] Link to the Jeff Berwick Walk-and-Talk clip
 - [ ] Any DCs, dentists, or airway-adjacent professionals met on site
 - [ ] How many of the ~10 paid, and what each was charged (sets the event rate)
-- [ ] Total trip cost — flights, lodging, food, days out of clinic (turns the
-      $2,600 gross into a real net, and decides Anarchapulco)
+- [ ] Total trip cost — airfare to Serbia, lodging, food, days out of clinic,
+      plus the $999 ticket (turns the $2,600 gross into a real net, and decides
+      Anarchapulco)
 - [ ] Date for the Texas / Alec Zeck trip
 
 Once filled in, these move into the CSA contact list
