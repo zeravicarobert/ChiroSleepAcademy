@@ -146,7 +146,9 @@ Outcomes:
 - **Two authors gifted Robert their books** unprompted (names/titles TBD).
 - **Visibility via Jeff Berwick's "Walk and Talk"** — multiple attendees
   independently mentioned seeing Robert on it. First third-party amplification
-  CSA has had.
+  CSA has had. Clip is on Rumble (`v7e8ot8-120-year-old-managed-script...`);
+  full link in `trips/2026-08-liberpulco-recap.md` § 3a. Still needs a
+  timestamp, a saved local copy, and Jeff's permission before any public use.
 - **Inbound VAET inquiries** — several attendees messaged afterward asking
   about the service. Reply templates: `outreach/inbound-vaet-inquiry-template.md`.
 - **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert. Decision

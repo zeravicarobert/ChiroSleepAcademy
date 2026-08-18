@@ -70,13 +70,41 @@ Goal 2 DC outreach.
 | Asset | What it is | How to use it |
 |---|---|---|
 | Two gifted books | Unsolicited gifts from two authors | Read them; write each author a genuine thank-you. Authors have audiences. |
-| Walk-and-Talk exposure | Appearance on Jeff Berwick's walk-and-talk | Find the clip, save the link, add to a future CSA media/credibility page |
+| Walk-and-Talk exposure | Jeff Berwick's Walk and Talk, on Rumble — link in § 3a | Get a timestamp, save a local copy, ask Jeff before using it publicly |
 | Inbound VAET inquiries | Warm DMs asking about the service | Route into a real intake, not a DM thread (see § 4) |
 | Alec Zeck podcast + Texas session | Booked, undated | Highest-leverage asset from the trip. Lock a date, then prep it properly (§ 6) |
 | Three named public figures treated | Berwick, Zeck Sr., Jedlička | Only usable with permission — see § 5a before any public mention |
 | Anarchapulco Feb 2027 offer | Mini-clinic slot | Decide by the timeline in § 6 |
 | Testimonial surface | Everyone who gave a compliment | Ask a subset for a written or video testimonial *while it's fresh* |
 | $2,600 collected | Cash from paying attendees | Back-solve the published event rate from it (§ 5) |
+
+### 3a. Media — Jeff Berwick Walk and Talk
+
+**Link (as supplied by Robert, 2026-08-18):**
+`https://rumble.com/v7e8ot8-120-year-old-managed-script-jellyfish-made-us-do-it-and-max-igan-outs-a-mos.html`
+
+Slug reads: *"120 Year Old Managed Script, Jellyfish Made Us Do It, and Max Igan
+Outs a Mos…"* — title truncated in the URL; full title, channel, publish date,
+and runtime not yet confirmed (Rumble is unreachable from this environment).
+
+**To do before this is usable as a credibility asset:**
+
+- [ ] **Get the timestamp** where Robert appears. Nobody watches a long video to
+      find you. Without `?t=` on the end, this link is unusable in outreach.
+- [ ] **Save a local copy** of the segment. Rumble links rot, channels get
+      reorganized, and a dead link on a CSA page is worse than no link.
+- [ ] **Ask Jeff before using it.** It's his channel and his content. A short
+      "mind if I share the clip where we talk?" costs nothing and protects the
+      relationship — which is worth far more than the clip.
+- [ ] **Confirm what's actually said.** Before this goes anywhere near a CSA
+      page, know exactly what claims are made on camera about the work. If
+      anything in it overstates what VAET does, the clip cannot be used as-is
+      (CLAUDE.md § 5). Robert's credibility travels with whatever he republishes.
+- [ ] Log the full title, channel, and date here once confirmed.
+
+**Where it goes once cleared:** a media / "as seen on" strip on the CSA site,
+and as a warm-open reference in outreach to people already inside that world.
+It is *not* clinical evidence and should never sit next to a clinical claim.
 
 ---
 
@@ -184,7 +212,8 @@ pricing (CLAUDE.md § 8) erodes in public.
       Claude. Warmest known Anarchapulco contact: **Kristaps ("Kris"),
       `logistics@anarchapulco.com`** — issued Robert's Liberpulco VIP ticket and
       already fielded his March 2026 note about speaking.
-- [ ] Link to the Jeff Berwick Walk-and-Talk clip
+- [x] Link to the Jeff Berwick Walk-and-Talk clip — supplied, see § 3a
+      (timestamp and permission still outstanding)
 - [ ] Any DCs, dentists, or airway-adjacent professionals met on site
 - [ ] How many of the ~10 paid, and what each was charged (sets the event rate)
 - [ ] Total trip cost — airfare to Serbia, lodging, food, days out of clinic,
@@ -236,7 +265,8 @@ it costs more than it earned.
    quietly becomes a cancelled one.
 
 **Within two weeks:**
-7. Save the Walk-and-Talk link and any photos/video from the trip.
+7. Pin down the Walk-and-Talk clip: timestamp, local copy, and Jeff's okay to
+   share it (§ 3a). Gather any other photos/video from the trip.
 8. Prep the Alec Zeck podcast: three or four points Robert wants to land about
    Structural Airway Chiropractic, in plain language, that hold up on a show
    whose audience is not clinical. Have one clear next step for listeners —
