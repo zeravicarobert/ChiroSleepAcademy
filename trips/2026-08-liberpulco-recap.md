@@ -26,8 +26,9 @@ place of the $999. Airfare to Serbia, lodging, and food still to be added.
 2. **~10 people ballooned on site** — including Jeff Berwick, Alec Zeck's
    father, and Vít Jedlička, the president of Liberland. Some paid; some were
    comped deliberately to build street credibility. Full roster: § 5.
-3. **Two authors gifted Robert their books** because they liked him. Unsolicited
-   reciprocity from published people = strong signal of how he landed.
+3. **Two authors gifted Robert inscribed copies of their books** — Toni Šarić
+   and Zdeslav Hrepić, Ph.D. Unsolicited reciprocity from published people is a
+   strong signal of how he landed. Full detail: § 3b.
 4. **Visibility through Jeff Berwick's "Walk and Talk."** Multiple attendees
    said they saw Robert on it. That's third-party amplification to an audience
    CSA has never touched before.
@@ -70,7 +71,7 @@ Goal 2 DC outreach.
 
 | Asset | What it is | How to use it |
 |---|---|---|
-| Two gifted books | Unsolicited gifts from two authors | Read them; write each author a genuine thank-you. Authors have audiences. |
+| Two gifted books | Toni Šarić (Serbian, 200-copy run) and Zdeslav Hrepić PhD (*The Living Physics*) — both inscribed | Read both; thank both. Details and contacts in § 3b. |
 | Walk-and-Talk exposure | Jeff Berwick's Walk and Talk, on Rumble — link in § 3a | Get a timestamp, save a local copy, ask Jeff before using it publicly |
 | Inbound VAET inquiries | Warm DMs asking about the service | Route into a real intake, not a DM thread (see § 4) |
 | Alec Zeck podcast + Texas session | Booked, undated | Highest-leverage asset from the trip. Lock a date, then prep it properly (§ 6) |
@@ -79,6 +80,60 @@ Goal 2 DC outreach.
 | Testimonial surface | Everyone who gave a compliment | Ask a subset for a written or video testimonial *while it's fresh* |
 | $2,600 collected | Cash from paying attendees | Back-solve the published event rate from it (§ 5) |
 | Beat Jeff Berwick at darts | $160 and a story | The opener for the Berwick follow-up. Use it. |
+
+### 3b. The Two Gifted Books
+
+Both inscribed to Robert by their authors, on site.
+
+---
+
+**1. Toni Šarić** — title stylized in a distorted pixel typeface, stacked four
+lines: `oVaE / RAiP / Rij / enJe`. Serbian/Croatian; exact wording not reliably
+readable from the cover art. **Ask Toni for the printed title.**
+
+- **Contact:** `toni.saric@yahoo.com` (written on the inscription page)
+- **Inscription:** *"For Robert, first guy I met at Liberpulco 2025! — Toni.
+  Apatin, Serbia 2026."*
+- **Colophon (faintly visible):** print run of **200 copies**. A small-run,
+  author-published book. Being handed one is not a throwaway gesture.
+
+⚠️ **Discrepancy to resolve:** the inscription says they met at **Liberpulco
+2025**, but is dated 2026. Either Robert attended Liberpulco in 2025 as well, or
+Toni misdated it. This matters, because this recap currently calls Liberpulco
+2026 Robert's *first* event of this kind outside the chiropractic circuit. If
+2025 happened too, that framing is wrong and the relationship with this crowd is
+a year deeper than recorded. **Robert: which is it?**
+
+---
+
+**2. Zdeslav Hrepić, Ph.D.** — *The Living Physics: Your Guide to Self-Mastery
+Through Nature's Universal Principles*, Second Edition. The Living Universe
+Series, Book One. Self-published; first edition 2022, second 2025.
+ISBN 979-888862870-6. Site: **www.HrEpic.com**.
+
+- **Inscription:** *"Dear Robert, may the light of everything outside guide you
+  to the light of the inside. Yours, [signed]. Liberland '26."*
+- **Who he is:** physics professor, educational researcher, systemic
+  constellator, and life coach. 20+ years teaching in **Croatia and the United
+  States**, middle school through postgraduate. Developed a framework he calls
+  "The Physics Way" — natural law as metaphor for personal change.
+- **He also goes by "Dr. Z."** Two Dr. Z's at the same event, both Balkan. Use
+  it; it's a better opening line than anything manufactured.
+
+**Why he's the more strategically interesting of the two:** he is a credentialed
+academic who has already done the thing CSA is trying to do — take a hard
+physical science and make it legible and useful to a lay audience without
+cheapening it. That is precisely the translation problem in explaining
+*structural* airway work to non-clinicians, which is exactly what the Alec Zeck
+podcast will demand. He is a possible sounding board, a possible podcast
+exchange, and a fellow Croatian-American academic in that world.
+
+⚠️ **Guardrail (CLAUDE.md § 5):** his material sits in the personal-development
+and spiritual-adjacent lane. That's his lane and it's a legitimate one — but CSA
+patient-facing clinical copy must not be over-spiritualized. Enjoy the
+relationship and the ideas; keep the register separate from anything clinical.
+
+---
 
 ### 3a. Media — Jeff Berwick Walk and Talk
 
@@ -224,7 +279,9 @@ pricing (CLAUDE.md § 8) erodes in public.
 
 ### Still to fill in
 
-- [ ] Names / contacts of the two authors, and their book titles
+- [x] Names / contacts of the two authors — captured in § 3b. Still needed:
+      the printed title of Toni Šarić's book, and whether Robert attended
+      Liberpulco **2025** as well (see the discrepancy flagged in § 3b)
 - [ ] Names and contacts of the other ~7 people treated
 - [ ] Names and contacts of everyone who messaged about VAET afterward
 - [ ] Confirm who extended the Anarchapulco offer, and in what capacity.
@@ -277,7 +334,9 @@ it costs more than it earned.
 
 **This week (while the goodwill is hot):**
 1. Reply to every inbound VAET inquiry — personally, within 48 hours.
-2. Thank-you message to both authors. No pitch. Just thanks.
+2. Thank-you message to both authors. No pitch. Just thanks. Toni is reachable
+   at `toni.saric@yahoo.com`; Hrepić through HrEpic.com. Ask Toni for his book's
+   printed title while you're at it.
 3. Follow up individually with Jeff Berwick, Alec's father, and Vít Jedlička.
    Ask two things: how they're doing since the session, and whether Robert may
    mention having worked with them. Nothing else in that message.

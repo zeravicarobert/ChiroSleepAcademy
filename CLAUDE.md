@@ -144,7 +144,16 @@ Outcomes:
   revenue from people entirely outside Robert's network. Plus **$160 profit
   winning the Liberpulco dart tournament, beating Jeff Berwick** ($2,760 cash
   in). Trip cost not yet tallied, so net is unknown.
-- **Two authors gifted Robert their books** unprompted (names/titles TBD).
+- **Two authors gifted Robert inscribed books** unprompted:
+  **Toni Šarić** (`toni.saric@yahoo.com`, Apatin, Serbia — stylized pixel-type
+  title, 200-copy print run, title still to be confirmed) and
+  **Zdeslav Hrepić, Ph.D.** (*The Living Physics*, 2nd ed. 2025, HrEpic.com) —
+  physics professor, educational researcher, and life coach, 20+ years teaching
+  in Croatia and the US, who also goes by "Dr. Z." Hrepić is the strategically
+  interesting one: he already solved CSA's translation problem — making a hard
+  science legible to a lay audience without cheapening it. Guardrail: his lane
+  is personal-development/spiritual-adjacent; keep that register out of CSA
+  clinical copy (§ 5). Details: `trips/2026-08-liberpulco-recap.md` § 3b.
 - **Visibility via Jeff Berwick's "Walk and Talk"** — multiple attendees
   independently mentioned seeing Robert on it. First third-party amplification
   CSA has had. Clip is on Rumble (`v7e8ot8-120-year-old-managed-script...`);
@@ -557,6 +566,11 @@ Still open:
   who extended it and in what capacity, true cost to Robert, realistic revenue,
   whether it reaches any DCs at all, staffing, and — the deciding question —
   what the on-site CSA capture mechanism will be. Decide by ~November 2026.
+- **Did Robert attend Liberpulco 2025?** Toni Šarić's inscription reads "first
+  guy I met at Liberpulco 2025" but is dated 2026. If 2025 happened, then
+  Liberpulco 2026 was *not* Robert's first event of this kind and his standing
+  with this crowd is a year deeper than recorded. Resolve before repeating the
+  "first exposure event" framing anywhere.
 - **Liberpulco follow-through** — the inbound VAET inquiries, the two authors,
   and the Walk-and-Talk clip all still need names, contacts, and links logged
   into the `CSA Relationship Strategies` sheet. Until that happens the trip
