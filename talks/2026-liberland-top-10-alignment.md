@@ -397,14 +397,33 @@ question ready and ask it yourself:
 
 That fills the silence and shows them the size of answer you want.
 
-**How to run it:**
-- Answer in about **45 seconds.** Nine minutes is roughly ten questions if you
-  are tight, or four if you are not.
-- Repeat every question out loud before you answer. Half the room did not hear
-  it, and it buys you a second to think.
-- If one person keeps going: "Let me take a couple more and I will find you
-  after." Say it warm, then look at the other side of the room.
-- At **26:30**, say "last question."
+**No mic for the audience. People shout.** That is a different job from a mic
+runner, and it is the part that goes wrong. Six rules:
+
+1. **Repeat every question out loud. Every single one.** This is not optional
+   in a shout room. Half the room did not hear it, and if anyone is recording,
+   the recording only has your voice on it. It also buys you two seconds to
+   think.
+2. **Take one at a time, out loud.** When three hands go up, name the order:
+   "You, then you in the blue, then the back." Now nobody talks over anybody.
+3. **Walk toward whoever is asking.** You will hear them, and the room will
+   follow you and quiet down. Standing still and squinting makes the room
+   louder, not quieter.
+4. **Never guess at a question you did not hear.** "Say that again, louder."
+   Ask twice if you have to. Answering the wrong question wastes forty-five
+   seconds and makes you look like you were not listening.
+5. **Go get the back of the room.** In a shout format only the front three
+   rows ever ask. Look up and say: "Somebody in the back." Then wait. It feels
+   long. It works.
+6. **Answer in about 45 seconds.** Nine minutes is roughly ten questions if you
+   are tight, four if you are not.
+
+**If one person will not stop:** "Let me take a couple more and I will find you
+after." Warm, then turn your body to the other side of the room. Turning your
+body ends it. Words alone do not.
+
+**At 26:30, say "last question."** Then hold the floor — do not let a shouted
+follow-up turn into three more.
 
 **Never say:**
 - That chiropractic, or VAET, or any structural care cures or fixes sleep apnea.
@@ -516,8 +535,14 @@ CLOSE  Take two: morning light + close your mouth.
        Snore or gasp -> go find out.
        "Now. Nine minutes. Ask me anything."
 
-Q&A    45 sec answers. Repeat the question out loud. Say "last question" at 26:30.
-       If nobody speaks: ask my own -> "how do I know if I mouth-breathe asleep?"
+Q&A    NO MIC - THEY SHOUT.
+       REPEAT EVERY QUESTION OUT LOUD. Every one. Recording only has me.
+       Name the order: "you, then you, then the back." One at a time.
+       WALK toward the asker. Didn't hear it? "Say it again, louder." Never guess.
+       Call on the BACK. Wait. It feels long.
+       45 sec answers. Rambler -> "couple more, find me after" + TURN MY BODY.
+       "Last question" at 26:30.
+       Silence at the start -> ask my own: "how do I know if I mouth-breathe asleep?"
 
 LAST WORD (do NOT skip): morning light. close your mouth. snore -> find out.
 
@@ -542,8 +567,9 @@ gone.
       long — time those on their own.
 - [ ] Print the podium card.
 - [ ] Check the room size and whether you get a microphone.
-- [ ] Ask Vít whether someone will run the Q&A mic, or whether people just
-      shout questions. Changes how you handle it.
+- [ ] Confirmed: no mic for questions, people shout. Practice repeating a
+      question out loud before answering — it feels unnatural until you have
+      done it five times.
 - [ ] Decide if you want a one-page handout. If yes, it is the podium card
       without the stage notes.
 - [ ] Sleep well the night before. The room will know.
