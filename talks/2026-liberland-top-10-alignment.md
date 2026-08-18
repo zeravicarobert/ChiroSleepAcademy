@@ -4,7 +4,14 @@
 **Audience:** Liberlanders. Regular people, not doctors. Many speak English as a
 second language — keep the words simple and the sentences short.
 **Requested by:** Vít
-**Format:** In person. 30 minutes. Works with no screen.
+**Format:** In person. 30 minutes **with Q&A inside that 30.** Works with no
+screen.
+
+> **Read this first.** Q&A is inside the clock. That means the talk is **19
+> minutes**, not 30. Ten points in 15 minutes is fast. The fix is not talking
+> faster — it is saying less per point. Six of the ten are now built to be told
+> in about one minute. The extra material did not get thrown away; it moved to
+> the Q&A section, where it is now your ammunition.
 
 ---
 
@@ -24,6 +31,7 @@ second language — keep the words simple and the sentences short.
   Steady bed time and wake time is the rule.
 - Movement means **walk every day.** Not "move every 30 minutes" — Robert says
   that one does not work in real life.
+- **Q&A sits inside the 30 minutes.** About 9 minutes of it.
 
 ---
 
@@ -53,19 +61,17 @@ still own."
 9. What he does: top down, by hand, no drug, no machine, no cord. More room.
 10. Two invitations — come feel it, and build it with me.
 
-**So talk 1 was the WHY. Talk 2 is the WHAT TO DO.** That is the frame. Do not
-re-teach the pipe. They have it. Say it in one line and move.
+**So talk 1 was the WHY. Talk 2 is the WHAT TO DO.** Do not re-teach the pipe.
+They have it. One line, then move.
 
-**Two things worth knowing before you commit to talk 2:**
+**Two things worth knowing:**
 - Talk 1 leaned hard on sovereignty — "the one system you still own." Talk 2
   drops politics on purpose. That is a real change of tone in the same room.
-  It is a fine choice, but it is a choice. Say the word if you want some of
-  that voice back.
-- Talk 1 told your own sleep-test story. Talk 2 cuts it. Same note — fine,
-  but this room already heard it, so leaving it out will not read as hiding.
+  Fine choice, but it is a choice.
+- Talk 1 told your own sleep-test story. Talk 2 cuts it. They already heard it,
+  so leaving it out will not read as hiding.
 
-**Callbacks are marked ↩ below.** Use them. A room loves being reminded they
-were there for part one.
+**Callbacks are marked ↩ below.** Four of them. They are cheap and they work.
 
 ---
 
@@ -76,25 +82,30 @@ were there for part one.
 
 ---
 
-## Timing (30 minutes)
+## Timing (30 minutes, Q&A inside)
 
-| Part | Time | Total |
+| Part | Time | Clock |
 |---|---|---|
-| Open | 2:30 | 2:30 |
-| Points 1–3 | 7:00 | 9:30 |
-| Points 4–6 | 7:00 | 16:30 |
-| Points 7–9 | 7:00 | 23:30 |
-| Point 10 | 2:00 | 25:30 |
-| Close | 2:00 | 27:30 |
-| Spare / hand off to Q&A | 2:30 | 30:00 |
+| Open | 2:00 | 0:00 – 2:00 |
+| **Big four** (1, 4, 5, 10) | 8:00 | 2 min each |
+| **Fast six** (2, 3, 6, 7, 8, 9) | 7:00 | ~1:10 each |
+| Close | 1:30 | ends ~18:30 |
+| Q&A | 9:00 | 18:30 – 27:30 |
+| Last word + thanks | 1:00 | 27:30 – 28:30 |
+| Spare | 1:30 | — |
 
-**Pace rule:** about 2 minutes and 15 seconds per point. Wear a watch. You
-should finish point 3 by 9:30 and point 6 by 16:30. If you run late, cut short
-on 7 and 8. Never rush 4 or 10.
+**Four points get two minutes. Six points get one.** That is the whole trick.
+Do not give a one-minute point two minutes because the room is nodding — that
+is how you arrive at point 9 with three minutes left.
+
+**Checkpoints, write them on your hand:**
+- Point 4 done by **7:00**
+- Point 7 done by **13:00**
+- Talking finished by **18:30**
 
 ---
 
-## OPEN (2:30)
+## OPEN (2:00)
 
 *Walk out. Stand where they can see your whole body. Speak slow.*
 
@@ -107,263 +118,243 @@ on 7 and 8. Never rush 4 or 10.
 >
 > Tonight is the other half. Not what it is. What to do about it.
 
-*↩ That is the whole callback. One breath. Do not re-teach the pipe.*
+*↩ That is the callback. One breath. Do not re-teach the pipe.*
 
-> Because here is where the pipe matters most, and it is the part nobody
-> watches. The eight hours you are asleep.
+> And here is where it matters most, in the part nobody watches — the hours you
+> are asleep.
 >
 > Most people think sleep is rest. It is not. Sleep is work. Your brain cleans
-> itself. Your body repairs. Your hormones reset. That work only happens if you
-> get deep sleep. And you only get deep sleep if you are breathing well while
-> you lie there.
-
-*Pause.*
-
-> Here is the part people miss. Breathing at night is a structure problem. The
-> airway is a soft tube. It has no bone holding it open. What holds it open is
-> the shape around it — your skull, your jaw, your neck, your posture.
->
-> That shape is my work.
+> itself. Your body repairs. Your hormones reset. That work only happens if the
+> sleep goes deep. And it only goes deep if you are breathing well while you lie
+> there.
 
 *Beat.*
 
-> Ten things. Every one of them is about your body. Most of them cost nothing.
+> Ten things. All of them about your body. Most of them cost nothing.
+>
+> One thing first so we are clear. I do not diagnose sleep apnea. No
+> chiropractor does. A medical doctor does that. My lane is the structure
+> around the airway. Tonight I am teaching, not treating.
+>
+> I am going to move fast, because I want to leave real time for your
+> questions.
 
-**Say the scope line early. It buys trust for the whole talk:**
-
-> One thing first, so we are clear. I am a chiropractor. I do not diagnose sleep
-> apnea. No chiropractor does. A medical doctor does that. My lane is the
-> structure around the airway. Tonight I am teaching, not treating.
-
----
-
-## THE TEN
-
-Each point has: the **line** to say, and the **teach** under it. Keep each one
-to about two minutes. No politics. No selling.
+*That last line is not filler. It sets up the Q&A and it buys you permission
+to be brief.*
 
 ---
 
-### 1. Breathe through your nose. Day and night. (2:15)
+# THE BIG FOUR — two minutes each
+
+These carry the talk. Do not cut these.
+
+---
+
+## 1. Breathe through your nose. Day and night. (2:00)
 
 **Line:** *"Your mouth is for eating and talking. Your nose is for breathing.
 Most people have those jobs mixed up."*
 
-**Teach:**
-- *↩ Optional, if it landed last time:* "Last time I read you the line from
-  Genesis — breathed into his **nostrils.** Not the mouth. That was the
-  original design." One line, then move. Do not preach it twice.
+**Say:**
 - The nose warms, cleans, and wets the air. The mouth does none of that.
-- The nose also makes nitric oxide, which helps open the blood vessels in the
-  lungs. Mouth breathing skips it.
-- Nose breathing puts your tongue on the roof of your mouth. That tongue spot
-  helps hold the airway open.
+- Nose breathing puts your tongue up on the roof of your mouth. That tongue
+  position helps hold the airway open.
 - Mouth breathing at night is a warning sign. Dry mouth in the morning, a sore
   throat, waking up thirsty — that is your body telling you.
-- Try it in the day first. If you cannot hold nose breathing on a slow walk, you
-  will not hold it asleep.
-- **Say this out loud:** do not tape your mouth shut at night because you saw it
-  online. Not until you know whether you have untreated sleep apnea. Taping over
-  a real problem is covering the alarm, not the fire.
+- Practice in the day first. If you cannot hold nose breathing on a slow walk,
+  you will not hold it asleep.
+- **Do not skip this one:** do not tape your mouth shut at night because you
+  saw it online. Not until you know whether you have untreated sleep apnea.
+  Taping over a real problem is covering the alarm, not the fire.
+
+*↩ Optional, only if it landed last time: "Last time I read you the line from
+Genesis — breathed into his nostrils. Not the mouth." One line. Do not preach
+it twice.*
+
+*Moved to Q&A: nitric oxide, humidifying, filtering detail.*
 
 ---
 
-### 2. Same bed time. Same wake time. (2:15)
+## 4. If you snore or gasp, go get a real test. (2:00)
 
-**Line:** *"Forget the magic number of hours. Your body wants the same clock
-every day."*
-
-**Teach:**
-- People chase eight hours. Hours are not the same for everyone. Some people do
-  well on seven. Some need nine. That is real.
-- What is the same for everyone is **rhythm.** Going to bed and waking at the
-  same time trains the body to know when to shut down and when to fire up.
-- A wandering bed time is like moving time zones every few days. Your body never
-  settles.
-- Weekends count. Two late nights can undo five good ones.
-- And know this: **depth beats length.** Nine broken hours is worse than seven
-  solid ones. Which brings us to the next point.
-
----
-
-### 3. Measure your sleep every night. (2:15)
-
-**Line:** *"You cannot fix what you do not measure. And you are a bad judge of
-your own sleep."*
-
-**Teach:**
-- People say "I sleep fine." Then they measure, and they find out they wake up
-  eleven times a night and never remember one of them.
-- A ring, a wrist band, or a phone app will do it. Any of them. The brand
-  matters less than doing it every night.
-- What you are looking for is **the trend, not one night.** One bad night means
-  nothing. Two months of shallow sleep means something.
-- Watch: how long you slept, how deep it went, how often you woke, and your
-  resting heart rate.
-- Be fair to the device. It is not a medical test. It is a mirror. It shows you
-  a pattern, and that pattern tells you whether to look closer.
-- If you snore, some apps record the sound. Play it back. That one is hard to
-  argue with.
-
----
-
-### 4. If you snore or gasp, go get a real test. (2:15)
+*Yes, point 4 comes fourth on stage. It is listed here because it is a big one.
+Deliver in numerical order.*
 
 **Line:** *"Snoring is not a personality. It is a sound made by tissue shaking
 in a narrow airway. It is information."*
 
-**Teach:**
-- The signs that mean go get tested:
-  - loud snoring
-  - someone has seen you stop breathing
-  - you gasp or choke awake
-  - you wake up tired after a full night
-  - morning headaches
-  - falling asleep in the day
-  - high blood pressure that will not come down
-- The test is easy now. It is called a home sleep test. A small device comes to
-  your house. You wear it in your own bed for a night. A doctor reads it.
-- **Say the scope line again here:** I do not read it and I do not diagnose it.
-  A medical doctor does. I read the structure.
-- If the test comes back positive, there are treatments that work — CPAP, mouth
+**Say:**
+- The signs that mean go get tested: loud snoring, someone has seen you stop
+  breathing, gasping awake, waking tired after a full night, morning headaches,
+  falling asleep in the day, blood pressure that will not come down.
+- The test is easy now. A small device comes to your house. You wear it one
+  night in your own bed. A doctor reads it.
+- I do not read it and I do not diagnose it. A medical doctor does. I read the
+  structure.
+- If it comes back positive, there are treatments that work — CPAP, mouth
   devices, sometimes surgery. They exist because they help the right people. I
   am not here to talk anyone out of any of them.
-- *↩ The disarm, said short:* "Same as last time. I am not throwing rocks at
-  the mask. I do not have to." This is your signature move in that room. It
-  costs six seconds and it buys the whole talk.
-- What I will say is this: the structure around the airway is a piece the
-  conversation often skips. That is the piece I work on.
+- What the conversation usually skips is the structure around the airway. That
+  is my piece.
+
+*↩ The disarm, short: "Same as last time. I am not throwing rocks at the mask.
+I do not have to." Six seconds. Buys the whole talk.*
 
 ---
 
-### 5. Keep your head over your shoulders. (2:15)
+## 5. Keep your head over your shoulders. (2:00)
 
 **Line:** *"Your head weighs about five kilos. Every centimeter it drifts
 forward, your neck carries it like it weighs more."*
 
-**Teach:**
+**Say:**
 - A head that sits forward is the mark of a life spent looking down at screens.
-- What it costs you: neck pain, upper back pain, headaches, and a chest that
-  cannot open all the way when you breathe.
-- Here is the part that matters tonight. When the head goes forward, the neck
-  bends and the space at the front of the throat gets tighter. **Your posture
-  and your breathing are the same subject.** I cannot separate them and neither
-  can you.
-- *↩ Say it plain:* "This is the kink I showed you last time. This is one of
-  the ways the pipe gets bent — and it is the one you are doing to yourself
-  right now, looking down at a phone." 
+- What it costs: neck pain, upper back pain, headaches, and a chest that cannot
+  open fully when you breathe.
+- Here is why it matters tonight. When the head goes forward, the neck bends
+  and the space at the front of the throat gets tighter. **Your posture and
+  your breathing are the same subject.**
 - The fix is not sitting up straight for six seconds. It is raising your screen
   to eye level and getting the phone off your lap.
-- Bodies take the shape you hold most. That is not a character flaw. That is how
-  tissue works. But it does mean the shape you hold most is a choice, even when
-  you do not feel like you are choosing.
+- Bodies take the shape you hold most. That is not a character flaw. That is
+  how tissue works.
+
+*↩ Say it plain: "This is the kink I showed you last time. And it is the one
+you are doing to yourself right now, looking down at a phone."*
 
 ---
 
-### 6. Look after your jaw. (2:15)
-
-**Line:** *"The jaw is the only joint in your body you use a thousand times a
-day and never think about once."*
-
-**Teach:**
-- Signs your jaw is under strain: clicking, popping, morning tightness, flat or
-  worn teeth, headaches at the temples, waking with a sore face.
-- Grinding and clenching at night is common, and it often travels with poor
-  sleep and poor breathing. The body is working hard while you are supposed to
-  be resting.
-- The jaw, the skull, and the top of the neck move as one system. Pull one and
-  the others answer. That is why a jaw problem is rarely just a jaw problem.
-- The jaw also sits right on top of the airway. Where the lower jaw sits changes
-  how much room the tongue has behind it.
-- Who to see: a dentist who thinks about the airway, and someone who works on
-  the structure. Grinding is worth taking seriously, not waiting out.
-
----
-
-### 7. Light in the morning. Dark at night. (2:15)
-
-**Line:** *"Light is not decoration. It is the signal that sets the clock inside
-you."*
-
-**Teach:**
-- Your body has a daily clock, and light hitting your eyes is what sets it.
-- Get outside in the morning. Ten or fifteen minutes. Even on a grey day.
-  Outdoor light is far stronger than any light in a room, so being indoors near
-  a window is not the same thing.
-- At night, go the other way. Dim the room. Get the bright screens away from
-  your face in the last hour.
-- Most people who say "I cannot fall asleep" do not have a broken clock. They
-  have a late one. Morning light pulls it back where it belongs.
-- This is the cheapest thing on the list. It costs nothing and needs no gear.
-
----
-
-### 8. Walk every day. (2:15)
-
-**Line:** *"The spine has no pump. It feeds itself by moving."*
-
-**Teach:**
-- The discs between the bones of your spine have almost no blood supply of their
-  own. They take in fluid through movement — pressure on, pressure off.
-- Sit still all day and you switch that off. Stiffness in the morning is often
-  just a body that never moved enough the day before.
-- I am not going to tell you to get up every thirty minutes. Nobody does that in
-  real life. Walk every day instead. Thirty or forty minutes. Outdoors if you
-  can, so it doubles as your morning light.
-- Walking is also the easiest way to practice nose breathing. If you can walk at
-  a normal pace with your mouth closed, that is a good sign.
-- Daily beats hard. A walk every day does more for your spine than one brutal
-  session on a Saturday.
-
----
-
-### 9. Come down before you go to bed. (2:15)
-
-**Line:** *"You are all very good at getting wound up. Almost nobody has a plan
-for coming down."*
-
-**Teach:**
-- Your nervous system has two gears. One gets you moving. One repairs you.
-  Modern life keeps most people stuck in the first.
-- A wound-up body does not drop into deep sleep. You lie down, but the engine
-  keeps running. That is why you can spend eight hours in bed and wake up flat.
-- Signs you are stuck in gear one: hard to fall asleep, waking at three in the
-  morning, clenched jaw, tight shoulders, fast shallow breathing in the chest.
-- The most reliable tool you own is your own breath. Slow it down. Breathe in
-  through the nose, and make the breath out longer than the breath in. Five to
-  ten minutes before bed. This is not mysticism. It is a known effect.
-- Also helps: a dim room, an hour without work, and no bright screen close to
-  your face.
-- Build a wind-down you do every night, the same way. The routine itself becomes
-  the signal.
-
----
-
-### 10. Get checked before it hurts. (2:00)
+## 10. Get checked before it hurts. (2:00)
 
 **Line:** *"Pain is a late signal. By the time your body complains, it has been
 working around the problem for years."*
 
-**Teach:**
-- Bodies are very good at covering. They borrow movement from one place to hide
-  a loss in another, and they do it quietly.
-- That is why "I feel fine" is not proof. It means the cover-up is still
-  holding.
-- Get a baseline while you feel good. A structural check of your neck, your
-  posture, and your jaw. A few questions about how you sleep and breathe. If
-  those questions raise a flag, then a real sleep test read by a doctor.
+**Say:**
+- Bodies cover. They borrow movement from one place to hide a loss in another,
+  and they do it quietly. So "I feel fine" is not proof. It means the cover-up
+  is still holding.
+- Get a baseline while you feel good. Your neck, your posture, your jaw. A few
+  questions about how you sleep and breathe. If those raise a flag, then a real
+  sleep test read by a doctor.
 - Then check again later. A baseline you never compare to is just a souvenir.
-- *↩ This is the line from last time, and this is where it belongs:* "The
-  system waits until you qualify. A symptom. A diagnosis. A label. I start
-  before you are anyone's patient." Last time that was an idea. Tonight it is
-  the instruction.
-- I will be honest about what this does. Getting checked does not make you
-  bulletproof. It changes what you find out in year three instead of year
-  fifteen.
+- Honest about what this does: it does not make you bulletproof. It changes
+  what you find out in year three instead of year fifteen.
+
+*↩ This is your line from last time, and this is where it belongs: "The system
+waits until you qualify. A symptom. A diagnosis. A label. I start before you
+are anyone's patient." Last time that was an idea. Tonight it is the
+instruction.*
 
 ---
 
-## CLOSE (2:00)
+# THE FAST SIX — about one minute each
+
+Three beats and out. Resist the urge to teach. Anything you leave out here is
+a question waiting to be asked, and you now have nine minutes for questions.
+
+---
+
+## 2. Same bed time. Same wake time. (1:10)
+
+**Line:** *"Forget the magic number of hours. Your body wants the same clock
+every day."*
+
+**Say:**
+- Hours are not the same for everyone. Some do well on seven. Some need nine.
+- What is the same for everyone is rhythm. Same bed time, same wake time.
+  Weekends count.
+- And depth beats length. Nine broken hours is worse than seven solid ones.
+
+*Moved to Q&A: jet-lag effect of a wandering bed time, shift work, naps.*
+
+---
+
+## 3. Measure your sleep every night. (1:10)
+
+**Line:** *"You cannot fix what you do not measure. And you are a bad judge of
+your own sleep."*
+
+**Say:**
+- People say "I sleep fine," then measure and find they wake up eleven times a
+  night and remember none of it.
+- A ring, a band, or a phone app. Any of them. Doing it every night matters
+  more than the brand.
+- Watch the trend, not one night. One bad night means nothing. Two months of
+  shallow sleep means something.
+
+*Moved to Q&A: what numbers to watch, accuracy of consumer devices, snore
+recording apps.*
+
+---
+
+## 6. Look after your jaw. (1:10)
+
+**Line:** *"The jaw is the only joint you use a thousand times a day and never
+think about once."*
+
+**Say:**
+- Signs of strain: clicking, morning tightness, worn or flat teeth, headaches
+  at the temples, waking with a sore face.
+- The jaw, the skull, and the top of the neck move as one system. Pull one and
+  the others answer.
+- And the jaw sits right on top of the airway. Where the lower jaw sits changes
+  how much room the tongue has behind it.
+
+*Moved to Q&A: grinding, night guards, which dentist to see.*
+
+---
+
+## 7. Light in the morning. Dark at night. (1:10)
+
+**Line:** *"Light is not decoration. It is the signal that sets the clock
+inside you."*
+
+**Say:**
+- Get outside in the morning. Ten or fifteen minutes, even on a grey day.
+  Outdoor light is far stronger than any room light — sitting near a window is
+  not the same thing.
+- At night go the other way. Dim the room, screens away from your face in the
+  last hour.
+- Most people who cannot fall asleep do not have a broken clock. They have a
+  late one.
+
+*This is the cheapest thing on the list. Say that.*
+
+---
+
+## 8. Walk every day. (1:10)
+
+**Line:** *"The spine has no pump. It feeds itself by moving."*
+
+**Say:**
+- The discs in your spine have almost no blood supply. They take in fluid
+  through movement — pressure on, pressure off. Sit still all day and you
+  switch that off.
+- I am not going to tell you to get up every thirty minutes. Nobody does that
+  in real life. Walk every day instead. Thirty or forty minutes.
+- Outdoors if you can, so it doubles as your morning light. And it is the
+  easiest place to practice nose breathing.
+
+---
+
+## 9. Come down before you go to bed. (1:10)
+
+**Line:** *"You are all very good at getting wound up. Almost nobody has a plan
+for coming down."*
+
+**Say:**
+- A wound-up body does not drop into deep sleep. You lie down but the engine
+  keeps running. That is how you spend eight hours in bed and wake up flat.
+- The most reliable tool you own is your own breath. In through the nose, and
+  make the breath out longer than the breath in. Five to ten minutes.
+- Do the same wind-down every night. The routine itself becomes the signal.
+
+*Moved to Q&A: the two gears of the nervous system, three a.m. waking,
+clenching.*
+
+---
+
+## CLOSE (1:30)
 
 *Step forward. Slow down.*
 
@@ -372,20 +363,123 @@ working around the problem for years."*
 
 *Beat.*
 
-> If you only take two, take these. Get outside in the morning. And close your
-> mouth.
->
+> If you take two, take these. Get outside in the morning. And close your mouth.
 > Both are free. Both start tonight.
 
 *Beat.*
 
-> And the one I would chase you down the hall about: if you snore, if you gasp,
+> And the one I would chase you down the hall about. If you snore, if you gasp,
 > if somebody has watched you stop breathing, or if you wake up tired after a
-> full night in bed — go find out what is happening. Do not wait until it turns
-> into something else.
+> full night — go find out what is happening.
 >
 > You spend a third of your life doing this work. It is worth knowing whether
 > you are doing it well.
+
+*Then straight into Q&A. Do not thank them yet — save that for the very end.*
+
+> Now. Nine minutes. Ask me anything.
+
+---
+
+## Q&A — 9 minutes (18:30 – 27:30)
+
+This is a third of your time on stage. Run it, do not let it run you.
+
+**How to start it.** Rooms freeze for the first ten seconds. Have your own
+question ready and ask it yourself:
+
+> The question I always get first is: how do I know if I am a mouth breather at
+> night, if I am asleep when it happens? Here is the answer, and then I want
+> yours.
+>
+> Dry mouth in the morning. Sore throat. Waking up thirsty. Lipstick or drool
+> marks on the pillow. And if someone sleeps next to you — just ask them.
+
+That fills the silence and shows them the size of answer you want.
+
+**How to run it:**
+- Answer in about **45 seconds.** Nine minutes is roughly ten questions if you
+  are tight, or four if you are not.
+- Repeat every question out loud before you answer. Half the room did not hear
+  it, and it buys you a second to think.
+- If one person keeps going: "Let me take a couple more and I will find you
+  after." Say it warm, then look at the other side of the room.
+- At **26:30**, say "last question."
+
+**Never say:**
+- That chiropractic, or VAET, or any structural care cures or fixes sleep apnea.
+- That anyone can stop using CPAP or a mouth device. Not your call.
+- Anything against sleep doctors, dentists, or ENTs. You **add** a layer. You
+  do not replace anybody.
+- Any promise about a person you have not examined.
+
+### Ready answers
+
+*"Can you fix my sleep apnea?"*
+> No. I do not diagnose it and I do not claim to cure it. I work on the
+> structure around the airway. Your first step is a real test read by a doctor.
+> Then we talk about structure.
+
+*"Is CPAP bad?"*
+> No. CPAP works, and for many people it is the right answer. The honest
+> problem is that some people cannot stick with it. That is a real gap worth
+> talking about. It is not an argument against the machine.
+
+*"What about taping my mouth?"*
+> Nose breathing at night is a good goal. Taping before you know whether you
+> have untreated apnea is not how I would get there. Find out first.
+
+*"Which ring or band should I buy?"*
+> Any of them. The one you will actually wear every night. You are watching a
+> trend, not taking a medical reading.
+
+*"What numbers should I look at?"*
+> How long you slept, how deep it went, how many times you woke, and your
+> resting heart rate. Over weeks, not nights.
+
+*"Is one bad night a problem?"*
+> No. One night tells you nothing. Two months of shallow sleep tells you
+> something.
+
+*"I grind my teeth. What do I do?"*
+> Take it seriously rather than waiting it out. Grinding often travels with
+> poor sleep and poor breathing — the body is working while it should be
+> resting. See a dentist who thinks about the airway, and get the structure
+> looked at.
+
+*"Why does my nose block on one side at night?"*
+> Noses take turns through the day, that part is normal. If one side is always
+> blocked, that is worth having someone look at.
+
+*"I wake at three every morning."*
+> Common, and usually a nervous system still running. Look at your wind-down
+> and at what your tracker shows for that part of the night. If it comes with
+> snoring or gasping, get tested.
+
+*"How many hours should I sleep?"*
+> Enough that you wake without an alarm and get through the afternoon without
+> crashing. That number is not the same for you and the person next to you.
+
+*"Where do I get tested?"*
+> Talk to me after. In most places the device comes to your house, you sleep in
+> your own bed, and a doctor reads it.
+
+*"What do you actually do with your hands?"*
+> I work top down — skull, nose, jaw, neck, posture. By hand. The goal is more
+> room and more motion in the structure the breath travels through.
+
+---
+
+## LAST WORD (27:30 – 28:30)
+
+*After the last question. Do not let Q&A be the ending — you lose the room's
+last memory to whoever asked the final question.*
+
+> One last thing and I will let you go.
+>
+> Morning light. Close your mouth. And if you snore, go find out why.
+>
+> If any of that sounded like you, come find me after. Costs nothing to ask.
 
 *Thank Vít by name. Stop.*
 
@@ -393,83 +487,48 @@ working around the problem for years."*
 
 ## Podium card
 
-*Print this. One page, big type. This is the only thing on the lectern.*
+*Print this. One page, big type. The only thing on the lectern.*
 
 ```
 ONE LINE: Sleep is work, not rest. Breathe badly and the work does not happen.
 SCOPE:    I do not diagnose apnea. A medical doctor does. I do structure.
-TALK 1:   I showed you the pipe. Tonight: what to do about it. ONE line only.
+TALK 1:   I showed you the pipe. Tonight: what to do. ONE line only.
 
- 1 NOSE     mouth = eat + talk. Practice on a walk. NO taping before testing.
- 2 CLOCK    same bed time, same wake time. Hours vary. DEPTH beats length.
- 3 MEASURE  ring / band / app, every night. Trend, not one night. Not a test.
- 4 TEST     snore, gasp, tired after 8h, AM headache -> home sleep test. MD reads.
+BIG 4 = 2 min   (1, 4, 5, 10)      FAST 6 = 1 min   (2, 3, 6, 7, 8, 9)
+
+ 1 NOSE  ** mouth = eat + talk. Tongue up. Practice on a walk.
+            NO taping before testing.
+ 2 clock    hours vary. SAME bed + wake. Weekends count. DEPTH > length.
+ 3 measure  ring/band/app, nightly. Trend not one night. Not a medical test.
+ 4 TEST  ** snore, gasp, tired after 8h, AM headache -> home test. MD reads.
             CPAP + oral devices WORK. Do not attack them.
-            +CALLBACK: "I am not throwing rocks at the mask. I do not have to."
- 5 HEAD     5 kg. Screen to eye level. Posture and airway = SAME subject.
-            +CALLBACK: "this is the kink, and you are doing it to yourself"
- 6 JAW      clicking, grinding, worn teeth, AM tightness. Jaw sits on the airway.
- 7 LIGHT    outside 10-15 min AM. Dim at night. Clock is late, not broken.
- 8 WALK     discs feed on motion. Daily 30-40 min. NOT "every 30 minutes".
- 9 CALM     long slow breath out, nasal, 5-10 min. Same wind-down every night.
-10 CHECK    pain is LATE. Baseline while you feel fine. Then re-check.
-            +CALLBACK: "the system waits until you qualify. I start before."
+            +CALLBACK: "not throwing rocks at the mask. I don't have to."
+ 5 HEAD  ** 5 kg. Screen to eye level. Posture and airway = SAME subject.
+            +CALLBACK: "this is the kink — you're doing it right now."
+ 6 jaw      clicking, worn teeth, AM tightness. Jaw sits on the airway.
+ 7 light    outside 10-15 min AM. Dim at night. Clock is late, not broken.
+ 8 walk     discs feed on motion. Daily 30-40 min. NOT "every 30 minutes."
+ 9 calm     long slow breath OUT, nasal, 5-10 min. Same wind-down nightly.
+10 CHECK ** pain is LATE. Baseline while fine. Re-check.
+            +CALLBACK: "system waits till you qualify. I start before."
 
 CLOSE  Take two: morning light + close your mouth.
        Snore or gasp -> go find out.
+       "Now. Nine minutes. Ask me anything."
 
-CLOCK: point 3 done by 9:30. Point 6 done by 16:30.
+Q&A    45 sec answers. Repeat the question out loud. Say "last question" at 26:30.
+       If nobody speaks: ask my own -> "how do I know if I mouth-breathe asleep?"
+
+LAST WORD (do NOT skip): morning light. close your mouth. snore -> find out.
+
+CLOCK   pt 4 by 7:00  |  pt 7 by 13:00  |  stop talking 18:30
 ```
-
----
-
-## Q&A — hold these lines
-
-The talk is safe. Q&A is where a talk like this gets away from you. Hold these
-even when someone is asking you to cross them.
-
-**Never say:**
-- That chiropractic, or VAET, or any structural care cures or fixes sleep apnea.
-- That anyone can stop using CPAP or a mouth device. Not your call.
-- Anything against sleep doctors, dentists, or ENTs. You **add** a layer. You do
-  not replace anybody.
-- Any promise about a person you have not examined.
-
-**Ready answers:**
-
-*"Can you fix my sleep apnea?"*
-> No. I do not diagnose it and I do not claim to cure it. I look at the
-> structure around the airway. Your first step is a real test, read by a doctor.
-> Then we can talk about structure.
-
-*"Is CPAP bad?"*
-> No. CPAP works, and for many people it is the right answer. The honest problem
-> is that some people cannot stick with it. That is a real gap worth talking
-> about. It is not an argument against the machine.
-
-*"What about taping my mouth?"*
-> Nose breathing at night is a good goal. Taping before you know if you have
-> untreated apnea is not how I would get there. Find out first.
-
-*"Which ring or band should I buy?"*
-> Any of them. The one you will actually wear every night. You are watching a
-> trend, not taking a medical reading.
-
-*"Is one bad night on my tracker a problem?"*
-> No. One night tells you nothing. Two months of shallow sleep tells you
-> something.
-
-*"Where do I get tested?"*
-> Talk to me after. In most places the device comes to your house, you sleep in
-> your own bed, and a doctor reads it.
 
 ---
 
 ## After the talk
 
-Do **not** sell from the stage. One line at the very end of Q&A is plenty:
-
-> If any of this sounded like you, come find me after. Costs nothing to ask.
+Do **not** sell from the stage. The one line in the last word is enough.
 
 Then be there. Take names on your phone. Anyone who mentions snoring, gasping,
 or waking up tired is a real conversation. Follow up within two days or it is
@@ -479,10 +538,12 @@ gone.
 
 ## Before you go
 
-- [ ] Read the ten out loud twice, on a timer. Cut whatever makes you late.
+- [ ] Read it out loud on a timer. Twice. The fast six are the ones that run
+      long — time those on their own.
 - [ ] Print the podium card.
-- [ ] Ask Vít: is Q&A inside the 30 minutes or after?
 - [ ] Check the room size and whether you get a microphone.
+- [ ] Ask Vít whether someone will run the Q&A mic, or whether people just
+      shout questions. Changes how you handle it.
 - [ ] Decide if you want a one-page handout. If yes, it is the podium card
       without the stage notes.
 - [ ] Sleep well the night before. The room will know.
