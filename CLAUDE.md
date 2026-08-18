@@ -161,8 +161,14 @@ Outcomes:
   timestamp, a saved local copy, and Jeff's permission before any public use.
 - **Inbound VAET inquiries** — several attendees messaged afterward asking
   about the service. Reply templates: `outreach/inbound-vaet-inquiry-template.md`.
-- **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert. Decision
-  target: ~November 2026.
+- **Anarchapulco 2027 sponsorship offer received** (~2026-08-18) — a **$7,500**
+  "Micro Clinic + Speaking Package" from **Miranda, `partners@anarchapulco.com`**.
+  **February 9–14, 2027, Puerto Vallarta Convention Center** (venue moved from
+  Acapulco). Includes private clinic space, a pre-booked appointment calendar,
+  multiple workshops, a **45-minute main-stage talk**, branding, and tickets.
+  **Early Bird deadline: September 15, 2026.** Full analysis, break-even math,
+  risk items, and a draft reply:
+  `partnership/2027-02-anarchapulco-sponsorship-decision.md`.
 
 **Naming guardrail:** treating a public figure is not an endorsement by them.
 Get explicit written permission before using any of these names publicly, and
@@ -548,24 +554,31 @@ Still open:
   questionnaire, or channel). A podcast with no destination is just a nice
   conversation.
 - **Event VAET pricing** — Liberpulco grossed **$2,600** across an unknown
-  paying subset of ~10 treated. Needs (a) the count of who actually paid, which
-  back-solves the rate, (b) a published on-site rate — an event session is a
-  Step 4-style *test experience* and should not undercut the Step 2 Sleep
-  Baseline, and (c) a stated comp rule: comp only for an explicit trade
-  (testimonial, podcast seat, intro, or permission to be named).
+  paying subset of ~10 treated. Still needed: the count of who actually paid
+  (back-solves the Liberpulco rate) and a stated comp rule (comp only for an
+  explicit trade — testimonial, podcast seat, intro, or permission to be named).
+  **The rate itself is now effectively decided by the Anarchapulco math: $500
+  minimum per event session.** Below $400 the Anarchapulco package cannot break
+  even, and $500 is also the floor that avoids undercutting the Step 3 Airway
+  Baseline.
 - **Liberpulco net** — $2,600 gross minus flights, lodging, food, and days out
   of clinic. Unknown today. This is the number that actually decides
   Anarchapulco, not the goodwill.
 - **Permission to name Berwick / Zeck Sr. / Jedlička** in CSA marketing — not
   yet asked. Nothing public until each says yes in writing.
-- **Anarchapulco Feb 2027 mini clinic** — offer on the table (see § 6).
-  **No email from `partners@anarchapulco.com` in `DrZeravicaOffice@gmail.com`**
-  as of 2026-08-18 — the offer appears to be verbal, or it went to one of the
-  two Google accounts not connected here. Warmest Anarchapulco contact on
-  record: **Kristaps ("Kris"), `logistics@anarchapulco.com`**. Open:
-  who extended it and in what capacity, true cost to Robert, realistic revenue,
-  whether it reaches any DCs at all, staffing, and — the deciding question —
-  what the on-site CSA capture mechanism will be. Decide by ~November 2026.
+- **Anarchapulco 2027 — $7,500 sponsorship decision, due September 15, 2026.**
+  Offer is real and in writing (Miranda, `partners@anarchapulco.com`; the email
+  landed in one of the two Google accounts not connected here, not in
+  `DrZeravicaOffice`). Recommendation on file: send the question list now,
+  accept or decline on two answers — (a) is the main-stage talk recorded and
+  freely usable, and (b) do sponsors get attendee contact data. Break-even needs
+  ~20 sessions at a **$500 event rate**, which is also the floor that keeps an
+  event session from undercutting the Step 3 Airway Baseline. Hard dependency if
+  accepted: **the CSA site must be live before February.** Unresolved risk:
+  malpractice coverage for hands-on care rendered in Mexico. Warm inside
+  contact for a candid read on the package: **Kristaps ("Kris"),
+  `logistics@anarchapulco.com`**. See
+  `partnership/2027-02-anarchapulco-sponsorship-decision.md`.
 - **Did Robert attend Liberpulco 2025?** Toni Šarić's inscription reads "first
   guy I met at Liberpulco 2025" but is dated 2026. If 2025 happened, then
   Liberpulco 2026 was *not* Robert's first event of this kind and his standing
