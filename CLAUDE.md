@@ -135,6 +135,22 @@ not the diagnosis), and Robert's AK certification puts him inside the
 "licensed to diagnose" standard. Use this when a skeptic frames AK as
 unscientific — ICAK drew that line itself, decades ago.
 
+**The scientist-practitioner ethos is CSA's backbone, not a bolt-on.** ICAK
+circulates Keating & Nelson's "The Chiropractic Scientist-Practitioner"
+(*Today's Chiropractic*, 1986) as a live standard: the good clinician is
+"committed to standards of objective and reproducible evidence," "prepared to
+revise or replace initial hypotheses when the evidence requires," "cautious in
+making claims," reads/interprets/contributes to the literature, and
+collaborates with other health sciences — abandoning dogma, never employing
+philosophy defensively. This is *why* CSA insists on objective data (HST /
+CBCT / labs), guarded claims, and citations verified before they're used
+publicly. Like the Maffetone position, it's a credibility shield sourced from
+inside chiropractic itself: when someone calls AK/chiropractic anti-science,
+point to the field's own scientist-practitioner manifesto. (The figure in that
+piece even runs "Triad of health imbalance" and sleep disturbances /
+hyperventilation / anxiety through a CNS-sensitization model — the sleep-airway
+-stress triad, drawn by ICAK.)
+
 **The audience-translation guardrail (non-negotiable).** AK-internal language
 and mechanism claims — "Adrenal Stress Disorder," "adrenal fatigue,"
 jugular-compression/dural-stretch/intracranial-fluid mechanisms, ocular-fascia
