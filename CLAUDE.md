@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-18
 
 ---
 
@@ -22,6 +22,27 @@ dentists, ENTs, and sleep physicians.
 
 CSA is not just a course. It is a movement to make chiropractic a
 credible, ethical voice in the sleep-and-airway conversation.
+
+### The container — what CSA holds (three pillars)
+
+CSA is an **entity/container** built to hold three things in one place, taught
+in one voice, under one standard of ethics:
+
+1. **The Clinical Foundation** — anatomy and physiology of the head, neck, and
+   jaw as they relate to sleep and breathing. Makes the DC *fluent*, not a
+   diagnostician.
+2. **The Practice Model** — how to start and run new sleep and airway cases
+   inside a DC practice, including marketing, sales, and closing. Clarity and
+   professionalism, never pressure.
+3. **The Network** — sleep and airway practitioners who **co-treat** cases
+   together. CSA collaborates, never competes.
+
+The test for anything new: *which pillar does this serve — the knowledge, the
+model, or the network?* If it's none of the three, it's a distraction.
+
+Full structural definition, asset map, and gap list:
+**`CSA_STRUCTURE.md`**. As of 2026-08-18, Pillar 3 is the least built and the
+highest leverage — it is a contact list, not yet a network.
 
 ---
 
@@ -457,6 +478,8 @@ Claude should:
 ## 14. Repo Conventions
 
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
+- `CSA_STRUCTURE.md` — what CSA holds: the three pillars, what's built under
+  each, and what's missing. Read alongside §1 before building anything new.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - Future: `/site` for the public site, `/content` for course/educational
@@ -485,6 +508,11 @@ Still open:
   standard rate, or switch to the free-DC-testing vendor).
 - **Specific outreach copy and templates** (database re-engagement, cold DC outreach, dentist/HST/CBCT partner intros)
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
+- **Pillar 3 structure** — what turns the contact list into an actual
+  co-treatment network: directory, referral protocol, membership standard, and
+  who is allowed to carry the CSA name (see `CSA_STRUCTURE.md`)
+- **Module 2 — Report of Findings** — the gap between Module 1 (anatomy) and
+  Module 3 (case presentation). Highest-value missing asset in Pillar 2.
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
