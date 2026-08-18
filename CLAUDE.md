@@ -138,6 +138,9 @@ Outcomes:
 - **Podcast booked with Alec Zeck** — Robert travels to **Texas** to balloon
   Alec and record an episode together. Date not yet set. This is the highest-
   leverage asset the trip produced.
+- **$2,600 collected** on the trip from the paying subset — CSA's first real
+  revenue from people entirely outside Robert's network. Trip cost not yet
+  tallied, so net is unknown.
 - **Two authors gifted Robert their books** unprompted (names/titles TBD).
 - **Visibility via Jeff Berwick's "Walk and Talk"** — multiple attendees
   independently mentioned seeing Robert on it. First third-party amplification
@@ -530,10 +533,15 @@ Still open:
   audience, and the single next step listeners are pointed to (page, screening
   questionnaire, or channel). A podcast with no destination is just a nice
   conversation.
-- **Event VAET pricing** — Robert charged some and comped others at Liberpulco.
-  Needs a published on-site rate plus a stated comp rule (comp only for an
-  explicit trade: testimonial, podcast seat, intro, or permission to be named)
-  before the next event.
+- **Event VAET pricing** — Liberpulco grossed **$2,600** across an unknown
+  paying subset of ~10 treated. Needs (a) the count of who actually paid, which
+  back-solves the rate, (b) a published on-site rate — an event session is a
+  Step 4-style *test experience* and should not undercut the Step 2 Sleep
+  Baseline, and (c) a stated comp rule: comp only for an explicit trade
+  (testimonial, podcast seat, intro, or permission to be named).
+- **Liberpulco net** — $2,600 gross minus flights, lodging, food, and days out
+  of clinic. Unknown today. This is the number that actually decides
+  Anarchapulco, not the goodwill.
 - **Permission to name Berwick / Zeck Sr. / Jedlička** in CSA marketing — not
   yet asked. Nothing public until each says yes in writing.
 - **Anarchapulco Feb 2027 mini clinic** — offer on the table (see § 6). Open:

@@ -24,9 +24,11 @@ Chiropractic outside the chiropractic-conference circuit.
    CSA has never touched before.
 5. **Inbound VAET demand.** Several people have since messaged asking about
    Robert's VAET service. These are warm, self-selected inbound leads.
-6. **A podcast booked with Alec Zeck** (*The Way Forward*) — Robert travels to
+6. **$2,600 collected** from paying attendees — first CSA-adjacent revenue
+   from people outside Robert's network entirely.
+7. **A podcast booked with Alec Zeck** (*The Way Forward*) — Robert travels to
    Texas to balloon Alec and record an episode with him. Date not yet set.
-7. **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert.
+8. **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert.
 
 ---
 
@@ -65,6 +67,7 @@ Goal 2 DC outreach.
 | Three named public figures treated | Berwick, Zeck Sr., Jedlička | Only usable with permission — see § 5a before any public mention |
 | Anarchapulco Feb 2027 offer | Mini-clinic slot | Decide by the timeline in § 6 |
 | Testimonial surface | Everyone who gave a compliment | Ask a subset for a written or video testimonial *while it's fresh* |
+| $2,600 collected | Cash from paying attendees | Back-solve the published event rate from it (§ 5) |
 
 ---
 
@@ -113,6 +116,39 @@ and record a **podcast episode with him** — Robert and Alec in conversation.
 Date not yet set. See § 6 for why this is now the single highest-leverage item
 on the board.
 
+### Money: $2,600 collected
+
+**Total revenue from the trip: $2,600**, across a subset of the ~10 people
+treated. The rest were comped for street credibility.
+
+This matters more than its size. It is **real cash from strangers who had never
+heard of Structural Airway Chiropractic before that week** — no funnel, no
+landing page, no email list. Year Vision § 7 ("revenue has started") is no
+longer theoretical.
+
+**Back-solving the event rate.** Depending on how many of the ~10 actually paid,
+$2,600 implies:
+
+| If this many paid | Implied average per person |
+|---|---|
+| 3 | ~$867 |
+| 4 | ~$650 |
+| 5 | ~$520 |
+| 6 | ~$433 |
+
+- [ ] **Robert: how many paid?** That single number sets the published event
+  rate, and it's the difference between "premium on-site session" and
+  "underpriced favor."
+
+Whatever the answer, note where this sits in the pathway (CLAUDE.md § 8): an
+event session is closest to a **Step 4 test experience**, not a Step 2 or 3
+baseline. It should not be priced below what a DC pays for a Sleep Baseline.
+
+**The number that's still missing: trip cost.** $2,600 gross is not $2,600 net.
+Until the flights, lodging, food, and days out of clinic are subtracted, nobody
+knows whether Liberpulco made money, broke even, or was paid tuition for a
+lesson. That figure — not the goodwill — is what decides Anarchapulco.
+
 ### Paid vs. complimentary
 
 Robert charged some people and treated others at no charge to build street
@@ -135,8 +171,9 @@ pricing (CLAUDE.md § 8) erodes in public.
 - [ ] Confirm who extended the Anarchapulco offer, and in what capacity
 - [ ] Link to the Jeff Berwick Walk-and-Talk clip
 - [ ] Any DCs, dentists, or airway-adjacent professionals met on site
-- [ ] What was charged, and to whom (needed to set the event rate)
-- [ ] Total trip cost (needed to price the Anarchapulco decision)
+- [ ] How many of the ~10 paid, and what each was charged (sets the event rate)
+- [ ] Total trip cost — flights, lodging, food, days out of clinic (turns the
+      $2,600 gross into a real net, and decides Anarchapulco)
 - [ ] Date for the Texas / Alec Zeck trip
 
 Once filled in, these move into the CSA contact list
@@ -220,5 +257,6 @@ with the same leakage.
   there was no funnel at the event. Fix before Anarchapulco.
 - **Year Vision § 5 (strategic partners):** the two authors and the Berwick
   connection are relationship leads worth mapping.
-- **Year Vision § 7 (revenue has started):** the inbound VAET inquiries are the
-  nearest real dollars on the board right now.
+- **Year Vision § 7 (revenue has started):** **done, in the smallest real way.**
+  $2,600 collected from strangers. The inbound VAET inquiries are the next
+  dollars, and they cost nothing to chase.
