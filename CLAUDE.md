@@ -141,8 +141,9 @@ Outcomes:
   Alec and record an episode together. Date not yet set. This is the highest-
   leverage asset the trip produced.
 - **$2,600 collected** on the trip from the paying subset — CSA's first real
-  revenue from people entirely outside Robert's network. Trip cost not yet
-  tallied, so net is unknown.
+  revenue from people entirely outside Robert's network. Plus **$160 profit
+  winning the Liberpulco dart tournament, beating Jeff Berwick** ($2,760 cash
+  in). Trip cost not yet tallied, so net is unknown.
 - **Two authors gifted Robert their books** unprompted (names/titles TBD).
 - **Visibility via Jeff Berwick's "Walk and Talk"** — multiple attendees
   independently mentioned seeing Robert on it. First third-party amplification

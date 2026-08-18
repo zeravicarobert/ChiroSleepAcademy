@@ -34,7 +34,8 @@ place of the $999. Airfare to Serbia, lodging, and food still to be added.
 5. **Inbound VAET demand.** Several people have since messaged asking about
    Robert's VAET service. These are warm, self-selected inbound leads.
 6. **$2,600 collected** from paying attendees — first CSA-adjacent revenue
-   from people outside Robert's network entirely.
+   from people outside Robert's network entirely. Plus **$160 won in the dart
+   tournament, beating Jeff Berwick.**
 7. **A podcast booked with Alec Zeck** (*The Way Forward*) — Robert travels to
    Texas to balloon Alec and record an episode with him. Date not yet set.
 8. **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert.
@@ -77,6 +78,7 @@ Goal 2 DC outreach.
 | Anarchapulco Feb 2027 offer | Mini-clinic slot | Decide by the timeline in § 6 |
 | Testimonial surface | Everyone who gave a compliment | Ask a subset for a written or video testimonial *while it's fresh* |
 | $2,600 collected | Cash from paying attendees | Back-solve the published event rate from it (§ 5) |
+| Beat Jeff Berwick at darts | $160 and a story | The opener for the Berwick follow-up. Use it. |
 
 ### 3a. Media — Jeff Berwick Walk and Talk
 
@@ -155,8 +157,16 @@ on the board.
 
 ### Money: $2,600 collected
 
-**Total revenue from the trip: $2,600**, across a subset of the ~10 people
+**Service revenue from the trip: $2,600**, across a subset of the ~10 people
 treated. The rest were comped for street credibility.
+
+**Plus $160 profit** from winning the Liberpulco dart tournament — **beating
+Jeff Berwick**. Not CSA revenue, but it offsets trip cost, and it is the single
+best relationship detail from the week (see below). Robert also took $1,601 off
+the Anarchapulco poker table in February 2026; the pattern is worth noting when
+budgeting these events.
+
+**Trip cash in: $2,760.**
 
 This matters more than its size. It is **real cash from strangers who had never
 heard of Structural Airway Chiropractic before that week** — no funnel, no
@@ -181,8 +191,20 @@ Whatever the answer, note where this sits in the pathway (CLAUDE.md § 8): an
 event session is closest to a **Step 4 test experience**, not a Step 2 or 3
 baseline. It should not be priced below what a DC pays for a Sleep Baseline.
 
+### The darts win is a relationship asset
+
+Robert ballooned Jeff Berwick and then beat him at darts. That is a better
+opener for the follow-up message than anything a marketing template could
+produce — it is specific, true, memorable, and it costs nothing to use.
+
+Use it. Lead the Berwick follow-up with the darts, not with CSA. Ask how he's
+feeling since the session, mention the rematch, and *then* ask the two real
+questions: may Robert reference the Walk and Talk clip, and is the Feb 2027
+mini-clinic offer something they can put in writing.
+
 **The number that's still missing: trip cost.** $2,600 gross is not $2,600 net.
-Until the flights, lodging, food, and days out of clinic are subtracted, nobody
+Until the $999 ticket, flights, lodging, food, and days out of clinic are
+subtracted from the $2,760, nobody
 knows whether Liberpulco made money, broke even, or was paid tuition for a
 lesson. That figure — not the goodwill — is what decides Anarchapulco.
 
