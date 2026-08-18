@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-18
 
 ---
 
@@ -122,6 +122,30 @@ Implications:
 - Drive files searched/read here are those owned by or shared with
   `zeravicarobert@gmail.com`.
 - Calendar events live on `robertzeravica91324@gmail.com`.
+
+### August 2026 — Liberpulco (Acapulco) trip
+
+Robert's first real in-person exposure event for CSA outside the chiropractic
+conference circuit. Concluded mid-August 2026. Full recap:
+`trips/2026-08-liberpulco-recap.md`.
+
+Outcomes:
+- Strong personal reception; meaningful volume of hands-on help given on site.
+- **Two authors gifted Robert their books** unprompted (names/titles TBD).
+- **Visibility via Jeff Berwick's "Walk and Talk"** — multiple attendees
+  independently mentioned seeing Robert on it. First third-party amplification
+  CSA has had.
+- **Inbound VAET inquiries** — several attendees messaged afterward asking
+  about the service. Reply templates: `outreach/inbound-vaet-inquiry-template.md`.
+- **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert. Decision
+  target: ~November 2026.
+
+Read on it:
+- The event proved the "experience → curiosity → offer" sequence works on
+  strangers. It also exposed that **there was no capture mechanism on site** —
+  goodwill without a tracked lead list. Fix before Anarchapulco.
+- This audience is **patient-side and visibility**, not CSA's primary DC
+  customer (§ 3). Do not let it displace Goal 2 DC outreach.
 
 ### Existing CSA assets discovered
 
@@ -459,9 +483,11 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
-- Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+- `/site` — the public site. `/content` — course/educational assets.
+  `/outreach` — outreach templates and drafts. `/partnership` — partnership
+  records and term sheets. `/trips` — event and travel recaps
+  (`YYYY-MM-<event>-recap.md`).
+- Add new top-level structure only when first needed — not before.
 
 ---
 
@@ -487,6 +513,14 @@ Still open:
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
+- **Anarchapulco Feb 2027 mini clinic** — offer on the table (see § 6). Open:
+  who extended it and in what capacity, true cost to Robert, realistic revenue,
+  whether it reaches any DCs at all, staffing, and — the deciding question —
+  what the on-site CSA capture mechanism will be. Decide by ~November 2026.
+- **Liberpulco follow-through** — the inbound VAET inquiries, the two authors,
+  and the Walk-and-Talk clip all still need names, contacts, and links logged
+  into the `CSA Relationship Strategies` sheet. Until that happens the trip
+  produced goodwill and no pipeline. See `trips/2026-08-liberpulco-recap.md` § 5.
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
 - **Sal Rodas** — strategic liaison target for exposure into the dental
   sleep-and-airway world. **Fellow US Marine** (warm, authentic opener).
