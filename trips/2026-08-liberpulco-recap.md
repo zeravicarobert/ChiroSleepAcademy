@@ -14,8 +14,9 @@ Chiropractic outside the chiropractic-conference circuit.
 ## 1. What Happened (wins, in Robert's words)
 
 1. **Consistent positive feedback** on the work and on Robert personally.
-2. **Real volume of hands-on help** — a meaningful number of people treated /
-   helped on site. (Exact count TBD — see § 5.)
+2. **~10 people ballooned on site** — including Jeff Berwick, Alec Zeck's
+   father, and Vít Jedlička, the president of Liberland. Some paid; some were
+   comped deliberately to build street credibility. Full roster: § 5.
 3. **Two authors gifted Robert their books** because they liked him. Unsolicited
    reciprocity from published people = strong signal of how he landed.
 4. **Visibility through Jeff Berwick's "Walk and Talk."** Multiple attendees
@@ -23,7 +24,9 @@ Chiropractic outside the chiropractic-conference circuit.
    CSA has never touched before.
 5. **Inbound VAET demand.** Several people have since messaged asking about
    Robert's VAET service. These are warm, self-selected inbound leads.
-6. **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert.
+6. **A podcast booked with Alec Zeck** (*The Way Forward*) — Robert travels to
+   Texas to balloon Alec and record an episode with him. Date not yet set.
+7. **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert.
 
 ---
 
@@ -39,6 +42,9 @@ on strangers, not just on DCs in Robert's warm database:
   someone else's platform. That is the same mechanic CSA needs from Sal Rodas
   and the Foundation for Airway Health (CLAUDE.md § 15).
 - The Anarchapulco offer converts a one-off trip into a **recurring stage**.
+- The Alec Zeck podcast is the first time Robert gets to **explain the category
+  in his own words to someone else's audience**. Category-building (§ 2 of
+  CLAUDE.md) is exactly this: not selling, naming the thing.
 
 **Important scope note:** the Liberpulco audience is *not* CSA's primary
 customer. CSA's direct customer is the DC (CLAUDE.md § 3). This crowd is a
@@ -55,6 +61,8 @@ Goal 2 DC outreach.
 | Two gifted books | Unsolicited gifts from two authors | Read them; write each author a genuine thank-you. Authors have audiences. |
 | Walk-and-Talk exposure | Appearance on Jeff Berwick's walk-and-talk | Find the clip, save the link, add to a future CSA media/credibility page |
 | Inbound VAET inquiries | Warm DMs asking about the service | Route into a real intake, not a DM thread (see § 4) |
+| Alec Zeck podcast + Texas session | Booked, undated | Highest-leverage asset from the trip. Lock a date, then prep it properly (§ 6) |
+| Three named public figures treated | Berwick, Zeck Sr., Jedlička | Only usable with permission — see § 5a before any public mention |
 | Anarchapulco Feb 2027 offer | Mini-clinic slot | Decide by the timeline in § 6 |
 | Testimonial surface | Everyone who gave a compliment | Ask a subset for a written or video testimonial *while it's fresh* |
 
@@ -87,20 +95,77 @@ A ready-to-adapt reply template lives at
 
 ---
 
-## 5. Data Robert Needs to Fill In
+## 5. Who Robert Treated
 
-Left blank on purpose — these are Robert's numbers, not invented ones:
+**~10 people ballooned (VAET / CFR-BNS endonasal work) on site.** Three of them
+are public figures with real reach in that world:
 
-- [ ] How many people did you actually work on? (rough count is fine)
+| Person | Who they are | Why it matters |
+|---|---|---|
+| **Jeff Berwick** | Founder of Anarchapulco / The Dollar Vigilante; runs the "Walk and Talk" | The host of the ecosystem. Also the likely source of the Feb 2027 mini-clinic offer — confirm. |
+| **Alec Zeck's father** | Father of Alec Zeck, host of *The Way Forward* podcast | The family entry point that opened the Alec relationship. |
+| **Vít Jedlička** *(confirm spelling)* | President of Liberland | International, media-covered figure outside the health space entirely. |
+
+Plus roughly seven others across the event.
+
+**Scheduled follow-on:** Robert travels to **Texas** to balloon **Alec Zeck**
+and record a **podcast episode with him** — Robert and Alec in conversation.
+Date not yet set. See § 6 for why this is now the single highest-leverage item
+on the board.
+
+### Paid vs. complimentary
+
+Robert charged some people and treated others at no charge to build street
+credibility. That was the right instinct for a first exposure event — but it
+needs a stated rule going forward, or "free" becomes the default and CSA's
+pricing (CLAUDE.md § 8) erodes in public.
+
+**Proposed rule for future events:**
+- **Comp** when the person has a platform and the trade is explicit —
+  a testimonial, a podcast seat, an intro, or permission to be named.
+- **Charge** everyone else, at a published event rate.
+- Never comp silently. Say what the trade is, out loud, at the time. An
+  unstated favor generates goodwill; a stated trade generates an asset.
+
+### Still to fill in
+
 - [ ] Names / contacts of the two authors, and their book titles
-- [ ] Names and contacts of everyone who messaged about VAET
-- [ ] Who made the Anarchapulco offer, and in what capacity
+- [ ] Names and contacts of the other ~7 people treated
+- [ ] Names and contacts of everyone who messaged about VAET afterward
+- [ ] Confirm who extended the Anarchapulco offer, and in what capacity
 - [ ] Link to the Jeff Berwick Walk-and-Talk clip
 - [ ] Any DCs, dentists, or airway-adjacent professionals met on site
+- [ ] What was charged, and to whom (needed to set the event rate)
 - [ ] Total trip cost (needed to price the Anarchapulco decision)
+- [ ] Date for the Texas / Alec Zeck trip
 
 Once filled in, these move into the CSA contact list
 (`CSA Relationship Strategies` Google Sheet) rather than living in this file.
+
+---
+
+## 5a. Permission and Credibility Guardrails
+
+These three names are an asset only if handled cleanly. Get this wrong once and
+it costs more than it earned.
+
+1. **Ask before naming anyone publicly.** "I worked on the president of
+   Liberland" is not Robert's story to tell until that person says it is. Get a
+   plain yes in writing — a text is enough — before any name appears on a site,
+   post, or deck.
+2. **A treatment is not an endorsement.** Someone accepting a session does not
+   mean they endorse VAET, CSA, or any claim about it. Never let the
+   juxtaposition imply it.
+3. **No outcome claims attached to a name.** Do not pair a public figure with a
+   result — no "his sleep improved," no "his breathing opened up" — unless that
+   person said it themselves, in their own words, and agreed to it being used.
+4. **No cure language, ever, especially here** (CLAUDE.md § 5). High-profile
+   names raise the scrutiny, not lower it.
+5. **The podcast is the clean version of all of this.** Alec saying something in
+   his own voice on his own show is worth more than any claim Robert could
+   make, and it carries none of the permission risk.
+
+---
 
 ---
 
@@ -109,17 +174,29 @@ Once filled in, these move into the CSA contact list
 **This week (while the goodwill is hot):**
 1. Reply to every inbound VAET inquiry — personally, within 48 hours.
 2. Thank-you message to both authors. No pitch. Just thanks.
-3. Ask 3–5 of the people you helped for a short written testimonial.
-4. Capture all names and contacts into the relationship sheet before memory fades.
+3. Follow up individually with Jeff Berwick, Alec's father, and Vít Jedlička.
+   Ask two things: how they're doing since the session, and whether Robert may
+   mention having worked with them. Nothing else in that message.
+4. Ask 3–5 of the ~10 people you treated for a short written testimonial.
+5. Capture all names and contacts into the relationship sheet before memory fades.
+6. **Lock a date for the Texas / Alec Zeck trip.** An unscheduled commitment
+   quietly becomes a cancelled one.
 
 **Within two weeks:**
-5. Save the Walk-and-Talk link and any photos/video from the trip.
-6. Write the Anarchapulco mini-clinic scope on one page — what's included,
+7. Save the Walk-and-Talk link and any photos/video from the trip.
+8. Prep the Alec Zeck podcast: three or four points Robert wants to land about
+   Structural Airway Chiropractic, in plain language, that hold up on a show
+   whose audience is not clinical. Have one clear next step for listeners —
+   a page, a screening questionnaire, something. A podcast with no destination
+   is a nice conversation.
+9. Set a published event rate for on-site VAET sessions, so the next event
+   doesn't get priced in the moment.
+10. Write the Anarchapulco mini-clinic scope on one page — what's included,
    what isn't, what it costs, and what the follow-up pathway is. Model it on
    the Tecopa Step 4 inclusion/exclusion discipline (CLAUDE.md § 8).
 
 **Anarchapulco decision (Feb 2027) — decide by ~November 2026:**
-7. Answer these before committing:
+11. Answer these before committing:
    - What does the mini clinic cost Robert (travel, days out of clinic, gear)?
    - What is the realistic revenue — on-site sessions, or downstream cases?
    - Does it serve the **DC** audience at all, or only patients?

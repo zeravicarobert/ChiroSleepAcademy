@@ -130,7 +130,14 @@ conference circuit. Concluded mid-August 2026. Full recap:
 `trips/2026-08-liberpulco-recap.md`.
 
 Outcomes:
-- Strong personal reception; meaningful volume of hands-on help given on site.
+- **~10 people ballooned (VAET / CFR-BNS) on site**, including three public
+  figures: **Jeff Berwick** (Anarchapulco / Dollar Vigilante), **Alec Zeck's
+  father** (Alec hosts *The Way Forward* podcast), and **Vít Jedlička**,
+  president of **Liberland**. Some paid; some comped deliberately for street
+  credibility.
+- **Podcast booked with Alec Zeck** — Robert travels to **Texas** to balloon
+  Alec and record an episode together. Date not yet set. This is the highest-
+  leverage asset the trip produced.
 - **Two authors gifted Robert their books** unprompted (names/titles TBD).
 - **Visibility via Jeff Berwick's "Walk and Talk"** — multiple attendees
   independently mentioned seeing Robert on it. First third-party amplification
@@ -139,6 +146,11 @@ Outcomes:
   about the service. Reply templates: `outreach/inbound-vaet-inquiry-template.md`.
 - **Anarchapulco (Feb 2027) mini-clinic offer** extended to Robert. Decision
   target: ~November 2026.
+
+**Naming guardrail:** treating a public figure is not an endorsement by them.
+Get explicit written permission before using any of these names publicly, and
+never attach an outcome claim to a name unless that person said it themselves.
+See `trips/2026-08-liberpulco-recap.md` § 5a.
 
 Read on it:
 - The event proved the "experience → curiosity → offer" sequence works on
@@ -513,6 +525,17 @@ Still open:
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
+- **Alec Zeck podcast / Texas trip** — booked, undated. Open: the date, travel
+  cost, the 3–4 category points Robert wants to land for a non-clinical
+  audience, and the single next step listeners are pointed to (page, screening
+  questionnaire, or channel). A podcast with no destination is just a nice
+  conversation.
+- **Event VAET pricing** — Robert charged some and comped others at Liberpulco.
+  Needs a published on-site rate plus a stated comp rule (comp only for an
+  explicit trade: testimonial, podcast seat, intro, or permission to be named)
+  before the next event.
+- **Permission to name Berwick / Zeck Sr. / Jedlička** in CSA marketing — not
+  yet asked. Nothing public until each says yes in writing.
 - **Anarchapulco Feb 2027 mini clinic** — offer on the table (see § 6). Open:
   who extended it and in what capacity, true cost to Robert, realistic revenue,
   whether it reaches any DCs at all, staffing, and — the deciding question —
