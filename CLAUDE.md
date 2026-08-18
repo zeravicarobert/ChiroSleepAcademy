@@ -524,17 +524,26 @@ Still open:
   `Liberpulco_Sovereignty_Script_v1` (folder `Liberpulco`). **Talk 1 = the
   why. Talk 2 = the what-to-do.**
   Vít has invited Robert back for a
-  second 30-minute talk: "Top 10 Things to Keep Liberlanders in Alignment,"
-  delivered in person. Script at `talks/2026-liberland-top-10-alignment.md`
-  (body-first, self-sovereignty as the through-line). This is a **lay**
+  second 30-minute talk, delivered in person. Vít asked for "Top 10 Things to
+  Keep Liberlanders in Alignment"; Robert cut it to **three**, so the program
+  title needs changing — suggested "Three Things That Keep You In Alignment."
+  Script at `talks/2026-liberland-alignment-talk.md`. The three, drawn from
+  Robert's own material: **1) Close your mouth** (nose breathing — Genesis
+  framing, the Nasal Ring as first gate), **2) Lift your head** (the airway is
+  not just a tube — bone, tongue, jaw, neck posture, nerve tone; the
+  viscerocranium *is* airway architecture), **3) Find out** (nightly tracking
+  plus a home sleep test read by an MD — Structural Early Intervention).
+  Held together by Robert's own Declaration line: **"Geometry governs breath.
+  Breath governs sleep"** → *open the gate, straighten the pipe, measure it.*
+  Q&A runs inside the 30 minutes (~10 min), no audience mic — people shout. This is a **lay**
   audience, not DCs — the CSA red lines (section 5) matter more here, not
   less, and the scope line ("I don't diagnose sleep apnea, a physician does")
   is stated on stage. Strategically this is credibility and reach, not a
   funnel step: no pitching from the stage. Robert's locked shape for talk 2:
   all-body points, **no politics/sovereignty framing**, no personal story, no
   room drills, sleep-and-breathing focus, chiropractor voice front and center,
-  depth-of-sleep over hours, nightly tracking (ring/band/app) as its own
-  point, daily walking instead of "move every 30 minutes." Note the
+  depth-of-sleep over hours, nightly tracking (ring/band/app), and daily
+  walking instead of "move every 30 minutes." Note the
   deliberate tonal shift from talk 1, which leaned hard on sovereignty and
   told Robert's own sleep-test story. Open: whether Liberland becomes a
   recurring platform worth building material for, and whether Q&A sits inside
