@@ -145,8 +145,11 @@ Outcomes:
   winning the Liberpulco dart tournament, beating Jeff Berwick** ($2,760 cash
   in). Trip cost not yet tallied, so net is unknown.
 - **Two authors gifted Robert inscribed books** unprompted:
-  **Toni Šarić** (`toni.saric@yahoo.com`, Apatin, Serbia — stylized pixel-type
-  title, 200-copy print run, title still to be confirmed) and
+  **Toni Šarić** — *oVaERA i PRijenJe* ("This Era and the One Before It"),
+  subtitled *topnički dnevnik u 3 toma* ("an artillery diary in three volumes"),
+  Osijek 2025, 200-copy run; `toni.saric@yahoo.com`. Likely war material from a
+  heavily-shelled city — read it before commenting on it, and keep the
+  Croatian/Serbian politics out of the thank-you. And
   **Zdeslav Hrepić, Ph.D.** (*The Living Physics*, 2nd ed. 2025, HrEpic.com) —
   physics professor, educational researcher, and life coach, 20+ years teaching
   in Croatia and the US, who also goes by "Dr. Z." Hrepić is the strategically

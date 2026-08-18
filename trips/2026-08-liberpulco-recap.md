@@ -71,7 +71,7 @@ Goal 2 DC outreach.
 
 | Asset | What it is | How to use it |
 |---|---|---|
-| Two gifted books | Toni Šarić (Serbian, 200-copy run) and Zdeslav Hrepić PhD (*The Living Physics*) — both inscribed | Read both; thank both. Details and contacts in § 3b. |
+| Two gifted books | Toni Šarić, *oVaERA i PRijenJe* (Osijek 2025, 200-copy run) and Zdeslav Hrepić PhD, *The Living Physics* — both inscribed | Read both; thank both. Details and contacts in § 3b. |
 | Walk-and-Talk exposure | Jeff Berwick's Walk and Talk, on Rumble — link in § 3a | Get a timestamp, save a local copy, ask Jeff before using it publicly |
 | Inbound VAET inquiries | Warm DMs asking about the service | Route into a real intake, not a DM thread (see § 4) |
 | Alec Zeck podcast + Texas session | Booked, undated | Highest-leverage asset from the trip. Lock a date, then prep it properly (§ 6) |
@@ -87,15 +87,30 @@ Both inscribed to Robert by their authors, on site.
 
 ---
 
-**1. Toni Šarić** — title stylized in a distorted pixel typeface, stacked four
-lines: `oVaE / RAiP / Rij / enJe`. Serbian/Croatian; exact wording not reliably
-readable from the cover art. **Ask Toni for the printed title.**
+**1. Toni Šarić — *oVaERA i PRijenJe*** (Osijek, 2025)
 
+The title page resolves the cover's pixel typography. Read as running text it is
+**"ova era i prije nje"** — *"This Era and the One Before It."* The mixed caps
+are the joke: the phrase is hidden inside what looks like nonsense.
+
+- **Subtitle:** *(topnički dnevnik u 3 toma)* — "an artillery diary in three
+  volumes."
+- **Author credit:** *pogonski inžinjer Toni Šarić vam predstavlja* — "drive
+  engineer Toni Šarić presents." He bylines himself by trade, not as a writer.
+- **Published:** Osijek, 2025. Print run of **200 copies**, author-published.
 - **Contact:** `toni.saric@yahoo.com` (written on the inscription page)
 - **Inscription:** *"For Robert, first guy I met at Liberpulco 2025! — Toni.
   Apatin, Serbia 2026."*
-- **Colophon (faintly visible):** print run of **200 copies**. A small-run,
-  author-published book. Being handed one is not a throwaway gesture.
+
+⚠️ **Tread carefully with this one.** "Artillery diary," written in **Osijek** —
+a city heavily shelled during the 1991–95 war — points at war material, though
+that is an inference from the subtitle, not something confirmed. Robert's family
+is Serbian; Toni is writing from the Croatian side of that border (and inscribed
+the book from Apatin, just across the Danube). None of that is a problem between
+two men who liked each other at a conference — but it is a reason to **read the
+book before saying anything about it**, and to keep the thank-you note warm,
+personal, and well clear of the politics. Ask him about the book; don't
+characterize it back to him.
 
 ⚠️ **Discrepancy to resolve:** the inscription says they met at **Liberpulco
 2025**, but is dated 2026. Either Robert attended Liberpulco in 2025 as well, or
@@ -279,9 +294,8 @@ pricing (CLAUDE.md § 8) erodes in public.
 
 ### Still to fill in
 
-- [x] Names / contacts of the two authors — captured in § 3b. Still needed:
-      the printed title of Toni Šarić's book, and whether Robert attended
-      Liberpulco **2025** as well (see the discrepancy flagged in § 3b)
+- [x] Names, contacts, and titles of both authors — captured in § 3b
+- [ ] Whether Robert attended Liberpulco **2025** as well (discrepancy in § 3b)
 - [ ] Names and contacts of the other ~7 people treated
 - [ ] Names and contacts of everyone who messaged about VAET afterward
 - [ ] Confirm who extended the Anarchapulco offer, and in what capacity.
@@ -335,8 +349,8 @@ it costs more than it earned.
 **This week (while the goodwill is hot):**
 1. Reply to every inbound VAET inquiry — personally, within 48 hours.
 2. Thank-you message to both authors. No pitch. Just thanks. Toni is reachable
-   at `toni.saric@yahoo.com`; Hrepić through HrEpic.com. Ask Toni for his book's
-   printed title while you're at it.
+   at `toni.saric@yahoo.com`; Hrepić through HrEpic.com. With Toni, ask about
+   the book rather than describing it — see the note in § 3b.
 3. Follow up individually with Jeff Berwick, Alec's father, and Vít Jedlička.
    Ask two things: how they're doing since the session, and whether Robert may
    mention having worked with them. Nothing else in that message.
