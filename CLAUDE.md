@@ -491,10 +491,16 @@ Still open:
   CSF-and-breathing mechanism, or stay strictly on airway + structure? Notes
   captured at `content/research/water-csf-and-neuronal-migration.md`, tiered by
   evidence strength, with the source video bookmarked at **59:28** (unfinished).
-  Tier A (breathing drives CSF flow; CSF flow directs neuroblast migration;
-  sleep ramps up brain fluid clearance) is defensible and CSA-usable. Tier C
-  (Pollack's fourth phase of water; "water carries memory") is **not** — keep it
-  out of all public copy. Not a launch dependency; finish the funnel first.
+  Source: *"Cerebral Spinal Fluid: The Bridge Between Spirit and Matter"* featuring
+  **Dr. Mauro Zappaterra, MD, PhD** (Harvard MD-PhD; PhD on CSF and neural stem
+  cells; *Neuron* cover; now PM&R).
+  Tier A (breathing drives human CSF flow — Dreha-Kulaczewski 2015; CSF is a
+  proliferative niche via apical Igf1R — Lehtinen & **Zappaterra** *Neuron* 2011;
+  CSF flow directs neuroblast migration — Sawamoto 2006; sleep drives clearance —
+  Xie 2013) is verified and CSA-usable. Tier C (Pollack's fourth phase of water;
+  "water carries memory") is **not** — keep it out of all public copy.
+  **Guardrail:** cite Zappaterra's peer-reviewed science, never import the talk's
+  spirit-and-matter framing (§5 over-spiritualizing). Not a launch dependency.
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
 - **Sal Rodas** — strategic liaison target for exposure into the dental
