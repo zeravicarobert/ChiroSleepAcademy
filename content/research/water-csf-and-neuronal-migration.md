@@ -27,6 +27,15 @@ featuring **Dr. Mauro Zappaterra, MD, PhD** — https://youtu.be/pZB_yhr-jlc
 - pulsatile flow of CSF into the third ventricle
 - stopped at 59:28
 
+**Second pass (added 2026-08-19):**
+- Harvard mass spectrometry findings: **over 150 constituents in CSF**
+- "extra-cellular protein liquid matrix" which "opens up the brain" — allows
+  "secret chambers" of the brain to open up, e.g. chambers holding the lymph cells
+
+**Robert's own framing (not from the video) — see §6:**
+- biochemical → metaphysical/esoteric = Dr. Mauro
+- biomechanical → biochemical = Dr. Zeravica
+
 ---
 
 ## 2. Who the speaker is — and why it cuts both ways
@@ -155,6 +164,45 @@ a striking increase in convective CSF–interstitial fluid exchange, raising
 This is the mechanistic bridge between **sleep quality and brain health** — and it
 needs nothing from Tier C.
 
+**The CSF proteome — "over 150 constituents," and why not to quote that number.**
+> **Zappaterra MW**, et al. "A Comparative Proteomic Analysis of Human and Rat
+> Embryonic Cerebrospinal Fluid." ***J Proteome Res*** 2007;6:3537–3548.
+
+This is the mass-spectrometry work in the note — the **first proteomic analysis of
+human embryonic CSF.** The underlying point is correct and important: **CSF is
+compositionally rich**, not a simple salt solution, and that richness is what makes
+it a signaling medium rather than a cushion.
+- **But do not quote "over 150" as a current figure.** That was a 2007 number on
+  2007 instruments. Mass spectrometry has improved enormously since — a 2021 rat
+  embryonic CSF study identified **up to 982** proteins, and adult human CSF
+  proteome counts run into the thousands. Quoting 150 in 2026 signals to anyone in
+  the field that the source is dated.
+- **Say the durable version instead:** *"CSF contains hundreds to thousands of
+  distinct proteins, and the number keeps climbing as instruments improve."* The
+  **direction of travel** is the real finding, not any fixed count.
+
+**"Secret chambers" and the lymph cells — this one is real, and it's a big deal.**
+> Louveau A, Smirnov I, Keyes TJ, et al. "Structural and functional features of
+> central nervous system lymphatic vessels." ***Nature*** 2015;523:337–341.
+> (Kipnis lab, University of Virginia.)
+
+The note's "chambers holding the lymph cells" almost certainly refers to this:
+**functional lymphatic vessels lining the dural sinuses**, which drain CSF and
+carry immune cells (B cells, T cells, CD11c+ myeloid cells) out of the CNS. This
+**overturned** the textbook doctrine that the brain has no lymphatic system — it
+was a *Science* Breakthrough of the Year finalist in 2015. A genuinely hidden
+compartment, found recently.
+
+Paired with **Xie 2013's ~60% expansion of interstitial space during sleep**, the
+"opens up the brain" language has two real referents: a space that **physically
+enlarges** in sleep, and a drainage route nobody knew existed.
+- **Language caution:** *"extracellular protein liquid matrix"* is the talk's
+  phrasing, not a technical term. The real referents are the brain's
+  **extracellular matrix**, the **interstitial fluid space**, and the **CSF
+  proteome**. Use the actual terms in anything taught — the paraphrase sounds
+  impressive and means nothing precise, which is the worst combination in front
+  of a skeptical audience.
+
 **CSF is ~99% water.** Correct as composition. The "carrier of memory or
 information" gloss is **not** part of this tier — see Tier C.
 
@@ -238,7 +286,66 @@ appendix or a standalone advanced-topics module.
 
 ---
 
-## 6. Guardrails before any of this becomes public copy
+## 6. The positioning frame — where CSA's claim starts and stops
+
+Robert's framing, and the most strategically useful thing in this file:
+
+> **biochemical → metaphysical/esoteric = Dr. Mauro**
+> **biomechanical → biochemical = Dr. Zeravica**
+
+One chain, three domains, two arrows:
+
+```
+  BIOMECHANICAL  ──[arrow 1]──▶  BIOCHEMICAL  ──[arrow 2]──▶  METAPHYSICAL
+   structure,                     CSF proteome,                spirit/matter,
+   breathing,                     growth factors,              consciousness
+   posture, cranium               clearance, signaling
+        └──────── CSA's lane ────────┘         └──── Mauro's lane, not CSA's ────┘
+```
+
+**Why this frame is worth keeping:**
+
+**1. It is not competitive.** Robert isn't disputing Mauro or duplicating him. He
+sits **upstream**. Two clinicians facing the same fluid from opposite ends is a
+collaboration, not a turf conflict — and it is a far better opener than "here's a
+gap in your work."
+
+**2. Arrow 1 is genuinely under-claimed.** Plenty of people run biochemistry toward
+consciousness. Very few work rigorously on **what mechanical inputs do to fluid
+chemistry** — and chiropractic is, by training, *the biomechanics profession.* This
+is an open lane that CSA is unusually well positioned to occupy.
+
+**3. Arrow 1 already has Tier A evidence and a molecular name.** This is the part
+worth internalizing: Robert's arrow is not a metaphor.
+- **Dreha-Kulaczewski 2015 *is* arrow 1.** A purely **mechanical** act
+  (inspiration) produces a measurable **fluid-dynamic** consequence (CSF flow) that
+  distributes **biochemical** signals. Mechanics → chemistry, in humans, published.
+- **The cellular machinery has a name: mechanotransduction.** Primary cilia on
+  ependymal cells and neural progenitors sense CSF flow; mechanosensitive channels
+  convert force into signaling. **Arrow 1 is a real, named biological process** —
+  not an analogy.
+- **Sawamoto 2006 is arrow 1 at the tissue level:** cilia-driven *flow* (mechanics)
+  builds *chemical* gradients (Slit2) that direct where cells go.
+
+So the sentence Robert can defend is: **"Mechanical inputs change fluid dynamics,
+and fluid dynamics carry biochemical signals."** Every link in that is cited in §4.
+
+**4. It defines a category line more cleanly than any rule I could write.**
+CSA's claim **starts** at structure and **stops** where the biochemistry stops.
+Arrow 2 is Mauro's, and CSA neither adopts nor argues with it.
+
+> **The discipline this frame demands:** the same diagram that gives CSA a lane is
+> also the exact path by which a structural chiropractor drifts into the esoteric —
+> *"I'm only one arrow away."* The frame is only protective if Robert holds the
+> line **at the end of his own arrow.** Being one step from arrow 2 on a diagram is
+> not a licence to take the step. **CSA's claim ends where the biochemistry ends.**
+
+That is a tighter, more memorable red line than a list of forbidden phrases, and it
+should govern how this material is taught.
+
+---
+
+## 7. Guardrails before any of this becomes public copy
 
 CLAUDE.md §5, applied specifically to this material:
 
@@ -252,6 +359,10 @@ CLAUDE.md §5, applied specifically to this material:
   condition.
 - **That a credentialed speaker's spiritual framing is part of the science.** Cite
   Zappaterra's papers; don't import his metaphysics.
+- **That "over 150 constituents" is the current CSF proteome count.** It's a 2007
+  figure; modern counts are far higher (§4). Say "hundreds to thousands."
+- **Anything past the end of arrow 1** (§6). CSA's claim stops where the
+  biochemistry stops.
 
 **Safe framing when it is eventually used:**
 - "Breathing drives cerebrospinal fluid movement — that's measurable in humans,
@@ -265,6 +376,8 @@ CLAUDE.md §5, applied specifically to this material:
 - "My role is structural. I'm interested in the structure around the airway,
   because structure influences breathing — and breathing turns out to influence
   more than we used to think."
+- "Mechanical inputs change fluid dynamics, and fluid dynamics carry biochemical
+  signals. That's the part I work on." *(The arrow-1 sentence, §6 — fully cited.)*
 
 **The tone test:** would Heidi Haavik, DC PhD, or Dan Murphy, DC read this and
 consider it careful? If not, it isn't ready. Overreaching here doesn't cost one
@@ -272,7 +385,7 @@ page — it costs the category.
 
 ---
 
-## 7. Open clinical/strategic questions
+## 8. Open clinical/strategic questions
 
 - Does CSA ever want to claim anything about CSF dynamics, or stay strictly on
   airway, sleep quality, and structure? Adding CSF is scientifically interesting
@@ -291,7 +404,7 @@ page — it costs the category.
 
 ---
 
-## 8. Next actions
+## 9. Next actions
 
 - [ ] **Finish the video from 59:28** and append notes to Section 1.
 - [x] Identify title and speaker — *done: Dr. Mauro Zappaterra, MD, PhD.*
@@ -299,8 +412,13 @@ page — it costs the category.
       bibliographic detail (§4): Lehtinen/Zappaterra *Neuron* 2011;
       Zappaterra/Lehtinen *Cell Mol Life Sci* 2012; Sawamoto *Science* 2006;
       Dreha-Kulaczewski *J Neurosci* 2015; Xie *Science* 2013.
-- [ ] Read the two Zappaterra papers directly (not just abstracts) before teaching
-      from them.
+- [ ] Read the Zappaterra papers directly (not just abstracts) before teaching from
+      them — the two in §4 plus the 2007 proteomics paper.
+- [ ] Confirm the exact protein count in Zappaterra 2007 if the "over 150" figure is
+      ever used historically ("the first human embryonic CSF proteome found ~N") —
+      the full text wasn't reachable this session. **Never quote it as current.**
+- [ ] Read Louveau 2015 (*Nature*) on meningeal lymphatics — newly added to §4 and
+      likely the "secret chambers" referent.
 - [ ] Decide: internal framing only, or a teachable Module 1 appendix / advanced
       module?
 - [ ] Keep this file **out** of the funnel work. It is a credibility asset for
