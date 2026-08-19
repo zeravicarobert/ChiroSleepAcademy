@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-19
 
 ---
 
@@ -460,7 +460,8 @@ Claude should:
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
+  assets (`/content/research` for evidence-tiered research notes),
+  `/outreach` for templates and trackers. Structure to be added
   when first needed — not before.
 
 ---
@@ -486,6 +487,14 @@ Still open:
 - **Specific outreach copy and templates** (database re-engagement, cold DC outreach, dentist/HST/CBCT partner intros)
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
+- **Water / CSF / neuronal-migration research lane** — does CSA teach the
+  CSF-and-breathing mechanism, or stay strictly on airway + structure? Notes
+  captured at `content/research/water-csf-and-neuronal-migration.md`, tiered by
+  evidence strength, with the source video bookmarked at **59:28** (unfinished).
+  Tier A (breathing drives CSF flow; CSF flow directs neuroblast migration;
+  sleep ramps up brain fluid clearance) is defensible and CSA-usable. Tier C
+  (Pollack's fourth phase of water; "water carries memory") is **not** — keep it
+  out of all public copy. Not a launch dependency; finish the funnel first.
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
 - **Sal Rodas** — strategic liaison target for exposure into the dental
