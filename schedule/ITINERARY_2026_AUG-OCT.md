@@ -51,6 +51,7 @@ Everything below is sorted by **what happens if you miss it.**
 ### Tier 2 — High leverage. Move heaven, not earth.
 | Event | When | Notes |
 |---|---|---|
+| **Dr. Mauro Zappaterra intro** | **Within 72 hrs** | Alex Zeck's referral. CSF researcher, MD/PhD Harvard, **based in Pasadena**. Referrals decay in days — this is now the most time-sensitive item you have. See `outreach/2026-08-21-mauro-zappaterra.md`. |
 | **Alex Zeck — podcast + VAET** | Oct 14 (+ Oct 16) | **In person, Austin TX.** Both halves need you physically there. Audience reach *and* a real case study. |
 | **ARK Liberland — gear + treat 2+** | Today/tomorrow | Real VAET/CMT reps + Liberland network. Floating Man runs thru Aug 24, so bodies are there now. |
 | **Simon Severino Zoom** | Aug 26, 7pm | Paid strategy. Reschedulable but costly to burn. |
@@ -180,6 +181,9 @@ This is the default. It's the only scenario where nothing gets cancelled.
 **Sun Sept 13 – Wed Sept 16 — LA. CSA work block.**
 - The only real open stretch in this entire itinerary. Protect it. This is where CSA
   deliverables actually get built.
+- 🧠 **Sept 14 or 15 — in-person with Dr. Mauro Zappaterra, Pasadena** (~25 min from
+  Burbank). Second touch after the Zoom. This is the slot the whole Zappaterra sequence
+  aims at — see `outreach/2026-08-21-mauro-zappaterra.md`.
 
 **Thu Sept 17 — 🎰 Speakeasy Mastermind, Las Vegas, 6–9pm.** (⚠️ verify 17 vs 18.)
 
@@ -262,6 +266,7 @@ door opens exactly once. Credibility is the whole asset.
 
 | Item | Owner | Due |
 |---|---|---|
+| **Text Alex Zeck — thanks + ask for the Zappaterra intro** | Robert | **Within 72 hrs** |
 | Verify Avis drop-off local time (Conf 759184438) | Robert | **Today** |
 | Verify UA 2854 date — Sept 4 vs Sept 5 | Robert | Before Sept 1 |
 | Verify Speakeasy — Sept 17 vs 18 | Robert | Before Sept 15 |

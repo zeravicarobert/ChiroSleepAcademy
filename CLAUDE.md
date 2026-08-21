@@ -487,6 +487,30 @@ Still open:
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
+- **Dr. Mauro Zappaterra, MD, PhD** — CSF researcher, referred to Robert by
+  **Alex Zeck** on 2026-08-21. Harvard MD/PhD; doctoral work on cerebrospinal
+  fluid in brain development; ~20 years on CSF; *Neuron* cover image. Clinically
+  PM&R — Director of Regenerative Medicine & Clinical Research at Synovation
+  Medical Group, staff physician at VA Greater Los Angeles, office in
+  **Pasadena, CA** (~25 min from Burbank). Practice *Holding Space* explicitly
+  bridges regenerative medicine with biofield and mind-body work.
+  - **Why he matters:** CSA's weak point has been *mechanism* — why structure
+    should matter to sleep. Airway patency is real but undifferentiated from
+    the dental sleep claim. **CSF is the second mechanism, and the one that is
+    uniquely chiropractic-adjacent.** The bench gives CSA peers (DCs), referral
+    partners (DDSs), and a stage (Sal Rodas). Zappaterra gives CSA a mechanism.
+  - **Established science to lean on (and no further):** inspiration is a major
+    driver of CSF flow; glymphatic clearance depends on depth of NREM sleep;
+    glymphatic dysfunction in severe OSA is at meta-analysis level. **The link
+    from chiropractic intervention to CSF dynamics is UNPROVEN** — bring it to
+    him as a question, never a claim.
+  - **Guardrail:** he has certainly heard the overclaimed cranial-rhythm version
+    from practitioners before. Being the DC who *doesn't* do that is the entire
+    differentiator.
+  - **Status:** drafts ready at `outreach/2026-08-21-mauro-zappaterra.md` —
+    text to Alex asking for a double opt-in intro, forwardable blurb, and the
+    email to Mauro. Next action: text Alex within 72 hours; Zoom from Europe;
+    in-person Pasadena Sept 14–15.
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
 - **Sal Rodas** — strategic liaison target for exposure into the dental
   sleep-and-airway world. **Fellow US Marine** (warm, authentic opener).
