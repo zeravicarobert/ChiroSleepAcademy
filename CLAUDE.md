@@ -621,15 +621,22 @@ Still open:
     glymphatic dysfunction in severe OSA is at meta-analysis level. **The link
     from chiropractic intervention to CSF dynamics is UNPROVEN** — bring it to
     him as a question, never a claim.
-  - **⛔ PRM guardrail (confirmed from Ep 71, Robert watched ~3/4):** Mauro
-    **recognizes craniosacral therapy** but **does not recognize craniofacial
-    therapy, and does not recognize the primary respiratory mechanism.** Never
-    invoke the PRM with him — not as framing, not as an aside. The CSA argument
-    doesn't need it: the respiration-drives-CSF literature is about *actual
-    pulmonary respiration* (diaphragm, intrathoracic pressure), which nobody
-    disputes. Being the DC who says "I don't need the cranial rhythm to make
-    this argument" is the entire differentiator. Open: what exactly he meant by
-    rejecting *craniofacial* therapy — TMD lane or growth-and-development lane.
+  - **⛔ PRM guardrail (from Ep 71, Robert watched ~3/4):** Mauro **recognizes
+    craniosacral therapy** and **does not accept the primary respiratory
+    mechanism.** Never invoke the PRM with him — not as framing, not as an
+    aside. The CSA argument doesn't need it: the respiration-drives-CSF
+    literature is about *actual pulmonary respiration* (diaphragm,
+    intrathoracic pressure), which nobody disputes. Being the DC who says
+    "I don't need the cranial rhythm to make this argument" is the entire
+    differentiator.
+  - **Craniofacial therapy — position NOT established.** An earlier note here
+    said Mauro rejects it. That was Claude's inference, not Robert's report,
+    and Robert corrected it. **Do not assume he rejects craniofacial work.**
+    Treat his position as unknown until Robert confirms from his Ep 71 notes.
+    If it turns out he's simply unfamiliar with it, that's an *open lane*, not
+    an objection to overcome — and it's precisely CSA's differentiated
+    territory (endonasal/manual maxillary work; see §14b, roof of mouth = floor
+    of nose).
   - **Status:** drafts ready at `outreach/2026-08-21-mauro-zappaterra.md` —
     text to Alec asking for a double opt-in intro, forwardable blurb, and the
     email to Mauro. Next action: text Alec within 72 hours; Zoom from Europe;

@@ -63,8 +63,13 @@ his most relevant long-form interview is worth more than any amount of drafting.
 ### ⛔ The PRM landmine — the most important line in this file
 
 **Robert has watched roughly three quarters of Ep 71 and reports: Mauro
-recognizes craniosacral therapy, but does not recognize craniofacial therapy,
-and does not recognize the primary respiratory mechanism.**
+recognizes craniosacral therapy, and does not accept the primary respiratory
+mechanism.**
+
+> **Correction on the record:** an earlier version of this file said Mauro also
+> rejects *craniofacial* therapy. That was Claude's inference from an ambiguous
+> reading, not Robert's report, and Robert corrected it. **His position on
+> craniofacial work is unknown.** See the note at the end of this section.
 
 That is a precise and coherent position, and it needs to be taken seriously
 rather than argued with. It's common among scientifically-trained people who
@@ -95,10 +100,25 @@ need the cranial rhythm to make this argument" is the single most credible
 thing Robert can do in that conversation.** It separates him from the entire
 field in one sentence, and it happens to be true.
 
-**Open question for Robert:** what did Mauro mean by not recognizing
-*craniofacial* therapy — the craniofacial pain/TMD lane, or craniofacial
-growth and development? Those are different objections and they call for
-different responses. Worth pulling from the Ep 71 notes before the call.
+**Open question for Robert — and the answer changes the approach:** what, if
+anything, did Mauro actually say about *craniofacial* therapy? Three
+possibilities, and they are not equivalent:
+
+1. **He's unfamiliar with it.** Most likely, and the best case. Then there is
+   no objection to overcome — Robert is introducing a domain to someone with
+   the credentials to evaluate it, rather than arguing against a settled view.
+   Given that craniofacial and endonasal maxillary work is exactly CSA's
+   differentiated territory (§2, roof of mouth = floor of nose), an open lane
+   here is worth more than a won argument.
+2. **He's aware and skeptical.** Then find out *why* before the call. A
+   skepticism grounded in the same reliability problems that sink the PRM is
+   answerable with imaging; a skepticism about the underlying anatomy is not.
+3. **He rejects it outright.** Then it's a second landmine alongside the PRM,
+   and the approach narrows to cervical spine, posture, and breathing
+   mechanics only.
+
+Pull this from the Ep 71 notes before the first conversation. Do not guess —
+guessing is what produced the error this section corrects.
 
 ### Register warning — do not follow him up the spiritual axis
 
