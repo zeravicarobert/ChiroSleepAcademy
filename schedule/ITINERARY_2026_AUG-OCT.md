@@ -51,7 +51,7 @@ Everything below is sorted by **what happens if you miss it.**
 ### Tier 2 — High leverage. Move heaven, not earth.
 | Event | When | Notes |
 |---|---|---|
-| **Dr. Mauro Zappaterra intro** | **Within 72 hrs** | Alec Zeck's referral. CSF researcher, MD/PhD Harvard, **based in Pasadena**. Referrals decay in days — this is now the most time-sensitive item you have. See `outreach/2026-08-21-mauro-zappaterra.md`. |
+| **Dr. Mauro Zappaterra intro** | **Within 72 hrs** | Alec Zeck's referral — Alec interviewed him on *The Way Forward* Ep 71, so it's a real relationship, not a name-drop. CSF researcher, Harvard MD/PhD, **based in Pasadena**. Referrals decay in days. See `outreach/2026-08-21-mauro-zappaterra.md`. |
 | **Alec Zeck — podcast + VAET** | Oct 14 (+ Oct 16) | **In person, Austin TX.** Both halves need you physically there. Audience reach *and* a real case study. |
 | **ARK Liberland — gear + treat 2+** | Today/tomorrow | Real VAET/CMT reps + Liberland network. Floating Man runs thru Aug 24, so bodies are there now. |
 | **Simon Severino Zoom** | Aug 26, 7pm | Paid strategy. Reschedulable but costly to burn. |
@@ -266,6 +266,7 @@ door opens exactly once. Credibility is the whole asset.
 
 | Item | Owner | Due |
 |---|---|---|
+| **Listen to The Way Forward Ep 71** — Zappaterra on CSF, 2h08m (fits the Sombor drive) | Robert | **Today** |
 | **Text Alec Zeck — thanks + ask for the Zappaterra intro** | Robert | **Within 72 hrs** |
 | Verify Avis drop-off local time (Conf 759184438) | Robert | **Today** |
 | Verify UA 2854 date — Sept 4 vs Sept 5 | Robert | Before Sept 1 |
