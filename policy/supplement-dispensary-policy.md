@@ -132,15 +132,64 @@ Stated plainly so future-Robert and future-Claude both remember the reasoning:
 
 ---
 
+## 6a. The formulary — which lines (decided 2026-08-21)
+
+**Biotics Research only, for now.** **Standard Process** is a possible later
+addition — a separate decision, made on its own, not a default.
+
+**Why these two and nothing else:**
+- Both are **practitioner-channel** lines, not retail brands. That matches the
+  "professional-grade product a patient can't just guess at on Amazon" rationale
+  in §2.
+- Dr. Z has genuine depth in the Biotics line through the DSD International
+  years and direct teaching from Dr. Harry Eidenier, PhD — who was Biotics'
+  clinical chemist and whose earlier work was with **Standard Process**
+  (CLAUDE.md §6). The formulary and the training lineage are the same lineage.
+  That is a coherent story, not a catalog.
+- **A short formulary is a feature.** Two known lines that Dr. Z can speak to
+  from actual training is a defensible position. A broad catalog turns this into
+  a store, which is the thing §2 says it isn't.
+
+**Formulary rule:** anything outside these lines is out of scope. Adding a line
+is a written decision, one at a time, and never a reaction to a rep's pitch.
+
+### The one open dependency — patient-direct fulfillment
+
+**Rule 1 (§3) is no inventory, and it is not negotiable.** Manufacturer
+practitioner accounts have historically run wholesale-to-the-practice: the
+product ships to the clinic and the clinic resells it. That model **conflicts
+directly with Rule 1.**
+
+**Before opening either account, confirm with the manufacturer's rep, in
+writing:**
+
+- Is there a **patient-direct / drop-ship program** where the patient orders and
+  the product ships to the patient's address?
+- If yes: what does the practitioner actually do — nothing but authorize? Is
+  there any minimum order, stocking requirement, or auto-ship obligation?
+- Who handles **returns, damaged product, and customer service**? (It must not
+  be CSA.)
+- What does the practitioner **earn**, and is it disclosed as a margin, a
+  commission, or a patient discount? (§7 item 2 depends on this answer.)
+
+**If a line has no true patient-direct option, CSA does not carry it directly.**
+The fallback is a dispensary aggregator that carries the brand and handles
+fulfillment — which keeps Rule 1 intact and keeps the formulary short. What CSA
+does **not** do is quietly start stocking a shelf because the rep made it easy.
+
+**A note on the rep conversation:** Dr. Z knows this channel from the inside —
+he *was* the rep. That's an advantage. It also means the pitch will be familiar
+and persuasive. The answers above go in writing before the account opens.
+
+---
+
 ## 7. Open items to decide
 
 These do not block the decision. They need answers before the first order.
 
-1. **Platform.** Options: a dispensary aggregator (e.g. Fullscript, Emerson
-   Ecologics) vs. a **direct Biotics Research practitioner account**. Biotics is
-   the lineage-consistent choice and Dr. Z knows the line; an aggregator carries
-   more brands and handles fulfillment across manufacturers. Decide one — do not
-   run several.
+1. ~~**Platform.**~~ **Decided 2026-08-21 — see §6a.** Biotics Research only
+   for now; Standard Process a possible later addition. **One open dependency
+   remains: patient-direct fulfillment (§6a).**
 2. **Margin posture.** Standard practitioner margin, or discount passed to the
    patient with a thinner margin? A visibly thin margin makes the disclosure in
    §4 land even better.

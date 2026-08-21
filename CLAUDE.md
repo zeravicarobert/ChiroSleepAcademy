@@ -565,6 +565,13 @@ Disclosure is verbal at recommendation and written wherever a link is
 shared. No product is ever tied to apnea, snoring, airway, cortisol,
 VAET, or CFR-BNS outcomes (§5 applies in full).
 
-Full policy, scripts, and open items (platform choice, margin posture,
-state-board rules): `policy/supplement-dispensary-policy.md`.
+**Formulary (decided 2026-08-21): Biotics Research only for now**;
+Standard Process a possible later addition, as its own decision. Both are
+practitioner-channel lines Robert has real lineage in (§6). Adding a line
+is a written decision, one at a time. **Gating dependency:** confirm a
+true **patient-direct / drop-ship** program before opening any account —
+wholesale-to-the-practice would break the no-inventory rule.
+
+Full policy, scripts, and open items (margin posture, state-board rules):
+`policy/supplement-dispensary-policy.md`.
 A CSA-private-label formula is a **separate decision**, not covered.
