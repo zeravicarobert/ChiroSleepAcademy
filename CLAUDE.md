@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-21
 
 ---
 
@@ -103,6 +103,27 @@ post, page, or pitch.
 - Funnel: not yet built
 
 Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
+
+### Dr. Z's clinical-lab lineage (background credibility)
+
+Per Robert's own account: he served as a **representative of DSD
+International**, a West Coast distributor for **Biotics Research
+Corporation**. DSD was run by the wife of **Dr. Harry Eidenier, PhD** —
+Biotics' **clinical chemist**, previously with **Standard Process**, an
+extensive writer on **blood chemistry interpretation**, and one of
+Robert's direct teachers.
+
+Why it matters: CSA's structural airway model isn't Robert's first
+exposure to functional physiology and lab interpretation. Use it as
+**background credibility** in bio copy and peer conversation — never as a
+claim of endocrine/lab scope, a certification, or a reason to sell
+supplements. Confirm details before any public-facing use.
+
+**Supplement-adjacency guardrail:** Biotics is a nutraceutical
+manufacturer. CSA may learn from and cite that educational content, but
+does **not** convert clinical conversations into supplement
+recommendations, and does not add a product line to the pathway (§8)
+without an explicit, disclosed decision by Robert.
 
 ### Google account map (Claude's reach in this environment)
 
