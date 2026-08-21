@@ -626,17 +626,26 @@ Still open:
     2026-08-21 — *"recognizes cranial sacral therapy, what he doesn't
     recognize is craniofacial therapy... nor the primary respiratory
     mechanism."* Claude has **not** heard Ep 71 and found **nothing** in
-    search on Mauro's position re: the PRM or craniosacral therapy. Robert
-    already corrected Claude's reading of the first half of that same
-    sentence, so the second half is equally uncertain — "recognize" may mean
-    *doesn't accept* or *isn't aware of*. **Do not treat as established.**
-    Confirm from Robert's Ep 71 notes.
+    search on Mauro's position re: the PRM or craniosacral therapy.
+    Robert has since clarified (2026-08-21) that he meant **"wasn't aware
+    of"**, and flagged it as *his own assumption* — inferred from Mauro not
+    mentioning the PRM in the ~3/4 of the episode he watched. So the chain was
+    absence-of-mention → assumption → paraphrase → Claude writing it in as
+    "rejects." **Nothing here is established.**
+    *Further reason to doubt "unaware":* the PRM is the stated mechanism of
+    craniosacral therapy — CST descends from Sutherland's cranial osteopathy.
+    Someone who recognizes CST has very likely encountered the PRM. So
+    "unaware" is improbable on its face, and **Mauro's actual position is
+    simply unknown.**
     *Why the advice holds anyway:* don't lead with the PRM with him — not as framing, not as an
     aside. The CSA argument doesn't need it: the respiration-drives-CSF
     literature is about *actual pulmonary respiration* (diaphragm,
-    intrathoracic pressure), which nobody disputes. So the guardrail costs
-    nothing even if the premise is wrong — it is good practice whether Mauro
-    is hostile to the PRM, unfamiliar with it, or has no view at all. Being
+    intrathoracic pressure), which nobody disputes. The guardrail therefore
+    holds under *every* possibility, and is strongest under the "unaware"
+    one: raising the PRM with a CSF researcher who has never evaluated it
+    means introducing chiropractic's least replicable concept to someone
+    who would go read the reliability literature and find it wanting. Don't
+    step on the landmine — and don't build one. Being
     the DC who says "I don't need the cranial rhythm to make this argument"
     is the entire differentiator.
   - **Craniofacial therapy — position NOT established.** An earlier note here

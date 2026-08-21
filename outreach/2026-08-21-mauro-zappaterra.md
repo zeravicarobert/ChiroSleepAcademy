@@ -69,14 +69,23 @@ therapy... nor the primary respiratory mechanism."* Claude has **not** heard
 Ep 71 — the transcript hosts are blocked — and found **nothing** in search
 about Mauro's views on the PRM or craniosacral therapy.
 
-Robert already corrected Claude's reading of the *first half* of that
-sentence, which means the second half is exactly as uncertain. **"Recognize"
-is ambiguous** — it can mean *doesn't accept as valid* or *isn't aware of*.
-Claude applied one reading to both halves without flagging the interpretation.
-That was the error.
+Robert has since clarified that he meant **"wasn't aware of"** — and flagged
+it as **his own assumption**, inferred from Mauro not mentioning the PRM in the
+roughly three quarters of the episode he watched.
 
-**Treat as: reported by Robert, not established.** Confirm from his Ep 71
-notes before the conversation.
+So the full chain was: *absence of mention* → Robert's assumption → the word
+"recognize" → Claude reading it as "rejects" → Claude writing it into project
+memory as a confirmed finding. Four steps, no evidence at the bottom.
+
+**And "unaware" is itself improbable.** The PRM is the *stated mechanism* of
+craniosacral therapy — CST descends directly from Sutherland's cranial
+osteopathy. Someone who recognizes the therapy has very likely met the theory.
+A CSF researcher of twenty years has almost certainly been asked about cranial
+work before.
+
+**Conclusion: Mauro's position on the PRM is unknown.** Not rejection, not
+unawareness. Both are guesses. Robert's Ep 71 notes may or may not settle it —
+an absence of mention won't.
 
 > **Correction on the record:** an earlier version of this file said Mauro also
 > rejects *craniofacial* therapy. That was Claude's inference from an ambiguous
@@ -91,11 +100,16 @@ without accepting the **PRM** as a discrete, palpable, physiologic rhythm.
 The PRM's weak point is well known: inter-examiner reliability for palpating
 the cranial rhythmic impulse has repeatedly failed to hold up.
 
-**The recommendation survives the uncertainty, and that matters** — Robert
-doesn't need to resolve this before acting. Inter-examiner reliability for
-palpating the cranial rhythmic impulse is weak in the published literature.
-That's a fact about the PRM, not about Mauro. So leading with it is a bad bet
-whether he's hostile to it, unfamiliar with it, or has never considered it.
+**The recommendation survives all of it, and that's the point** — Robert
+doesn't need to resolve any of this before acting. Inter-examiner reliability
+for palpating the cranial rhythmic impulse is weak in the published
+literature. That is a fact about the PRM, not about Mauro.
+
+**And it's strongest under the "unaware" reading, not weakest.** If he has
+genuinely never evaluated the PRM, then raising it means handing a CSF
+researcher the single least replicable concept in chiropractic's canon and
+inviting him to go look it up. That's not stepping on a landmine — that's
+building one.
 
 **So: do not invoke the primary respiratory mechanism. Not once.**
 Not as a framing, not as an aside, not as "well, in our tradition we call it—".
