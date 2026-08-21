@@ -60,6 +60,46 @@ him to repeat an interview he already gave.
 The drive is the listening window. Going into a first conversation having heard
 his most relevant long-form interview is worth more than any amount of drafting.
 
+### ⛔ The PRM landmine — the most important line in this file
+
+**Robert has watched roughly three quarters of Ep 71 and reports: Mauro
+recognizes craniosacral therapy, but does not recognize craniofacial therapy,
+and does not recognize the primary respiratory mechanism.**
+
+That is a precise and coherent position, and it needs to be taken seriously
+rather than argued with. It's common among scientifically-trained people who
+are otherwise open: you can accept that gentle manual work at the cranium and
+sacrum does *something* — autonomic shift, fluid effects, tissue response —
+without accepting the **PRM** as a discrete, palpable, physiologic rhythm.
+The PRM's weak point is well known: inter-examiner reliability for palpating
+the cranial rhythmic impulse has repeatedly failed to hold up.
+
+**So: do not invoke the primary respiratory mechanism. Not once.**
+Not as a framing, not as an aside, not as "well, in our tradition we call it—".
+One mention and Robert becomes the practitioner Mauro has heard from before.
+
+**Here is the good news, and it is genuinely good: the CSA argument does not
+need the PRM at all.**
+
+The respiration-drives-CSF literature is about **actual pulmonary
+respiration** — the diaphragm, intrathoracic pressure, venous return. In
+osteopathic language that's the *secondary* respiratory mechanism: the one
+nobody disputes, because it's just breathing. Every leg of the §3 science
+bridge runs on real breathing.
+
+> Robert can make the entire CSF–structure–sleep argument using nothing but the
+> breathing everyone agrees exists. He never has to touch the PRM.
+
+That is a stronger position, not a weaker one. **Being the DC who says "I don't
+need the cranial rhythm to make this argument" is the single most credible
+thing Robert can do in that conversation.** It separates him from the entire
+field in one sentence, and it happens to be true.
+
+**Open question for Robert:** what did Mauro mean by not recognizing
+*craniofacial* therapy — the craniofacial pain/TMD lane, or craniofacial
+growth and development? Those are different objections and they call for
+different responses. Worth pulling from the Ep 71 notes before the call.
+
 ### Register warning — do not follow him up the spiritual axis
 
 The temptation after that episode is to build rapport in its language:
@@ -103,10 +143,21 @@ reasons, worth naming plainly rather than glossing:
    and meta-analyses showing AHI reduction, and it sits in the AASM guidelines
    as an accepted alternative for patients who can't tolerate CPAP.
    Chiropractic has nothing comparable for AHI.
-4. **Skeletal airway development.** Airway-focused orthodontics — palatal
-   expansion, MSE/MARPE — physically enlarges the maxillary arch and nasal
-   floor, especially in children. That is real skeletal change on the airway,
-   and it is not in a DC's scope.
+4. **Fixed appliance skeletal expansion.** Airway-focused orthodontics — bonded
+   palatal expanders, MSE/MARPE with miniscrews — physically enlarges the
+   maxillary arch and nasal floor, especially in children. Placing a bonded
+   appliance or a TAD is dentistry, and that specific procedure is not in a DC's
+   scope in any state.
+
+   **Correction, and Robert is right to push on this:** the earlier phrasing
+   said "skeletal airway development is not in your scope," which is wrong. What
+   is outside DC scope is **fixed intraoral appliance therapy** — not work on
+   the maxilla itself. Manual and **endonasal balloon** mobilization of the
+   maxilla, palatines, and sphenoid is exactly what CFR, NCR, SOT and VAET-
+   adjacent work do, and Robert does it. Same bone, different approach vector.
+   (State scope for endonasal technique does vary — worth confirming for every
+   state CSA trains DCs in, since Step 6 puts other people's licenses at risk,
+   not just Robert's.)
 
 **But "worse version of the same thing" was the wrong way to put it, and it's
 worth correcting** — because getting it right is what actually locates CSA's
@@ -118,6 +169,23 @@ cervical spine, the cranial base, forward head posture, hyoid position, rib
 cage mechanics, or diaphragm function. Nobody in the airway conversation does —
 not the dentist, not the ENT, not the sleep physician. That territory is
 vacant, and it is chiropractic's.
+
+**And the boundary is not as clean as "you take the mouth, I take the neck" —
+because the roof of the mouth is the floor of the nose.**
+
+The hard palate *is* the nasal floor. Maxillary position and transverse width
+therefore set nasal cavity volume directly. Anyone working the maxilla is
+working the nasal airway whether they describe it that way or not. So the
+maxilla is not the dentist's territory with the DC nearby — it is a **shared
+structure approached from two directions**: the dentist through the teeth with
+fixed appliances, the DC manually and endonasally.
+
+That is a better collaboration story than a clean division of turf, and it has
+a practical consequence: **CBCT can measure whether either approach actually
+moves it.** CSA already sells the CBCT as Step 3. See
+`strategy/csa-evidence-plan.md` §3 — nasal floor and airway volume may be a
+more tractable first endpoint than AHI, precisely because it doesn't suffer
+AHI's night-to-night variability.
 
 So the accurate statement is narrower and more useful:
 
@@ -131,11 +199,65 @@ collaborative with dentists rather than competitive: the DDS owns the mouth and
 the nightly appliance, CSA owns the neck, the cranial base, and the posture and
 breathing mechanics upstream of both. Neither one covers the other's ground.
 
-**One more asset worth counting, because it's badly underrated:** a DC sees a
-patient two or three times a week for months. No dentist, ENT, or sleep
-physician has that contact frequency. For screening, for tracking, and for
-compliance follow-through, that access is a genuine structural advantage — and
-it's the reason the CSA screening pathway is plausible at all.
+### The frequency asset — expanded, because it's the most underrated thing CSA owns
+
+A DC sees a patient two or three times a week for months. A sleep physician
+sees them once or twice ever. A dentist sees them twice a year. That gap is not
+a minor convenience — it produces six advantages nobody else in the airway
+conversation can buy:
+
+**1. Access to the undiagnosed population.** A sleep physician only ever sees
+people who already suspect they have a problem and made it through a referral.
+A chiropractor sees the general adult population — a group in which
+sleep-disordered breathing is common and mostly undiagnosed. **The DC is
+upstream of the entire diagnostic funnel.** An active practice file is, in
+statistical terms, full of people who have never been screened.
+
+**2. Serial observation instead of a snapshot.** Everyone else gets one frame.
+A DC gets thirty — the same neck, the same posture, the same face, over months.
+Changes in cervical curve, mouth breathing, jaw position, reported fatigue, and
+snoring show up as a *trend*. Nobody else in the chain collects longitudinal
+structural data, because nobody else is in the room often enough.
+
+**3. Disclosure.** Sleep symptoms are embarrassing — snoring a spouse out of
+the bedroom, nodding off while driving, nocturia, erectile dysfunction. People
+disclose those to someone they see weekly and who already puts hands on them,
+long before they raise them in a fifteen-minute medical visit. Frequency buys
+candor, and candor is what screening runs on.
+
+**4. The bed partner.** The best witness to apnea is the person lying next to
+it — and chiropractic practices routinely see whole families. Almost no one
+else in the pathway has routine access to the witness.
+
+**5. Adherence — and this is the referral-back argument.** The chronic failure
+of sleep medicine is not diagnosis, it's **adherence**: CPAP abandonment is
+notoriously high, and oral appliance wear leaks too. Whoever sees the patient
+weekly is the one positioned to catch abandonment early and do something about
+it. That reframes CSA's pitch to dentists and sleep physicians entirely:
+
+> **CSA does not take the dentist's patient. CSA keeps the dentist's patient
+> compliant.**
+
+That is a collaboration argument with real economics behind it, and it sits
+perfectly inside the §5 red line about never competing with oral appliances.
+
+**6. Attrition — which is what makes the research possible.** Pre/post outcome
+studies die on patients who never come back for the second measurement.
+Specialist practices bleed follow-up. A practice with two-to-three-times-weekly
+contact does not. **The frequency asset is the reason
+`strategy/csa-evidence-plan.md` is realistic at all** — CSA can actually
+complete a second HST, because the patient is already walking in the door.
+
+**And the cost side:** patient acquisition for the existing file is effectively
+zero. Step 1 (free alignment call) can be offered across an active practice at
+no marketing spend.
+
+**One warning that comes with it.** Thirty visits is also thirty chances to
+overclaim. A DC who mentions sleep every visit has thirty opportunities to
+drift from "structure may matter here" to "this will fix your apnea." The §5
+red lines get *more* important as contact frequency rises, not less — and if
+Step 6 trains other DCs to run this pathway, Robert is exporting that risk to
+people whose licenses he doesn't control.
 
 **CSF is a second mechanism, and it is the one that is uniquely
 chiropractic-adjacent.** Cranial work, SOT, CFR, and VAET have all invoked CSF

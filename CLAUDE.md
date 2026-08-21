@@ -459,9 +459,50 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
+- `/outreach` — outreach briefs and message drafts, named `YYYY-MM-DD-target.md`
+- `/strategy` — durable strategy assets. `csa-evidence-plan.md` is the plan for
+  generating AHI/CBCT outcome data that survives peer review.
+- `/schedule` — itineraries and calendar reconciliation.
 - Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+  assets. Structure to be added when first needed — not before.
+
+---
+
+## 14b. CSA Clinical Positioning — Settled Points
+
+Established 2026-08-21, in response to Robert's pushback. Don't re-litigate
+these in future sessions.
+
+- **What a DDS genuinely does better on airway patency:** the appliance is
+  present during the event (all night, every night, vs. episodic care); it's
+  titratable; oral appliance therapy has AHI outcome data and AASM standing;
+  fixed appliances (bonded expanders, MSE/MARPE with TADs) can change skeletal
+  anatomy.
+- **What is actually outside DC scope:** *fixed intraoral appliance therapy*
+  only. **Not** work on the maxilla itself. Manual and **endonasal balloon**
+  mobilization of maxilla/palatines/sphenoid is core CFR/NCR/SOT/VAET
+  territory and Robert does it. State scope for endonasal technique varies —
+  confirm per state before Step 6 trains DCs elsewhere.
+- **The roof of the mouth is the floor of the nose.** The hard palate *is* the
+  nasal floor, so maxillary position and transverse width set nasal cavity
+  volume. The maxilla is a **shared structure approached from two directions**
+  — dentist through the teeth with fixed appliances, DC manually and
+  endonasally — not the dentist's turf. CBCT can measure whether either moves
+  it.
+- **CSA's uncontested territory:** cervical spine, cranial base, forward head
+  posture, hyoid position, rib cage and diaphragm mechanics. No dentist, ENT,
+  or sleep physician treats any of it.
+- **The frequency asset:** 2–3 visits/week for months buys six things nobody
+  else in the airway chain can buy — access to the undiagnosed population
+  upstream of the referral funnel, serial rather than snapshot observation,
+  higher symptom disclosure, access to the bed partner, adherence catch
+  (*"CSA doesn't take the dentist's patient, CSA keeps the dentist's patient
+  compliant"*), and low study attrition. It also multiplies overclaim risk by
+  thirty visits — the §5 red lines matter *more* at high contact frequency.
+- **Evidence position, stated honestly:** chiropractic has no AHI outcome data
+  comparable to oral appliance therapy. CSA is building the pathway to generate
+  it. Until then the structural work is a hypothesis under test, not an
+  established treatment for OSA. See `strategy/csa-evidence-plan.md`.
 
 ---
 
@@ -518,16 +559,37 @@ Still open:
     glymphatic dysfunction in severe OSA is at meta-analysis level. **The link
     from chiropractic intervention to CSF dynamics is UNPROVEN** — bring it to
     him as a question, never a claim.
-  - **Guardrail:** he has certainly heard the overclaimed cranial-rhythm version
-    from practitioners before. Being the DC who *doesn't* do that is the entire
-    differentiator.
+  - **⛔ PRM guardrail (confirmed from Ep 71, Robert watched ~3/4):** Mauro
+    **recognizes craniosacral therapy** but **does not recognize craniofacial
+    therapy, and does not recognize the primary respiratory mechanism.** Never
+    invoke the PRM with him — not as framing, not as an aside. The CSA argument
+    doesn't need it: the respiration-drives-CSF literature is about *actual
+    pulmonary respiration* (diaphragm, intrathoracic pressure), which nobody
+    disputes. Being the DC who says "I don't need the cranial rhythm to make
+    this argument" is the entire differentiator. Open: what exactly he meant by
+    rejecting *craniofacial* therapy — TMD lane or growth-and-development lane.
   - **Status:** drafts ready at `outreach/2026-08-21-mauro-zappaterra.md` —
     text to Alec asking for a double opt-in intro, forwardable blurb, and the
     email to Mauro. Next action: text Alec within 72 hours; Zoom from Europe;
     in-person Pasadena Sept 14–15.
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
-- **Sal Rodas** — strategic liaison target for exposure into the dental
-  sleep-and-airway world. **Fellow US Marine** (warm, authentic opener).
+- **Sal Rodas** — ⏸️ **DEPRIORITIZED as of 2026-08-21, per Robert.** Not a cold
+  target: an **old friend Robert actually served with** in the Marine Corps.
+  But Robert has tried to move something forward with him for years without
+  result, and Sal is no longer returning calls or texts. Robert's own read —
+  and the more generous and more likely one — is that Sal's life isn't in
+  order rather than that he's avoiding Robert.
+  - **What this changes:** stop treating Sal as a business-development lane.
+    The Foundation for Airway Health exposure is real but it is not reachable
+    through a channel that has gone silent, and another pitch into silence
+    costs Robert something. If Robert contacts him, the right move is a
+    **no-ask check-in between friends** — no CSA, no deck, no exposure request.
+    If Sal is struggling, that's the only message worth sending anyway, and
+    it's the only one that leaves the friendship intact for later.
+  - **Re-open the business lane only if Sal re-engages first.** Find the
+    Foundation for Airway Health and CE-partner exposure through another door.
+  - Original profile retained below for when/if that changes.
+  - **Fellow US Marine** — served together.
   Dental/medical-tech executive, 20+ years C-level. Current roles:
   President, HASS Bio America; Chief Product Officer, SleepArchiTx (dental-sleep
   practice-building platform); **Executive Director, Foundation for Airway
@@ -547,8 +609,9 @@ Still open:
     never a competitor to oral appliances or CPAP (red line, section 5).
   - **Contact:** LinkedIn linkedin.com/in/salrodas (President, HASS Bio
     America); salrodas.com.
-  - **Status:** Robert wants to liaison re: exposure. Outreach message not yet
-    drafted (Marine-to-Marine, collaborative, no hype). Next action: draft it.
+  - **Status:** On hold. No outreach message to be drafted. Next action: none —
+    do not re-raise Sal as a business target unless Robert says so or Sal
+    re-engages.
 - **Rob–Peter CSA/SDI partnership** — Peter (possible Acting COO / Founding
   Operations Partner) may earn *up to 40%* of defined CSA economics through
   milestone-based, vested, revocable performance terms. No SDI income for
