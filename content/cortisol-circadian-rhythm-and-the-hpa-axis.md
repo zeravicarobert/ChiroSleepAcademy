@@ -303,12 +303,21 @@ matches the mainstream literature.
 **Guardrail:** Biotics Research is a **nutraceutical manufacturer.** Educational
 content from a supplement company is legitimate to learn from and legitimate to
 cite — and it is also, structurally, upstream of a product. CSA teaches the
-physiology. CSA does **not** convert a rhythm conversation into a supplement
-recommendation, and does not build a supplement line into the pathway
-(CLAUDE.md §8) without an explicit, separate, disclosed decision by Dr. Z.
+physiology; the physiology does not come with a product attached.
 
-If CSA ever does carry or recommend products, it gets disclosed plainly. That
-rule protects the category we're trying to build.
+**The standing rule:** CSA does **not** convert a sleep-and-airway clinical
+conversation into a supplement recommendation. Nothing in this brief implies a
+supplement need, and there is no product that treats, corrects, or resets a
+cortisol rhythm (see the evidence ledger, §10).
+
+**Where CSA landed on products** (decided 2026-08-21): Dr. Z uses a
+**practitioner dispensary account** — no inventory, plainly disclosed, offered
+only as a convenience to patients already under care. It is **not a step in the
+CSA pathway** (CLAUDE.md §8) and never enters a Report of Findings or a case
+presentation. Full terms: `policy/supplement-dispensary-policy.md`.
+
+Teaching this material is never a lead-in to selling anything. That rule is what
+protects the category we're trying to build.
 
 ---
 

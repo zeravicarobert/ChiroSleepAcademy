@@ -121,9 +121,9 @@ supplements. Confirm details before any public-facing use.
 
 **Supplement-adjacency guardrail:** Biotics is a nutraceutical
 manufacturer. CSA may learn from and cite that educational content, but
-does **not** convert clinical conversations into supplement
-recommendations, and does not add a product line to the pathway (§8)
-without an explicit, disclosed decision by Robert.
+does **not** convert sleep-and-airway clinical conversations into
+supplement recommendations. On products, Robert decided (2026-08-21) on a
+narrow **practitioner dispensary** model — see §16.
 
 ### Google account map (Claude's reach in this environment)
 
@@ -480,9 +480,11 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
-- Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+- `/site` — the public site. `/content` — course/educational assets.
+  `/outreach` — templates and trackers. `/partnership` — agreements and
+  term sheets. `/policy` — standing policies of record (e.g. the
+  practitioner dispensary policy, §16).
+- Structure is added when first needed — not before.
 
 ---
 
@@ -542,3 +544,27 @@ Still open:
   signed contract — needs attorney review before either party relies on it.
 
 When any of these are resolved, update this file.
+
+---
+
+## 16. Products & the Practitioner Dispensary (decided 2026-08-21)
+
+CSA sells **time, judgment, and structural care** — not product. The one
+narrow exception, decided by Robert on 2026-08-21:
+
+> A **practitioner dispensary account**: no inventory, plainly disclosed,
+> offered only as a convenience to patients **already under care**. Not a
+> pillar of the model and **not a step in the pathway** (§8).
+
+Hard rules: no inventory ever; existing patients only (never in outreach,
+funnels, landing pages, or lead magnets); **never introduced during the
+ROF or the case presentation**; and every recommendation must pass the
+margin test — *would I say this if I earned nothing on it?*
+
+Disclosure is verbal at recommendation and written wherever a link is
+shared. No product is ever tied to apnea, snoring, airway, cortisol,
+VAET, or CFR-BNS outcomes (§5 applies in full).
+
+Full policy, scripts, and open items (platform choice, margin posture,
+state-board rules): `policy/supplement-dispensary-policy.md`.
+A CSA-private-label formula is a **separate decision**, not covered.
