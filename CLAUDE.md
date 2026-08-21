@@ -460,6 +460,9 @@ Claude should:
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
 - `/outreach` — outreach briefs and message drafts, named `YYYY-MM-DD-target.md`
+- `/content/research` — research notes behind CSA's clinical claims, tiered by
+  evidence strength (A: verified/teachable, B: plausible, C: keep out of public
+  copy). `water-csf-and-neuronal-migration.md` is the CSF/mechanotransduction file.
 - `/strategy` — durable strategy assets. `csa-evidence-plan.md` is the plan for
   generating AHI/CBCT outcome data that survives peer review.
 - `/schedule` — itineraries and calendar reconciliation.
@@ -656,10 +659,41 @@ Still open:
     an objection to overcome — and it's precisely CSA's differentiated
     territory (endonasal/manual maxillary work; see §14b, roof of mouth = floor
     of nose).
-  - **Status:** drafts ready at `outreach/2026-08-21-mauro-zappaterra.md` —
-    text to Alec asking for a double opt-in intro, forwardable blurb, and the
-    email to Mauro. Next action: text Alec within 72 hours; Zoom from Europe;
+  - **Also trained in Polarity Therapy and Reiki**; has taught at the Polarity
+    Therapy Institute (*"The Cerebrospinal Fluid and 'I AM'"*). **He will not
+    dismiss a chiropractor** — which is exactly why Robert must lead with the
+    science, not the spiritual material. Plenty of people already show up as
+    admirers; almost nobody shows up as a structural clinician with a mechanical
+    question he can't answer from his own data.
+  - **Robert's positioning frame — the key asset, developed 2026-08-19:**
+    > biochemical → metaphysical/esoteric = **Dr. Mauro**
+    > biomechanical → biochemical = **Dr. Zeravica**
+
+    Same chain, adjacent arrows. Robert sits **upstream of him on the same
+    fluid** — complementary, not competitive. Arrow 2 is Mauro's lane; CSA
+    neither adopts nor argues with it. **CSA's claim ends where the biochemistry
+    ends.**
+  - **The skeptic on-ramp — best argument CSA has:** bone density. Wolff's law
+    and Frost's mechanostat are mainstream, and astronauts lose ~1–2% BMD/month
+    in microgravity, so *everyone already accepts that mechanical input changes
+    tissue biology*. And it isn't an analogy — it's the same physics: loading
+    drives interstitial fluid through the lacuno-canalicular network, osteocytes
+    read the shear stress, Wnt/NO follow. Same structure as CSF flow read by
+    cilia on ependymal/progenitor cells. Both are **mechanotransduction**.
+    Best line: *"You already accept that mechanical input changes tissue
+    biology — that's bone density, that's Wolff's law. I'm describing the same
+    class of mechanism in a different tissue."*
+  - **Status:** consolidated draft at `outreach/2026-08-19-mauro-zappaterra.md`
+    (a duplicate created 2026-08-21 has been deleted; that file is canonical).
+    Research notes: `content/research/water-csf-and-neuronal-migration.md` —
+    evidence tiered A/B/C, citations verified. **Channel: Alec's double opt-in
+    intro first**, then LinkedIn, then holdingspace.com form. **Never the
+    Synovation clinical line (626-799-2562)** — that's a patient-scheduling
+    number and the wrong door. Next action: text Alec within 72 hours;
     in-person Pasadena Sept 14–15.
+  - **Not on the critical path.** The 90-day goals — clear offer, real DC
+    outreach, one working funnel — come first. Sending the text to Alec is 15
+    minutes; do not let CSF reading eat funnel time.
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
 - **Sal Rodas** — ⏸️ **DEPRIORITIZED as of 2026-08-21, per Robert.** Not a cold
   target: an **old friend Robert actually served with** in the Marine Corps.
