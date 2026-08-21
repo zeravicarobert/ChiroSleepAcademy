@@ -51,8 +51,7 @@ Everything below is sorted by **what happens if you miss it.**
 ### Tier 2 — High leverage. Move heaven, not earth.
 | Event | When | Notes |
 |---|---|---|
-| **Alex Zeck podcast** (virtual) | Aug 26 or Sept 10 | Audience reach for CSA. Virtual = near-zero logistics cost. |
-| **Alex Zeck VAET** (in person, Austin) | Oct 14 or 16 | The *proof* half. Requires your hands on him. Cannot be virtual. |
+| **Alex Zeck — podcast + VAET** | Oct 14 (+ Oct 16) | **In person, Austin TX.** Both halves need you physically there. Audience reach *and* a real case study. |
 | **ARK Liberland — gear + treat 2+** | Today/tomorrow | Real VAET/CMT reps + Liberland network. Floating Man runs thru Aug 24, so bodies are there now. |
 | **Simon Severino Zoom** | Aug 26, 7pm | Paid strategy. Reschedulable but costly to burn. |
 
@@ -76,10 +75,10 @@ These are already ghost-booked across your travel weeks. Ignore them; they'll re
 |---|---|---|
 | 1 | **Europe block (Aug 24–Sept 17) vs. Sept 4 BUR→SFO flight + Sept 10–12 FL/CA events** | Genuinely incompatible. Cannot hold both. → **Gated decision, see §3.** |
 | 2 | **Sept 12: FabLife Day 3 (FL) vs ANGLICO Reunion (CA)** | **Solved without choosing** — see §4. Book the FL→LAX leg for Sept 11 evening and you get ~85% of FabLife *and* the full reunion. |
-| 3 | **Aug 26: Zeck podcast vs Severino 7pm** | **Solved.** Both virtual. Austin is CEST−7. Record with Zeck 8–10am Austin = 3–5pm CEST. Severino at 7pm CEST stays clear. |
-| 4 | **Sept 10: Zeck vs FabLife Day 1** | **Solved.** Podcast is virtual — record 7–8am ET from Florida before FabLife's 8am start. No conflict at all. |
-| 5 | **Sept 23: Zeck vs Book To Buyer Day 3 (9–5)** | **Killed.** Do not break a paid intensive for a call that has two clean October alternatives. |
-| 6 | **Aug 26 Zeck vs. being in Serbia** | **Not a conflict** — podcast is virtual. But **VAET on Alex is impossible** on any August/September date. It needs Austin. |
+| 3 | **Aug 26 Zeck: you're in Serbia, he's in Austin** | **Killed.** You'd drop the Avis car in Belgrade Aug 25, fly ~20hrs across 7 time zones, land that night, and do a podcast *and* hands-on VAET the next morning. Technically possible; clinically and on-camera it's your worst version. Also ends Europe abruptly — no Montenegro. |
+| 4 | **Sept 10: Zeck (Austin) vs FabLife Day 1 (Florida)** | **Killed on cost, not priority.** You rank Zeck above FabLife — but taking Sept 10 costs you *all three* FabLife days, and Zeck has a free October date that costs nothing. Don't spend FabLife on something October gives you for $0. |
+| 5 | **Sept 23: Zeck vs Book To Buyer Day 3 (9–5)** | **Killed.** Never break a paid intensive for a trip with two clean October alternatives. |
+| 6 | **Severino Aug 26, 7pm** | **Not a conflict with anything.** It's a Zoom — it travels. Serbia, Montenegro, or a Belgrade airport lounge all work. Only open question is the timezone (see Risk 3 pattern). |
 
 ---
 
@@ -139,10 +138,11 @@ This is the default. It's the only scenario where nothing gets cancelled.
 - ⚠️ Confirm the real local time first (see Risk 1).
 - Fly out Aug 25 or Aug 26 depending on the Montenegro leg.
 
-**Wed Aug 26 — Two virtual calls.**
-- 🎙️ **Alex Zeck podcast**, 8–10am Austin (CDT) = **3–5pm CEST**.
-- 💻 **Simon Severino Zoom, 7pm.** ⚠️ Confirm 7pm CEST vs 7pm PT — your calendar stores
-  everything in Pacific and has already burned you once (Risk 1).
+**Wed Aug 26 — Simon Severino Zoom, 7pm.**
+- The only fixed item today, and it's a Zoom — it travels with you. Take it from Serbia,
+  Montenegro, or a Belgrade lounge.
+- ⚠️ Confirm 7pm CEST vs 7pm PT. Your calendar stores everything in Pacific and has already
+  burned you once (Risk 1).
 
 **Thu Aug 27 – Mon Aug 31 — Montenegro leg** (optional, Scenario A only).
 - Belgrade → Podgorica (~1hr). Budva / coast. Serbian-speaking, low friction, stays inside
@@ -166,8 +166,8 @@ This is the default. It's the only scenario where nothing gets cancelled.
 - Sept 9: fly LAX → Florida.
 
 **Thu Sept 10 — FabLife Florida, Day 1.**
-- 🎙️ *Optional:* Zeck podcast 7–8am ET before the 8am start, if you'd rather have this slot
-  than Aug 26.
+- *Alex Zeck offered this date. It's declined —* taking it costs all three FabLife days plus
+  a round trip to Austin, and October gives you the same thing for free.
 
 **Fri Sept 11 — FabLife Day 2. → Evening flight FL → LAX.**
 - **This is the move that saves both events.** Fly out Friday night, sleep in Orange County,
@@ -209,20 +209,33 @@ Outside the Oct 1 window, but the decisions are due now.
 |---|---|---|
 | **Sat Oct 10** | San Diego Serbian Festival, 12pm–11pm | Serbian diaspora. Same cultural network as the Jokic play. Worth more than "a festival." |
 | **Tue Oct 13** | Fly → Austin | |
-| **Wed Oct 14** | 🎯 **Alex Zeck — VAET, in person, Austin** | The proof half. Hands on him. |
-| **Thu Oct 15** | Austin → Vegas. Speakeasy Mastermind, 6–9pm | One trip, two wins. |
-| **Fri Oct 16** | *Hold as backup* for Zeck | Only needed if Oct 14 slips. |
+| **Wed Oct 14** | 🎯 **Alex Zeck — VAET, then podcast** | Same day, in that order. See below. |
+| **Thu Oct 15** | Rest day *or* Austin → Vegas Speakeasy 6–9pm | The fork. See below. |
+| **Fri Oct 16** | 🎯 **Alex Zeck — VAET session 2 + reassessment** | Only if you take the Austin option. |
 
-### On the Zeck sequencing — split it deliberately
-Since the podcast is virtual and VAET isn't, **don't force them into one date.** Split them,
-and put the podcast *first*:
+### Do the VAET first, podcast second — same day
 
-> **Podcast (Aug 26 or Sept 10, virtual)** → builds the story and the audience
-> → **VAET (Oct 14, Austin, in person)** → becomes the follow-up episode and the case story
+This is the single highest-value sequencing change available to you. If you record the
+podcast *before* you put hands on Alex, he can only talk about VAET in the abstract. If you
+treat him first and record after, **he describes what he felt an hour ago, on mic.** That is
+a firsthand account instead of an interview — a categorically better episode, and an honest
+one, because he's reporting his own experience rather than repeating your claims.
 
-That's two pieces of content and two touches instead of one. If you'd rather do both in one
-Austin trip, use **Oct 14 + Oct 16** and skip the virtual date entirely — but you lose the
-narrative build.
+### The Oct 15 fork
+
+**Option A — Austin, both dates (recommended).**
+Oct 14: VAET session 1 + podcast. Oct 15: rest day, let it settle. Oct 16: VAET session 2,
+reassess, document what changed. **Skip the Vegas Speakeasy** — it's monthly, you catch it in
+November.
+
+Why this wins: a treat-settle-reassess arc is real clinical work and real evidence. One-off
+sessions produce a nice anecdote; a documented two-session arc with a day between produces a
+**case study you can actually use** — and Alex has an audience, so his before/after travels.
+Alex offered you both Oct 14 and Oct 16. He's telling you he has the bandwidth. Take it.
+
+**Option B — Austin then Vegas.**
+Oct 14: VAET + podcast. Oct 15: fly Austin → Vegas for Speakeasy. Cheaper on time, but you
+get one session and no reassessment.
 
 ---
 
@@ -252,9 +265,9 @@ door opens exactly once. Credibility is the whole asset.
 | Verify Avis drop-off local time (Conf 759184438) | Robert | **Today** |
 | Verify UA 2854 date — Sept 4 vs Sept 5 | Robert | Before Sept 1 |
 | Verify Speakeasy — Sept 17 vs 18 | Robert | Before Sept 15 |
-| Confirm Severino 7pm — CEST or PT? | Robert | Before Aug 26 |
+| Confirm Severino 7pm Zoom — CEST or PT? | Robert | Before Aug 26 |
 | **Europe decision: Scenario A / B / C** | Robert | **Aug 24** |
 | Book flights for Book To Buyer (origin depends on ↑) | Robert | Aug 24–28 |
-| Confirm Zeck podcast date + VAET Oct 14 | Robert → Alex | This week |
+| Confirm Austin trip with Alex: Oct 14 podcast + VAET, and ask to hold Oct 16 | Robert → Alex | This week |
 | Book FL→LAX **Sept 11 evening** (saves both Sept 12 events) | Robert | Before Sept 5 |
 | Decide FabLife vs ANGLICO — *only if you skip the Sept 11 evening flight* | Robert | Sept 5 |
