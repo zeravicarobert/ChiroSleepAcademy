@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-21
 
 ---
 
@@ -91,37 +91,145 @@ post, page, or pitch.
 
 ---
 
-## 6. Current State (May 2026)
+## 6. Current State (August 2026)
 
 - Brand: Chiropractic Sleep Academy
 - Domain: **www.ChiropracticSleepAcademy.net**
-- Site platform: **ClickFunnels 2.0**
-- Audience: ~28 opted-in DCs in a warm database, 1 active mentee asking for a Letter of Engagement
-- Clinical: ready to run HST + CBCT on real patients
-- Public face: landing page / website not yet live
-- Offer structure: defined (see section 7) — pricing locked (see section 8)
-- Funnel: not yet built
+- Site platform: **ClickFunnels 2.0** (repo also holds static `site/` pages)
+- Clinical: HST pathway live; Sleep Doctor provider portal access resolved
+- Offer structure: defined (section 7) — pricing locked (section 8)
+- **CSA has gone public and has earned its first revenue** (see below)
 
-Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
+### Liberpulco 2026 — CSA's first public stage (Aug 12–15, 2026)
+
+Robert presented **"Chiropractic Sleep Academy"** at Liberpulco 2026
+(Liberland Ark Village, Apatin, Serbia — a joint Liberland / Anarchapulco
+event). A 15-minute main-stage slot on **Thursday Aug 13 at 3:25 PM local**,
+booked through the Anarchapulco stage manager after an invitation from
+Liberland president Vít Jedlička. Robert shared the bill with Max Igan,
+Jeff Berwick, Doc Malik, Dominic Frisby, and Catherine Bleish Bonandin.
+
+This is the single biggest change since the last memory update: the 90-day
+goal "clear public-facing offer + real outreach" moved from *planned* to
+*happened*, in front of a live audience.
+
+**Assets built for it** (Drive → `CSA Lectures/Liberpulco/`):
+`Liberpulco_Structural_Airway_Deck`, `Liberpulco 15 min Speech by
+Dr Zeravica DC`, `Liberpulco_Sovereignty_Script_v1`.
+
+**First CSA-adjacent revenue — VAET sessions on site (`Liberpulco Stats`):**
+
+| Date | Person | USD | EUR |
+|---|---|---|---|
+| 8/14 | Lili and Alex (Hong Kong) | | €870 |
+| 8/14 | Vasi (Bulgarian) | | €150 |
+| 8/14 | Richard G | $491.43 | |
+| 8/14 | Art (red shirt) | $150 | |
+| 8/14 | Peter 2.0 | $150 | |
+| 8/15 | Sander | | €100 |
+| 8/15 | Navid | | €300 |
+| 8/15 | Alex Zeck's Dad | $500 | |
+| | Refund | −$340 | |
+| | **Total** | **$951** | **€1,420** |
+
+Jeff Berwick is listed without an amount — status unclear, worth confirming.
+
+**Leads out of the event:**
+- **Arthur Welter**, 70 — retired adventurer, Canada/Panama, **15 years on
+  CPAP**. Written up in a clean CSA intake / clinical-reasoning format and
+  shared with Peter on 8/14. This is the closest thing CSA has to a
+  flagship "Heal the Healer"-style case in motion.
+- **Peter Hoffman** (`phthage@gmail.com`, via WhatsApp) — wants a Zoom call.
+
+### Peter Katakalidis — operating partner, now active
+
+Peter (`pkat55@gmail.com`, 858-414-4163) is no longer hypothetical. He is
+doing real business development for CSA: booking podcasts, chasing Sleep
+Doctor for portal access, handling the Liberpulco speaking logistics, and
+co-building slides. The partnership agreement went through several drafts
+in July ("Final agreement," 7/16); on **7/31 Robert wrote "I intend to meet
+a notary tomorrow."** Whether it was notarized is unconfirmed — worth
+closing the loop. Term sheet: `partnership/rob-peter-csa-agreement.md`.
+
+### Media & platform pipeline (all opened since the last update)
+
+- **Sleep Is a Skill podcast** (Mollie Eastman) — booked, **March 30, 11 AM**.
+  Earliest slot available; long runway.
+- **The Way Forward podcast** (Alec Zeck) — they offered **Aug 26 or
+  Sept 10** and prefer in-person. Peter said "let me give you a date asap"
+  on 8/19 and **has not yet confirmed one.** Aug 26 is 5 days out and Robert
+  is in Eastern Europe until ~Sept. **This one is going cold — act on it.**
+- **Carrick Institute** — responded 8/10 to Robert's teaching inquiry:
+  Tricia Carrick reviews all teaching requests, and they asked for **a
+  sample of his education plus an outline.** Peter's read: "we need to
+  provide them a sample." **Not yet sent.** This is a direct CE / teaching
+  opening with the functional-neurology world.
+- **Book To Buyer** (Joy Houston / Heal at Scale) — Robert is writing a
+  client-attracting book. Prep sessions in Aug; the live **book-writing
+  intensive runs Sept 20–25 in Las Vegas** (VIP reception 9/20, five class
+  days, celebration 9/25). A CSA book is the natural lead magnet the funnel
+  has been missing (section 15).
+- **Anarchapulco 2027** — sponsorship packages offered 8/18 for
+  **Feb 9–14, 2027, Puerto Vallarta**. Robert forwarded it to Peter. Given
+  Liberpulco converted into cash and cases, this is a real consideration,
+  not spam.
+- **SimpleTalk.ai** — Robert is onboarding; Peter added to the vendor Slack
+  8/21. Communications/AI tooling for the practice.
+
+### Drive asset library (built July–August, not previously in memory)
+
+Drive now holds a substantial CSA library under `CSA/`:
+- `CSA Scripts (Consult · Exam · ROF)` — Consultation Script, Structural
+  Airway Exam Script, Report of Findings Script, plus a README mapping
+  AMC → CSA with guardrails
+- `CSA Flowcharts (Consult · Exam · ROF)`
+- `CSA Academy — Module 1: Anatomy & Physiology`, `Module 3: Case
+  Presentation & Ethical Financial Close` (both mirrored into repo `content/`)
+- `CSA Foundations Workbook v1.1`, `CSADentalSleepWorkbook.pdf`
+- `CSA-Position-Paper-Skull-Down.pdf`, `CSA-Editorial-Skull-Down.pdf`
+- `CSA Master Contact Database — First Sieve` — the contact list from
+  section 6's "Relationship Strategies" sheet, cleaned into a proper CRM
+  with Status / Next Action / Ref Code columns
+- `CSA — Doctor Interest & Distribution Registry`
+- ACAS lecture decks (`1ACAS`, `2ACAS`, `5The Biomechanics of Airway`,
+  `6Zeravica_ACAS_Sleep_Apnea_Lecture`), CSA logo, CSA Headshots
+- `Own Your Sleep — Workshop Ideation (v1)`
+- `Jay Abraham's Relational Capital applied to Dr Robert Zeravica DC (and CSA)`
+
+**Note:** the repo and Drive now hold overlapping copies of the same
+material. Drive is where Robert actually works; the repo is the versioned
+record. Don't assume the repo is current.
+
+### Where the May goals actually landed
+
+`MAY_2026_GOALS.md` was last touched **2026-05-21** and still reads 0/6. It
+is three months stale and no longer reflects reality — several of its goals
+were effectively met by other means (public offer via Liberpulco, real
+outreach, live conversations, first revenue), while others (28-DC database
+outreach, HST + CBCT on one patient) appear genuinely untouched. It needs
+either an honest retro or replacement with a current tracker.
 
 ### Google account map (Claude's reach in this environment)
 
-Robert uses three Google accounts; each MCP integration is currently
-authenticated to a *different* one:
+**Updated 2026-08-21 — Robert reconnected all three integrations.** Gmail,
+Calendar, and Drive are now *all* authenticated to the same account:
 
 | Integration | Account |
 |---|---|
-| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` |
-| Calendar (primary) | `robertzeravica91324@gmail.com` |
+| Gmail (read/draft) | `zeravicarobert@gmail.com` |
+| Calendar (primary) | `zeravicarobert@gmail.com` |
 | Drive (file owner) | `zeravicarobert@gmail.com` |
 
-Implications:
-- Email scans run against `DrZeravicaOffice` only. To search the other
-  two inboxes, Robert must connect them in Claude Code on the web →
-  Settings → Connections.
-- Drive files searched/read here are those owned by or shared with
-  `zeravicarobert@gmail.com`.
-- Calendar events live on `robertzeravica91324@gmail.com`.
+This replaces the old three-account split. Practical effect: Claude now sees
+Robert's primary inbox, his working calendar, and his own Drive in one
+consistent view — the CSA asset library, the Liberpulco material, and the
+partner/podcast threads are all reachable from one place.
+
+Still *not* connected: `DrZeravicaOffice@gmail.com` and
+`robertzeravica91324@gmail.com`. Both still forward things to the primary
+account, so most of their CSA-relevant traffic shows up anyway — but a direct
+search of those two inboxes requires connecting them in Claude Code on the
+web → Settings → Connections.
 
 ### Existing CSA assets discovered
 
@@ -266,6 +374,13 @@ default vendor.
    - 4/30/26: Mark's polished re-pitch with two PDFs (Setup Guide +
      `SD-25-254_HSTPartner_Brochure_8.5x11.pdf`).
    - 5/4/26: Welcome to Provider Referral Program email.
+   - 6/9–6/22/26: Peter chased the referral account twice on Robert's
+     behalf, noting Robert "spoke with the owner of Sleep Doctor over the
+     phone about 3 months ago and he offered a special partnership referral"
+     arrangement. **Resolved 6/22:** Sleep Doctor sent the provider portal
+     link (`https://portal.sleepdoctor.com/`) with forgot-password setup.
+     CSA now has working portal access — the access blocker is closed, but
+     the *margin* question below is still open.
 
    **Mechanics:** WatchPAT device, board-certified MD reads in 2–3
    business days, PDF delivered through `portal.sleepdoctor.com`.
@@ -394,6 +509,23 @@ By end of August, three things must be true:
 
 CSA must move from idea/project into a market-facing system.
 
+### Status check — 2026-08-21 (10 days out)
+
+1. **Clear public-facing offer — substantially met, informally.** Robert
+   delivered a CSA talk from a real stage and converted it into paid
+   sessions. What still does not exist is that offer written down in one
+   place a stranger can read: no live landing page, no single CTA.
+2. **Active real outreach — met.** Liberpulco, podcast bookings, Carrick,
+   the cleaned-up contact database. The gap is *follow-through*, not
+   activity: several warm doors (Carrick, The Way Forward, Arthur Welter,
+   Peter Hoffman) are open and unanswered.
+3. **One working funnel — not met.** Still the weakest of the three. There
+   is no repeatable path from stranger → resource → Zoom → offer. Liberpulco
+   proved demand exists; nothing yet catches it automatically.
+
+Honest read: CSA cleared the "is this real?" bar this quarter. It has not
+cleared the "does it run without Robert in the room?" bar.
+
 ---
 
 ## 11. Year Vision (December 31, 2026)
@@ -479,45 +611,38 @@ Resolved during intake:
 - ~~HST vendor candidates~~ → **Sleep Doctor (active), self-supplied + Will Spriggs (existing), unnamed free-DC-testing vendor, SleepImage (researching) — see section 8**
 
 Still open:
-- **HST vendor decision** — which vendor becomes the CSA *default*? The
-  $50 cost ceiling vs. Sleep Doctor's $189 cash-pay creates a margin
-  tension that needs a clear answer (insurance-first model, $397
-  standard rate, or switch to the free-DC-testing vendor).
-- **Specific outreach copy and templates** (database re-engagement, cold DC outreach, dentist/HST/CBCT partner intros)
-- **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
+- **HST vendor decision** — which vendor becomes the CSA *default*? Portal
+  access with Sleep Doctor is now resolved, but the $50 cost ceiling vs.
+  Sleep Doctor's $189 cash-pay still needs an answer (insurance-first model,
+  $397 standard rate, or the unnamed free-DC-testing vendor). Peter has
+  referenced a verbal "special partnership referral" offer from the owner —
+  **get that in writing**; it may resolve the whole margin problem.
+- **The Way Forward podcast date** — Aug 26 or Sept 10 were offered on 8/17;
+  no date confirmed as of 8/21. Time-sensitive.
+- **Carrick Institute teaching sample + outline** — requested 8/10, not sent.
+  Highest-leverage unclosed door in the file.
+- **Was the Rob–Peter agreement notarized?** Robert intended to on 8/1;
+  no confirmation since.
+- **Jeff Berwick** — listed in Liberpulco Stats with no amount. Session
+  delivered? Owed? Comped?
+- **Arthur Welter follow-up** — case notes written 8/14, no next step logged.
+  He is a live 70-year-old CPAP case and CSA's best current proof story.
+- **Peter Hoffman** (`phthage@gmail.com`) — asked for a Zoom, not scheduled.
+- **Anarchapulco 2027 sponsorship** — decision needed; Early Bird pricing.
+- **Current-month goals tracker** — `MAY_2026_GOALS.md` is three months
+  stale. Needs a retro and an `AUGUST_2026_GOALS.md` (or September).
+- **28-opt-in DC database outreach** — still no evidence this ever ran.
+- **Lead magnet** for the funnel — the Book To Buyer book (Sept 20–25,
+  Las Vegas) is the likely answer; decide whether the book *is* the lead
+  magnet or whether a shorter asset ships first.
 - **CE / certification** path — does CSA pursue CE credit eventually?
-- **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
-- **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
-- **Sal Rodas** — strategic liaison target for exposure into the dental
-  sleep-and-airway world. **Fellow US Marine** (warm, authentic opener).
-  Dental/medical-tech executive, 20+ years C-level. Current roles:
-  President, HASS Bio America; Chief Product Officer, SleepArchiTx (dental-sleep
-  practice-building platform); **Executive Director, Foundation for Airway
-  Health** (multidisciplinary airway-advocacy org). Former COO of Space
-  Maintainers Laboratories, where he **presided over the SMILE Foundation** —
-  the lab's dental-education division that ran CE seminars nationwide with
-  leading dental lecturers (an education vehicle, not a charity; not confirmed
-  to be the separately-registered "S M I L E Foundation Inc." nonprofit,
-  EIN 460962521). Has delivered hundreds of CE hours on sleep medicine, airway
-  management, 3D/CBCT technology, and practice growth.
-  - **Why he matters to CSA:** he *is* the bridge to CSA's named strategic
-    partners — airway-aware dentists, CE partners, 3D/CBCT. Foundation for
-    Airway Health is a natural platform for a chiropractor bringing the
-    *structural* layer to the airway conversation; his CE work is a potential
-    stage for Robert (and his credibility a draw for CSA's DCs).
-  - **Guardrail:** approach as a collaborator who *adds* the structural layer —
-    never a competitor to oral appliances or CPAP (red line, section 5).
-  - **Contact:** LinkedIn linkedin.com/in/salrodas (President, HASS Bio
-    America); salrodas.com.
-  - **Status:** Robert wants to liaison re: exposure. Outreach message not yet
-    drafted (Marine-to-Marine, collaborative, no hype). Next action: draft it.
-- **Rob–Peter CSA/SDI partnership** — Peter (possible Acting COO / Founding
-  Operations Partner) may earn *up to 40%* of defined CSA economics through
-  milestone-based, vested, revocable performance terms. No SDI income for
-  Peter; Rob keeps SDI, existing patients, organic revenue, and 100% of his
-  IP. Peter's role begins with legal/compliance protection and workflow
-  observation. Full discussion record & term sheet (30 open questions for the
-  attorney) lives at `partnership/rob-peter-csa-agreement.md`. Not yet a
-  signed contract — needs attorney review before either party relies on it.
+  Carrick is a live route in.
+- **Tecopa proposal template** — still needs a written one-pager listing
+  what's included and what's not, every time.
+- **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient
+  interested in VAET for his own sleep apnea, has Henry Schein / dental
+  connections, wants to help CSA reach dentists. Worth a follow-up call.
+- **Sal Rodas** — Marine-to-Marine outreach message still not drafted.
+  Full profile and guardrails retained below.
 
 When any of these are resolved, update this file.
