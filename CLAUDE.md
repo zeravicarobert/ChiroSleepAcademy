@@ -487,8 +487,22 @@ Still open:
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
 - **Tecopa proposal template** — needs a written one-pager that lists what's included and what's not, every time
+- **Alec Zeck** (note spelling — *Alec*, not Alex) — host of **The Way Forward**
+  podcast. West Point B.S. in Systems Engineering, former **Army** Captain;
+  speaker/writer/podcaster, **not a chiropractor**. Robert is booked to appear
+  in person in Austin (podcast + VAET on Alec, Oct 14). He referred Robert to
+  Dr. Mauro Zappaterra after interviewing him on **Ep 71** (Feb 2024).
+  - **Brand-risk note:** *The Way Forward* is explicitly terrain-theory-over-
+    germ-theory (Andrew Kaufman, Tom Cowan, "Germs Are Friends"). Per §5, CSA
+    must never read as fringe or anti-science, and CSA's partners are
+    MD-read HST, dentists, and the Foundation for Airway Health. The risk is
+    **association, not content**, and the audiences barely overlap (the show
+    reaches patients; CSA sells to DCs). Robert's call, and a defensible yes —
+    but on the episode stay strictly in lane (structure, airway, sleep, HST;
+    no germ theory, no vaccines, no CPAP-bashing), and keep the episode out of
+    CSA's professional-facing materials and the Sal Rodas pitch.
 - **Dr. Mauro Zappaterra, MD, PhD** — CSF researcher, referred to Robert by
-  **Alex Zeck** on 2026-08-21. Harvard MD/PhD; doctoral work on cerebrospinal
+  **Alec Zeck** on 2026-08-21. Harvard MD/PhD; doctoral work on cerebrospinal
   fluid in brain development; ~20 years on CSF; *Neuron* cover image. Clinically
   PM&R — Director of Regenerative Medicine & Clinical Research at Synovation
   Medical Group, staff physician at VA Greater Los Angeles, office in
@@ -508,8 +522,8 @@ Still open:
     from practitioners before. Being the DC who *doesn't* do that is the entire
     differentiator.
   - **Status:** drafts ready at `outreach/2026-08-21-mauro-zappaterra.md` —
-    text to Alex asking for a double opt-in intro, forwardable blurb, and the
-    email to Mauro. Next action: text Alex within 72 hours; Zoom from Europe;
+    text to Alec asking for a double opt-in intro, forwardable blurb, and the
+    email to Mauro. Next action: text Alec within 72 hours; Zoom from Europe;
     in-person Pasadena Sept 14–15.
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient interested in VAET for his own sleep apnea, has Henry Schein / dental connections, wants to help CSA reach dentists. Worth a follow-up call.
 - **Sal Rodas** — strategic liaison target for exposure into the dental

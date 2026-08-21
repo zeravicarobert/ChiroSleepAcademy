@@ -51,8 +51,8 @@ Everything below is sorted by **what happens if you miss it.**
 ### Tier 2 — High leverage. Move heaven, not earth.
 | Event | When | Notes |
 |---|---|---|
-| **Dr. Mauro Zappaterra intro** | **Within 72 hrs** | Alex Zeck's referral. CSF researcher, MD/PhD Harvard, **based in Pasadena**. Referrals decay in days — this is now the most time-sensitive item you have. See `outreach/2026-08-21-mauro-zappaterra.md`. |
-| **Alex Zeck — podcast + VAET** | Oct 14 (+ Oct 16) | **In person, Austin TX.** Both halves need you physically there. Audience reach *and* a real case study. |
+| **Dr. Mauro Zappaterra intro** | **Within 72 hrs** | Alec Zeck's referral. CSF researcher, MD/PhD Harvard, **based in Pasadena**. Referrals decay in days — this is now the most time-sensitive item you have. See `outreach/2026-08-21-mauro-zappaterra.md`. |
+| **Alec Zeck — podcast + VAET** | Oct 14 (+ Oct 16) | **In person, Austin TX.** Both halves need you physically there. Audience reach *and* a real case study. |
 | **ARK Liberland — gear + treat 2+** | Today/tomorrow | Real VAET/CMT reps + Liberland network. Floating Man runs thru Aug 24, so bodies are there now. |
 | **Simon Severino Zoom** | Aug 26, 7pm | Paid strategy. Reschedulable but costly to burn. |
 
@@ -167,7 +167,7 @@ This is the default. It's the only scenario where nothing gets cancelled.
 - Sept 9: fly LAX → Florida.
 
 **Thu Sept 10 — FabLife Florida, Day 1.**
-- *Alex Zeck offered this date. It's declined —* taking it costs all three FabLife days plus
+- *Alec Zeck offered this date. It's declined —* taking it costs all three FabLife days plus
   a round trip to Austin, and October gives you the same thing for free.
 
 **Fri Sept 11 — FabLife Day 2. → Evening flight FL → LAX.**
@@ -213,14 +213,14 @@ Outside the Oct 1 window, but the decisions are due now.
 |---|---|---|
 | **Sat Oct 10** | San Diego Serbian Festival, 12pm–11pm | Serbian diaspora. Same cultural network as the Jokic play. Worth more than "a festival." |
 | **Tue Oct 13** | Fly → Austin | |
-| **Wed Oct 14** | 🎯 **Alex Zeck — VAET, then podcast** | Same day, in that order. See below. |
+| **Wed Oct 14** | 🎯 **Alec Zeck — VAET, then podcast** | Same day, in that order. See below. |
 | **Thu Oct 15** | Rest day *or* Austin → Vegas Speakeasy 6–9pm | The fork. See below. |
-| **Fri Oct 16** | 🎯 **Alex Zeck — VAET session 2 + reassessment** | Only if you take the Austin option. |
+| **Fri Oct 16** | 🎯 **Alec Zeck — VAET session 2 + reassessment** | Only if you take the Austin option. |
 
 ### Do the VAET first, podcast second — same day
 
 This is the single highest-value sequencing change available to you. If you record the
-podcast *before* you put hands on Alex, he can only talk about VAET in the abstract. If you
+podcast *before* you put hands on Alec, he can only talk about VAET in the abstract. If you
 treat him first and record after, **he describes what he felt an hour ago, on mic.** That is
 a firsthand account instead of an interview — a categorically better episode, and an honest
 one, because he's reporting his own experience rather than repeating your claims.
@@ -234,8 +234,8 @@ November.
 
 Why this wins: a treat-settle-reassess arc is real clinical work and real evidence. One-off
 sessions produce a nice anecdote; a documented two-session arc with a day between produces a
-**case study you can actually use** — and Alex has an audience, so his before/after travels.
-Alex offered you both Oct 14 and Oct 16. He's telling you he has the bandwidth. Take it.
+**case study you can actually use** — and Alec has an audience, so his before/after travels.
+Alec offered you both Oct 14 and Oct 16. He's telling you he has the bandwidth. Take it.
 
 **Option B — Austin then Vegas.**
 Oct 14: VAET + podcast. Oct 15: fly Austin → Vegas for Speakeasy. Cheaper on time, but you
@@ -266,13 +266,13 @@ door opens exactly once. Credibility is the whole asset.
 
 | Item | Owner | Due |
 |---|---|---|
-| **Text Alex Zeck — thanks + ask for the Zappaterra intro** | Robert | **Within 72 hrs** |
+| **Text Alec Zeck — thanks + ask for the Zappaterra intro** | Robert | **Within 72 hrs** |
 | Verify Avis drop-off local time (Conf 759184438) | Robert | **Today** |
 | Verify UA 2854 date — Sept 4 vs Sept 5 | Robert | Before Sept 1 |
 | Verify Speakeasy — Sept 17 vs 18 | Robert | Before Sept 15 |
 | Confirm Severino 7pm Zoom — CEST or PT? | Robert | Before Aug 26 |
 | **Europe decision: Scenario A / B / C** | Robert | **Aug 24** |
 | Book flights for Book To Buyer (origin depends on ↑) | Robert | Aug 24–28 |
-| Confirm Austin trip with Alex: Oct 14 podcast + VAET, and ask to hold Oct 16 | Robert → Alex | This week |
+| Confirm Austin trip with Alec: Oct 14 podcast + VAET, and ask to hold Oct 16 | Robert → Alec | This week |
 | Book FL→LAX **Sept 11 evening** (saves both Sept 12 events) | Robert | Before Sept 5 |
 | Decide FabLife vs ANGLICO — *only if you skip the Sept 11 evening flight* | Robert | Sept 5 |
