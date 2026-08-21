@@ -87,10 +87,55 @@ Marine-to-Marine opener that works with Sal Rodas.
 CSA's thesis is *skull-down, sleep-first*. The honest weak point in that thesis
 has always been **mechanism**: why should structural work matter to sleep?
 
-The answer CSA has leaned on is airway patency. That's real — but it's the
-same claim every dental sleep practice makes. It doesn't differentiate CSA, and
-it puts chiropractic in the position of doing a worse version of what a dentist
-does better.
+The answer CSA has leaned on is airway patency. That's real — but on *that
+specific claim*, a dental sleep practice is better equipped. Four concrete
+reasons, worth naming plainly rather than glossing:
+
+1. **The appliance is present during the event.** A custom mandibular
+   advancement device holds the mandible forward for all 7–8 hours of sleep,
+   every night. Apnea only happens while asleep. An adjustment is episodic —
+   it happens, then the patient drives home. For a condition that *is* the
+   night, an intervention that's in the mouth during the night has a structural
+   advantage no amount of technique quality overcomes.
+2. **It's titratable.** A DDS can advance the device millimeter by millimeter
+   and re-test. That's a dose-response knob chiropractic doesn't have.
+3. **It has outcome data in the exact metric.** Oral appliance therapy has RCTs
+   and meta-analyses showing AHI reduction, and it sits in the AASM guidelines
+   as an accepted alternative for patients who can't tolerate CPAP.
+   Chiropractic has nothing comparable for AHI.
+4. **Skeletal airway development.** Airway-focused orthodontics — palatal
+   expansion, MSE/MARPE — physically enlarges the maxillary arch and nasal
+   floor, especially in children. That is real skeletal change on the airway,
+   and it is not in a DC's scope.
+
+**But "worse version of the same thing" was the wrong way to put it, and it's
+worth correcting** — because getting it right is what actually locates CSA's
+lane.
+
+A DDS and a DC are not doing the same job at different quality levels. They're
+working on **different structures**. A dental sleep practice does not treat the
+cervical spine, the cranial base, forward head posture, hyoid position, rib
+cage mechanics, or diaphragm function. Nobody in the airway conversation does —
+not the dentist, not the ENT, not the sleep physician. That territory is
+vacant, and it is chiropractic's.
+
+So the accurate statement is narrower and more useful:
+
+> If airway patency is CSA's *only* claim, CSA is competing on the dentist's
+> home turf with a weaker tool. Airway patency is not the only thing structure
+> does — but CSA has to be able to say what else it does, mechanistically,
+> without overclaiming.
+
+That is exactly the gap Zappaterra fills. And it's why the CSA model is
+collaborative with dentists rather than competitive: the DDS owns the mouth and
+the nightly appliance, CSA owns the neck, the cranial base, and the posture and
+breathing mechanics upstream of both. Neither one covers the other's ground.
+
+**One more asset worth counting, because it's badly underrated:** a DC sees a
+patient two or three times a week for months. No dentist, ENT, or sleep
+physician has that contact frequency. For screening, for tracking, and for
+compliance follow-through, that access is a genuine structural advantage — and
+it's the reason the CSA screening pathway is plausible at all.
 
 **CSF is a second mechanism, and it is the one that is uniquely
 chiropractic-adjacent.** Cranial work, SOT, CFR, and VAET have all invoked CSF
@@ -104,8 +149,10 @@ taken seriously by sleep medicine, *and* the openness to take a chiropractor's
 question seriously in the first place.
 
 Compare him to the existing bench (`CSA Relationship Strategies`): the DCs give
-CSA peers, the DDSs give CSA referral partners, Sal Rodas gives CSA a stage.
-**Zappaterra gives CSA a mechanism.** Nobody else on the list does.
+CSA peers, the DDSs give CSA referral partners and the nightly appliance CSA
+can't deliver, Sal Rodas gives CSA a stage. **Zappaterra gives CSA a
+mechanism** for the territory that is actually CSA's own. Nobody else on the
+list does.
 
 ---
 
