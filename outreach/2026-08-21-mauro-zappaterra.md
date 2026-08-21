@@ -62,9 +62,21 @@ his most relevant long-form interview is worth more than any amount of drafting.
 
 ### ⛔ The PRM landmine — the most important line in this file
 
-**Robert has watched roughly three quarters of Ep 71 and reports: Mauro
-recognizes craniosacral therapy, and does not accept the primary respiratory
-mechanism.**
+**⚠️ Sourcing note — read this before relying on any of it.** Everything in
+this section rests on a single dictated sentence from Robert on 2026-08-21:
+*"recognizes cranial sacral therapy, what he doesn't recognize is craniofacial
+therapy... nor the primary respiratory mechanism."* Claude has **not** heard
+Ep 71 — the transcript hosts are blocked — and found **nothing** in search
+about Mauro's views on the PRM or craniosacral therapy.
+
+Robert already corrected Claude's reading of the *first half* of that
+sentence, which means the second half is exactly as uncertain. **"Recognize"
+is ambiguous** — it can mean *doesn't accept as valid* or *isn't aware of*.
+Claude applied one reading to both halves without flagging the interpretation.
+That was the error.
+
+**Treat as: reported by Robert, not established.** Confirm from his Ep 71
+notes before the conversation.
 
 > **Correction on the record:** an earlier version of this file said Mauro also
 > rejects *craniofacial* therapy. That was Claude's inference from an ambiguous
@@ -78,6 +90,12 @@ sacrum does *something* — autonomic shift, fluid effects, tissue response —
 without accepting the **PRM** as a discrete, palpable, physiologic rhythm.
 The PRM's weak point is well known: inter-examiner reliability for palpating
 the cranial rhythmic impulse has repeatedly failed to hold up.
+
+**The recommendation survives the uncertainty, and that matters** — Robert
+doesn't need to resolve this before acting. Inter-examiner reliability for
+palpating the cranial rhythmic impulse is weak in the published literature.
+That's a fact about the PRM, not about Mauro. So leading with it is a bad bet
+whether he's hostile to it, unfamiliar with it, or has never considered it.
 
 **So: do not invoke the primary respiratory mechanism. Not once.**
 Not as a framing, not as an aside, not as "well, in our tradition we call it—".

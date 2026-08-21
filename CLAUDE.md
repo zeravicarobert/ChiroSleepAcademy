@@ -621,14 +621,24 @@ Still open:
     glymphatic dysfunction in severe OSA is at meta-analysis level. **The link
     from chiropractic intervention to CSF dynamics is UNPROVEN** — bring it to
     him as a question, never a claim.
-  - **⛔ PRM guardrail (from Ep 71, Robert watched ~3/4):** Mauro **recognizes
-    craniosacral therapy** and **does not accept the primary respiratory
-    mechanism.** Never invoke the PRM with him — not as framing, not as an
+  - **⛔ PRM guardrail — recommendation is solid, premise is UNVERIFIED.**
+    *Sourcing:* the only evidence is one sentence Robert dictated on
+    2026-08-21 — *"recognizes cranial sacral therapy, what he doesn't
+    recognize is craniofacial therapy... nor the primary respiratory
+    mechanism."* Claude has **not** heard Ep 71 and found **nothing** in
+    search on Mauro's position re: the PRM or craniosacral therapy. Robert
+    already corrected Claude's reading of the first half of that same
+    sentence, so the second half is equally uncertain — "recognize" may mean
+    *doesn't accept* or *isn't aware of*. **Do not treat as established.**
+    Confirm from Robert's Ep 71 notes.
+    *Why the advice holds anyway:* don't lead with the PRM with him — not as framing, not as an
     aside. The CSA argument doesn't need it: the respiration-drives-CSF
     literature is about *actual pulmonary respiration* (diaphragm,
-    intrathoracic pressure), which nobody disputes. Being the DC who says
-    "I don't need the cranial rhythm to make this argument" is the entire
-    differentiator.
+    intrathoracic pressure), which nobody disputes. So the guardrail costs
+    nothing even if the premise is wrong — it is good practice whether Mauro
+    is hostile to the PRM, unfamiliar with it, or has no view at all. Being
+    the DC who says "I don't need the cranial rhythm to make this argument"
+    is the entire differentiator.
   - **Craniofacial therapy — position NOT established.** An earlier note here
     said Mauro rejects it. That was Claude's inference, not Robert's report,
     and Robert corrected it. **Do not assume he rejects craniofacial work.**
