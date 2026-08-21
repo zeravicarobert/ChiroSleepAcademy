@@ -231,6 +231,67 @@ account, so most of their CSA-relevant traffic shows up anyway — but a direct
 search of those two inboxes requires connecting them in Claude Code on the
 web → Settings → Connections.
 
+### What lives in `robertzeravica91324@gmail.com` (swept 2026-08-21)
+
+Robert temporarily pointed the Gmail connector at this account so it could be
+read directly. Findings:
+
+**1. CSA's website contact form has been collecting leads nobody answers.**
+`chiropracticsleepacademy.com` form submissions land here, not in Robert's
+primary inbox. Four are open, the oldest from January. The best of them —
+**Dr. Bonnie Whittingham**, a Gold Coast DC asking to do the sleep test
+internationally — has been waiting since **2026-02-27**. Full list and
+recommended replies: `outreach/csa-website-inbound-leads.md`.
+
+This reframes the section 10 funnel gap. The problem is not that nothing
+catches strangers. Something does. Nobody empties the bucket.
+
+**2. There is a second, separate GoDaddy site** with its own "Customer
+Support" contact form and a different venture ID, tied to an offer called
+**W2 Exodus Blueprint** (California W2 workers; connects to the SDI/EDD
+material Peter and Robert worked on in June). Distinct from CSA — worth
+keeping the two funnels from bleeding into each other.
+
+**3. Zeravica Chiropractic Inc is a live, running practice.** This inbox
+carries the daily operational traffic: PatientEngagePro appointment
+confirmations and unconfirmed-appointment reports (5–7 pending at a time),
+patient messages, ChiroTouch portal links, Complete Controller / QuickBooks
+bookkeeping, Talk2CC, and SingerLewak (CPA). CSA memory had no record that
+Robert is simultaneously running a full clinic — relevant to any plan that
+assumes his calendar is free.
+
+**Patient-identifiable material stays out of this repo.** The inbox contains
+named patients with appointment and clinical detail. Nothing patient-
+identifiable is recorded here or in any repo file; that matches the
+de-identification standard section 8 already sets for outcomes data.
+
+**4. Airway/sleep vendor and training threads unique to this account:**
+- **Sleep Group Solutions** (Krissy Bongato) — Robert inquired about the
+  **Eccovision Pharyngometer** to objectively measure airway change. His
+  7/16 reply is a clean statement of the CSA model: "I'm not a dental
+  practice. I'm a chiropractic practice. We do viscerocranial airway
+  expansion technique with the balloons. We are looking to measure our
+  patient's successes thru..." An objective in-office airway measurement
+  device would strengthen the outcomes story considerably. No resolution.
+- **MyoMentor** — heavy marketing for a 12-week myofunctional therapy
+  certification; September cohort. Myofunctional therapy is adjacent to the
+  CSA model and a plausible skill/credential add.
+- **Peak Potential Institute / Dr. Martin Rosen** — SOT courses including
+  DeJarnette's 1977 Sutural Technique, starting Sept 8. SOT DCs are CSA's
+  primary audience (section 3).
+- **Dr. Blum / ACC RAC** — recurring "Time to Share Your Clinical Findings"
+  calls for SOT case submissions. A legitimate, on-brand venue for CSA to
+  publish clinical findings without overclaiming.
+- **Dr. Jessica Waller** — Myofunctional Orthodontic Evaluation webinar
+  (attended 7/6).
+
+**5. Otter.ai and Zoom recordings** of Robert's meetings accumulate here,
+including a **Jay Abraham "Cracking the Code — Relationship Capital"**
+session (7/20) whose summary notes Robert "shared his success in securing an
+invested partner for his chiropractic sleep" work, and "Dr Z Executive
+Marketing Meeting" notes with Kevin and Santiago about a photo shoot. These
+are an unmined transcript archive.
+
 ### Existing CSA assets discovered
 
 - **`CSA Relationship Strategies`** (Google Sheet, owned by
