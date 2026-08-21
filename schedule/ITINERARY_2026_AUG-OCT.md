@@ -83,7 +83,20 @@ These are already ghost-booked across your travel weeks. Ignore them; they'll re
 
 ---
 
-## 3. The One Real Decision: Europe — Decide by Aug 24
+## 3. ~~The One Real Decision: Europe~~ — ✅ RESOLVED Aug 21
+
+> **The gate closed early. Sombor produced a hard no from the head trainer and
+> no Jokic contact. → Scenario A: come home early.**
+>
+> Book the Book-To-Buyer flight from Europe → LAX (not → LAS), keep the Sept 4
+> Burbank flight, the Delfina road trip, FabLife, ANGLICO, and Book To Buyer.
+> Montenegro Aug 27–31 is optional and still available.
+>
+> Post-mortem and approach doctrine: `CLAUDE.md` §14c.
+
+The original decision framework is kept below for the record.
+
+## 3b. The Original Gate (for the record)
 
 You said you're flexible, and floated Montenegro / Poland / Prague. Don't flip a coin on this.
 **Gate it on what happens today in Sombor.**

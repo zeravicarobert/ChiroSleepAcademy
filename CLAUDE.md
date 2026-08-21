@@ -506,6 +506,63 @@ these in future sessions.
 
 ---
 
+## 14c. Approach Doctrine — Learned the Hard Way, 2026-08-21
+
+**The Sombor Hipodrome attempt failed.** Robert drove to the facility where
+Jokic's horses are kept, was offered an introduction by a man walking a horse,
+met the head trainer, and was refused outright — no interest in a cryotherapy
+demonstration. He went back to clarify and the introducer reiterated the no.
+
+**The structural read — not a character issue:**
+
+- **He asked the person with all the downside and none of the upside.** A head
+  trainer at an elite racing operation gains marginally if a novel therapy
+  works and loses his career if anything goes wrong with a Jokic horse. *No* is
+  the rational professional answer. It likely wasn't about Robert, his
+  technique, or his manner. Racing operations also carry real veterinary
+  gatekeeping and rules about what may be applied to a competing animal.
+- **The horses were instrumental.** The actual goal was horses → trainer →
+  good word → Jokic. Approaches that are really about access to someone else
+  read as instrumental even when unspoken.
+- **The re-approach is the correctable error.** The trainer's no cost nothing.
+  The man who offered the introduction was the only asset at that facility, and
+  going back through him after his boss refused is what puts *him* in a bad
+  position. That is the relationship most likely damaged.
+- **The irony worth remembering:** the same day, Robert was correctly building
+  a warm double-opt-in referral path to Zappaterra through Alec Zeck. He knows
+  the method. He didn't apply it where the prize was largest.
+
+**Doctrine going forward:**
+
+1. **High-value targets are where cold approaches fail hardest**, not where
+   they pay off. The bigger the name, the more gatekeeping exists specifically
+   to filter unannounced arrivals. That is the gatekeeper's job, not an insult.
+2. **Never ask someone to carry risk for a benefit that accrues to you.** Find
+   the person whose upside is real.
+3. **Earn the warrant before the elite door.** Get results where stakes are low
+   and a decision-maker has upside — a non-elite stable, a willing patient —
+   then arrive at the elite door with a reference instead of enthusiasm.
+4. **One no per visit.** Do not go back the same day to re-litigate. It
+   converts a soft no to a hard no and burns the introducer.
+5. **Protect the introducer above the target.** Send a short no-ask thank-you
+   after a failed approach. The target was never the asset; the person willing
+   to walk you in was.
+6. **Rejection is not evidence the other party is losing out.** *"A shame for
+   them"* is the sting talking, and if it hardens into *"they weren't ready for
+   this"* it stops the approach from improving. Per §5, CSA's edge is not
+   being that person.
+
+**Jokic pathway — still open, different door.** Not through staff with downside
+risk. Either (a) build equine results at a lower-stakes stable first, or (b)
+come through the Serbian network — the **San Diego Serbian Festival, Oct 10**,
+already on the calendar, is a warmer door than a cold walk-up in Sombor.
+
+**Note the trip still produced its intended output:** it was structured as a
+gate (see `schedule/ITINERARY_2026_AUG-OCT.md` §4). A clear no in four hours is
+real information, cheaply bought.
+
+---
+
 ## 15. Open Questions to Revisit in Future Sessions
 
 Resolved during intake:
@@ -520,6 +577,11 @@ Resolved during intake:
 - ~~HST vendor candidates~~ → **Sleep Doctor (active), self-supplied + Will Spriggs (existing), unnamed free-DC-testing vendor, SleepImage (researching) — see section 8**
 
 Still open:
+- ~~Europe: stay or come home?~~ → **RESOLVED 2026-08-21 → Scenario A, come
+  home early.** The gate was "named Jokic contact → stay." Sombor produced a
+  hard no and no contact. Keep the Delfina road trip, FabLife, ANGLICO, and
+  Book To Buyer; optional Montenegro leg Aug 27–31. See
+  `schedule/ITINERARY_2026_AUG-OCT.md` §5.
 - **HST vendor decision** — which vendor becomes the CSA *default*? The
   $50 cost ceiling vs. Sleep Doctor's $189 cash-pay creates a margin
   tension that needs a clear answer (insurance-first model, $397
