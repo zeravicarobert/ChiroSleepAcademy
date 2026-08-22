@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-22
 
 ---
 
@@ -168,6 +168,15 @@ Sleep & Airway Consultation:
 - Epworth, STOP-BANG, CSA questionnaire
 - Mallampati score, tongue scalloping
 - Visual cranial-postural screen (frontal, zygomatic, TMJ/earlobe, occipital, FHP)
+
+The full written exam that operationalizes this phase lives at
+`clinical/vaet-initial-evaluation.md` — a 23-page form covering consent,
+sleep history, Epworth/STOP-BANG/BOLT, intraoral and Mallampati exam, the
+**seven jaw-and-posture signs**, cranial and standing postural analysis, a
+**13-photo protocol** (1 intraoral + 4 face + 4 neck + 4 standing), the
+HST/CBCT pathway, VAET candidacy and contraindication screening, and a
+re-exam tracking card. It is the same instrument whether the patient is a
+DC going through Phase 1 or a DC's own patient in Phase 4.
 
 ### Phase 2 — HST-Based Case Development
 Replace the old DC flow (Consult → Exam → X-ray → ROF) with:
@@ -459,6 +468,10 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
+- `/clinical` — chairside clinical forms and protocols. Holds the
+  **VAET New Patient Initial Evaluation & Examination** (`vaet-initial-evaluation.md`,
+  master source) plus a generated print-ready HTML and its build script. See
+  `clinical/README.md`. Edit the markdown, never the HTML.
 - Future: `/site` for the public site, `/content` for course/educational
   assets, `/outreach` for templates and trackers. Structure to be added
   when first needed — not before.

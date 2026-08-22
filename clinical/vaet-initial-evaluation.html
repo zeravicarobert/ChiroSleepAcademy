@@ -1,0 +1,2438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSA / VAET — New Patient Initial Evaluation &amp; Examination</title>
+<style>
+:root {
+  --ink: #14181d;
+  --muted: #5a636e;
+  --rule: #c9d0d8;
+  --rule-soft: #e4e9ee;
+  --accent: #1d4e6b;
+  --tint: #f4f7f9;
+  --warn: #fdf6e8;
+  --warn-rule: #d9b45f;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: 2.2rem 2rem 4rem;
+  font-family: "Source Sans Pro", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.5;
+  color: var(--ink);
+  background: #fff;
+  max-width: 8.5in;
+  margin-inline: auto;
+}
+h1 {
+  font-size: 19pt;
+  line-height: 1.2;
+  margin: 0 0 .35rem;
+  color: var(--accent);
+  letter-spacing: -.01em;
+}
+h2 {
+  font-size: 13pt;
+  margin: 2.1rem 0 .7rem;
+  padding: .3rem .55rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 3px;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+h3 {
+  font-size: 11.5pt;
+  margin: 1.35rem 0 .45rem;
+  color: var(--accent);
+  border-bottom: 1.5px solid var(--rule);
+  padding-bottom: .18rem;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+h4 { font-size: 10.5pt; margin: 1rem 0 .3rem; page-break-after: avoid; }
+p { margin: .5rem 0; }
+hr { border: 0; border-top: 1px solid var(--rule-soft); margin: 1.5rem 0; }
+strong { font-weight: 700; }
+em { color: var(--muted); }
+code {
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 9.5pt;
+  background: var(--tint);
+  padding: .05rem .28rem;
+  border-radius: 2px;
+}
+pre {
+  background: var(--tint);
+  border: 1px solid var(--rule-soft);
+  border-left: 3px solid var(--accent);
+  padding: .55rem .7rem;
+  border-radius: 3px;
+  overflow-x: auto;
+}
+pre code { background: none; padding: 0; }
+blockquote {
+  margin: .9rem 0;
+  padding: .6rem .85rem;
+  background: var(--warn);
+  border-left: 3px solid var(--warn-rule);
+  border-radius: 0 3px 3px 0;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+blockquote > :first-child { margin-top: 0; }
+blockquote > :last-child { margin-bottom: 0; }
+blockquote h2 {
+  background: none;
+  color: var(--ink);
+  font-size: 11.5pt;
+  padding: 0;
+  margin: 0 0 .4rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .6rem 0 1rem;
+  font-size: 9.5pt;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+th, td {
+  border: 1px solid var(--rule);
+  padding: .3rem .4rem;
+  text-align: left;
+  vertical-align: top;
+}
+th { background: var(--tint); font-weight: 700; }
+tbody tr:nth-child(even) td { background: #fbfcfd; }
+/* blank cells are write-in space — give the pen room */
+td:empty { height: 1.6rem; }
+ul, ol { margin: .5rem 0; padding-left: 1.3rem; }
+li { margin: .22rem 0; }
+
+/* hand-fill affordances */
+.box {
+  display: inline-block;
+  width: .78em;
+  height: .78em;
+  border: 1.3px solid var(--muted);
+  border-radius: 2px;
+  margin-right: .18em;
+  vertical-align: -.03em;
+}
+.fill {
+  display: inline-block;
+  border-bottom: 1px solid var(--muted);
+  min-width: 2.4em;
+  vertical-align: baseline;
+}
+
+@media print {
+  body { padding: 0; font-size: 9.5pt; }
+  h2 { page-break-before: auto; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  th, blockquote, tbody tr:nth-child(even) td {
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  }
+  a { color: inherit; text-decoration: none; }
+}
+@page { size: letter; margin: 0.6in 0.55in; }
+</style>
+</head>
+<body>
+<h1>CSA / VAET — New Patient Initial Evaluation &amp; Examination</h1>
+<p><strong>Chiropractic Sleep Academy · Structural Airway Chiropractic</strong>
+Form version 1.0 · Last updated 2026-08-22</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Patient</strong> <span class="fill" style="width:13.2em"></span></td>
+<td><strong>DOB</strong> <span class="fill" style="width:6.2em"></span></td>
+<td><strong>Chart #</strong> <span class="fill" style="width:6.2em"></span></td>
+</tr>
+<tr>
+<td><strong>Date of exam</strong> <span class="fill" style="width:6.2em"></span></td>
+<td><strong>Examiner</strong> <span class="fill" style="width:9.7em"></span></td>
+<td><strong>Visit type</strong> <span class="box"></span> New <span class="box"></span> Re-eval</td>
+</tr>
+<tr>
+<td><strong>Referred by</strong> <span class="fill" style="width:13.2em"></span></td>
+<td><strong>Source</strong> <span class="box"></span> Self <span class="box"></span> DC <span class="box"></span> DDS <span class="box"></span> MD/ENT</td>
+<td><strong>Other</strong> <span class="fill" style="width:6.2em"></span></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<blockquote>
+<h2>Scope statement — read to every patient, recorded on every form</h2>
+<p>This is a <strong>structural</strong> evaluation. As a chiropractor I do <strong>not</strong> diagnose
+obstructive sleep apnea or any sleep disorder. Diagnosis comes from a
+physician reading a sleep study. My job is to examine the structure around
+your airway — skull, jaw, neck, and posture — to screen for signs that
+warrant objective testing, to educate you, to refer when appropriate, and to
+deliver structural care.</p>
+<p>Structural airway care, including VAET, is <strong>not</strong> a cure for sleep apnea and
+is <strong>not</strong> a replacement for CPAP, an oral appliance, surgery, or any care
+your physician or dentist has prescribed. It is one layer of a
+multidisciplinary picture.</p>
+<p>Patient initials confirming this was explained: <span class="fill" style="width:4.4em"></span></p>
+</blockquote>
+<hr />
+<h2>Section 0 — Consent &amp; administrative</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Informed consent for examination signed</td>
+<td><span class="box"></span> Yes  Date: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td><strong>Clinical photography consent signed</strong> (required before Section G)</td>
+<td><span class="box"></span> Yes  Date: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td>Separate <strong>marketing/teaching use</strong> photo consent</td>
+<td><span class="box"></span> Yes  <span class="box"></span> No  <span class="box"></span> Declined</td>
+</tr>
+<tr>
+<td>Consent to share findings with DDS / MD / ENT (named below)</td>
+<td><span class="box"></span> Yes  <span class="box"></span> No</td>
+</tr>
+<tr>
+<td>Release-of-information forms on file</td>
+<td><span class="box"></span> Yes  <span class="box"></span> N/A</td>
+</tr>
+<tr>
+<td>HIPAA notice provided</td>
+<td><span class="box"></span> Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Named collaborating providers (with consent to communicate):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Name</th>
+<th>Practice</th>
+<th>Phone / email</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary care MD</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sleep physician</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dentist / DDS</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ENT</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Other DC</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Photos are protected health information.</strong> Capture on a clinic-controlled
+device, transfer to the secure patient record, and delete from the camera
+roll the same day. Never text or email patient photos through an unsecured
+channel. Marketing use requires the second, separate consent above — a
+clinical consent is not permission to publish.</p>
+</blockquote>
+<hr />
+<h2>Section A — Sleep &amp; airway history</h2>
+<p><strong>In the patient's own words — what brought you in?</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>A1. Core sleep symptoms</h3>
+<table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>No</th>
+<th>Sometimes</th>
+<th>Often</th>
+<th>Nightly</th>
+<th>Notes / who reports it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Snoring</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Witnessed pauses in breathing</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td>Reported by: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td>Gasping / choking awakenings</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Waking unrefreshed</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Daytime sleepiness / fatigue</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Morning headache</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Dry mouth on waking</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Morning jaw soreness / tightness</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Teeth grinding / clenching (heard or told)</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Nocturia (waking to urinate)</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td>Times/night: <span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>Insomnia / frequent awakenings</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Restless legs / limb movements</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Nasal congestion at night</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Mouth breathing (day)</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Mouth breathing (night)</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Reflux / GERD at night</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Brain fog / memory / concentration</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Mood change, irritability</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>A2. Sleep pattern</h3>
+<ul>
+<li>Typical bedtime: <span class="fill" style="width:4.4em"></span>  Wake time: <span class="fill" style="width:4.4em"></span>  Total sleep: <span class="fill" style="width:2.6em"></span> hrs</li>
+<li>Sleep position: <span class="box"></span> Supine  <span class="box"></span> Side (<span class="box"></span> L <span class="box"></span> R)  <span class="box"></span> Prone  <span class="box"></span> Recliner  <span class="box"></span> Elevated head</li>
+<li>Position-dependent snoring (worse on back)? <span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Unknown</li>
+<li>Bed partner? <span class="box"></span> Yes <span class="box"></span> No — partner's observation: <span class="fill" style="width:13.2em"></span></li>
+<li>Alcohol within 3 hrs of bed: <span class="box"></span> Never <span class="box"></span> Occasional <span class="box"></span> Regular</li>
+<li>Sedatives / sleep aids / muscle relaxers: <span class="fill" style="width:13.2em"></span></li>
+<li>Caffeine after noon: <span class="box"></span> Yes <span class="box"></span> No — amount: <span class="fill" style="width:4.4em"></span></li>
+<li>Screens / light exposure at bedtime: <span class="fill" style="width:13.2em"></span></li>
+<li>Shift work or irregular schedule: <span class="box"></span> Yes <span class="box"></span> No — describe: <span class="fill" style="width:4.4em"></span></li>
+</ul>
+<h3>A3. Prior sleep &amp; airway workup</h3>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Done?</th>
+<th>Date</th>
+<th>Where / who</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Home sleep test (HST)</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td>AHI <span class="fill" style="width:2.4em"></span> ODI <span class="fill" style="width:2.4em"></span> min SpO2 <span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>In-lab polysomnogram</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td>AHI <span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>CPAP trial</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td>Compliance: <span class="fill" style="width:2.4em"></span> hrs/night; tolerated? <span class="box"></span> Y <span class="box"></span> N</td>
+</tr>
+<tr>
+<td>Oral appliance</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td>Type: <span class="fill" style="width:4.4em"></span> tolerated? <span class="box"></span> Y <span class="box"></span> N</td>
+</tr>
+<tr>
+<td>Airway/sleep surgery (UPPP, septoplasty, turbinate, tonsil/adenoid, MMA)</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Orthodontics (<span class="box"></span> extraction <span class="box"></span> non-extraction <span class="box"></span> expander <span class="box"></span> headgear)</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Myofunctional therapy</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CBCT / cone beam imaging</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cervical / full-spine radiographs</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Allergy testing or treatment</td>
+<td><span class="box"></span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Why did prior care stop or fail?</strong> <span class="fill" style="width:20.2em"></span></p>
+<h3>A4. Developmental &amp; structural history</h3>
+<ul>
+<li>Childhood: <span class="box"></span> mouth breather <span class="box"></span> thumb/finger sucking <span class="box"></span> prolonged pacifier
+  <span class="box"></span> tongue tie <span class="box"></span> frequent ear infections <span class="box"></span> tonsils/adenoids removed (age <span class="fill" style="width:2.4em"></span>)
+  <span class="box"></span> chronic allergies <span class="box"></span> bedwetting past age 6 <span class="box"></span> snored as a child</li>
+<li>Breastfed? <span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Unknown — duration: <span class="fill" style="width:4.4em"></span></li>
+<li>Head/neck trauma: <span class="box"></span> MVA <span class="box"></span> concussion <span class="box"></span> fall <span class="box"></span> sports <span class="box"></span> dental/jaw injury
+  <span class="box"></span> birth trauma (forceps/vacuum/C-section) — dates &amp; detail:</li>
+</ul>
+<p><span class="fill" style="width:33.9em"></span></p>
+<ul>
+<li>Facial or jaw surgery: <span class="fill" style="width:23.8em"></span></li>
+</ul>
+<h3>A5. Medical</h3>
+<ul>
+<li>Diagnoses: <span class="box"></span> HTN <span class="box"></span> resistant HTN <span class="box"></span> AFib/arrhythmia <span class="box"></span> CHF <span class="box"></span> CAD/MI <span class="box"></span> stroke/TIA
+  <span class="box"></span> Type 2 diabetes <span class="box"></span> hypothyroid <span class="box"></span> obesity <span class="box"></span> depression/anxiety <span class="box"></span> asthma
+  <span class="box"></span> COPD <span class="box"></span> chronic sinusitis <span class="box"></span> autoimmune <span class="box"></span> chronic pain/fibromyalgia
+  <span class="box"></span> osteoporosis <span class="box"></span> cancer hx <span class="box"></span> seizure <span class="box"></span> other: <span class="fill" style="width:4.4em"></span></li>
+<li>Current medications &amp; supplements (list): <span class="fill" style="width:16.7em"></span></li>
+</ul>
+<p><span class="fill" style="width:33.9em"></span></p>
+<ul>
+<li>Anticoagulants / blood thinners: <span class="box"></span> Yes <span class="box"></span> No — which: <span class="fill" style="width:4.4em"></span></li>
+<li>Allergies: <span class="fill" style="width:13.2em"></span></li>
+<li>Surgeries: <span class="fill" style="width:13.2em"></span></li>
+<li>Pregnant or possibly pregnant: <span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> N/A</li>
+<li>Tobacco / vape: <span class="box"></span> Never <span class="box"></span> Former <span class="box"></span> Current — <span class="fill" style="width:2.6em"></span></li>
+<li>Recent weight change: <span class="box"></span> Gain <span class="box"></span> Loss <span class="box"></span> Stable — <span class="fill" style="width:2.6em"></span> lbs over <span class="fill" style="width:2.6em"></span> months</li>
+</ul>
+<hr />
+<h2>Section B — Screening instruments</h2>
+<p>These are <strong>screening tools, not diagnoses.</strong> They tell us whether objective
+testing is warranted and give us a number to re-measure later.</p>
+<h3>B1. Epworth Sleepiness Scale (ESS)</h3>
+<p><em>Chance of dozing: 0 = never · 1 = slight · 2 = moderate · 3 = high</em></p>
+<table>
+<thead>
+<tr>
+<th>Situation</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sitting and reading</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>Watching TV</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>Sitting inactive in a public place</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>As a passenger in a car for an hour without a break</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>Lying down to rest in the afternoon</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>Sitting and talking to someone</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>Sitting quietly after lunch without alcohol</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td>In a car, stopped for a few minutes in traffic</td>
+<td><span class="fill" style="width:2.4em"></span></td>
+</tr>
+<tr>
+<td><strong>Total (0–24)</strong></td>
+<td><strong><span class="fill" style="width:2.4em"></span></strong></td>
+</tr>
+</tbody>
+</table>
+<p>Interpretation: 0–7 normal · 8–9 mild · 10–15 moderate · 16–24 severe daytime sleepiness.
+<strong>≥ 11 is a flag</strong> — discuss driving/occupational safety and document that you did.</p>
+<h3>B2. STOP-BANG</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Item</th>
+<th>Yes</th>
+<th>No</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>S</strong></td>
+<td><strong>S</strong>noring loudly (louder than talking / heard through a door)</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td><strong>T</strong>ired, fatigued, or sleepy during the daytime</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>O</strong></td>
+<td><strong>O</strong>bserved to stop breathing, choke, or gasp during sleep</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>P</strong></td>
+<td>High blood <strong>P</strong>ressure (or treated for it)</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td><strong>B</strong>MI greater than 35 kg/m²</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td><strong>A</strong>ge over 50</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>N</strong></td>
+<td><strong>N</strong>eck circumference &gt; 17 in (43 cm) male / &gt; 16 in (41 cm) female</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>G</strong></td>
+<td><strong>G</strong>ender = male</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Total "Yes" (0–8)</strong></td>
+<td><strong><span class="fill" style="width:2.4em"></span></strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Risk banding: 0–2 low · 3–4 intermediate · <strong>5–8 high</strong>.
+Also high risk: STOP ≥ 2 <strong>plus</strong> male, or BMI &gt; 35, or neck circumference over threshold.</p>
+<h3>B3. Nasal breathing tolerance (BOLT / comfortable breath hold)</h3>
+<p>Seated, normal exhale, pinch nose, time until the <strong>first definite urge</strong> to
+breathe (not maximum breath hold). <strong>Seconds: <span class="fill" style="width:2.6em"></span></strong>
+Lower scores suggest a lower tolerance for nasal breathing and often track with
+mouth-breathing patterns. Re-measure at every re-evaluation.</p>
+<h3>B4. SnoreLab / home audio tracking</h3>
+<ul>
+<li>App used: <span class="box"></span> SnoreLab <span class="box"></span> Other: <span class="fill" style="width:4.4em"></span>  <span class="box"></span> Not yet started</li>
+<li>Baseline Snore Score: <span class="fill" style="width:2.6em"></span>  Nights recorded: <span class="fill" style="width:2.6em"></span>  Date range: <span class="fill" style="width:4.4em"></span></li>
+<li><strong>Instruction given:</strong> record a minimum of 5 nights before the Report of Findings.</li>
+<li>Notes: <span class="fill" style="width:30.8em"></span></li>
+</ul>
+<h3>B5. CSA structural-airway screen</h3>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Yes</th>
+<th>No</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Do you wake with your jaw or temples sore or tight?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Do you catch yourself clenching during the day?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Does your bite feel different on one side than the other?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Do you have trouble opening your mouth wide?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Does your jaw click, pop, or catch?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Is your neck tight or achy most days?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Has anyone told you your head sits forward?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Do you breathe through your mouth without thinking about it?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Is one nostril usually more blocked than the other?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Does your posture get worse as the day goes on?</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>"Yes" count: <span class="fill" style="width:2.6em"></span> / 10</strong></p>
+<hr />
+<h2>Section C — Vitals &amp; anthropometrics</h2>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Value</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Height</td>
+<td><span class="fill" style="width:2.6em"></span> ft/in</td>
+<td></td>
+</tr>
+<tr>
+<td>Weight</td>
+<td><span class="fill" style="width:2.6em"></span> lbs</td>
+<td></td>
+</tr>
+<tr>
+<td>BMI</td>
+<td><span class="fill" style="width:2.6em"></span> kg/m²</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Neck circumference</strong> (at cricothyroid membrane)</td>
+<td><span class="fill" style="width:2.6em"></span> in</td>
+<td>M &gt; 17 in / F &gt; 16 in = flag</td>
+</tr>
+<tr>
+<td>Waist circumference</td>
+<td><span class="fill" style="width:2.6em"></span> in</td>
+<td></td>
+</tr>
+<tr>
+<td>Blood pressure (seated, R arm)</td>
+<td><span class="fill" style="width:2.6em"></span> / <span class="fill" style="width:2.6em"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Blood pressure (repeat / L arm)</td>
+<td><span class="fill" style="width:2.6em"></span> / <span class="fill" style="width:2.6em"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Resting pulse</td>
+<td><span class="fill" style="width:2.6em"></span> bpm</td>
+<td></td>
+</tr>
+<tr>
+<td>Resting SpO2 (room air)</td>
+<td><span class="fill" style="width:2.6em"></span> %</td>
+<td>Screening only</td>
+</tr>
+<tr>
+<td>Respiratory rate at rest</td>
+<td><span class="fill" style="width:2.6em"></span> /min</td>
+<td></td>
+</tr>
+<tr>
+<td>Resting breathing route</td>
+<td><span class="box"></span> Nasal <span class="box"></span> Oral <span class="box"></span> Mixed</td>
+<td>Observe before telling them you are watching</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Section D — Intraoral &amp; oropharyngeal examination</h2>
+<h3>D1. Modified Mallampati (photo required — see Section G, Photo 1)</h3>
+<p>Patient <strong>seated upright, head neutral, mouth opened maximally, tongue inside
+the mouth (not protruded), no phonation.</strong> Score what you can see:</p>
+<table>
+<thead>
+<tr>
+<th>Class</th>
+<th>What is visible</th>
+<th>Select</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>I</strong></td>
+<td>Soft palate, uvula, fauces, tonsillar pillars fully visible</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>II</strong></td>
+<td>Soft palate, fauces, and uvula visible</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>III</strong></td>
+<td>Soft palate and base of uvula only</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>IV</strong></td>
+<td>Hard palate only — soft palate not visible</td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recorded class: <span class="fill" style="width:2.6em"></span></strong>  Photo captured: <span class="box"></span> Yes</p>
+<blockquote>
+<p>Higher Mallampati class means a more crowded oropharynx. It is a
+<strong>screening observation</strong> that supports ordering objective testing — it is
+not a diagnosis and it does not predict any individual's study result.</p>
+</blockquote>
+<h3>D2. Friedman tongue position (tongue resting in mouth, not protruded)</h3>
+<p><span class="box"></span> I  <span class="box"></span> IIa  <span class="box"></span> IIb  <span class="box"></span> III  <span class="box"></span> IV   <strong>Recorded: <span class="fill" style="width:2.6em"></span></strong></p>
+<h3>D3. Tonsil grade (Brodsky 0–4)</h3>
+<p><span class="box"></span> 0 (surgically absent) <span class="box"></span> 1 (&lt;25%) <span class="box"></span> 2 (25–50%) <span class="box"></span> 3 (50–75%) <span class="box"></span> 4 (&gt;75%, "kissing")
+<strong>Recorded: <span class="fill" style="width:2.6em"></span></strong>  <span class="box"></span> Not visualized</p>
+<h3>D4. Tongue</h3>
+<table>
+<thead>
+<tr>
+<th>Finding</th>
+<th>Present</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Scalloping</strong> on lateral borders</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Moderate <span class="box"></span> Marked</td>
+</tr>
+<tr>
+<td>Macroglossia impression</td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Low tongue rest posture (not on palate)</td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Restricted lingual frenulum / tongue tie</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Anterior <span class="box"></span> Posterior</td>
+</tr>
+<tr>
+<td>Tongue-to-palate suction hold ("click and hold")</td>
+<td><span class="box"></span> Able <span class="box"></span> Unable</td>
+<td>Hold time: <span class="fill" style="width:2.4em"></span> sec</td>
+</tr>
+<tr>
+<td>Tongue elevation with mouth open (Kotlow / TRMR)</td>
+<td></td>
+<td>Ratio/impression: <span class="fill" style="width:2.6em"></span></td>
+</tr>
+<tr>
+<td>Deviation on protrusion</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Scalloping matters structurally:</strong> it is an imprint of the tongue pressing
+against the teeth — a sign the tongue may be crowded for space in the oral
+cavity, which is exactly the kind of structural finding that belongs in this
+exam.</p>
+<h3>D5. Palate, arches, and occlusion</h3>
+<table>
+<thead>
+<tr>
+<th>Finding</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Palatal vault</td>
+<td><span class="box"></span> Normal <span class="box"></span> High <span class="box"></span> Narrow/V-shaped <span class="box"></span> Cross-bite present</td>
+</tr>
+<tr>
+<td>Maxillary arch width</td>
+<td><span class="box"></span> Normal <span class="box"></span> Narrow</td>
+</tr>
+<tr>
+<td>Dental crowding</td>
+<td><span class="box"></span> None <span class="box"></span> Mild <span class="box"></span> Moderate <span class="box"></span> Severe</td>
+</tr>
+<tr>
+<td>Missing / extracted teeth (esp. bicuspids)</td>
+<td></td>
+</tr>
+<tr>
+<td>Angle classification</td>
+<td><span class="box"></span> I <span class="box"></span> II div 1 <span class="box"></span> II div 2 <span class="box"></span> III</td>
+</tr>
+<tr>
+<td>Overjet <span class="fill" style="width:2.6em"></span> mm · Overbite <span class="fill" style="width:2.6em"></span> mm · Open bite <span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Dental midline vs. facial midline</td>
+<td><span class="box"></span> Coincident <span class="box"></span> Deviated <span class="fill" style="width:2.4em"></span> mm to <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td><strong>Wear facets / attrition</strong></td>
+<td><span class="box"></span> None <span class="box"></span> Mild <span class="box"></span> Moderate <span class="box"></span> Severe — teeth: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td>Abfraction lesions / cervical notching</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td><strong>Linea alba</strong> (cheek ridge)</td>
+<td><span class="box"></span> <span class="box"></span> L <span class="box"></span> R <span class="box"></span> Bilateral</td>
+</tr>
+<tr>
+<td>Tongue/cheek indentations</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Torus palatinus / mandibularis</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Existing dental appliance</td>
+<td><span class="box"></span> Night guard <span class="box"></span> MAD <span class="box"></span> Retainer <span class="box"></span> Partial/denture <span class="box"></span> Implants</td>
+</tr>
+<tr>
+<td>Restorations, crowns, recent dental work</td>
+<td></td>
+</tr>
+<tr>
+<td>Gingival health / obvious decay</td>
+<td><span class="box"></span> Refer to DDS</td>
+</tr>
+</tbody>
+</table>
+<h3>D6. Nasal airway</h3>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Visible septal deviation</td>
+<td><span class="box"></span> None <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Turbinate appearance</td>
+<td><span class="box"></span> Normal <span class="box"></span> Enlarged <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Alar collapse on inspiration</td>
+<td><span class="box"></span> None <span class="box"></span> L <span class="box"></span> R <span class="box"></span> Bilateral</td>
+</tr>
+<tr>
+<td><strong>Cottle maneuver</strong> (lateral cheek traction improves airflow)</td>
+<td><span class="box"></span> Negative <span class="box"></span> Positive <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Nasal patency, each side occluded separately</td>
+<td>R: <span class="box"></span> Clear <span class="box"></span> Partial <span class="box"></span> Blocked · L: <span class="box"></span> Clear <span class="box"></span> Partial <span class="box"></span> Blocked</td>
+</tr>
+<tr>
+<td>60-second nasal-only breathing trial (lips sealed)</td>
+<td><span class="box"></span> Comfortable <span class="box"></span> Effortful <span class="box"></span> Could not complete</td>
+</tr>
+<tr>
+<td>Chronic allergy signs (allergic shiners, nasal crease)</td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Section E — The seven jaw-and-posture signs</h2>
+<p><strong>These are the specific screening signs the patient-facing "How Your Jaw
+Affects Your Posture" education piece covers.</strong> Every one gets tested, scored,
+and photographed where noted. Each entry below states the test, the record, and
+the honest structural reasoning — say it to the patient the same way.</p>
+<hr />
+<h3>E1. Jaw clenching / bruxism</h3>
+<p><strong>How to test</strong>
+- Palpate <strong>masseter</strong> and <strong>temporalis</strong> at rest and on clench — note bulk,
+  tone, and tenderness bilaterally.
+- Look for the corroborating intraoral signs from D5: wear facets, linea alba,
+  tongue scalloping, abfractions.
+- Ask about morning jaw soreness, morning headache in the temples, and bed
+  partner report of grinding sounds.</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Right</th>
+<th>Left</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Masseter bulk</td>
+<td><span class="box"></span> Normal <span class="box"></span> Hypertrophic</td>
+<td><span class="box"></span> Normal <span class="box"></span> Hypertrophic</td>
+</tr>
+<tr>
+<td>Masseter tenderness (0–10)</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+</tr>
+<tr>
+<td>Temporalis tenderness (0–10)</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+</tr>
+<tr>
+<td>Medial pterygoid tenderness (0–10)</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Daytime clenching awareness: <span class="box"></span> None <span class="box"></span> Occasional <span class="box"></span> Frequent</li>
+<li>Nighttime grinding reported by partner: <span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Unknown <span class="box"></span> No partner</li>
+<li>Night guard in use: <span class="box"></span> Yes <span class="box"></span> No — helping? <span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Partially</li>
+</ul>
+<p><strong>Overall clenching/bruxism impression:</strong> <span class="box"></span> None <span class="box"></span> Suspected <span class="box"></span> Probable <span class="box"></span> Marked</p>
+<p><strong>What we say about it</strong>
+Sustained clenching means sustained load through the masticatory system, and
+those muscles do not work in isolation from the neck. Elevated jaw-muscle
+activity and cervical muscle activity travel together, so persistent clenching
+belongs in a structural exam of the head and neck. Grinding is also frequently
+observed alongside disrupted breathing during sleep — which is one more reason
+to get objective sleep data rather than guess. <strong>We do not tell a patient their
+grinding is caused by apnea, and we do not tell them adjusting will stop the
+grinding.</strong></p>
+<p><strong>Refer out if:</strong> significant dental damage, cracked teeth, or a guard is
+needed → DDS.</p>
+<hr />
+<h3>E2. Forward head posture (FHP)</h3>
+<p><strong>How to test — measure it, don't eyeball it</strong>
+- <strong>Wall-occiput test:</strong> heels, buttocks, and upper back to the wall, chin
+  level. Measure the gap from wall to occiput. <strong>Normal = touches (0 cm).</strong>
+- <strong>Tragus-to-wall</strong> distance: <span class="fill" style="width:2.6em"></span> cm
+- <strong>Craniovertebral angle</strong> measured from the right lateral posture photo
+  (angle between the horizontal and the line from C7 spinous process to the
+  tragus). <strong>Larger angle = better alignment; roughly &lt; 50° is commonly
+  treated as forward head posture.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wall–occiput gap</td>
+<td><span class="fill" style="width:2.6em"></span> cm</td>
+</tr>
+<tr>
+<td>Tragus-to-wall</td>
+<td><span class="fill" style="width:2.6em"></span> cm</td>
+</tr>
+<tr>
+<td>Craniovertebral angle (from photo)</td>
+<td><span class="fill" style="width:2.6em"></span> °</td>
+</tr>
+<tr>
+<td>Tragus anterior to acromion (lateral photo, horizontal offset)</td>
+<td><span class="fill" style="width:2.6em"></span> cm</td>
+</tr>
+<tr>
+<td>Shoulder protraction / rounded shoulders</td>
+<td><span class="box"></span> None <span class="box"></span> Mild <span class="box"></span> Moderate <span class="box"></span> Marked</td>
+</tr>
+<tr>
+<td>Thoracic kyphosis</td>
+<td><span class="box"></span> Normal <span class="box"></span> Increased</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Grade:</strong> <span class="box"></span> None <span class="box"></span> Mild <span class="box"></span> Moderate <span class="box"></span> Marked</p>
+<p><strong>What we say about it</strong>
+Head position changes the geometry of the upper airway — carrying the head
+forward alters the space behind the tongue and changes how the muscles of the
+neck and jaw have to work. It also loads the cervical spine and changes how the
+rib cage moves, which changes the mechanics of breathing. That is the
+structural argument, and it is enough. <strong>Do not claim a specific percentage of
+lost lung capacity or oxygen</strong> — that number gets repeated on the internet and
+it is not something this exam measures.</p>
+<hr />
+<h3>E3. Uneven bite pressure</h3>
+<p><strong>How to test</strong>
+- Have the patient tap into their bite several times and report <strong>where they
+  feel first and hardest contact.</strong>
+- Palpate masseters bilaterally <strong>during</strong> clench and compare tone and timing.
+- Check dental midline vs. facial midline (D5).
+- Note any lateral shift of the mandible on closing.
+- Articulating paper, if used in-office: mark and record. Otherwise note that
+  the objective occlusal analysis belongs to the DDS.</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Patient-reported first/heaviest contact</td>
+<td><span class="box"></span> Even <span class="box"></span> Right <span class="box"></span> Left <span class="box"></span> Anterior <span class="box"></span> Posterior</td>
+</tr>
+<tr>
+<td>Masseter activation symmetry on clench</td>
+<td><span class="box"></span> Symmetric <span class="box"></span> R dominant <span class="box"></span> L dominant</td>
+</tr>
+<tr>
+<td>Mandibular shift on closure</td>
+<td><span class="box"></span> None <span class="box"></span> <span class="fill" style="width:2.4em"></span> mm to <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Occlusal wear pattern symmetry</td>
+<td><span class="box"></span> Symmetric <span class="box"></span> Asymmetric — heavier: <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Chewing-side preference</td>
+<td><span class="box"></span> None <span class="box"></span> R <span class="box"></span> L</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What we say about it</strong>
+An asymmetric bite means asymmetric muscle work, and asymmetric muscle work
+through the head and neck shows up in the postural exam. We document the
+asymmetry, we correlate it with what we see in the photos, and <strong>occlusion
+itself is the dentist's call</strong> — we coordinate, we do not adjust the bite.</p>
+<p><strong>Refer out if:</strong> notable occlusal asymmetry, a bite that changed recently, or
+an appliance that may be shifting it → DDS.</p>
+<hr />
+<h3>E4. Vertical opening — the "three fingers" test</h3>
+<p><strong>How to test — the finger test is the field version; millimeters are the record</strong>
+- Patient stacks index, middle, and ring fingers vertically between the
+  incisors. <strong>Passing = three fingers fit.</strong>
+- Then <strong>measure maximal interincisal opening (MIO)</strong> with a ruler or Boley
+  gauge. Typical adult range is roughly <strong>40–55 mm</strong>; <strong>under about 40 mm is
+  generally considered restricted.</strong> Add the overbite to the interincisal gap
+  for a true MIO.</p>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Three-finger test</td>
+<td><span class="box"></span> Passes <span class="box"></span> Two fingers only <span class="box"></span> One finger</td>
+</tr>
+<tr>
+<td><strong>Maximal interincisal opening</strong></td>
+<td><span class="fill" style="width:2.6em"></span> mm</td>
+</tr>
+<tr>
+<td>Overbite added</td>
+<td><span class="fill" style="width:2.6em"></span> mm  → <strong>Corrected MIO <span class="fill" style="width:2.6em"></span> mm</strong></td>
+</tr>
+<tr>
+<td>Pain limits opening?</td>
+<td><span class="box"></span> No <span class="box"></span> Yes — where: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td>Lateral excursion R <span class="fill" style="width:2.6em"></span> mm · L <span class="fill" style="width:2.6em"></span> mm</td>
+<td>(typical ≈ 8–12 mm each)</td>
+</tr>
+<tr>
+<td>Protrusion</td>
+<td><span class="fill" style="width:2.6em"></span> mm (typical ≈ 6–9 mm)</td>
+</tr>
+<tr>
+<td>Opening path</td>
+<td><span class="box"></span> Straight <span class="box"></span> Deviates and corrects (<span class="box"></span> L <span class="box"></span> R) <span class="box"></span> Deflects and stays (<span class="box"></span> L <span class="box"></span> R)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What we say about it</strong>
+Limited opening is limited joint and muscle motion. It tells us the
+masticatory system is guarding, and a guarded jaw sits on top of a guarded
+neck. <strong>Deflection that does not correct</strong> is a different finding than
+deviation that corrects — document which one you see, because it changes who
+else needs to look at this patient.</p>
+<p><strong>Refer out if:</strong> locking, sudden loss of opening, or a deflection that does
+not correct → DDS/TMD specialist before structural care escalates.</p>
+<hr />
+<h3>E5. Neck tension</h3>
+<p><strong>How to test</strong>
+Palpate a consistent grid every visit and score tenderness 0–10. Same order,
+same pressure, every time — that is what makes the re-exam meaningful.</p>
+<table>
+<thead>
+<tr>
+<th>Muscle / region</th>
+<th>Right (0–10)</th>
+<th>Left (0–10)</th>
+<th>Trigger point</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Suboccipitals</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Upper trapezius</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Levator scapulae</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>SCM</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Scalenes</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Splenius capitis / cervicis</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Cervical paraspinals</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Digastric / suprahyoid</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Infrahyoid</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cervical active range of motion</strong></p>
+<table>
+<thead>
+<tr>
+<th>Motion</th>
+<th>Degrees</th>
+<th>Pain?</th>
+<th>Typical</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Flexion</td>
+<td><span class="fill" style="width:2.6em"></span> °</td>
+<td><span class="box"></span></td>
+<td>~50°</td>
+</tr>
+<tr>
+<td>Extension</td>
+<td><span class="fill" style="width:2.6em"></span> °</td>
+<td><span class="box"></span></td>
+<td>~60°</td>
+</tr>
+<tr>
+<td>Rotation R</td>
+<td><span class="fill" style="width:2.6em"></span> °</td>
+<td><span class="box"></span></td>
+<td>~80°</td>
+</tr>
+<tr>
+<td>Rotation L</td>
+<td><span class="fill" style="width:2.6em"></span> °</td>
+<td><span class="box"></span></td>
+<td>~80°</td>
+</tr>
+<tr>
+<td>Lateral flexion R</td>
+<td><span class="fill" style="width:2.6em"></span> °</td>
+<td><span class="box"></span></td>
+<td>~45°</td>
+</tr>
+<tr>
+<td>Lateral flexion L</td>
+<td><span class="fill" style="width:2.6em"></span> °</td>
+<td><span class="box"></span></td>
+<td>~45°</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Segmental restriction noted at: <span class="fill" style="width:13.2em"></span></li>
+<li>Neck disability / pain scale (0–10) today: <span class="fill" style="width:2.6em"></span></li>
+<li>Cervical instability screen: <span class="box"></span> Negative <span class="box"></span> Positive — <strong>stop and refer if positive</strong></li>
+</ul>
+<p><strong>What we say about it</strong>
+Chronic neck tension is rarely a local problem. It is usually the neck
+compensating — for head position, for jaw load, for a breathing pattern that
+recruits accessory muscles. The suprahyoid and infrahyoid groups sit directly
+between the jaw and the airway, which is why they are on this grid and not just
+the traps.</p>
+<hr />
+<h3>E6. TMJ pain and joint function</h3>
+<p><strong>How to test</strong>
+- Palpate the joint <strong>laterally</strong> and via the <strong>external auditory meatus</strong>
+  (patient opens and closes) — grade tenderness bilaterally.
+- Auscultate or palpate for <strong>click, pop, or crepitus</strong> and note <strong>when in the
+  arc</strong> it occurs (opening vs. closing = reciprocal click).
+- <strong>Load test:</strong> gentle posterior/superior compression, note pain reproduction.
+- Note any locking, catching, or history of dislocation.</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Right</th>
+<th>Left</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lateral pole tenderness (0–10)</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+</tr>
+<tr>
+<td>Intra-auricular tenderness (0–10)</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="fill" style="width:2.6em"></span></td>
+</tr>
+<tr>
+<td>Click / pop</td>
+<td><span class="box"></span> Opening <span class="box"></span> Closing <span class="box"></span> Both <span class="box"></span> None</td>
+<td><span class="box"></span> Opening <span class="box"></span> Closing <span class="box"></span> Both <span class="box"></span> None</td>
+</tr>
+<tr>
+<td>Crepitus</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Reciprocal click</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Load test</td>
+<td><span class="box"></span> Neg <span class="box"></span> Pos</td>
+<td><span class="box"></span> Neg <span class="box"></span> Pos</td>
+</tr>
+<tr>
+<td>History of locking</td>
+<td><span class="box"></span> Open <span class="box"></span> Closed <span class="box"></span> None</td>
+<td><span class="box"></span> Open <span class="box"></span> Closed <span class="box"></span> None</td>
+</tr>
+<tr>
+<td>Pain with chewing</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Ear symptoms: <span class="box"></span> Fullness <span class="box"></span> Tinnitus <span class="box"></span> Pain <span class="box"></span> None — side: <span class="fill" style="width:4.4em"></span></li>
+<li>Headache pattern: <span class="box"></span> Temporal <span class="box"></span> Suboccipital <span class="box"></span> Frontal <span class="box"></span> Retro-orbital <span class="box"></span> None</li>
+<li>Facial pain distribution: <span class="fill" style="width:13.2em"></span></li>
+</ul>
+<p><strong>What we say about it</strong>
+The TMJ does not move independently of the cervical spine — jaw position and
+head position influence each other, and pain in one region commonly presents
+alongside dysfunction in the other. That is why the jaw is examined in a
+posture exam and the posture is examined in a jaw exam.</p>
+<p><strong>Refer out if:</strong> persistent locking, degenerative crepitus, suspected internal
+derangement, or pain that does not respond → DDS/TMD, imaging as indicated.</p>
+<hr />
+<h3>E7. Chronic mouth breathing</h3>
+<p><strong>How to test — observe before you announce you are observing</strong>
+- Watch <strong>lip seal at rest</strong> during history-taking, before the patient knows
+  it is being assessed.
+- <strong>Lip incompetence:</strong> do the lips rest apart at neutral?
+- <strong>Tongue rest posture:</strong> is the tongue on the palate or on the floor of the
+  mouth?
+- <strong>Nasal-only breathing trial:</strong> 60 seconds, lips sealed. Note effort.
+- <strong>BOLT / comfortable breath hold</strong> from B3.
+- Look for the associated signs: dry mouth, dry/chapped lips, gingival dryness,
+  long lower facial third, allergic shiners, a narrow high palate.</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lip seal at rest (observed)</td>
+<td><span class="box"></span> Competent <span class="box"></span> Incompetent <span class="box"></span> Strained seal</td>
+</tr>
+<tr>
+<td>Mentalis strain on lip closure</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Resting tongue posture</td>
+<td><span class="box"></span> Palatal <span class="box"></span> Low/floor <span class="box"></span> Interdental</td>
+</tr>
+<tr>
+<td>60-sec nasal-only trial</td>
+<td><span class="box"></span> Comfortable <span class="box"></span> Effortful <span class="box"></span> Failed</td>
+</tr>
+<tr>
+<td>BOLT (from B3)</td>
+<td><span class="fill" style="width:2.6em"></span> sec</td>
+</tr>
+<tr>
+<td>Dry mouth / dry lips</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Long lower facial third</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Allergic shiners / nasal crease</td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Habitual mouth-open posture in photos</td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Grade:</strong> <span class="box"></span> Nasal dominant <span class="box"></span> Mixed <span class="box"></span> Predominantly oral</p>
+<p><strong>What we say about it</strong>
+Nasal breathing supports tongue-to-palate posture; mouth breathing lets the
+tongue drop and the head drift forward to keep the airway open. That is a
+structural chain we can see, measure, and photograph. Chronic mouth breathing
+is also a reason to make sure the <strong>nose</strong> has been properly evaluated —
+if the nasal airway is obstructed, that is an ENT question, not a chiropractic
+one.</p>
+<p><strong>Refer out if:</strong> persistent nasal obstruction, suspected septal deviation,
+polyps, or chronic sinusitis → ENT.</p>
+<hr />
+<h3>E8. Seven-sign summary grid</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Sign</th>
+<th>Present</th>
+<th>Severity</th>
+<th>Objective value</th>
+<th>Photo ref</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Jaw clenching</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Mod <span class="box"></span> Marked</td>
+<td>Masseter R<span class="fill" style="width:2.4em"></span> L<span class="fill" style="width:2.4em"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Forward head posture</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Mod <span class="box"></span> Marked</td>
+<td>CVA <span class="fill" style="width:2.6em"></span>°</td>
+<td>LAT-R</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Uneven bite pressure</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Mod <span class="box"></span> Marked</td>
+<td>Midline dev <span class="fill" style="width:2.4em"></span> mm</td>
+<td>FACE-AP</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Restricted vertical opening</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Mod <span class="box"></span> Marked</td>
+<td>MIO <span class="fill" style="width:2.6em"></span> mm</td>
+<td>MOUTH</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Neck tension</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Mod <span class="box"></span> Marked</td>
+<td>Highest score <span class="fill" style="width:2.6em"></span></td>
+<td>NECK-*</td>
+</tr>
+<tr>
+<td>6</td>
+<td>TMJ pain</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Mod <span class="box"></span> Marked</td>
+<td><span class="box"></span> Click <span class="box"></span> Crepitus</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Chronic mouth breathing</td>
+<td><span class="box"></span></td>
+<td><span class="box"></span> Mild <span class="box"></span> Mod <span class="box"></span> Marked</td>
+<td>BOLT <span class="fill" style="width:2.6em"></span> sec</td>
+<td>FACE-AP</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Signs present: <span class="fill" style="width:2.6em"></span> / 7</strong></p>
+<hr />
+<h2>Section F — Cranial, facial &amp; postural examination</h2>
+<h3>F1. Cranial-facial screen (record on the frontal photo)</h3>
+<table>
+<thead>
+<tr>
+<th>Landmark</th>
+<th>Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frontal bone symmetry</td>
+<td><span class="box"></span> Symmetric <span class="box"></span> <span class="fill" style="width:2.4em"></span> higher/anterior on <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td><strong>Zygomatic</strong> prominence symmetry</td>
+<td><span class="box"></span> Symmetric <span class="box"></span> <span class="fill" style="width:2.4em"></span> on <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Orbital level (pupil line vs. horizontal)</td>
+<td><span class="box"></span> Level <span class="box"></span> <span class="fill" style="width:2.4em"></span> higher on <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td><strong>Earlobe / tragus level</strong></td>
+<td><span class="box"></span> Level <span class="box"></span> <span class="fill" style="width:2.4em"></span> higher on <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Ear rotation / protrusion</td>
+<td><span class="box"></span> Symmetric <span class="box"></span> <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Nasal septum / nasal tip deviation</td>
+<td><span class="box"></span> Midline <span class="box"></span> Deviated <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Facial midline (glabella–nasion–chin)</td>
+<td><span class="box"></span> Straight <span class="box"></span> Deviated <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Chin point (menton) deviation</td>
+<td><span class="box"></span> Midline <span class="box"></span> <span class="fill" style="width:2.4em"></span> mm <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Lower facial third proportion</td>
+<td><span class="box"></span> Balanced <span class="box"></span> Long <span class="box"></span> Short</td>
+</tr>
+<tr>
+<td>Mandibular plane angle impression</td>
+<td><span class="box"></span> Normal <span class="box"></span> Steep <span class="box"></span> Flat</td>
+</tr>
+<tr>
+<td>Chin–neck (submental) definition</td>
+<td><span class="box"></span> Defined <span class="box"></span> Obtuse</td>
+</tr>
+<tr>
+<td>Profile</td>
+<td><span class="box"></span> Straight <span class="box"></span> Convex (retrusive chin) <span class="box"></span> Concave</td>
+</tr>
+<tr>
+<td><strong>Retrognathia impression</strong></td>
+<td><span class="box"></span> None <span class="box"></span> Mild <span class="box"></span> Moderate <span class="box"></span> Marked</td>
+</tr>
+<tr>
+<td>Occipital fullness / flattening</td>
+<td><span class="box"></span> Symmetric <span class="box"></span> <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Cranial rhythm / motion findings (per technique)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>F2. Standing postural analysis (record on the standing photos)</h3>
+<p><strong>Anterior / posterior view — coronal plane</strong></p>
+<table>
+<thead>
+<tr>
+<th>Landmark</th>
+<th>Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Head tilt</td>
+<td><span class="box"></span> Level <span class="box"></span> <span class="fill" style="width:2.4em"></span>° to <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Head translation (lateral)</td>
+<td><span class="box"></span> Centered <span class="box"></span> <span class="fill" style="width:2.4em"></span> cm to <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Shoulder height</td>
+<td><span class="box"></span> Level <span class="box"></span> <span class="fill" style="width:2.4em"></span> cm higher <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Scapular position / winging</td>
+<td><span class="box"></span> Symmetric <span class="box"></span> <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Rib cage rotation</td>
+<td><span class="box"></span> Neutral <span class="box"></span> <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Iliac crest height</td>
+<td><span class="box"></span> Level <span class="box"></span> <span class="fill" style="width:2.4em"></span> cm higher <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Pelvic rotation</td>
+<td><span class="box"></span> Neutral <span class="box"></span> <span class="box"></span> L <span class="box"></span> R</td>
+</tr>
+<tr>
+<td>Knee alignment</td>
+<td><span class="box"></span> Neutral <span class="box"></span> Valgus <span class="box"></span> Varus</td>
+</tr>
+<tr>
+<td>Foot posture / arch</td>
+<td>R: <span class="box"></span> Neutral <span class="box"></span> Pronated <span class="box"></span> Supinated · L: <span class="box"></span> Neutral <span class="box"></span> Pronated <span class="box"></span> Supinated</td>
+</tr>
+<tr>
+<td>Weight distribution (scale L/R)</td>
+<td>L <span class="fill" style="width:2.6em"></span> lbs · R <span class="fill" style="width:2.6em"></span> lbs</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Lateral view — sagittal plane (plumb line from lateral malleolus)</strong></p>
+<table>
+<thead>
+<tr>
+<th>Landmark vs. plumb</th>
+<th>Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>External auditory meatus</td>
+<td><span class="box"></span> On line <span class="box"></span> <span class="fill" style="width:2.6em"></span> cm anterior</td>
+</tr>
+<tr>
+<td>Acromion</td>
+<td><span class="box"></span> On line <span class="box"></span> <span class="fill" style="width:2.6em"></span> cm anterior</td>
+</tr>
+<tr>
+<td>Greater trochanter</td>
+<td><span class="box"></span> On line <span class="box"></span> <span class="fill" style="width:2.6em"></span> cm <span class="box"></span> ant <span class="box"></span> post</td>
+</tr>
+<tr>
+<td>Cervical lordosis</td>
+<td><span class="box"></span> Normal <span class="box"></span> Reduced <span class="box"></span> Reversed <span class="box"></span> Increased</td>
+</tr>
+<tr>
+<td>Thoracic kyphosis</td>
+<td><span class="box"></span> Normal <span class="box"></span> Increased <span class="box"></span> Flat</td>
+</tr>
+<tr>
+<td>Lumbar lordosis</td>
+<td><span class="box"></span> Normal <span class="box"></span> Increased <span class="box"></span> Reduced</td>
+</tr>
+<tr>
+<td>Pelvic tilt</td>
+<td><span class="box"></span> Neutral <span class="box"></span> Anterior <span class="box"></span> Posterior</td>
+</tr>
+<tr>
+<td>Knee position</td>
+<td><span class="box"></span> Neutral <span class="box"></span> Hyperextended <span class="box"></span> Flexed</td>
+</tr>
+</tbody>
+</table>
+<h3>F3. Functional and neurological screen</h3>
+<ul>
+<li>Leg length (supine/prone, per technique): <span class="box"></span> Even <span class="box"></span> Short <span class="box"></span> L <span class="box"></span> R <span class="fill" style="width:2.4em"></span> mm</li>
+<li>Respiratory pattern: <span class="box"></span> Diaphragmatic <span class="box"></span> Apical/accessory <span class="box"></span> Paradoxical</li>
+<li>Rib cage excursion at the xiphoid: <span class="fill" style="width:2.6em"></span> cm (inhale minus exhale)</li>
+<li>Cranial nerve screen: <span class="box"></span> Grossly intact <span class="box"></span> Findings: <span class="fill" style="width:4.4em"></span></li>
+<li>Deep tendon reflexes UE: <span class="box"></span> Normal <span class="box"></span> Findings: <span class="fill" style="width:4.4em"></span></li>
+<li>Dermatomes / myotomes UE: <span class="box"></span> Normal <span class="box"></span> Findings: <span class="fill" style="width:4.4em"></span></li>
+<li>Vascular / VBAI screen: <span class="box"></span> Negative <span class="box"></span> Positive — <strong>stop and refer if positive</strong></li>
+<li>Balance / gait: <span class="box"></span> Normal <span class="box"></span> Findings: <span class="fill" style="width:4.4em"></span></li>
+</ul>
+<hr />
+<h2>Section G — Photographic protocol (13 required images)</h2>
+<h3>G1. Standards — same every time, or the comparison is worthless</h3>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Consent</td>
+<td><strong>Photography consent signed before the first image</strong> (Section 0)</td>
+</tr>
+<tr>
+<td>Background</td>
+<td>Plain, matte, single color — ideally with a <strong>plumb line and grid</strong></td>
+</tr>
+<tr>
+<td>Lighting</td>
+<td>Even, front-facing, no overhead-only lighting (it fakes shadows into asymmetry)</td>
+</tr>
+<tr>
+<td>Camera height</td>
+<td><strong>Lens at the patient's landmark height</strong> — eye level for face/neck, mid-torso for full body. Shooting up or down invents postural findings that are not there</td>
+</tr>
+<tr>
+<td>Distance</td>
+<td>Marked on the floor. Record it: <span class="fill" style="width:2.6em"></span> ft. Use the <strong>same distance every visit</strong></td>
+</tr>
+<tr>
+<td>Device</td>
+<td>Clinic-controlled device only. Record it: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td>Zoom / filters</td>
+<td>No digital zoom, no filters, no beauty mode, HDR off</td>
+</tr>
+<tr>
+<td>Framing</td>
+<td>Face/neck: crown to clavicles. Standing: crown to floor, full feet in frame</td>
+</tr>
+<tr>
+<td>Attire</td>
+<td>Fitted clothing or gown; shoulders and cervical spine visible. Barefoot for standing views</td>
+</tr>
+<tr>
+<td>Hair &amp; accessories</td>
+<td>Hair up and off the neck/ears; earrings, glasses, hats, and jewelry removed</td>
+</tr>
+<tr>
+<td>Foot position</td>
+<td>Marked footprints on the floor — <strong>same stance every visit</strong></td>
+</tr>
+<tr>
+<td>Natural stance</td>
+<td>"March in place three times, then stop and look straight ahead." <strong>Never</strong> cue "stand up straight" — you will photograph a posture the patient does not live in</td>
+</tr>
+<tr>
+<td>Eyes</td>
+<td>Open, looking at a marked point straight ahead at eye height</td>
+</tr>
+<tr>
+<td>Jaw</td>
+<td>Lips and teeth in <strong>relaxed rest position</strong> unless the view specifies otherwise</td>
+</tr>
+</tbody>
+</table>
+<h3>G2. The shot list</h3>
+<p><strong>1 — Intraoral / Mallampati</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Code</th>
+<th>View</th>
+<th>Setup</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>MOUTH-MALLAMPATI</code></td>
+<td>Intraoral, frontal</td>
+<td>Seated upright, head neutral, <strong>mouth open maximally, tongue in the mouth, not protruded, no phonation.</strong> Camera at mouth level. Retract lips only if needed for the view — do not depress the tongue</td>
+</tr>
+</tbody>
+</table>
+<p><em>Optional supplementary intraoral (capture when relevant and consented):</em>
+<code>MOUTH-TONGUE-PROTRUDED</code> (scalloping) · <code>MOUTH-TONGUE-ELEVATED</code> (frenulum) ·
+<code>MOUTH-OCCLUSION-AP</code> / <code>-LAT-R</code> / <code>-LAT-L</code> (bite, wear) · <code>MOUTH-PALATE</code> (vault)</p>
+<p><strong>2 — Skull / face posture (4 views)</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Code</th>
+<th>View</th>
+<th>Setup</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2</td>
+<td><code>FACE-AP</code></td>
+<td>Front</td>
+<td>Camera at eye level. Frankfort plane horizontal. Relaxed lips — this is the mouth-breathing and facial-symmetry shot</td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>FACE-PA</code></td>
+<td>Back</td>
+<td>Camera at eye level, patient's back to camera. Occipital contour, ear symmetry, hairline level</td>
+</tr>
+<tr>
+<td>4</td>
+<td><code>FACE-LAT-R</code></td>
+<td>Right side</td>
+<td>True lateral, camera at eye level. Profile, chin position, submental angle</td>
+</tr>
+<tr>
+<td>5</td>
+<td><code>FACE-LAT-L</code></td>
+<td>Left side</td>
+<td>True lateral, camera at eye level</td>
+</tr>
+</tbody>
+</table>
+<p><strong>3 — Neck posture (4 views)</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Code</th>
+<th>View</th>
+<th>Setup</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6</td>
+<td><code>NECK-AP</code></td>
+<td>Front</td>
+<td>Crown to clavicles. Head tilt, SCM prominence, shoulder level</td>
+</tr>
+<tr>
+<td>7</td>
+<td><code>NECK-PA</code></td>
+<td>Back</td>
+<td>Crown to mid-scapula. Cervicothoracic junction, dowager's contour, scapular position</td>
+</tr>
+<tr>
+<td>8</td>
+<td><code>NECK-LAT-R</code></td>
+<td>Right side</td>
+<td><strong>The craniovertebral angle shot.</strong> Mark the C7 spinous process and the tragus with a dot before shooting</td>
+</tr>
+<tr>
+<td>9</td>
+<td><code>NECK-LAT-L</code></td>
+<td>Left side</td>
+<td>Same landmarks, opposite side</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4 — Standing posture (4 views)</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Code</th>
+<th>View</th>
+<th>Setup</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td><code>POST-AP</code></td>
+<td>Front</td>
+<td>Full body, crown to floor, feet fully in frame. Camera at mid-torso height</td>
+</tr>
+<tr>
+<td>11</td>
+<td><code>POST-PA</code></td>
+<td>Back</td>
+<td>Full body. Scapulae, spinal line, iliac crests, calcaneal alignment</td>
+</tr>
+<tr>
+<td>12</td>
+<td><code>POST-LAT-R</code></td>
+<td>Right side</td>
+<td>Full body. <strong>Plumb line dropped from the lateral malleolus</strong> — this is the primary forward-head-posture measurement image</td>
+</tr>
+<tr>
+<td>13</td>
+<td><code>POST-LAT-L</code></td>
+<td>Left side</td>
+<td>Full body, opposite side</td>
+</tr>
+</tbody>
+</table>
+<h3>G3. Capture checklist</h3>
+<p><span class="box"></span> 1 MOUTH-MALLAMPATI <span class="box"></span> 2 FACE-AP <span class="box"></span> 3 FACE-PA <span class="box"></span> 4 FACE-LAT-R <span class="box"></span> 5 FACE-LAT-L
+<span class="box"></span> 6 NECK-AP <span class="box"></span> 7 NECK-PA <span class="box"></span> 8 NECK-LAT-R <span class="box"></span> 9 NECK-LAT-L
+<span class="box"></span> 10 POST-AP <span class="box"></span> 11 POST-PA <span class="box"></span> 12 POST-LAT-R <span class="box"></span> 13 POST-LAT-L</p>
+<p><strong>All 13 captured:</strong> <span class="box"></span> Yes  <strong>Reviewed for quality before the patient leaves:</strong> <span class="box"></span> Yes
+Any view declined by the patient: <span class="fill" style="width:13.2em"></span></p>
+<h3>G4. File naming and storage</h3>
+<pre><code>LASTNAME_FIRSTINITIAL_YYYY-MM-DD_V#_CODE.jpg
+</code></pre>
+<p>Example: <code>SMITH_J_2026-08-22_V1_NECK-LAT-R.jpg</code></p>
+<ul>
+<li><code>V#</code> = visit number (<code>V1</code> = initial exam, <code>V2</code> = first re-exam, and so on).</li>
+<li>Store in the secure patient record under <code>/patients/&lt;chart#&gt;/photos/V#/</code>.</li>
+<li><strong>Delete from the capture device the same day.</strong></li>
+<li>Re-shoot the same 13 views at every re-evaluation, from the marked floor
+  positions, at the recorded distance. Same setup or no comparison.</li>
+</ul>
+<p><strong>Storage confirmed &amp; device cleared:</strong> <span class="box"></span> Yes  Initials: <span class="fill" style="width:2.6em"></span></p>
+<hr />
+<h2>Section H — Objective testing pathway</h2>
+<p>The exam findings above tell us testing is warranted. They do not substitute
+for it. <strong>This is where the case gets its objective anchor.</strong></p>
+<h3>H1. Home sleep test (HST)</h3>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HST indicated by this exam</td>
+<td><span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Already completed</td>
+</tr>
+<tr>
+<td>Rationale (which findings drove it)</td>
+<td></td>
+</tr>
+<tr>
+<td>Vendor / pathway</td>
+<td><span class="box"></span> CSA HST partner <span class="box"></span> Patient's physician <span class="box"></span> Other: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td>Ordered on</td>
+<td><span class="fill" style="width:4.4em"></span> Expected delivery: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td>Nights to record</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+</tr>
+<tr>
+<td>Physician read received</td>
+<td><span class="box"></span> Yes Date: <span class="fill" style="width:4.4em"></span></td>
+</tr>
+<tr>
+<td><strong>AHI <span class="fill" style="width:2.6em"></span> · ODI <span class="fill" style="width:2.6em"></span> · Min SpO2 <span class="fill" style="width:2.6em"></span>% · Time &lt; 90% <span class="fill" style="width:2.6em"></span> min · Supine AHI <span class="fill" style="width:2.6em"></span></strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Reading physician</td>
+<td><span class="fill" style="width:9.7em"></span></td>
+</tr>
+<tr>
+<td>Report filed in chart</td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>The HST is the sleep-and-airway equivalent of the X-ray. <strong>A physician reads
+and diagnoses it.</strong> Our role is to order or coordinate it, receive the read,
+and interpret its structural implications for the patient.</p>
+</blockquote>
+<h3>H2. CBCT / airway imaging</h3>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CBCT indicated</td>
+<td><span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Already completed</td>
+</tr>
+<tr>
+<td>Rationale</td>
+<td></td>
+</tr>
+<tr>
+<td>Facility / provider</td>
+<td></td>
+</tr>
+<tr>
+<td>Date</td>
+<td></td>
+</tr>
+<tr>
+<td>Minimum cross-sectional airway area</td>
+<td><span class="fill" style="width:2.6em"></span> mm²</td>
+</tr>
+<tr>
+<td>Total airway volume</td>
+<td><span class="fill" style="width:2.6em"></span> mm³</td>
+</tr>
+<tr>
+<td>Narrowest point (level)</td>
+<td></td>
+</tr>
+<tr>
+<td>Radiologist / provider report on file</td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<h3>H3. Other</h3>
+<ul>
+<li>Cervical radiographs indicated: <span class="box"></span> Yes <span class="box"></span> No — rationale: <span class="fill" style="width:4.4em"></span></li>
+<li>Labs / bloodwork coordination: <span class="box"></span> Yes <span class="box"></span> No — with whom: <span class="fill" style="width:4.4em"></span></li>
+<li>Myofunctional therapy evaluation: <span class="box"></span> Referred to: <span class="fill" style="width:4.4em"></span></li>
+<li>Allergy / ENT evaluation: <span class="box"></span> Referred to: <span class="fill" style="width:4.4em"></span></li>
+<li>Dental / occlusal evaluation: <span class="box"></span> Referred to: <span class="fill" style="width:4.4em"></span></li>
+</ul>
+<hr />
+<h2>Section I — Assessment</h2>
+<h3>I1. Structural findings summary</h3>
+<p><em>Write in plain clinical language. This is what gets read back to the patient
+at the Report of Findings.</em></p>
+<p><strong>Cranial / facial:</strong> <span class="fill" style="width:27.3em"></span></p>
+<p><strong>Jaw / TMJ / occlusion:</strong> <span class="fill" style="width:25.1em"></span></p>
+<p><strong>Cervical:</strong> <span class="fill" style="width:30.8em"></span></p>
+<p><strong>Global posture:</strong> <span class="fill" style="width:28.2em"></span></p>
+<p><strong>Breathing pattern:</strong> <span class="fill" style="width:26.8em"></span></p>
+<p><strong>Oropharyngeal crowding:</strong> <span class="fill" style="width:24.6em"></span></p>
+<h3>I2. Screening picture</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Value</th>
+<th>Band</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Epworth</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span> Normal <span class="box"></span> Mild <span class="box"></span> Moderate <span class="box"></span> Severe</td>
+</tr>
+<tr>
+<td>STOP-BANG</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td><span class="box"></span> Low <span class="box"></span> Intermediate <span class="box"></span> High</td>
+</tr>
+<tr>
+<td>Mallampati</td>
+<td><span class="fill" style="width:2.6em"></span></td>
+<td></td>
+</tr>
+<tr>
+<td>Seven signs present</td>
+<td><span class="fill" style="width:2.6em"></span> / 7</td>
+<td></td>
+</tr>
+<tr>
+<td>CSA screen</td>
+<td><span class="fill" style="width:2.6em"></span> / 10</td>
+<td></td>
+</tr>
+<tr>
+<td>BOLT</td>
+<td><span class="fill" style="width:2.6em"></span> sec</td>
+<td></td>
+</tr>
+<tr>
+<td>Neck circumference</td>
+<td><span class="fill" style="width:2.6em"></span> in</td>
+<td><span class="box"></span> Below <span class="box"></span> Above threshold</td>
+</tr>
+</tbody>
+</table>
+<h3>I3. VAET candidacy</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Structural findings consistent with a VAET-appropriate presentation</strong></td>
+<td><span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Pending objective data</td>
+</tr>
+<tr>
+<td>Primary structural targets</td>
+<td></td>
+</tr>
+<tr>
+<td>Anticipated number of sessions / phase</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Contraindications screened</strong></td>
+<td><span class="box"></span> None identified <span class="box"></span> Present — detail below</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Contraindication and caution screen — check every box before proceeding</strong></p>
+<p><span class="box"></span> No acute fracture, instability, or unexplained progressive neurological deficit
+<span class="box"></span> No signs of vascular compromise / VBAI on screening
+<span class="box"></span> No active infection in the head or neck
+<span class="box"></span> No unexplained severe or "worst-ever" headache
+<span class="box"></span> No suspected malignancy or unexplained weight loss with red-flag pattern
+<span class="box"></span> Anticoagulant status reviewed
+<span class="box"></span> Bone-density / osteoporosis status reviewed
+<span class="box"></span> Recent head, facial, or dental surgery cleared or timed appropriately
+<span class="box"></span> Acute TMJ lock or suspected internal derangement addressed with DDS first
+<span class="box"></span> Pregnancy considerations reviewed (if applicable)
+<span class="box"></span> Patient understands what VAET is and is not</p>
+<p><strong>Cleared to proceed with structural care:</strong> <span class="box"></span> Yes <span class="box"></span> No <span class="box"></span> Pending: <span class="fill" style="width:4.4em"></span></p>
+<h3>I4. Referrals triggered by this exam</h3>
+<table>
+<thead>
+<tr>
+<th>Refer to</th>
+<th>Reason</th>
+<th>Sent</th>
+<th>Response received</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sleep physician / HST read</td>
+<td></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>DDS (occlusion, wear, appliance, TMD)</td>
+<td></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>ENT (nasal obstruction, tonsils, septum)</td>
+<td></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Myofunctional therapist</td>
+<td></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Primary care MD</td>
+<td></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Orthodontist</td>
+<td></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+<tr>
+<td>Other</td>
+<td></td>
+<td><span class="box"></span></td>
+<td><span class="box"></span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Urgent / same-day escalation used:</strong> <span class="box"></span> No <span class="box"></span> Yes — to whom and why: <span class="fill" style="width:4.4em"></span></p>
+<hr />
+<h2>Section J — Plan &amp; next steps</h2>
+<p><strong>Immediate next step:</strong> <span class="box"></span> Order HST <span class="box"></span> Order CBCT <span class="box"></span> Schedule Report of Findings
+<span class="box"></span> Refer first <span class="box"></span> Begin care <span class="box"></span> Other: <span class="fill" style="width:4.4em"></span></p>
+<p><strong>Report of Findings scheduled for:</strong> <span class="fill" style="width:5.3em"></span>  <span class="box"></span> Patient bringing partner/spouse</p>
+<p><strong>Home instructions given</strong></p>
+<p><span class="box"></span> Start SnoreLab / sleep tracking — <span class="fill" style="width:2.6em"></span> nights minimum
+<span class="box"></span> Nasal breathing awareness practice
+<span class="box"></span> Sleep position guidance
+<span class="box"></span> Tongue posture / myofunctional homework
+<span class="box"></span> Ergonomic and screen-height guidance
+<span class="box"></span> Bring current appliance / CPAP data to the ROF
+<span class="box"></span> Patient education handout: <em>How Your Jaw Affects Your Posture</em>
+<span class="box"></span> Other: <span class="fill" style="width:13.2em"></span></p>
+<p><strong>Care plan discussed:</strong> <span class="box"></span> Yes — outline: <span class="fill" style="width:18.0em"></span></p>
+<p><strong>Financial discussion held:</strong> <span class="box"></span> Yes <span class="box"></span> Deferred to ROF
+<strong>Fee estimate presented in writing (inclusions and exclusions):</strong> <span class="box"></span> Yes <span class="box"></span> N/A</p>
+<p><strong>Baseline re-measure set for:</strong> <span class="fill" style="width:5.3em"></span>
+<em>Repeat at re-exam: all 13 photos, seven-sign grid, Epworth, BOLT, MIO, CVA,
+palpation grid, cervical ROM, and — where indicated — a follow-up HST.</em></p>
+<hr />
+<h2>Section K — Examiner attestation</h2>
+<p>I performed the examination documented above. I explained the scope of
+chiropractic care in this context, including that I do not diagnose sleep
+apnea and that structural airway care is not a cure for it or a replacement
+for prescribed medical or dental treatment.</p>
+<p><strong>Examiner signature:</strong> <span class="fill" style="width:9.7em"></span>  <strong>Credential:</strong> <span class="fill" style="width:2.6em"></span>  <strong>Date:</strong> <span class="fill" style="width:4.4em"></span></p>
+<p><strong>Patient signature (acknowledging the scope statement):</strong> <span class="fill" style="width:9.7em"></span>  <strong>Date:</strong> <span class="fill" style="width:4.4em"></span></p>
+<hr />
+<h2>Appendix — Chairside quick card</h2>
+<p><strong>Measure these numbers at every visit. They are the case.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Baseline</th>
+<th>Re-exam 1</th>
+<th>Re-exam 2</th>
+<th>Re-exam 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Epworth (0–24)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>STOP-BANG (0–8)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Seven signs present (/7)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CSA screen (/10)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Mallampati (I–IV)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MIO (mm)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Craniovertebral angle (°)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Wall–occiput gap (cm)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>BOLT (sec)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Highest palpation score (0–10)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cervical rotation R / L (°)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Neck circumference (in)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SnoreLab score</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>AHI (physician-read)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>The three sentences that keep this exam in its lane:</strong></p>
+<ol>
+<li>"I don't diagnose sleep apnea — a physician reads the test and does that."</li>
+<li>"What I examine is the structure around your airway, and here is exactly what I found."</li>
+<li>"This works alongside your CPAP, your appliance, and your doctors — not instead of them."</li>
+</ol>
+</body>
+</html>
