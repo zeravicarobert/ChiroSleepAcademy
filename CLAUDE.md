@@ -231,6 +231,44 @@ account, so most of their CSA-relevant traffic shows up anyway — but a direct
 search of those two inboxes requires connecting them in Claude Code on the
 web → Settings → Connections.
 
+### ⏳ TODO — make the other two accounts permanently visible
+
+Swapping the Gmail connector works but has to be repeated every time. Two
+one-time fixes remove the need. **Neither can be done from the phone app —
+both require a browser on a computer.**
+
+**A. Calendars (confirmed gap).** A 2026-08-22 check found the office account
+holds calendars the primary cannot see, including two that are on-topic for
+CSA — **`Sleep 101 BioEnergetics`** and **`Time to Rise Summit`** — plus
+`My calendar` and `Tasks`. The 91324 account has its own set (`My calendar`,
+`Tasks`, `Liver Body`, and more below the fold). A SimpleTalk meeting invite
+sent to the office account did not appear on the primary calendar at all.
+
+For each of `DrZeravicaOffice@gmail.com` and `robertzeravica91324@gmail.com`:
+1. Sign in at `calendar.google.com` **on a computer**.
+2. Left sidebar → hover the calendar → **⋮** → **Settings and sharing**.
+3. **Share with specific people or groups** → **Add people** →
+   `ZeravicaRobert@gmail.com` → permission **"See all event details"**.
+
+Caveat: calendars that were *shared to* Robert rather than created by him
+cannot be re-shared. For those, subscribe directly from the primary account
+instead. The ⋮ menu only offers sharing on calendars he owns.
+
+**B. Drive — likely unnecessary.** Every CSA asset in Drive is already owned
+by `zeravicarobert@gmail.com`. No files owned by the other two accounts
+surfaced in a 2026-08-22 sweep. Only revisit if something turns out to be
+missing.
+
+**C. Mail, for the future.** In each of the two accounts, Gmail → Settings →
+Forwarding → forward **all** mail to `ZeravicaRobert@gmail.com`, with a
+filter labelling it by source. Today they forward only what Robert hand-picks,
+which is why the website leads in
+`outreach/csa-website-inbound-leads.md` sat unread for months.
+
+Also still unidentified: what **Sleep 101 BioEnergetics** and **Time to Rise
+Summit** actually are. Both sound sleep-adjacent and neither appears anywhere
+else in this file. Worth capturing once known.
+
 ### What lives in `robertzeravica91324@gmail.com` (swept 2026-08-21)
 
 Robert temporarily pointed the Gmail connector at this account so it could be
@@ -817,6 +855,12 @@ Still open:
   Decide whether it becomes a real CSA outreach channel or gets ignored on
   purpose.
 - **Twilio Business Profile rejected 8/22** — resolve; it gates SMS.
+- **Share the office and 91324 calendars to the primary account** — see the
+  TODO under the Google account map in section 6. Requires a desktop browser;
+  Robert asked to be reminded (2026-08-22). Unblocks permanent visibility of
+  `Sleep 101 BioEnergetics` and `Time to Rise Summit`.
+- **What are `Sleep 101 BioEnergetics` and `Time to Rise Summit`?** Two
+  sleep-adjacent calendars on the office account, unexplained.
 - **Sal Rodas** — Marine-to-Marine outreach message still not drafted.
   Full profile and guardrails retained below.
 
