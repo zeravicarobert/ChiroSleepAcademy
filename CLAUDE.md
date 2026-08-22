@@ -309,6 +309,29 @@ primary audience arriving through CSA's own clinical doorway. **Unanswered
 since 8/9.** Full context and a recommended reply:
 `outreach/2026-08-martin-rosen-csa-collaboration.md`.
 
+**1b. CSA's scope-of-practice question is open, and the Board won't answer
+it.** On **2026-07-09** Robert wrote the California Board of Chiropractic
+Examiners (CA license #26527) requesting written guidance under **16 CCR
+§302**, asking four precise questions: whether a CA chiropractor may order or
+administer a home sleep test; whether they may interpret AHI/ODI data and
+render a diagnosis of *structural upper-airway obstruction* as distinct from
+a medical diagnosis of obstructive sleep apnea; where §302 draws the line
+between chiropractic diagnosis and the practice of medicine; and what
+referral duties apply to medically urgent findings.
+
+The Board declined the same day:
+
+> "the Board is not able to provide interpretations of the rules and
+> regulations. If you need clarification or guidance regarding these matters,
+> it would be best to seek assistance from a lawyer."
+
+This sits directly under Phase 2 of the offer (section 7) and the red line in
+section 5 that DCs do not diagnose OSA. Robert asked exactly the right
+question of exactly the right body and got no answer. The remaining route is
+a written opinion from a healthcare attorney — which is also what CSA needs
+before it teaches other DCs to run the HST pathway in their own practices.
+**Unresolved.**
+
 **2. The disability-certification business is Robert's real cash engine.**
 This inbox carries a continuous stream of Zelle and Venmo receipts, almost
 all $150, for California disability (SDI/EDD) certifications and
@@ -779,6 +802,15 @@ Still open:
 - **What is CSA's claim on Robert's time?** The disability-certification
   business earns materially more, every week, with staff already running it.
   CSA planning has never named this trade-off out loud. It should.
+- **Scope of practice under 16 CCR §302** — the CA Board declined on 7/9 to
+  interpret its own regulation and pointed Robert to a lawyer. Getting a
+  healthcare attorney's written opinion on ordering HSTs, interpreting
+  AHI/ODI, and the structural-vs-medical diagnosis boundary is arguably a
+  prerequisite to Step 6 (training other DCs), not just to Robert's own
+  practice.
+- **Dr. Rosen's TMJ course** — as of 8/22 there is no evidence Robert
+  enrolled; the current-rate deadline passed 8/11 and classes begin 9/8.
+  Decide whether to enroll, and reply to Rosen either way.
 - **Belun Technology** — evaluate against Sleep Doctor and SleepImage for the
   HST vendor decision.
 - **LinkedIn** — an unworked professional network on the office account.
