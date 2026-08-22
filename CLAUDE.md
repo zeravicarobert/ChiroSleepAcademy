@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 
 ---
 
@@ -291,6 +291,76 @@ session (7/20) whose summary notes Robert "shared his success in securing an
 invested partner for his chiropractic sleep" work, and "Dr Z Executive
 Marketing Meeting" notes with Kevin and Santiago about a photo shoot. These
 are an unmined transcript archive.
+
+### What lives in `DrZeravicaOffice@gmail.com` (swept 2026-08-22)
+
+Gmail was pointed at the office account to read it directly. This is the
+account Robert conducts actual business from — the signature block reads
+"Robert Zeravica, DC · RobertZeravica.com · (818) 276-5054."
+
+**1. Dr. Martin Rosen has opened a door and is waiting.** Robert wrote him
+8/9 before enrolling in the Peak Potential *Mastering TMJ Dysfunction*
+course, introduced himself as CSA's founder, and asked whether the course
+would restrict his own curriculum. Rosen answered same-day: it would not,
+and — unprompted — "We would be happy to learn more about Chiropractic Sleep
+Academy and explore how our programs might complement one another in the
+future." Rosen teaches cranial and TMJ to chiropractors, which is CSA's
+primary audience arriving through CSA's own clinical doorway. **Unanswered
+since 8/9.** Full context and a recommended reply:
+`outreach/2026-08-martin-rosen-csa-collaboration.md`.
+
+**2. The disability-certification business is Robert's real cash engine.**
+This inbox carries a continuous stream of Zelle and Venmo receipts, almost
+all $150, for California disability (SDI/EDD) certifications and
+recertifications — payment memos read "Recert," "Ca Disability Recert,"
+"Doctor visit," "chiropractor." On 8/20–8/21 alone the notifications total
+roughly **$1,800 across eleven payments**. Patients email directly asking to
+extend certification; some threads run months.
+
+This is a material fact CSA planning has never accounted for. Measured
+against CSA's first revenue (~$951 + €1,420, earned once, at Liberpulco),
+the certification line appears to be an order of magnitude larger and it runs
+every week without a stage, a funnel, or a talk. Any honest CSA plan has to
+say what it is asking Robert to trade attention away from. This is an
+observation from payment notifications, not from books — the exact figure
+should be confirmed against the Complete Controller / SingerLewak records
+before it is used for planning.
+
+**3. There is already a back office.** `delosreyescryptonite@gmail.com` files
+a **DAILY ASSISTANT REPORT** and a weekly rollup — messages processed (~16–24
+per day, driven to zero), certifications completed, patient counts. A second
+assistant address (`drzeravicaasstedd@gmail.com`) forwards certification
+forms. CSA memory recorded no staff at all. Robert is not a solo operator;
+he has a working, reporting team pointed at the certification business.
+
+**4. Belun Technology — an HST vendor not yet on CSA's list.** Marketing to
+this account for the **Belun Sleep System** and **Belun COR** (ring-based
+home sleep diagnostics with directly measured respiratory effort and body
+position). Belongs in the section 8 vendor comparison alongside Sleep Doctor,
+SleepImage, and the self-supplied path.
+
+**5. LinkedIn is live here and completely unworked.** A steady stream of
+unanswered InMails and connection requests, several from DCs and health
+founders, plus posts from figures like John Scaringe and Anthony V. D'Antoni
+DC PhD. For a project whose weakest goal is "one working funnel," an
+already-populated professional network sitting unread is a real missed
+channel.
+
+**6. Live blockers as of the sweep:**
+- **Twilio Business Profile rejected 8/22** — "additional information
+  requested," Request #29122566. Blocks compliant SMS, which the SimpleTalk
+  rollout depends on.
+- **SimpleTalk onboarding call, Mon Aug 24, 6:30 AM PDT / 3:30 PM CEST.**
+- **Zapier trial expiring.**
+
+**7. Other relationships in this account:** Geno Lemus at M&Y Personal Injury
+Lawyers (PI referral relationship, forwarded to Peter 8/14); Chiro Cat
+(online booking + Stripe subscription); Sleep Doctor partner updates still
+arriving here, confirming the partner relationship lives on this address.
+
+**Patient and client names stay out of this repo.** The certification
+business generates named individuals with health and disability detail
+attached; none is recorded here or in any repo file.
 
 ### Existing CSA assets discovered
 
@@ -703,6 +773,18 @@ Still open:
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient
   interested in VAET for his own sleep apnea, has Henry Schein / dental
   connections, wants to help CSA reach dentists. Worth a follow-up call.
+- **Dr. Martin Rosen** — he offered on 8/9 to learn about CSA and explore how
+  the programs complement each other. Unanswered. Warmest CE/partnership door
+  CSA currently has.
+- **What is CSA's claim on Robert's time?** The disability-certification
+  business earns materially more, every week, with staff already running it.
+  CSA planning has never named this trade-off out loud. It should.
+- **Belun Technology** — evaluate against Sleep Doctor and SleepImage for the
+  HST vendor decision.
+- **LinkedIn** — an unworked professional network on the office account.
+  Decide whether it becomes a real CSA outreach channel or gets ignored on
+  purpose.
+- **Twilio Business Profile rejected 8/22** — resolve; it gates SMS.
 - **Sal Rodas** — Marine-to-Marine outreach message still not drafted.
   Full profile and guardrails retained below.
 
