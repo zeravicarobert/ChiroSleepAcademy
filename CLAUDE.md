@@ -768,6 +768,25 @@ accountability partner.
 - Don't add new monthly goals mid-month; park new ideas for the next month.
 - Honest progress beats optics. An 80%-done goal at month-end is a win.
 
+### Surfacing decisions back to Robert (standing instruction, 2026-08-22)
+
+**Robert asked to be reminded of anything Claude puts to him for a decision.**
+He works across many sessions and will lose an open question raised in
+conversation alone. So:
+
+1. Any time Claude asks Robert to decide something and he does not answer in
+   that session, write it into **section 15, Open Questions** before the
+   session ends. Conversation is not storage; the repo is.
+2. Include what the decision is, what triggered it, and any deadline. A
+   question with a date attached ("Rosen's course starts 9/8") is actionable;
+   one without is noise.
+3. When a decision has a hard external deadline, also set a reminder via
+   `send_later` so it surfaces on its own.
+4. At the start of a session, when Robert asks what's next, lead with the
+   open decisions that have deadlines — not the full list.
+5. When Robert decides something, remove it from Open Questions and record
+   the outcome where it belongs. The list is only useful if it stays true.
+
 ### Cadence
 Robert uses Claude daily, often multiple times per day. Across sessions,
 Claude should:
@@ -847,8 +866,14 @@ Still open:
   prerequisite to Step 6 (training other DCs), not just to Robert's own
   practice.
 - **Dr. Rosen's TMJ course** — as of 8/22 there is no evidence Robert
-  enrolled; the current-rate deadline passed 8/11 and classes begin 9/8.
-  Decide whether to enroll, and reply to Rosen either way.
+  enrolled. *Mastering TMJ Dysfunction* is an **online** program (not a live
+  seminar) in Peak Potential's Fall semester; **classes begin Sept 8, 2026**.
+  The current-rate window closed 8/11 at midnight EST. A second program,
+  *De Jarnette 1977 Sutural & TMJ Techniques*, covers TMJ inside the sutural
+  protocols and also starts 9/8. In-person seminars (Minnesota, Calgary) are
+  2027. Weekly schedule is not stated in any email — ask Rosen or check
+  drmartinrosen.com/online-courses. **Decide before 9/8**, and reply to Rosen
+  either way.
 - **Belun Technology** — evaluate against Sleep Doctor and SleepImage for the
   HST vendor decision.
 - **LinkedIn** — an unworked professional network on the office account.
