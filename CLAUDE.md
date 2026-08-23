@@ -537,9 +537,12 @@ still not actually know what it means. Add new terms as they enter the ecosystem
 |---|---|
 | **CSA** | Chiropractic Sleep Academy |
 | **Structural Airway Chiropractic** | The category CSA is building: a skull-down, sleep-first model treating the airway as a structural problem, not only a medical or dental one |
-| **VAET** | ⚠️ **NEEDS DEFINITION FROM ROBERT.** Central to the whole ecosystem. Used 20+ times across this repo and never defined. Claude knows its *role* — Robert's hands-on structural correction method, the core of the $3,500 Tecopa trial, 2 days / 2 sessions per day — but not what the letters stand for or what physically happens in a session. **Fill in: what the acronym expands to, what is actually done, what a client experiences, and what may/may not be claimed about it.** |
-| **CFR-BNS** | ⚠️ **NEEDS CONFIRMATION FROM ROBERT.** Believed to be Cranial Facial Release / Bilateral Nasal Specific — endonasal balloon techniques. Appears paired with VAET in the Tecopa treatment fee. Confirm the expansion and how it relates to (or differs from) VAET. |
-| **SDI** | ⚠️ **NEEDS DEFINITION FROM ROBERT.** Robert's separate existing practice/entity — referenced in the Rob–Peter partnership terms ("Rob keeps SDI, existing patients, organic revenue"), never expanded. |
+| **VAET** | **Viscerocranial Airway Expansion Technique.** Robert's structural method and the clinical core of CSA. Works on the **viscerocranium** — the facial skeleton (maxilla, zygomatic, nasal, palatine, vomer bones) — to expand and reorganize the airway space those bones form. This is why Robert's exam consistently tracks zygomatic height, maxillary trauma history, TMJ tracking, and Mallampati grade: they are all viscerocranial findings, not incidental observations. Delivered as the Tecopa Trial Experience (Step 4: 2 days, 2 sessions/day, $3,500 treatment fee). ⚠️ *Still to add: what physically happens in a session, what a client experiences during and after, and the specific claim guardrails for VAET beyond the general red lines in section 5.* |
+| **CFR** | **Cranial Facial Release** — established endonasal balloon technique |
+| **BNS** | **Bilateral Nasal Specific** — established endonasal balloon technique |
+| **CFR-BNS** | The two above, referenced as a pair. Billed together with VAET in the Tecopa treatment fee (section 8). ⚠️ *Still to clarify: whether CFR-BNS is a component of VAET, a separate technique delivered alongside it, or the established prior art VAET builds on. This matters for how CSA describes the method publicly and for the IP language in the Rob–Peter agreement.* |
+| **Viscerocranium** | The facial skeleton — maxilla, zygomatic, nasal, lacrimal, palatine, vomer, inferior nasal conchae, mandible. Distinct from the neurocranium (the braincase). The tissue VAET targets, and the anatomical basis of "skull-down, sleep-first." |
+| **SDI** | **State Disability Insurance** — California only, administered through EDD. ⚠️ **Note for the Rob–Peter agreement:** section 15 and `partnership/rob-peter-csa-agreement.md` use "SDI" as though it were a business Robert retains ("Rob keeps SDI, existing patients, organic revenue"). If SDI means California State Disability Insurance, that clause is about a personal benefit or disability-related billing stream, **not** an entity — and an attorney reading the term sheet would need it spelled out. Flag this when the agreement goes to legal review. |
 | **Tecopa** | Hot Springs location in California where the VAET Trial Experience is delivered (Step 4 of the pathway) |
 | **Heal the Healer First** | The 2026 offer model: treat the DC as a patient first, then teach them to bring the model to their own patient base |
 
@@ -567,7 +570,7 @@ still not actually know what it means. Add new terms as they enter the ecosystem
 | **SOT** | Sacro Occipital Technique |
 | **AK** | Applied Kinesiology |
 | **CBP** | Chiropractic BioPhysics |
-| **CFR** | Cranial Facial Release |
+| **CFR** | Cranial Facial Release (defined above — CFR-trained DCs are a primary CSA audience, since they already work endonasally) |
 
 ### Partners & organizations
 
