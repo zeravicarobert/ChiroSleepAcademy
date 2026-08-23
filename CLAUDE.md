@@ -521,3 +521,75 @@ Still open:
   signed contract — needs attorney review before either party relies on it.
 
 When any of these are resolved, update this file.
+
+---
+
+## 16. Glossary — CSA Terms & Acronyms
+
+**Read this section before writing anything that uses these terms.** Claude has
+no memory between sessions; this file is the only thing that carries over. If a
+term matters and isn't defined here, Claude will use it correctly in context and
+still not actually know what it means. Add new terms as they enter the ecosystem.
+
+### Core CSA terms
+
+| Term | Definition |
+|---|---|
+| **CSA** | Chiropractic Sleep Academy |
+| **Structural Airway Chiropractic** | The category CSA is building: a skull-down, sleep-first model treating the airway as a structural problem, not only a medical or dental one |
+| **VAET** | ⚠️ **NEEDS DEFINITION FROM ROBERT.** Central to the whole ecosystem. Used 20+ times across this repo and never defined. Claude knows its *role* — Robert's hands-on structural correction method, the core of the $3,500 Tecopa trial, 2 days / 2 sessions per day — but not what the letters stand for or what physically happens in a session. **Fill in: what the acronym expands to, what is actually done, what a client experiences, and what may/may not be claimed about it.** |
+| **CFR-BNS** | ⚠️ **NEEDS CONFIRMATION FROM ROBERT.** Believed to be Cranial Facial Release / Bilateral Nasal Specific — endonasal balloon techniques. Appears paired with VAET in the Tecopa treatment fee. Confirm the expansion and how it relates to (or differs from) VAET. |
+| **SDI** | ⚠️ **NEEDS DEFINITION FROM ROBERT.** Robert's separate existing practice/entity — referenced in the Rob–Peter partnership terms ("Rob keeps SDI, existing patients, organic revenue"), never expanded. |
+| **Tecopa** | Hot Springs location in California where the VAET Trial Experience is delivered (Step 4 of the pathway) |
+| **Heal the Healer First** | The 2026 offer model: treat the DC as a patient first, then teach them to bring the model to their own patient base |
+
+### Clinical / industry terms
+
+| Term | Definition |
+|---|---|
+| **DC** | Doctor of Chiropractic — CSA's direct customer |
+| **HST** | Home Sleep Test — CSA's "X-ray equivalent" for the airway; ordered through a partner vendor, read by their physician |
+| **CBCT** | Cone Beam Computed Tomography — 3D imaging used to view the airway space directly |
+| **OSA** | Obstructive Sleep Apnea — a **medical** diagnosis. DCs do not diagnose it (see section 5) |
+| **AHI / ODI** | Apnea-Hypopnea Index / Oxygen Desaturation Index — the key numbers on a sleep test report |
+| **ROF** | Report of Findings — the visit where objective findings are presented to the patient |
+| **AMC** | The consult → exam → findings → report → case presentation → ethical close flow CSA's process is modeled on |
+| **Epworth / STOP-BANG** | Standard sleep screening questionnaires used in the Phase 1 consult |
+| **Mallampati** | 1–4 visual grade of how crowded the back of the throat is; 4 is most crowded |
+| **FHP** | Forward Head Posture |
+| **C0** | The occiput — base of the skull where it meets the neck. In Robert's exam shorthand, "C0 L higher" = left side of the skull base sits higher |
+| **TMJ** | Temporomandibular joint — the jaw joint |
+
+### Chiropractic techniques (CSA's target audience practices these)
+
+| Term | Definition |
+|---|---|
+| **SOT** | Sacro Occipital Technique |
+| **AK** | Applied Kinesiology |
+| **CBP** | Chiropractic BioPhysics |
+| **CFR** | Cranial Facial Release |
+
+### Partners & organizations
+
+| Term | Definition |
+|---|---|
+| **Sleep Doctor** | HST vendor, relationship active since Nov 2025. WatchPAT device, $189 cash-pay (see section 8) |
+| **IAOS** | International Academy of Sleep — outreach target |
+| **Foundation for Airway Health** | Multidisciplinary airway advocacy org; Sal Rodas is Executive Director (see section 15) |
+
+### Robert's exam shorthand
+
+Robert's intake notes use compressed shorthand. Translate to plain language for
+any client-facing document:
+
+| Shorthand | Plain language |
+|---|---|
+| `C0 L higher` | Base of the skull sits higher on the left |
+| `L Sh hi` | Left shoulder higher |
+| `L zygomatic lower` | Left cheekbone sits lower |
+| `Malampati 4` | Most crowded of the four throat grades |
+| `tongue depressor - horizon` | Bite plane is level on the tongue-depressor check |
+| `dev to R on open` | Jaw deviates right when opening |
+| `LOC` | Loss of consciousness |
+| `cc:` | Chief complaint |
+| `Pharma:` | Current medications |
