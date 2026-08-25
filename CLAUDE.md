@@ -6,8 +6,10 @@ to stay aligned across sessions.
 
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
-**Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Repo branch for active development:** whatever branch the session prompt
+names (branches follow `claude/<topic>-<suffix>`; the current one is
+`claude/claude-md-docs-2rs1c6`). See section 14.6.
+**Last updated:** 2026-08-25
 
 ---
 
@@ -91,18 +93,30 @@ post, page, or pitch.
 
 ---
 
-## 6. Current State (May 2026)
+## 6. Current State (August 2026)
 
 - Brand: Chiropractic Sleep Academy
 - Domain: **www.ChiropracticSleepAcademy.net**
-- Site platform: **ClickFunnels 2.0**
+- Site platform: **ClickFunnels 2.0** (the repo's `site/` pages are the design
+  and copy source; they are hand-built HTML, not the deployed site)
 - Audience: ~28 opted-in DCs in a warm database, 1 active mentee asking for a Letter of Engagement
 - Clinical: ready to run HST + CBCT on real patients
-- Public face: landing page / website not yet live
+- Public face: **still not live.** Two page drafts exist in `site/`, both with
+  unfilled booking links (see section 14.5)
 - Offer structure: defined (see section 7) — pricing locked (see section 8)
-- Funnel: not yet built
+- Funnel: designed on paper, not yet wired up
+- Curriculum: Modules 1 and 3 drafted in `content/`. **Module 2 (Report of
+  Findings) is the open gap** — Module 3 is written assuming it exists
+- Partnerships: Sleep Doctor questions drafted but not confirmed sent
+  (`outreach/`); Rob–Peter term sheet captured, pre-attorney (`partnership/`)
 
-Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
+**Tracker status (be honest about this):** `MAY_2026_GOALS.md` is the last
+tracker written and it stopped being updated on 2026-05-21 with all six goals
+at 0%. There is no June, July, or August tracker. The 90-day goals in section
+10 come due **August 31, 2026** — days away — and none of the three are
+demonstrably met. Do not paper over this; when Robert opens a session, the
+honest next task is usually either closing a 90-day gap or writing the next
+monthly tracker. Don't create one unprompted — offer it.
 
 ### Google account map (Claude's reach in this environment)
 
@@ -367,9 +381,11 @@ business.
 
 ---
 
-## 9. 30-Day Goals (May 2026)
+## 9. 30-Day Goals (May 2026) — historical
 
-From `MAY_2026_GOALS.md`:
+From `MAY_2026_GOALS.md`. **Kept for the record; the month is over and the
+tracker was never closed out.** Treat these as unfinished threads, not as
+today's to-do list:
 
 1. Run HST + CBCT on 1 patient (prove the workflow)
 2. Outreach to all 28 opted-in DCs in the database
@@ -435,12 +451,14 @@ accountability partner.
 
 ## 13. Working Agreements (How Claude Operates Here)
 
-- Default branch for development: `claude/may-2026-goals-GJDLg`. Don't push
-  to other branches without explicit permission.
+- Develop on the branch the session prompt names (`claude/<topic>-<suffix>`).
+  Don't push to any other branch without explicit permission. Full git
+  conventions are in section 14.6.
 - Before drafting public-facing copy, re-read sections 4 and 5 of this file.
 - When in doubt about scope, voice, or ethics: ask Robert. Don't guess.
-- Treat `MAY_2026_GOALS.md` as the active monthly tracker — update it,
-  don't replace it mid-month.
+- The monthly tracker (`<MONTH>_<YEAR>_GOALS.md`) is a living file — update
+  it in place, don't replace it mid-month. Note that no tracker has been
+  current since May (section 6); ask before starting a new month's file.
 - Don't add new monthly goals mid-month; park new ideas for the next month.
 - Honest progress beats optics. An 80%-done goal at month-end is a win.
 
@@ -454,14 +472,155 @@ Claude should:
 
 ---
 
-## 14. Repo Conventions
+## 14. Repository Map, Workflows & Conventions
 
-- `CLAUDE.md` — this file. Project memory. Update as the project evolves.
-- `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
-  a new `<MONTH>_<YEAR>_GOALS.md`.
-- Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+### 14.1 What kind of repo this is
+
+This is **not a software project.** It is Robert's working repository for a
+business: project memory, curriculum drafts, outreach artifacts, a partnership
+record, and two hand-written static HTML pages.
+
+Practical consequences for any AI assistant working here:
+
+- There is **no package manager, no build step, no test suite, no CI, no
+  lockfile, and no deploy pipeline.** Nothing to install; nothing to run.
+- "Verification" means: read the file back, check internal cross-references,
+  and open the HTML in a browser. There is no test that can tell you the copy
+  is right — section 5 (red lines) is the real test.
+- The deliverable is almost always **words**: copy, a draft, a document, a
+  decision written down. Judge work by whether Robert can use it today.
+- Every file is public-facing-adjacent. Assume anything written here could end
+  up in front of a doctor, a dentist, a vendor, or an attorney.
+
+### 14.2 File map (as of 2026-08-25)
+
+```
+ChiroSleepAcademy/
+├── CLAUDE.md                          # this file — project memory, read first
+├── MAY_2026_GOALS.md                  # monthly tracker (stale since 2026-05-21)
+├── SESSION_NOTES_2026-07-27.md        # one-off session capture (broadcast-channel idea)
+├── content/                           # CSA Academy curriculum for DCs
+│   ├── module-1-anatomy-and-physiology.md
+│   └── module-3-case-presentation-and-ethical-close.md
+├── outreach/                          # real outreach artifacts, dated
+│   └── 2026-05-21-sleepdoctor-david-amato.md
+├── partnership/                       # business / pre-legal records
+│   └── rob-peter-csa-agreement.md
+└── site/                              # static site source (design + copy)
+    ├── index.html                     # patient-facing front door, two-door split
+    ├── doctors.html                   # DC-facing CSA page
+    └── assets/
+        ├── logo.png                   # 1.7 MB source logo
+        └── logo-web.png               # 287 KB web logo
+```
+
+### 14.3 Directory conventions
+
+- **Root** — project memory, monthly trackers, and dated session notes.
+  Session notes are `SESSION_NOTES_<YYYY-MM-DD>.md` and exist to catch ideas
+  that don't yet belong in `CLAUDE.md`. When an idea in a session note becomes
+  a real decision, **promote it into `CLAUDE.md` and say so in the commit.**
+- **`content/`** — CSA Academy teaching modules, named
+  `module-<n>-<kebab-slug>.md`. The module sequence is
+  1 = Anatomy & Physiology, 2 = Report of Findings (**not written**),
+  3 = Case Presentation & Ethical Financial Close. Module 3 explicitly builds
+  on Module 2, so writing Module 2 is the highest-value curriculum task.
+- **`outreach/`** — one file per real outreach artifact, named
+  `<YYYY-MM-DD>-<org-or-person>.md`. Each contains the draft *plus* a
+  "Notes for Robert before sending" section covering which account to send
+  from, what the reply changes, and how to follow up. Keep that pattern.
+- **`partnership/`** — business and pre-legal records, `<parties>-<topic>.md`.
+  These are discussion records for an attorney to work from, never legal
+  advice, and every one says so at the top. Don't soften that framing.
+- **`site/`** — static page source. See 14.5.
+
+New directories get created **when first needed, not in advance.** Don't
+scaffold empty folders.
+
+### 14.4 Document conventions (every Markdown file)
+
+- **H1 title, then a bold metadata block.** Depending on the doc, that's some
+  combination of `**Status:**`, `**Audience:**`, `**Purpose:**`,
+  `**Where it sits:**`, `**Drafted:**` / `**Last updated:**`, `**Owner:**`.
+  Update `Last updated` whenever you touch a doc.
+- **Cross-reference project memory by section**, e.g. "see CLAUDE.md §8" or
+  "(section 7)". These links are load-bearing — pricing and red lines live in
+  one place and everything else points at them.
+- **Blockquote callouts** for scope lines and guardrails, stated once and
+  meant throughout, e.g. the DCs-don't-diagnose line at the top of Module 1.
+- **`[DR. Z — YOUR WORDS]` / `[DR. Z — YOUR CLINICAL LENS]` placeholders**
+  mark the spots where Robert's own clinical language or method belongs.
+  Claude scaffolds the structure; Robert supplies the voice for those slots.
+  Never invent clinical specifics to fill one in.
+- **Hard-wrap prose at roughly 78 characters** to match existing files.
+- **Never state a price, claim, or promise that contradicts sections 5 or 8.**
+  If a doc needs a number that isn't in §8 yet, mark it as an estimate and add
+  the open question to §15.
+
+### 14.5 Static site conventions (`site/`)
+
+- `index.html` is the **patient / personal-brand front door**
+  ("Robert Zeravica, DC — Sleep & Airway"); it opens with a two-door split
+  that routes patients one way and chiropractors to `doctors.html`.
+- `doctors.html` is the **DC-facing CSA page** (Structural Airway
+  Chiropractic, the five-step model, the pathway).
+- **Each page is one self-contained file.** All CSS is in a single inline
+  `<style>` block in the `<head>`. No external stylesheets, no JavaScript, no
+  framework, no build step. Edit the HTML directly.
+- ⚠️ **The logo is embedded as a base64 data URI, so each page is ~1.1 MB on
+  one line.** Never `cat` or read one of these files whole — it floods
+  context. Work with them like this instead:
+  ```bash
+  grep -nE '<title>|<h1|<h2|<h3|<!-- =|<section|href="' site/index.html | grep -v base64
+  sed -n '140,180p' site/index.html        # read a known range
+  ```
+  Edit by targeting the section banner comments
+  (`<!-- ============ HERO ============ -->`), which mark every block.
+- **Unfilled placeholders that block launch** (check these before ever calling
+  a page done):
+  - `REPLACE_WITH_BOOKING_LINK` — the CTA href on **both** pages.
+  - Three `<!-- SWAP THIS SLOT ... -->` image slots in `index.html`
+    (hero, Dr. Z portrait, JK5 feature).
+- Images live in `site/assets/`. Prefer `logo-web.png` for anything new;
+  `logo.png` is the high-resolution source.
+- **These pages do not deploy from this repo.** The live site is ClickFunnels
+  2.0 at www.ChiropracticSleepAcademy.net. The repo holds the copy and design
+  so it can be reviewed, versioned, and ported over. Committing is not
+  publishing — say so plainly rather than implying a page went live.
+
+### 14.6 Git workflow
+
+- **Branch per task**, named `claude/<topic>-<suffix>` (e.g.
+  `claude/may-2026-goals-GJDLg`, `claude/rob-peter-csa-agreement-lr88yc`,
+  `claude/claude-md-docs-2rs1c6`). The session prompt names the branch to use;
+  create it locally if it doesn't exist. **Never push to a different branch
+  without Robert's explicit permission.**
+- Push with `git push -u origin <branch-name>`. On network failure, retry with
+  backoff (2s, 4s, 8s, 16s).
+- **Commit style:** imperative subject line under ~72 chars naming the
+  artifact ("Add CSA Academy Module 1: Anatomy & Physiology", "Lock CSA
+  pricing: 6-step productized pathway from $0 to $25K"). Body explains the
+  *why*, what changed, which guardrails were honored, and which `CLAUDE.md`
+  section it touches. Bump `Last updated` in any doc you edit.
+- **Never put a model name or model identifier in a commit message, PR title,
+  PR body, or any committed file.**
+- **Open a pull request only when Robert asks for one.** Work is normally
+  reviewed by reading the branch.
+- There is no CI. A green push means nothing was checked — review is human.
+
+### 14.7 Checklist before drafting anything public-facing
+
+1. Re-read sections 4 (voice) and 5 (red lines). Every time — not from memory.
+2. Pull any price or pathway step from section 8. Don't invent numbers.
+3. State the scope line where it applies: DCs screen, assess, educate, refer,
+   and deliver structural care; **physicians diagnose.**
+4. Stay honest about evidence — what's proven vs. what's still being proven.
+5. Stay collaborative toward CPAP, oral appliances, dentists, ENTs, MDs, and
+   sleep medicine. CSA *adds* the structural layer; it never competes.
+6. Save it in the right directory, with the naming and metadata conventions
+   in 14.3 and 14.4.
+7. If the draft is going to a real person, add the "Notes for Robert before
+   sending" section — sender account, what the reply changes, follow-up plan.
 
 ---
 
@@ -479,6 +638,26 @@ Resolved during intake:
 - ~~HST vendor candidates~~ → **Sleep Doctor (active), self-supplied + Will Spriggs (existing), unnamed free-DC-testing vendor, SleepImage (researching) — see section 8**
 
 Still open:
+- **The 90-day deadline (August 31, 2026)** — section 10's three conditions
+  are not met: no live public offer page, outreach not confirmed at scale, no
+  wired funnel. Needs an honest status call from Robert, then either a sprint
+  or a reset of the date.
+- **No current monthly tracker.** May's is stale; June, July, and August were
+  never written. Ask Robert whether to start a September tracker rather than
+  reviving May.
+- **`content/` Module 2 — Report of Findings.** Modules 1 and 3 exist and
+  Module 3 assumes Module 2. This is the biggest curriculum gap.
+- **Site launch blockers** — `REPLACE_WITH_BOOKING_LINK` on both pages (what
+  is the real booking tool?) and the three image slots in `index.html`.
+  Also: does the repo HTML get ported into ClickFunnels 2.0 by hand, or does
+  the site move to plain static hosting?
+- **CSA broadcast channel** (from `SESSION_NOTES_2026-07-27.md`) — a one-way
+  Dr. Z-only channel dropping genuine teaching invites. Should it become the
+  front half of the "one working funnel" 90-day goal, and on which platform?
+  A Gmail draft proposing it went to Peter Katakalidis; status unknown.
+- **Sleep Doctor reply** — the David Amato email at
+  `outreach/2026-05-21-sleepdoctor-david-amato.md` has no recorded send or
+  reply. Its answer on separate billing decides Step 2 economics.
 - **HST vendor decision** — which vendor becomes the CSA *default*? The
   $50 cost ceiling vs. Sleep Doctor's $189 cash-pay creates a margin
   tension that needs a clear answer (insurance-first model, $397
