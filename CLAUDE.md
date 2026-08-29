@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-29
 
 ---
 
@@ -459,9 +459,19 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
-- Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+- `/site` — the public-facing site (`index.html`, `doctors.html`, assets).
+- `/content` — course and educational modules.
+- `/outreach` — outreach drafts, templates, and relationship trackers.
+- `/partnership` — partnership discussion records and term sheets.
+
+### People & relationship trackers
+
+- `outreach/connections-post-liberpulco.md` — running list of people Robert
+  connected with coming out of Liberpulco (currently: **Teresa**, Florida,
+  interested in the Bering Strait / Alaska tour). Relationship tracker, not
+  a lead list. Add new people here as they come up.
+- `CSA Relationship Strategies` (Google Sheet, section 6) — the warm bench
+  of DCs, dentists, and MDs. Lives in Drive, not in the repo.
 
 ---
 
