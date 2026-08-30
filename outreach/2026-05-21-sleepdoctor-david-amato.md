@@ -63,7 +63,23 @@ www.ChiropracticSleepAcademy.net
 - This v2 is tighter than v1 and references the 4/30 brochure email so
   David sees you've read it.
 - Send from the Gmail account already linked to Sleep Doctor:
-  **`DrZeravicaOffice@gmail.com`**. Do not switch sender addresses.
+  **`DrZeravicaOffice@gmail.com`**. Do not switch sender addresses
+  mid-thread — David and Mark know that address, and the partner portal
+  account is registered to it.
+- **Email migration note (2026-08-30):** Robert is moving his
+  professional identity to `DrZeravica@RobertZeravica.com` (see
+  `migration/google-to-robertzeravica.md`). This email is unaffected —
+  still send it from the old address. Two rules for Sleep Doctor
+  specifically:
+  1. Do **not** change the partner portal login email until this
+     thread's three open questions are answered. An address change
+     landing in the middle of a partnership negotiation reads as
+     instability.
+  2. When the portal login does change, tell David and Mark in plain
+     language first — a one-line "my practice email is moving to
+     DrZeravica@RobertZeravica.com, same person, same practice." A
+     vendor discovering the change through a bounced email is a
+     credibility cost CSA does not need to pay.
 - Question 1 remains the critical one. A "no, you can't bill a separate
   $300 fee on top of our $189" answer redirects CSA Step 2 economics —
   either go to the $397 standard rate, build an insurance-first model,

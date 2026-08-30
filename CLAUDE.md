@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-30
 
 ---
 
@@ -106,22 +106,50 @@ Active tracker: `MAY_2026_GOALS.md` — six goals for May 2026.
 
 ### Google account map (Claude's reach in this environment)
 
-Robert uses three Google accounts; each MCP integration is currently
+Robert uses three Google accounts; each MCP integration is
 authenticated to a *different* one:
 
 | Integration | Account |
 |---|---|
-| Gmail (read/draft) | `DrZeravicaOffice@gmail.com` |
+| Gmail (read/draft) | `zeravicarobert@gmail.com` — **verified 2026-08-30** |
 | Calendar (primary) | `robertzeravica91324@gmail.com` |
 | Drive (file owner) | `zeravicarobert@gmail.com` |
 
 Implications:
-- Email scans run against `DrZeravicaOffice` only. To search the other
-  two inboxes, Robert must connect them in Claude Code on the web →
-  Settings → Connections.
+- Email scans run against `zeravicarobert@gmail.com` (Robert's
+  *personal* inbox) only. To search the other two inboxes, Robert must
+  connect them in Claude Code on the web → Settings → Connections.
+- **Claude cannot see `DrZeravicaOffice@gmail.com`.** Business mail is
+  visible only where the office account forwarded or CC'd the personal
+  one. Any task that depends on reading the office inbox must be run by
+  Robert from inside that account.
 - Drive files searched/read here are those owned by or shared with
   `zeravicarobert@gmail.com`.
 - Calendar events live on `robertzeravica91324@gmail.com`.
+
+> **This table was wrong until 2026-08-30** — it listed Gmail as
+> `DrZeravicaOffice`. The failure mode is silent: Claude reports "no
+> results" for an inbox it cannot see, which reads like an empty inbox
+> rather than a missing connection. **Re-verify this mapping whenever
+> connectors change**, and never infer it from what a task expects.
+
+### Email identity migration (in progress)
+
+Robert's professional identity is moving from
+`DrZeravicaOffice@gmail.com` to **`DrZeravica@RobertZeravica.com`**,
+hosted on **Google Workspace** (decided 2026-08-30). Scope is
+business-only — the two personal Gmail accounts are unchanged, and CSA
+mail on `ChiropracticSleepAcademy.net` is deferred.
+
+Full runbook: `migration/google-to-robertzeravica.md`.
+
+Two things every future session should know:
+1. **The old Gmail account is never deleted.** It stays alive and
+   forwarding, permanently.
+2. **A new sending domain has no reputation.** Do not send the 28-DC
+   outreach batch (Goal 2) from the new address until it has warmed up
+   for ~2 weeks. If outreach is urgent, send from the old Gmail and put
+   the new address in the signature. See the runbook § 9.
 
 ### Existing CSA assets discovered
 
@@ -478,7 +506,18 @@ Resolved during intake:
 - ~~HST device logistics~~ → **Partner-driven; CSA does not inventory devices (see section 8)**
 - ~~HST vendor candidates~~ → **Sleep Doctor (active), self-supplied + Will Spriggs (existing), unnamed free-DC-testing vendor, SleepImage (researching) — see section 8**
 
+Resolved 2026-08-30:
+- ~~Professional email identity~~ → **`DrZeravica@RobertZeravica.com`
+  on Google Workspace**; business-only scope (see § 6 and
+  `migration/google-to-robertzeravica.md`)
+
 Still open:
+- **Registrar / DNS control for `RobertZeravica.com`** — unknown which
+  account holds it, and it blocks the email migration. Likely tied to
+  `DrZeravicaOffice@gmail.com` or `robertzeravica91324@gmail.com`.
+- **CSA-branded mail on `ChiropracticSleepAcademy.net`** — deferred
+  until the funnel is live. Decide whether CSA outreach goes out as
+  Dr. Z personally or as the brand.
 - **HST vendor decision** — which vendor becomes the CSA *default*? The
   $50 cost ceiling vs. Sleep Doctor's $189 cash-pay creates a margin
   tension that needs a clear answer (insurance-first model, $397
