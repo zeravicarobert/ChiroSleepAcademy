@@ -1443,18 +1443,19 @@ into the CSA / VAET clinical pathway.
 CBCT imaging + airway-focused report review.
 
 ### Step 4 — Tecopa VAET Trial Experience
-**Current price:** ~$5,500 estimated total (transitional)
-**Pricing trajectory (Robert's strategic update, 5/28/26):** VAET fee
-should move from current **$3,500 → minimum target $7,000–$10,000
-→ up to $25,000 standalone for the right (upper-echelon) clientele.**
-The $3,500 is a legacy price; not where Robert is going.
+**Price (locked 2026-08-30):** **$7,000 VAET fee + ~$2,000 travel ≈ $9,000
+all-in.** The $3,500 legacy fee is **retired.** Do not quote it.
+**Pricing trajectory (Robert's strategic update, 5/28/26, now partly
+executed):** $3,500 → **$7,000 floor (taken 2026-08-30)** → $10,000 →
+up to $25,000 standalone for the right (upper-echelon) clientele. The
+$7,000 is the floor, not the target.
 
 This is a **test adjustment experience**, not a full case plan. It is
 the highest-bandwidth conversion event in the pathway: the DC lives
 the model.
 
-**Currently included in the $5,500 estimate:**
-- **$3,500 — Dr. Z's VAET / CFR-BNS treatment fee** (2 days, 2 sessions/day, direct clinical attention, sleep/airway education, treatment-day documentation) — *legacy price; transitioning to $7K–$10K minimum*
+**Included in the ~$9,000 estimate:**
+- **$7,000 — Dr. Z's VAET / CFR-BNS treatment fee** (2 days, 2 sessions/day, direct clinical attention, sleep/airway education, treatment-day documentation)
 - **~$2,000 — travel support estimate:** airfare to Las Vegas (~$500), transport to Tecopa (~$500), food + lodging (~$1,000)
 
 **NOT included (à la carte or part of Step 5):**
@@ -1465,7 +1466,10 @@ additional provider visits, ongoing case management, emergency or
 medical/dental/surgical care outside Dr. Z's scope.
 
 These exclusions must be stated in writing in every Tecopa proposal so
-no DC is blindsided.
+no DC is blindsided. The written proposals live at
+`offers/tecopa-vaet-proposal-dc.md` (Heal-the-Healer DCs) and
+`offers/tecopa-vaet-proposal-private.md` (private patients). Send one of
+those two — never an improvised quote.
 
 ### CSA Clinical Protocol for UAOSA (Robert's defined protocol, captured 5/28/26)
 
@@ -2678,8 +2682,13 @@ Still open:
 - **Lead magnet** for the funnel (workbook? screening questionnaire? short video?)
 - **CE / certification** path — does CSA pursue CE credit eventually?
   Carrick is a live route in.
-- **Tecopa proposal template** — still needs a written one-pager listing
-  what's included and what's not, every time.
+- ~~Tecopa proposal template~~ → **DONE 2026-08-30.** Two written proposals
+  now exist: `offers/tecopa-vaet-proposal-dc.md` (Heal-the-Healer DCs) and
+  `offers/tecopa-vaet-proposal-private.md` (private patients). Both carry the
+  §8 exclusions in full and the locked $7,000 fee. **Send one of the two —
+  never an improvised quote.** Two items still open inside them: whether CSA
+  collects travel or the client arranges it, and CSA-pathway informed-consent
+  language adapted from the ChiroSecure packet (§6).
 - **Mark Amici** (markamici@me.com, 10secondtvmedia.com) — non-DC patient
   interested in VAET for his own sleep apnea, has Henry Schein / dental
   connections, wants to help CSA reach dentists. Worth a follow-up call.
@@ -3739,6 +3748,20 @@ See the "Open questions" in `funnel/patient-ecosystem-funnel.md`.
 Canonical positioning calls Robert has made. These govern all copy; when new
 material conflicts, these win (alongside the §5 red lines).
 
+
+### 2026-08-30 — Tecopa VAET fee moves to a $7,000 floor
+Robert's ruling. The **$3,500 legacy fee is retired** and must not be quoted.
+Tecopa is now **$7,000 + ~$2,000 travel ≈ $9,000 all-in.**
+- This executes the bottom of the trajectory Robert set on 5/28/26
+  ($3,500 → $7,000–$10,000 minimum → up to $25,000). $7,000 is a **floor**,
+  not a target — the $10,000 and $25,000 tiers remain open.
+- **Why now:** the one-pager forced it. Publishing a written proposal at
+  $3,500 would have re-anchored the legacy price in the market at the exact
+  moment CSA started handing the document to strangers.
+- Consistent with §4 price positioning ("premium to implement") and with the
+  $500 event-session floor set by the Anarchapulco math — an event session
+  and a two-day Tecopa intensive are different products at different prices.
+- Applies to both proposal versions in `offers/`.
 
 ### 2026-08-30 — ⭐ TERMINOLOGY LOCKED: "Viscerocranial Airway Expansion Technique"
 Robert's ruling. **VAET = Viscerocranial Airway Expansion Technique.**
