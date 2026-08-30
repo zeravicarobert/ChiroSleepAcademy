@@ -66,7 +66,7 @@ behavior or expression without necessarily being its sole cause.
 
 ## VAET positioning
 
-VAET — **Visceral Cranial Airway Expansion Technique** — is a structural
+VAET — **Viscerocranial Airway Expansion Technique** — is a structural
 technique intended to alter selected cranial, craniofacial, nasopharyngeal, and
 related mechanical relationships.
 

@@ -66,9 +66,10 @@ to stay aligned across sessions.
 Chiropractic Sleep Academy is a category-building project that teaches
 chiropractors how to build a credible sleep-and-airway division around
 **Structural Airway Chiropractic** — a skull-down, sleep-first model that
-integrates patient education, structural correction (including VAET),
-home sleep testing (HST), CBCT imaging, and ethical collaboration with
-dentists, ENTs, and sleep physicians.
+integrates patient education, structural correction (including **VAET —
+Viscerocranial Airway Expansion Technique**), home sleep testing (HST),
+CBCT imaging, and ethical collaboration with dentists, ENTs, and sleep
+physicians.
 
 CSA is not just a course. It is a movement to make chiropractic a
 credible, ethical voice in the sleep-and-airway conversation.
@@ -2342,7 +2343,7 @@ CPAP) over-match his EDD/medical chats. Keep personal chats out of the repo.
   **"Zoom-call Tele-health Consultant"**; the domain **DrRobertZeravica.com**;
   **Dr. Scaring / LACC / SCUHS** academic outreach; and the **"don't claim to
   be the father of the field"** caution (safer: Developer / Architect / Category
-  builder). VAET "T" again given as **Therapy/Technique** (still unsettled).
+  builder). VAET "T" again given as **Therapy/Technique** (→ **settled 2026-08-30: Technique**).
   The doc itself flags PRI/PRM/CSF/"Liquid Light" as metaphor/hypothesis, not
   settled mechanism — keep that separation before public use. No patient PHI.
   Preserved verbatim. Not legal, financial, or clinical advice.
@@ -2736,7 +2737,8 @@ Still open:
     servicing (~3.5 mo avg) + optional ~$1,000 Closer Academy referral
     commission. Confirm before using in any copy.
   - *New canonical terms to fold into brand memory once confirmed:* VAET =
-    **Viscerocranial Airway Expansion Therapy/Technique**; master concept =
+    **Viscerocranial Airway Expansion Therapy/Technique** (→ **settled
+    2026-08-30: Technique**); master concept =
     **Unsubluxated Structural Breathing System™**; category name =
     **Sleep & Airway Chiropractic**; preferred verbs "unsubluxate / expand /
     establish / stabilize"; "skull-down chiropractic"; early/middle/late
@@ -3163,15 +3165,13 @@ Still open:
   until the funnel is live. Decide whether CSA outreach goes out as
   Dr. Z personally or as the brand.
 
-- **VAET — which expansion is canonical?** Two are in circulation and they
-  are not the same words:
-  - *"Viscerocranial Airway Expansion Technique"* — the June project memory (§1)
-  - *"Visceral Cranial Airway Expansion Technique"* — the CSA/VAET Modulation
-    Framework Google Doc, ported 2026-08-30 to
-    `content/csa-vaet-modulation-framework.md`
-  Robert's ruling needed. Until then §1 uses the bare acronym rather than
-  picking one. Whichever wins has to be applied everywhere at once — the
-  acronym appears in curriculum, clinical forms, site copy, and outreach.
+- ~~VAET — which expansion is canonical?~~ → **RESOLVED 2026-08-30 by Robert:
+  "Viscerocranial Airway Expansion Technique."** One word (*viscerocranial*),
+  and the "T" is **Technique**, not Therapy. Applied across `CLAUDE.md` and
+  `content/csa-vaet-modulation-framework.md`. Imported master summaries keep
+  their original wording as historical record, annotated with the ruling.
+  Still to do: sweep curriculum, clinical forms, site copy, decks, and Drive
+  assets on other branches as they are merged.
 
 When any of these are resolved, update this file.
 
@@ -3739,6 +3739,33 @@ See the "Open questions" in `funnel/patient-ecosystem-funnel.md`.
 Canonical positioning calls Robert has made. These govern all copy; when new
 material conflicts, these win (alongside the §5 red lines).
 
+
+### 2026-08-30 — ⭐ TERMINOLOGY LOCKED: "Viscerocranial Airway Expansion Technique"
+Robert's ruling. **VAET = Viscerocranial Airway Expansion Technique.**
+- **One word — *viscerocranial*.** It is the standard anatomical adjective for the
+  **viscerocranium**, the facial skeleton (maxilla, palatine, zygomatic, nasal,
+  lacrimal, vomer, inferior nasal conchae, mandible). The two-word form
+  *"Visceral Cranial"* is **retired**: it is not a term of art, and "visceral"
+  alone reads clinically as *pertaining to the internal organs*, which invites a
+  dentist or physician to conclude the author does not know the anatomy (§5).
+- **The "T" is Technique**, not Therapy. Matches Robert's own written usage to
+  Sleep Group Solutions (7/16) and the CSA glossary; supersedes the July 10
+  Master Summary's "Therapy" (§27) and the "Therapy/Technique" left unsettled
+  across the imported summaries.
+- **Why the name is an asset, not jargon:** the viscerocranium is *named for the
+  airway* — "viscero-" refers to the cranial end of the gut tube (the pharynx),
+  which those bones enclose, in contrast to the **neuro**cranium, which encloses
+  the brain. So the method's name states its own anatomical target. The arch
+  derivatives line up with the CSA exam: arch 1 → maxilla, mandible, zygomatic,
+  TMJ; arches 2–3 → hyoid; arches 4 & 6 → laryngeal cartilages. Maxilla → TMJ →
+  hyoid → larynx is one developmental series, and that is mainstream,
+  textbook-citable embryology — the cleanest answer to a dentist asking why a
+  Doctor of Chiropractic works on the face.
+- **Guardrail:** embryology explains why these bones are separate units with
+  sutures. It does **not** establish that adult sutures move meaningfully under
+  manual force. Keep the origin story and the mechanism claim separate — see
+  `content/csa-vaet-modulation-framework.md`.
+
 ### 2026-07-17 — ⭐ NAME LOCKED: "Chiropractic Sleep Academy" (no brand fork)
 Robert's decision: the brand/academy is **Chiropractic Sleep Academy (CSA)**; the
 discipline is **Structural Airway Chiropractic.** The "**Sleep Chiropractics™ / Sleep
@@ -4275,7 +4302,8 @@ pathway? Do not send the patient email blast until this is confirmed.
 ### Terminology / brand (must flow into the website + all copy)
 The Master Summary supplies the real IP language the site docs lack:
 - **Unsubluxated Structural Breathing System™** (Level-2 master framework).
-- **VAET = Viscerocranial Airway Expansion Therapy** (Level-3 clinical method).
+- **VAET = Viscerocranial Airway Expansion Technique** (Level-3 clinical method).
+  *(The Master Summary wrote "Therapy"; Robert settled on **Technique** 2026-08-30.)*
 - Preferred verbs: **Unsubluxate, Expand, Establish, Stabilize** — *not* "restore."
 - Phrases: "Structural Breathing Stability," "Chiropractic 2.0 of breathing,"
   "There is a head / Chiropractors: there is a head," "Heal the healer first,"
