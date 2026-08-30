@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-08-30
 
 ---
 
@@ -88,6 +88,24 @@ Never, on Robert's behalf:
 
 Always protect CSA's credibility. The mission is bigger than any single
 post, page, or pitch.
+
+### The Modulation Framework (how to say it correctly)
+
+The red lines above say what never to claim. The **CSA / VAET Modulation
+Framework** at `content/csa-vaet-modulation-framework.md` says how to write
+the true version instead. **Read it before drafting any CSA, VAET, clinical,
+educational, marketing, or patient-facing copy.**
+
+Core position: **structure can modulate physiology.** Use "modulate" /
+"may modulate" as the precision word whenever the meaning is *influence
+without claiming sole causation*. Never collapse these four levels into one
+causal claim: (1) changing structure, (2) changing the mechanical
+environment, (3) modulating physiology, (4) diagnosing or treating a
+medical disease.
+
+Default test before writing a causal sentence: *would "may modulate"
+communicate this more accurately than "causes," "fixes," or "cures"?*
+If yes, use "may modulate."
 
 ---
 
@@ -437,7 +455,8 @@ accountability partner.
 
 - Default branch for development: `claude/may-2026-goals-GJDLg`. Don't push
   to other branches without explicit permission.
-- Before drafting public-facing copy, re-read sections 4 and 5 of this file.
+- Before drafting public-facing copy, re-read sections 4 and 5 of this file,
+  plus `content/csa-vaet-modulation-framework.md` for claim-level language.
 - When in doubt about scope, voice, or ethics: ask Robert. Don't guess.
 - Treat `MAY_2026_GOALS.md` as the active monthly tracker — update it,
   don't replace it mid-month.
@@ -459,6 +478,10 @@ Claude should:
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
+- `content/csa-vaet-modulation-framework.md` — canonical language and
+  reasoning guide for all CSA/VAET claims. Ported from the Google Doc
+  "CSA-VAET Modulation Framework for Claude Code." Treat it as binding
+  alongside sections 4 and 5.
 - Future: `/site` for the public site, `/content` for course/educational
   assets, `/outreach` for templates and trackers. Structure to be added
   when first needed — not before.
