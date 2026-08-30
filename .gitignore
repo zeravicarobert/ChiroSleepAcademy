@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Node (in case /site or tooling lands here later)
+node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# Python (in case scripts land here later)
+__pycache__/
+*.pyc
+.venv/
+venv/
