@@ -3108,8 +3108,10 @@ Still open:
   He is a live 70-year-old CPAP case and CSA's best current proof story.
 - **Peter Hoffman** (`phthage@gmail.com`) — asked for a Zoom, not scheduled.
 - **Anarchapulco 2027 sponsorship** — decision needed; Early Bird pricing.
-- **Current-month goals tracker** — `MAY_2026_GOALS.md` is three months
-  stale. Needs a retro and an `AUGUST_2026_GOALS.md` (or September).
+- ~~Current-month goals tracker~~ → **DONE 2026-08-30.** Honest close-out at
+  `90_DAY_RETRO_2026-08-31.md`; current tracker is `SEPTEMBER_2026_GOALS.md`,
+  deliberately short (five goals, every one anchored to a real external date)
+  because four consecutive trackers went unread.
 - **28-opt-in DC database outreach** — still no evidence this ever ran.
 - **Lead magnet** for the funnel — the Book To Buyer book (Sept 20–25,
   Las Vegas) is the likely answer; decide whether the book *is* the lead
@@ -3147,13 +3149,14 @@ Still open:
   `Sleep 101 BioEnergetics` and `Time to Rise Summit`.
 - **What are `Sleep 101 BioEnergetics` and `Time to Rise Summit`?** Two
   sleep-adjacent calendars on the office account, unexplained.
-- **The 90-day deadline (August 31, 2026)** — section 10's three conditions
-  are not met: no live public offer page, outreach not confirmed at scale, no
-  wired funnel. Needs an honest status call from Robert, then either a sprint
-  or a reset of the date.
-- **No current monthly tracker.** May's is stale; June, July, and August were
-  never written. Ask Robert whether to start a September tracker rather than
-  reviving May.
+- ~~The 90-day deadline (August 31, 2026)~~ → **SCORED 2026-08-30** in
+  `90_DAY_RETRO_2026-08-31.md`. Goal 1 partial (offer proven on stage, written
+  form one day old, public form still absent). Goal 2 met on activity, failed
+  on follow-through — six live doors left standing open. Goal 3 not met, but
+  the real blocker is narrower than "no funnel": a capture form exists and
+  nobody reads it. Carried into `SEPTEMBER_2026_GOALS.md`.
+- ~~No current monthly tracker~~ → **DONE 2026-08-30.** See
+  `SEPTEMBER_2026_GOALS.md` and `90_DAY_RETRO_2026-08-31.md`.
 - **`content/` Module 2 — Report of Findings.** Modules 1 and 3 exist and
   Module 3 assumes Module 2. This is the biggest curriculum gap.
 - **Site launch blockers** — `REPLACE_WITH_BOOKING_LINK` on both pages (what
