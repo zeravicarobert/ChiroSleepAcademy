@@ -4575,10 +4575,28 @@ CSA's first public articulation. **2-hour CEU lecture** delivered to
 California DCs through **ACAS** on the biomechanical sciences of
 sleep and airway. 59-slide deck lives at:
 
-- **File:** `ACAS Lecture 1-24-26 ver2` (Google Slides, 59 slides)
-- **Drive owner:** `robertzeravica91324@gmail.com` (Calendar account)
-- **Shared with:** `zeravicarobert@gmail.com` (6/8/26)
-- **File ID:** `1Z_X-Ntfot4ZJJSVIism_pz04g-WsOuiBK3crKjSKKSE`
+- **File:** `3ACAS Lecture 1-24-26` (Google Slides, **67 titled slides**)
+- **Drive owner:** `zeravicarobert@gmail.com` — in the `ACAS` folder
+- **File ID:** `1yoxnGhg-mj5f6oCNOQl1-wOe8cq_fMwxDygJoyOW3R4`
+- **Also in that folder:** `2ACAS CSA Dr Zeravica DC ver2` (image-only, no
+  extractable text), `1ACAS CSA Dr Zeravica DC`, and
+  `ACAS Lecture Attendees 1-24-2026` (the sign-in list)
+
+> **Corrected 2026-08-30.** This record previously said the deck was
+> `ACAS Lecture 1-24-26 ver2`, 59 slides, owned by
+> `robertzeravica91324@gmail.com`, file ID `1Z_X-Ntfot4ZJJSVIism_...`. **That
+> file ID returns "not found" and the owner was wrong.** The decks are owned by
+> the personal account and are reachable from a Claude session. Verified live.
+
+> **⚠️ Audience warning — do not send this deck outside a DC-peer room.** It
+> contains material section 4A marks as not evidence-defensible elsewhere:
+> "Liquid Light," the Primary Respiratory Mechanism presented as the drive
+> mechanism of the airway, the Torus Tubarius as a "frequency governor," the
+> "Sleep Apnea Parasite," "Ambassadors of Truth," and a stray "Family Law
+> Court" slide. It was written for peers and it is good for peers. For a CE
+> body, a research audience, an MD, or a dentist, build a purpose-made sample
+> instead. (Decision taken 2026-08-30 when it was nearly sent to the Carrick
+> Institute.)
 
 **Title concept (slide 2):**
 > *"Human Performance Infrastructure for the AI Age (Delivered Through Chiropractic)"*

@@ -3,7 +3,7 @@
 **Status:** Draft, not sent. Written 2026-08-30.
 **To:** Tricia Carrick (reviews all teaching requests), Carrick Institute
 **Re:** Their 2026-08-10 reply asking for a sample of Dr. Z's education plus
-an outline.
+an outline. **Sent as outline only — no deck attached.** See notes.
 **Sitting open since:** 2026-08-10 — twenty days.
 
 ---
@@ -28,13 +28,13 @@ an outline.
 > in the Marine Corps before that. I founded Chiropractic Sleep Academy to
 > teach the sleep-and-airway model I use in practice.
 >
-> **Teaching sample.** In January I delivered a two-hour CEU lecture to
-> California Doctors of Chiropractic through ACAS on the biomechanical
-> sciences of sleep and airway — *"Human Performance Infrastructure for the AI
-> Age."* The deck is attached. It is the closest thing to a direct sample of
-> how I teach this material to a room of clinicians.
+> **Teaching experience.** In January I delivered a two-hour CEU-accredited
+> lecture to California Doctors of Chiropractic through ACAS on the
+> biomechanical sciences of sleep and airway. That lecture, and the practice
+> it came out of, is what the outline below is drawn from. I am happy to
+> prepare a sample module in whatever format your review process prefers.
 >
-> **What I would propose teaching.** The outline is attached as well. The
+> **What I would propose teaching.** The outline follows. The
 > short version: the sleep and airway field is divided cleanly between
 > dentistry, ENT, and sleep medicine, and none of the three owns the
 > structural chain — cranial base, cervical posture, hyoid position, rib cage
@@ -60,7 +60,7 @@ an outline.
 
 ---
 
-## 2. The outline (attach as its own document)
+## 2. The outline
 
 ### Structural Airway Chiropractic — proposed CE course
 
@@ -128,12 +128,20 @@ Offered as overlap, not as a claim on the Institute's territory:
 - **Send from the office account** (`DrZeravicaOffice@gmail.com`) — the Rosen
   thread and the original Carrick reply both live there, and the signature
   block already matches.
-- **The attachment is the ACAS deck** — `ACAS Lecture 1-24-26 ver2`, 59 slides,
-  in the `robertzeravica91324@gmail.com` Drive. You will need to either export
-  it to PDF or share it from that account. It is not in the repo.
-- **Verify two claims before you send:** that the ACAS lecture was two hours
-  and CEU-accredited, and the 1999 licensure year. Both come from project
-  memory, not from a document I could check.
+- **No deck is attached, deliberately** (Robert's call, 2026-08-30). The ACAS
+  deck (`3ACAS Lecture 1-24-26`, 67 slides, in the personal Drive) was written
+  for a room of DC peers and contains material section 4A explicitly marks as
+  not evidence-defensible outside that room — "Liquid Light," the Primary
+  Respiratory Mechanism as a drive mechanism, the Torus Tubarius as a
+  "frequency governor," the "Sleep Apnea Parasite," "Ambassadors of Truth,"
+  and a stray "Family Law Court" slide. Carrick is a functional-neurology
+  institute screening whether to put Robert's name on its program. Sending
+  that deck risks the whole relationship on slides that were never meant for
+  this audience.
+- **If Carrick asks for a sample module**, build one purpose-made rather than
+  sending ACAS. The email offers exactly that, in their preferred format.
+- **Credentials are confirmed** (Robert, 2026-08-30): the ACAS lecture was two
+  hours and CEU-accredited, and 1999 is the licensure year. No longer flagged.
 - **The delay needs no elaborate apology.** One clause is enough — the version
   above says you were presenting in Europe, which is true, and moves on.
 - **Module 2 is honestly marked "in development."** Do not present it as
