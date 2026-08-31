@@ -3185,9 +3185,14 @@ Still open:
   Dr. Z-only channel dropping genuine teaching invites. Should it become the
   front half of the "one working funnel" 90-day goal, and on which platform?
   A Gmail draft proposing it went to Peter Katakalidis; status unknown.
-- **Sleep Doctor reply** — the David Amato email at
-  `outreach/2026-05-21-sleepdoctor-david-amato.md` has no recorded send or
-  reply. Its answer on separate billing decides Step 2 economics.
+- **Sleep Doctor — rewritten 2026-08-30, still not sent.** The May draft was
+  stale (written before portal access was resolved on 6/22) and is now marked
+  superseded. Current draft: `outreach/2026-08-30-sleepdoctor-david-amato.md`.
+  The rewrite leads with the **owner's verbal special-partnership offer** that
+  Peter surfaced — a named person honoring a specific promise, rather than the
+  old vague "is there a rebate?" — and adds the $0-HST-for-DCs mechanics. It
+  also stops disclosing Robert's own fee to a vendor. Its answer on separate
+  clinical billing still decides Step 2 economics.
 - **Registrar / DNS control for `RobertZeravica.com`** — unknown which
   account holds it, and it blocks the email migration. Likely tied to
   `DrZeravicaOffice@gmail.com` or `robertzeravica91324@gmail.com`.

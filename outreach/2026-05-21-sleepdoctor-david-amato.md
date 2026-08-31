@@ -1,7 +1,13 @@
 # Email Draft — David Amato (Sleep Doctor)
 
-**Status:** Draft v2 — refined after reading the 4/30/26 partner program
-email and 5/4/26 welcome message in Gmail.
+> **⛔ SUPERSEDED 2026-08-30 — do not send this version.** It was written
+> before portal access was resolved (6/22) and before Peter surfaced the
+> owner's verbal special-partnership offer. It also names Robert's own $300
+> fee to a vendor, which the rewrite deliberately drops. Current draft:
+> `outreach/2026-08-30-sleepdoctor-david-amato.md`. Kept for the record.
+
+**Status:** SUPERSEDED. Draft v2 — refined after reading the 4/30/26 partner
+program email and 5/4/26 welcome message in Gmail.
 **Drafted:** 2026-05-21
 **Purpose:** Resolve the three open partnership questions blocking CSA's
 Step 2 (Sleep Baseline) pathway: can CSA bill a separate doctor fee,
