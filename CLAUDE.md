@@ -3107,10 +3107,17 @@ Still open:
   - **Not on the critical path.** The 90-day goals — clear offer, real DC
     outreach, one working funnel — come first. Sending the text to Alec is 15
     minutes; do not let CSF reading eat funnel time.
-- **The Way Forward podcast date** — Aug 26 or Sept 10 were offered on 8/17;
-  no date confirmed as of 8/21. Time-sensitive.
-- **Carrick Institute teaching sample + outline** — requested 8/10, not sent.
-  Highest-leverage unclosed door in the file.
+- **The Way Forward podcast date — CONFLICTING RECORDS, resolve directly.**
+  One line in this file says Robert is booked in Austin for **Oct 14**
+  (podcast + VAET on Alec); another says Aug 26 or Sept 10 were offered on
+  8/17 with no date confirmed. Robert does not know which is true
+  (2026-08-30). **Check with Alec Zeck's team directly — not through Peter.**
+- **Carrick Institute teaching sample + outline** — requested 8/10.
+  **Draft written 2026-08-30** at
+  `outreach/2026-08-30-carrick-institute-teaching-sample.md` (email + a
+  six-module course outline). **Not yet sent.** Before sending: attach the
+  ACAS deck as PDF, and verify the two-hour CEU claim and the 1999 licensure
+  year.
 - **Was the Rob–Peter agreement notarized?** Robert intended to on 8/1;
   no confirmation since.
 - **Jeff Berwick** — listed in Liberpulco Stats with no amount. Session
