@@ -2528,6 +2528,10 @@ CPAP) over-match his EDD/medical chats. Keep personal chats out of the repo.
 - `/strategy` — durable strategy assets. `csa-evidence-plan.md` is the plan for
   generating AHI/CBCT outcome data that survives peer review.
 
+- `/private` — Robert's personal material, kept out of the file every session
+  reads first. Currently `operator-personal.md` (family, cult background,
+  chosen circle). **Never quote or paraphrase it into anything
+  outward-facing.** The operational rules that flow from it stay in section 29.
 - `/talks` — speaking scripts and stage material.
 - `/trips` — event and travel recaps, named `YYYY-MM-<event>-recap.md`.
 - `/schedule` — itineraries and calendar reconciliation.
@@ -4713,62 +4717,33 @@ this. **The two facts compound:** Robert is uniquely positioned because
 he is a USMC vet *and* runs Structural Airway Chiropractic / VAET.
 Either alone would be ordinary. Together they create a defensible niche.
 
-### Family
-Robert has three children:
+### Family & personal life — moved to a private file
 
-- **Max** — 1st son. Currently a teenager. Chose not to spend summer
-  2026 with Robert and his younger siblings. Facing juvenile court
-  for driving without a license and a speeding ticket at **130 MPH**.
-  Lives with his mother (Robert's ex). Mother has told Max that the
-  day he turns 18 is the day his belongings will be on the sidewalk.
-  Max previously tried to live with Robert but was too disrespectful;
-  he moved back to his mother despite Robert's framing of her behavior
-  as mental and emotional abuse. Long history of disrespect toward
-  Robert, his mother, his siblings, teachers, peers, and police. Not
-  consistently attending school. Self-identifies as a future
-  millionaire; motto "you only live once"; does not believe in God.
-  **HANDLE WITH CARE.** Max is a real teenager in a real crisis, and
-  a real parental wound for Robert. Do **not** raise Max in business
-  or planning sessions unless Robert raises him first. If Robert
-  initiates a Max conversation, hold space — do not pivot to
-  problem-solving or advice unless explicitly asked.
+The personal material that used to sit here — Robert's three children and
+Max's situation, the cult background, Family 2.0 as a personal circle, and
+the "being recruited into a movement" note — now lives at
+**`private/operator-personal.md`** (moved 2026-08-30 at Robert's request).
 
-  **Update 5/29/26:** Robert is engaging a Wichita-area juvenile
-  defense attorney for Max's speeding case. New June 2026
-  deliverable in `JUNE_2026_GOALS.md`.
+**The operational rules stay here, because every session needs them:**
 
-- **Zac** — 2nd son. Spending summer 2026 with Robert in Las Vegas
-  starting 6/2/26 at 6:40 PM. Starts school in Wichita, KS on 8/14/26.
-
-- **Adelaide** — youngest child. Same summer arc as Zac.
-
-The summer 2026 plan (6/2 → 8/8 continuous with Robert) is built
-around Zac and Adelaide. Max is not in the summer plan because Max
-is not choosing to be. That is a true thing about the operator's
-reality; it is not something to be solved in a session.
+- **Say "children," never "kids."** Robert asked for this directly on
+  5/29/26. His reason: *"Kids are goats."* Applies everywhere — chat, drafts,
+  documents.
+- **Do not raise Max in a business or planning session** unless Robert raises
+  him first. If he does, hold space; do not pivot to problem-solving unless
+  he asks.
+- **The cult background is a separate workstream from CSA.** Acknowledge it if
+  it surfaces; don't merge it into business planning and don't interrogate it.
+- **Robert's chosen circle includes Delfina, Peter, Santiago/Isaiah, and Ri.**
+  Their *business* roles are in section 6 and section 17; the personal
+  framing is in the private file.
+- **Robert's summer is built around time with his children.** Do not schedule
+  business into it without asking.
 
 ### Voice / vocabulary discipline
 - **"Children," not "kids."** Robert specifically requested this
   correction 5/29/26. Reason: *"Kids are goats."* Apply to all
   written or spoken references in chat, files, drafts, etc.
-
-### Family 2.0 (Robert's chosen circle, named 5/29/26)
-Beyond his three children (the family-of-origin layer), Robert
-refers to his chosen circle as **Family 2.0**:
-
-- **Delfina** (relationship-to-Robert TBD — presumed close partner)
-- **Peter** (close friend / informal advisor; the Connector)
-- **Santiago / Isaiah** (videographer/editor on Mike Barron crew)
-- **Ri** (Robert's current VA, CSA-side)
-
-By summer 2026 end (8/8), Robert wants Zac and Adelaide to **know
-and be friends with** Family 2.0 — they are part of the children's
-absorbed-into-the-ecosystem experience.
-
-Other family/close-circle people surfaced so far:
-- **Delfina** — last day at LAUSD is 6/11/26. Relationship to Robert
-  is presumed close but not yet explicitly logged (spouse / partner
-  / co-parent / family member — needs clarification).
 
 ### Robert's USMC framing (his own words, 5/26/26)
 Robert's 9 years in the Marines were strategic, not a career. He
@@ -4800,39 +4775,6 @@ keep this forever?"
   *prepare what he brings to Alex*, not to be the final voice. Frame
   counsel as "here's what's worth bringing to Alex with conviction"
   rather than "here's what you should do."
-
-### Active discernment moment — "being recruited into a movement"
-On **5/26/26**, at the start of Eleanor's Bitcoin / Blockchain class,
-Eleanor explicitly warned the group: *"You're being recruited into a
-movement."* Robert captured this in his notes — that capture itself
-is the right move. Given the cult background below, Claude should
-treat this kind of self-awareness as a healthy signal Robert is
-keeping his discernment active, not a flag to step back. Stay engaged
-in learning; stay centered. Both at once is the move. Log other
-similar warnings as they surface across communities (Regis Realm,
-SupraHuman, Anarchapulco/Liberpulco) so the pattern stays visible.
-
-### Personal history — cult background (sensitive — handle with care)
-Robert has disclosed (5/26/26) that he was previously involved in a
-cult, and that some of the dreams and goals he formed during that
-period are *no longer possible* given his transition out of it. He
-is sitting with the question:
-
-> *"What to do when your dreams and goals are no longer possible
-> because one was in a cult?"*
-
-This is a **real workstream of its own** — separate from CSA / SDI /
-VA business work — and should be acknowledged when it surfaces in
-conversation. It is **not** Claude's job to resolve it. It IS Claude's
-job to:
-1. Not pretend it didn't happen.
-2. Treat it as durable context that affects how Robert relates to
-   "goals," "dreams," and identity-shaped commitments — words that
-   sound innocuous but may carry weight here.
-3. Hold it as a separate stream from business planning unless Robert
-   explicitly merges them.
-4. When it surfaces, hold space for it without trying to immediately
-   convert it to a tractable problem.
 
 ### Priority framework Robert is using
 When Robert asks himself *"what to do?"* and *"what are my priorities?"*,
