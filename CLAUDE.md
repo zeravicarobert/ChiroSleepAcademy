@@ -3164,8 +3164,24 @@ Still open:
   2027. Weekly schedule is not stated in any email — ask Rosen or check
   drmartinrosen.com/online-courses. **Decide before 9/8**, and reply to Rosen
   either way.
-- **Belun Technology** — evaluate against Sleep Doctor and SleepImage for the
-  HST vendor decision.
+- **Belun Technology — evaluation opened 2026-08-30** at
+  `vendors/2026-08-30-measurement-and-hst-vendors.md`. Ring-based, and unlike
+  WatchPAT it **directly measures respiratory effort and body position**. The
+  position data matters more to CSA than to a general sleep practice: without
+  it, positional OSA is an uncontrolled variable inside every before-and-after
+  comparison in the outcomes registry. Weigh on data quality, not price alone.
+  **Send the Sleep Doctor email first** — the owner's offer may close the
+  margin gap and make the comparison moot.
+- **PNOĒ — collaboration lane opened 2026-08-30, Robert's item.** Breath
+  analysis: 23 biomarkers in under ten minutes, no blood draw, and it flags
+  breathing-pattern abnormalities. Strategic value is **not** the metabolic
+  panel — it is that CSA has almost no data *between* the baseline HST and the
+  follow-up HST, and this is a repeatable in-office breathing measurement that
+  could fill that gap. They actively build clinic referral partnerships.
+  Guardrails and next steps in the vendor file; the hard one is that awake
+  breathing efficiency has **not** been shown to predict sleep outcomes, so
+  any before/after use is exploratory and governed by the Modulation
+  Framework. Not on the September critical path.
 - **LinkedIn** — an unworked professional network on the office account.
   Decide whether it becomes a real CSA outreach channel or gets ignored on
   purpose.
