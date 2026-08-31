@@ -3135,9 +3135,14 @@ Still open:
   bench (the `CSA Relationship Strategies` sheet, the Parker DCs already
   asking for HSTs, and the six open doors) is higher-value than a cold list
   of unknown freshness. Revisit only if the warm channels run dry.
-- **Lead magnet** for the funnel — the Book To Buyer book (Sept 20–25,
-  Las Vegas) is the likely answer; decide whether the book *is* the lead
-  magnet or whether a shorter asset ships first.
+- ~~Lead magnet for the funnel~~ → **DECIDED 2026-08-30: the book is the lead
+  magnet.** Robert's call, settling a question open since July. Consequence
+  for the **Book To Buyer intensive, Sept 20–25, Las Vegas**: go in writing
+  *the CSA funnel's front door*, not a general-interest book. The book has a
+  job — turn a stranger into a Zoom call — and that job should shape the
+  title, the structure, and the call to action before the week starts.
+  Follow-on question for after the intensive: what the reader is asked to do
+  on the last page, given there is still no live booking link.
 - **Dr. Martin Rosen** — he offered on 8/9 to learn about CSA and explore how
   the programs complement each other. Unanswered. Warmest CE/partnership door
   CSA currently has.
