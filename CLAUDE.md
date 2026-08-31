@@ -3130,7 +3130,11 @@ Still open:
   `90_DAY_RETRO_2026-08-31.md`; current tracker is `SEPTEMBER_2026_GOALS.md`,
   deliberately short (five goals, every one anchored to a real external date)
   because four consecutive trackers went unread.
-- **28-opt-in DC database outreach** — still no evidence this ever ran.
+- ~~28-opt-in DC database outreach~~ → **DEPRIORITIZED 2026-08-30, Robert's
+  call.** No evidence it ever ran, and it is not worth reviving: the warm
+  bench (the `CSA Relationship Strategies` sheet, the Parker DCs already
+  asking for HSTs, and the six open doors) is higher-value than a cold list
+  of unknown freshness. Revisit only if the warm channels run dry.
 - **Lead magnet** for the funnel — the Book To Buyer book (Sept 20–25,
   Las Vegas) is the likely answer; decide whether the book *is* the lead
   magnet or whether a shorter asset ships first.
