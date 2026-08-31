@@ -571,7 +571,11 @@ If yes, use "may modulate."
     (the person/clinician hub, leads into the Academy)
 - Site platform: **ClickFunnels 2.0** (the repo's `site/` pages are the design
   and copy source; they are hand-built HTML, not the deployed site)
-- Timezone: **Pacific — PDT** — use for all scheduling, reminders, and calendar events
+- Timezone: **business default is Pacific (PDT)** — patients, calendar, and all
+  US-facing scheduling. **But as of 2026-08-30 Robert is physically in Europe**
+  (Central European Summer Time, UTC+2 — nine hours ahead of PDT). Confirm
+  which clock is meant before booking anything with a live person on it, and
+  update this line when he is back.
 - Clinical: HST pathway live; Sleep Doctor provider portal access resolved
 - Public face: **still not live.** Page drafts exist in `site/`, with
   unfilled booking links
@@ -615,6 +619,13 @@ Dr Zeravica DC`, `Liberpulco_Sovereignty_Script_v1`.
 | | Refund | −$340 | |
 | | **Total** | **$951** | **€1,420** |
 
+> **Reconciled 2026-08-30 — these are the same money, not two figures.** The
+> itemized table above ($951 + €1,420) and the "$2,598" in the trip recap
+> below are one and the same: €1,420 at roughly 1.16 is about $1,647, plus
+> $951 = **~$2,598 total**. The separate "$2,760" figure adds Robert's $160
+> dart-tournament winnings. Use **~$2,598** as CSA's first outside revenue;
+> do not add the two lines together.
+
 Jeff Berwick is listed without an amount — status unclear, worth confirming.
 
 **Leads out of the event:**
@@ -641,7 +652,7 @@ Outcomes:
 - **Podcast booked with Alec Zeck** — Robert travels to **Texas** to balloon
   Alec and record an episode together. Date not yet set. This is the highest-
   leverage asset the trip produced.
-- **$2,600 collected** on the trip from the paying subset — CSA's first real
+- **~$2,598 collected** on the trip from the paying subset — CSA's first real
   revenue from people entirely outside Robert's network. Plus **$160 profit
   winning the Liberpulco dart tournament, beating Jeff Berwick** ($2,760 cash
   in). Trip cost not yet tallied, so net is unknown.
@@ -3185,6 +3196,13 @@ Still open:
   Still to do: sweep curriculum, clinical forms, site copy, decks, and Drive
   assets on other branches as they are merged.
 
+- **Is the Academy domain `.net` or `.com`?** This file's section 6 header says
+  **ChiropracticSleepAcademy.net**, but the contact form that has been
+  collecting unanswered leads is on **chiropracticsleepacademy.com**. Either
+  Robert owns both and one redirects, or leads are landing somewhere the memory
+  does not think is his. Robert to research. Until resolved, do not print
+  either domain on anything that goes to a stranger.
+
 When any of these are resolved, update this file.
 
 ---
@@ -4380,6 +4398,23 @@ The Master Summary supplies the real IP language the site docs lack:
 ---
 
 ## 28. How Robert wants Claude to write (2026-07-16)
+
+### 2026-08-30 — Name sections, don't just cite the symbol
+Robert asked for this directly. **"§" is shorthand for "section," and it is not
+obvious to a reader who did not write it.** When referring to a part of this
+file, name it as well as number it:
+
+- Write **"section 6 (Current State)"** — not "§6"
+- Write **"section 5, the red lines"** — not "§5"
+
+The same goes for any cross-reference in chat or in a document Robert reads.
+The number alone makes him stop and go look it up, which is friction that buys
+nothing. This does not apply *inside* this file where a compact cross-reference
+is genuinely useful — but even there, prefer "section 8 (pricing)" on first
+mention in any given passage.
+
+Related, and already in force: plain English, fewest words, say clearly what
+was done or what Robert should do.
 
 - Use simple, plain English (about 5th-grade level).
 - Use the fewest words possible.
