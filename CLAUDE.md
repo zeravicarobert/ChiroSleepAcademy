@@ -3244,6 +3244,22 @@ Still open:
   does not think is his. Robert to research. Until resolved, do not print
   either domain on anything that goes to a stranger.
 
+- **Move the private family material off GitHub** (Robert's request,
+  2026-08-30; reminder set for Sept 6). `private/operator-personal.md` should
+  live on an encrypted platform, not in a git repository.
+  **The caveat that matters:** the material is *already in git history* from
+  commits going back to May and June. Deleting or moving the file does not
+  erase it — it stays recoverable in the history of `CLAUDE.md` across many
+  branches. Truly removing it means rewriting history (`git filter-repo` or
+  BFG) and force-pushing, which touches every branch. So the realistic choice
+  is between (a) accepting what is already in history and stopping the bleed
+  going forward, or (b) a deliberate history rewrite. Robert to decide.
+  Platform options offered: **Proton Drive / Proton Docs** (end-to-end
+  encrypted, Swiss, good mobile apps, fits the sovereignty posture),
+  **Cryptomator** (encrypts files before they reach Google Drive — zero
+  migration cost), **Standard Notes** (encrypted, good for journal-style
+  personal writing). Legal originals stay with the attorney regardless.
+
 When any of these are resolved, update this file.
 
 ---
