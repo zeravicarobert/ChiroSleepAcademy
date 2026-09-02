@@ -7,7 +7,7 @@ to stay aligned across sessions.
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
 **Repo branch for active development:** `claude/may-2026-goals-GJDLg`
-**Last updated:** 2026-07-27
+**Last updated:** 2026-09-02
 
 ---
 
@@ -98,6 +98,8 @@ post, page, or pitch.
 - Site platform: **ClickFunnels 2.0**
 - Audience: ~28 opted-in DCs in a warm database, 1 active mentee asking for a Letter of Engagement
 - Clinical: ready to run HST + CBCT on real patients
+- Financial base: existing EDD/SDI certification practice running
+  ~$36K/month, but new-claim intake down 66% since April (see section 9)
 - Public face: landing page / website not yet live
 - Offer structure: defined (see section 7) — pricing locked (see section 8)
 - Funnel: not yet built
@@ -141,6 +143,12 @@ Implications:
 
   → This is the warm bench for Goal 2 outreach. Combine with the
   ~28-opt-in database.
+
+- **`Income-Jane`** (Google Sheet, owned by `zeravicarobert@gmail.com`) —
+  the EDD/SDI practice income ledger: monthly tabs for 2023 and for
+  Feb–Sep 2026, a patient email list, and a patient-visit tracker.
+  Contains patient names and emails — **aggregates only leave the sheet.**
+  Analysis at `finance/sdi-income-baseline.md`; summary in section 9.
 
 - **Sleep Doctor charge of $160.65 on 11/26/25** (Capital One
   Quicksilver, per `Monthly Bills Elimination Project` sheet) — likely
@@ -367,7 +375,68 @@ business.
 
 ---
 
-## 9. 30-Day Goals (May 2026)
+## 9. The SDI Income Base (What Funds CSA)
+
+Dr. Z's existing practice — certifying and re-certifying California **EDD
+State Disability Insurance (SDI)** claims — is the financial base CSA is
+being built on top of. Full analysis, including the monthly table and the
+price ladder, lives at `finance/sdi-income-baseline.md`.
+
+Source of truth: the Google Sheet **`Income-Jane`** (owned by
+`zeravicarobert@gmail.com`).
+
+### The numbers (Feb–Aug 2026)
+
+- **~$36,224/month** average billed — ~$435K annualized run rate
+- **~130 transactions/month** across **~124 unique patients/month**
+- **489 unique patients** over the seven months; 950 on the lifetime roster
+- **~87% of payments arrive by Zelle (Chase)**; Cash App and Venmo make up
+  most of the rest
+- Mix runs roughly **75% re-certifications / 25% new claims**
+
+### The price ladder
+
+Two axes — *new claim vs. renewal* × *months certified*:
+
+| | 1 month | 2 months | 3 months |
+|---|---:|---:|---:|
+| **Renew** | $150 | $300 | $450 |
+| **New** | $400 | $550 | $700 |
+
+Renewals are a flat $150/month certified. New claims carry a **$250 intake
+premium** on the first month, then revert to $150/month. This is a working,
+proven recurring-revenue ladder — worth stress-testing CSA's Step 6 tiers
+against its shape.
+
+### The warning sign
+
+Re-certification revenue is stable and growing ($17.5K in Feb → $20.4K in
+Aug). **New-claim revenue is collapsing: $21,000 in April → $7,225 in
+August, a 66% drop in four months.** That slide accounts for essentially the
+entire fall from April's $39,113 to August's $28,816.
+
+Because every EDD claim eventually terminates, a book living on renewals has
+a finite tail. The runway erodes on its own schedule unless new-claim intake
+recovers. **Do not plan CSA as though $36K/month is guaranteed.**
+
+Open question for Robert: is the August drop seasonal, a referral-source
+change, a competitor, or attention diverted to CSA?
+
+### Guardrails
+
+- **SDI is not CSA revenue.** Keep the two separate in every plan, forecast,
+  and conversation.
+- **SDI is ring-fenced from the Peter partnership.** Peter earns no SDI
+  income (see section 16). These figures define what "SDI" means there.
+- **Patient data stays in the sheet.** `Income-Jane` holds patient names,
+  emails, payment handles, and a status legend referencing SSN/DOB lookups.
+  None of it goes in this repo, in drafts, or in outreach. Aggregates only.
+- **SDI numbers are never a public CSA proof point.** They are Dr. Z's
+  private practice financials — strategy input, not marketing.
+
+---
+
+## 10. 30-Day Goals (May 2026)
 
 From `MAY_2026_GOALS.md`:
 
@@ -380,7 +449,7 @@ From `MAY_2026_GOALS.md`:
 
 ---
 
-## 10. 90-Day Goals (by August 31, 2026)
+## 11. 90-Day Goals (by August 31, 2026)
 
 By end of August, three things must be true:
 
@@ -396,7 +465,7 @@ CSA must move from idea/project into a market-facing system.
 
 ---
 
-## 11. Year Vision (December 31, 2026)
+## 12. Year Vision (December 31, 2026)
 
 Winning by Dec 31, 2026 means CSA is no longer an idea — it is a real
 market-facing movement with doctors, patients, partners, content, and revenue.
@@ -412,7 +481,7 @@ Specifically:
 
 ---
 
-## 12. Claude's Role Across Sessions
+## 13. Claude's Role Across Sessions
 
 Claude is Robert's strategic execution partner for CSA.
 
@@ -433,7 +502,7 @@ accountability partner.
 
 ---
 
-## 13. Working Agreements (How Claude Operates Here)
+## 14. Working Agreements (How Claude Operates Here)
 
 - Default branch for development: `claude/may-2026-goals-GJDLg`. Don't push
   to other branches without explicit permission.
@@ -454,18 +523,22 @@ Claude should:
 
 ---
 
-## 14. Repo Conventions
+## 15. Repo Conventions
 
 - `CLAUDE.md` — this file. Project memory. Update as the project evolves.
 - `MAY_2026_GOALS.md` — current month's tracker. Replaced each month with
   a new `<MONTH>_<YEAR>_GOALS.md`.
-- Future: `/site` for the public site, `/content` for course/educational
-  assets, `/outreach` for templates and trackers. Structure to be added
-  when first needed — not before.
+- `/site` — the public site. `/content` — course/educational assets.
+  `/outreach` — templates and trackers. `/partnership` — partnership
+  records and term sheets. `/finance` — financial baselines and analysis.
+- Additional structure gets added when first needed — not before.
+- **`/finance` carries aggregates only.** Practice financials derive from
+  Google Sheets holding patient names, emails, and payment handles. Never
+  commit patient-level data to this repo (see section 9).
 
 ---
 
-## 15. Open Questions to Revisit in Future Sessions
+## 16. Open Questions to Revisit in Future Sessions
 
 Resolved during intake:
 - ~~Final domain~~ → **www.ChiropracticSleepAcademy.net**
@@ -519,5 +592,13 @@ Still open:
   observation. Full discussion record & term sheet (30 open questions for the
   attorney) lives at `partnership/rob-peter-csa-agreement.md`. Not yet a
   signed contract — needs attorney review before either party relies on it.
+  **The SDI carve-out is now quantified** — ~$36K/month, ~$435K/year run
+  rate (section 9, `finance/sdi-income-baseline.md`). The attorney draft
+  should define "SDI income" precisely enough to cover EDD certification and
+  re-certification revenue as it exists today.
+- **Why did new-claim SDI intake drop 66% from April to August 2026?**
+  Seasonal, referral-source change, competitor, or attention diverted to
+  CSA? Unanswerable from the sheet, and it determines how much runway CSA
+  actually has (section 9).
 
 When any of these are resolved, update this file.
