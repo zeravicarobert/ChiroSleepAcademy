@@ -50,7 +50,15 @@ Each maps to a Subcategory in this file:
 
 ---
 
-## 🚨 CRITICAL DATE — 6/17/26 (Wed)
+> **✅ RESOLVED — verified 2026-09-02.** Robert looked up license **#26527** on
+> the CA DCA / Board of Chiropractic Examiners public search:
+> **LICENSE STATUS: VALID · EXPIRATION DATE: MARCH 31, 2027 · Secondary status:
+> N/A.** The 6/17/26 suspension did not take effect, so the child-support cure
+> was completed and documented to the Board at some point after 5/28/26 — it
+> simply was never written down here. Everything below is historical record.
+> **Do not treat the license as at risk.**
+
+## 🚨 CRITICAL DATE — 6/17/26 (Wed) — RESOLVED, see above
 
 **California Chiropractic License #26527 suspension start date** if
 30-day Notice of Intent to Suspend (dated 5/13/26) is not complied

@@ -1014,6 +1014,18 @@ arriving here, confirming the partner relationship lives on this address.
 business generates named individuals with health and disability detail
 attached; none is recorded here or in any repo file.
 
+### License status — verified 2026-09-02
+
+**CA chiropractic license #26527 is VALID, expiring 2027-03-31** (Board of
+Chiropractic Examiners public search, checked by Robert). Secondary status N/A.
+
+This closes the 6/17/26 suspension scare in `legal/active-paperwork.md`: the
+child-support cure was evidently completed and documented to the Board, but the
+outcome was never recorded, so the file sat for months implying an open
+threat. **Do not treat the license as at risk.** When a Board or licensing
+matter resolves, write the outcome down — an unrecorded resolution reads
+exactly like an unresolved problem.
+
 ### ChiroSecure — malpractice carrier & risk-management partner
 
 - **`ChiroSecure (Malpractice Insurance Carrier)`** (Drive folder,
