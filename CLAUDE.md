@@ -6,7 +6,7 @@ to stay aligned across sessions.
 
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
-**Last updated:** 2026-08-30
+**Last updated:** 2026-09-02
 
 > **Reconciled 2026-08-30.** On 2026-05-21 this file forked into two lines that
 > never rejoined, and 32 different versions accumulated across 68 branches —
@@ -1013,6 +1013,18 @@ arriving here, confirming the partner relationship lives on this address.
 **Patient and client names stay out of this repo.** The certification
 business generates named individuals with health and disability detail
 attached; none is recorded here or in any repo file.
+
+### License status — verified 2026-09-02
+
+**CA chiropractic license #26527 is VALID, expiring 2027-03-31** (Board of
+Chiropractic Examiners public search, checked by Robert). Secondary status N/A.
+
+This closes the 6/17/26 suspension scare in `legal/active-paperwork.md`: the
+child-support cure was evidently completed and documented to the Board, but the
+outcome was never recorded, so the file sat for months implying an open
+threat. **Do not treat the license as at risk.** When a Board or licensing
+matter resolves, write the outcome down — an unrecorded resolution reads
+exactly like an unresolved problem.
 
 ### ChiroSecure — malpractice carrier & risk-management partner
 
@@ -3186,6 +3198,71 @@ Still open:
   breathing efficiency has **not** been shown to predict sleep outcomes, so
   any before/after use is exploratory and governed by the Modulation
   Framework. Not on the September critical path.
+- **Silver — two loose ends, both closable from the office inbox** (opened
+  2026-09-02). Count is settled at **150 one-ounce rounds** (Robert's own
+  figure — see the mentor-investment section). Still open: (a) the *Money Mar
+  2026* sheet computes **160 oz** on every dated row, a 10 oz / ~$666 gap —
+  fix the formula or find the extra 10 oz; (b) whether the **$12,500 to Mark
+  Gonzalez** bought the metal or bought advice. It is currently filed as
+  mentor spend with $0 ROI, which overstates the mentor total by $12,500 if
+  it was actually the purchase. **No receipt exists in `zeravicarobert@gmail.com`
+  or Drive** — both were searched. An April–May 2026 Zelle or Venmo memo in
+  `DrZeravicaOffice@gmail.com` would settle both at once.
+- **Mentor spend — confirm paid vs. quoted** (Robert's request, 2026-09-02;
+  **reminder set for 2026-10-20**). The `Money Gameplan` sheet
+  (`1jb1ASfikfqCq0xfdLeg_czsgk-3OW6A7oFiD1JEB78I`, personal Drive) holds **two
+  tables that look alike and mean different things**: *"INVESTED / Paid Into
+  Amount"* is real spend; *"Invested info / Pmts Left / Monthly / Investment"*
+  is the **contract price**. Reading the second as the first once already
+  produced a wrong answer in session — Tai Lopez showed $25,000 there when
+  Robert had paid **$5,000**. Treat every figure from the price table as
+  unconfirmed until checked.
+  - **To verify:** Polaris $16,000 · ClickFunnels $10,000 · Suprahuman $9,000 ·
+    Daymond John ($8,000 course vs. $12,000 in logged payments — does not
+    reconcile) · SMM Pro $5,365 · ChiroThin $5,000 · Enagic Kangen $4,000 ·
+    TedX $3,000 · Beyond Connections $1,415 · Funnel Hacking Live $1,041 ·
+    Terra Boost $1,000 · DNA Vibe $715 · RayBan $400 · Judge Anthony
+    $397/$450/$197 · Mike Barron Inner Circle Ch 5 $25,000 · Alienation
+    Coaching $1,500 · Russell Brunson and Marko Juhant (both unknown).
+  - **Settled, do not re-ask:** Tai Lopez **$5,000** (Robert, 2026-09-02),
+    Jay Abraham $5,000, Mike Barron $60,000, Simon Severino $20,000,
+    Alex Mandossian $5,000, Eleanor $1,500.
+  - **Fastest route:** not memory — **Complete Controller** (bookkeeping) and
+    **SingerLewak** (CPA) can produce a 2024–2026 vendor breakdown of
+    coaching/education spend in one pass.
+  - **What it changes:** only the mentor-investment section's ~$124,000
+    lifetime figure and how the next mentor pitch gets evaluated. **It does
+    not touch the balance sheet** — this is past money, not debt.
+- **⭐ The balance sheet, and the $400,000 nobody had recorded** (built
+  2026-09-02, `finance/balance-sheet-2026-09-02.md`). Robert asked what to do
+  with a net worth he put at **+$59,000**. That was assets only. Against
+  ~$990,000 of liabilities his actual position is about **−$939,000**.
+  - **$400,000 in student loans appeared nowhere in this file until today.**
+    It sat in one cell of the *Money Gameplan* sheet. An
+    `income driven repayment (IDR) plan.txt` in Drive dated 2026-08-23 shows
+    it is already in motion. It is the largest single **unverified** number on
+    the page — no servicer statement has been seen.
+  - **Two liabilities are 84% of the total, and both are the negotiable kind:**
+    the **IRS 2014 year at ~$369,000** (the collection statute may be
+    expiring — ten years from assessment) and the **$400,000 student loans**
+    on an income-driven plan. Nothing Robert can do with ~$51,000 of liquid
+    assets is worth what those two questions are worth.
+  - **Child support (~$135,853 remaining) is not in that category.** It is a
+    court order, the Chiropractic Board issued a suspension notice over it in
+    May 2026, and it is therefore tied to Robert's ability to earn. Never
+    group it with the negotiable debts.
+  - **Consequence for the property plan:** a federal tax lien attaches to
+    after-acquired property (IRC §6321) and a filed lien closes off
+    conventional financing. Property is downstream of the debt work. This
+    reinforces the fraudulent-conveyance caution already standing since May.
+  - **Next step:** a tax attorney with controversy and Offer-in-Compromise
+    experience, then a student-loan specialist — or the same person for both.
+    Complete Controller and SingerLewak can supply the income figures an
+    attorney will ask for first.
+  - **Also still to do:** strike the four debts Robert confirmed gone on
+    2026-09-02 — Delfina $35,000, Locos CBD $5,000, Vladimir Shagramanov
+    $2,000, Zoran $2,000 — from the *Money Gameplan* sheet. They are removed
+    from the balance sheet but the sheet still reports them.
 - **LinkedIn** — an unworked professional network on the office account.
   Decide whether it becomes a real CSA outreach channel or gets ignored on
   purpose.
@@ -3564,13 +3641,19 @@ ROI ≈ $0 (not yet captured beyond Daymond's pitch refinement). The
 zero is not a judgment — it means ROI has not been formally measured.
 Measuring it is the work.
 
+> ⚠️ **The $124,000 may be overstated by $12,500.** The Mark Gonzalez line
+> is filed here as education spend, but it may have bought *metal*, not
+> advice — in which case it is an asset Robert still owns, not a sunk
+> coaching fee, and the real mentor total is **$91,500**. Unresolved; see
+> the silver-holdings note directly below.
+
 ### Active portfolio (one-time / long-tail spend, as of 5/26/26)
 
 | Category | Mentor / Educator | Service | Invested | Measured ROI |
 |---|---|---|---|---|
 | Funnels | Mike Barron | Done-for-you marketing + video team | $60,000 | $0 |
 | Sleep Academy | Simon Severino | 90 Day Sprint / CSA build | $20,000 | $0 |
-| Silver | Mark Gonzalez | Silver investment guidance | $12,500 | $0 |
+| Silver | Mark Gonzalez | Silver investment guidance | $12,500 ⚠️ | $0 — **see the silver-holdings note below; this line may not belong in this table at all** |
 | Relationships | Jay Abraham | Relational capital + deal making | $5,000 | $0 |
 | CA EDD SDI | Alex Mandossian | SDI patient acquisition | $5,000 | $0 |
 | Blockchain | Eleanor | Bitcoin / blockchain education | $1,500 | $0 |
@@ -3600,6 +3683,69 @@ and IP that the active mentors are building on top of.
 | Pitch + Positioning | Daymond John | CEO Day, Miami, March 2025 | $15,000 | Pitch refinement that anchors current CSA / Pathfinder positioning (durable, multi-year). The Pathfinder Unique Ability + Core Business Issue work in May 2026 is downstream of this. |
 | Marketing / Business | Tai Lopez | Dormant | $5,000 | TBD — Robert has not yet described what Tai's work specifically produced |
 | **Subtotal — dormant** | | | **$20,000** | |
+
+### Silver holdings — settled 2026-09-02 (do not re-derive this)
+
+**Robert bought 150 one-ounce silver rounds.** That is his own figure, given
+directly on 2026-09-02, and it is the number of record. Stop calculating it
+from spreadsheets.
+
+He also holds about **0.6 oz of fractional "silver bits"** — the
+transactionable sub-ounce pieces Mark Gonzalez taught him to keep (see the
+mentor ecosystem section, adjacent educators).
+
+**Where it is tracked:** two Google Sheets owned by `zeravicarobert@gmail.com`
+— **Money** (summary; `1E5rp4E8RgIGC_d8ygIBj2mj-kMrpvz1CmHuMppb2ZdE`) and
+**Money Mar 2026** (daily; `1jH6-SHQ8G7JBexb-3gjfW1k2Bn0sr1KCIUU9I9jAsDs`).
+Last recorded value **$10,648 at $66.55/oz on 2026-08-27**.
+
+#### ⚠️ Open discrepancy — the sheet says 160, Robert says 150
+
+Every dated row in *Money Mar 2026* divides out to **exactly 160.0 oz**
+(value ÷ spot), across twelve separate dates — 6/8, 6/13, 6/15, 6/17, 6/18,
+6/20, 6/24, 6/30, 7/1, and the 8/27 summary. It is a hard-set formula
+(`count × spot`), not rounding, and not premium — premium is tracked in its
+own column.
+
+So one of three things is true, and **nobody has resolved which**:
+
+1. The formula was typed as 160 in error, and the sheet **overstates the
+   silver by ~$666**
+2. Robert owns 10 oz from another source that got folded into the same cell
+3. The purchase was actually 160
+
+**Until this is settled, do not quote the silver value in any financial
+summary without noting the 10 oz uncertainty.**
+
+#### No purchase record exists
+
+Searched 2026-09-02 and found **nothing**:
+
+- **Gmail** (`zeravicarobert@gmail.com`) — silver/bullion/rounds crossed with
+  receipt/invoice/order/confirmation/shipped; Mark Gonzalez, Local Silver
+  Mint, First National Bullion, APMEX, JM Bullion, SD Bullion; and
+  Zelle/wire/cashier's check across March–June 2026. Every hit was marketing
+  or unrelated.
+- **Drive** — no file titled silver, bullion, metals, or receipt; no document
+  containing a silver invoice.
+
+**Caveat that matters:** this environment reads only
+`zeravicarobert@gmail.com`. Robert's payment traffic (Zelle, Venmo) lands in
+`DrZeravicaOffice@gmail.com`, which is not visible here. A receipt could
+easily be sitting there. **Checking the office inbox for an April–May 2026
+Zelle memo would close this in minutes** — and would also settle whether the
+$12,500 above bought metal or advice.
+
+**What the arithmetic hints, and why it is not proof:** $12,500 ÷ 150 rounds
+= $83.33/oz against April 2026 spot of $71–78. That is a ~10% premium — high
+but ordinary for physical rounds. Suggestive. Not evidence. Do not record it
+as fact.
+
+> **Lesson already learned once this session** (see the license-status entry
+> in the current-state section): an unrecorded outcome is indistinguishable
+> from an unresolved problem. The silver count sat underivable for months
+> because the quantity was never written down anywhere. It is written down
+> now.
 
 ### What counts as ROI
 
