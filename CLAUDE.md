@@ -3233,6 +3233,36 @@ Still open:
   - **What it changes:** only the mentor-investment section's ~$124,000
     lifetime figure and how the next mentor pitch gets evaluated. **It does
     not touch the balance sheet** — this is past money, not debt.
+- **⭐ The balance sheet, and the $400,000 nobody had recorded** (built
+  2026-09-02, `finance/balance-sheet-2026-09-02.md`). Robert asked what to do
+  with a net worth he put at **+$59,000**. That was assets only. Against
+  ~$990,000 of liabilities his actual position is about **−$939,000**.
+  - **$400,000 in student loans appeared nowhere in this file until today.**
+    It sat in one cell of the *Money Gameplan* sheet. An
+    `income driven repayment (IDR) plan.txt` in Drive dated 2026-08-23 shows
+    it is already in motion. It is the largest single **unverified** number on
+    the page — no servicer statement has been seen.
+  - **Two liabilities are 84% of the total, and both are the negotiable kind:**
+    the **IRS 2014 year at ~$369,000** (the collection statute may be
+    expiring — ten years from assessment) and the **$400,000 student loans**
+    on an income-driven plan. Nothing Robert can do with ~$51,000 of liquid
+    assets is worth what those two questions are worth.
+  - **Child support (~$135,853 remaining) is not in that category.** It is a
+    court order, the Chiropractic Board issued a suspension notice over it in
+    May 2026, and it is therefore tied to Robert's ability to earn. Never
+    group it with the negotiable debts.
+  - **Consequence for the property plan:** a federal tax lien attaches to
+    after-acquired property (IRC §6321) and a filed lien closes off
+    conventional financing. Property is downstream of the debt work. This
+    reinforces the fraudulent-conveyance caution already standing since May.
+  - **Next step:** a tax attorney with controversy and Offer-in-Compromise
+    experience, then a student-loan specialist — or the same person for both.
+    Complete Controller and SingerLewak can supply the income figures an
+    attorney will ask for first.
+  - **Also still to do:** strike the four debts Robert confirmed gone on
+    2026-09-02 — Delfina $35,000, Locos CBD $5,000, Vladimir Shagramanov
+    $2,000, Zoran $2,000 — from the *Money Gameplan* sheet. They are removed
+    from the balance sheet but the sheet still reports them.
 - **LinkedIn** — an unworked professional network on the office account.
   Decide whether it becomes a real CSA outreach channel or gets ignored on
   purpose.
