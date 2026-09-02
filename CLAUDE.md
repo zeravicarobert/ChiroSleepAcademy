@@ -6,7 +6,7 @@ to stay aligned across sessions.
 
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
-**Last updated:** 2026-08-30
+**Last updated:** 2026-09-02
 
 > **Reconciled 2026-08-30.** On 2026-05-21 this file forked into two lines that
 > never rejoined, and 32 different versions accumulated across 68 branches —
@@ -3198,6 +3198,16 @@ Still open:
   breathing efficiency has **not** been shown to predict sleep outcomes, so
   any before/after use is exploratory and governed by the Modulation
   Framework. Not on the September critical path.
+- **Silver — two loose ends, both closable from the office inbox** (opened
+  2026-09-02). Count is settled at **150 one-ounce rounds** (Robert's own
+  figure — see the mentor-investment section). Still open: (a) the *Money Mar
+  2026* sheet computes **160 oz** on every dated row, a 10 oz / ~$666 gap —
+  fix the formula or find the extra 10 oz; (b) whether the **$12,500 to Mark
+  Gonzalez** bought the metal or bought advice. It is currently filed as
+  mentor spend with $0 ROI, which overstates the mentor total by $12,500 if
+  it was actually the purchase. **No receipt exists in `zeravicarobert@gmail.com`
+  or Drive** — both were searched. An April–May 2026 Zelle or Venmo memo in
+  `DrZeravicaOffice@gmail.com` would settle both at once.
 - **LinkedIn** — an unworked professional network on the office account.
   Decide whether it becomes a real CSA outreach channel or gets ignored on
   purpose.
@@ -3576,13 +3586,19 @@ ROI ≈ $0 (not yet captured beyond Daymond's pitch refinement). The
 zero is not a judgment — it means ROI has not been formally measured.
 Measuring it is the work.
 
+> ⚠️ **The $124,000 may be overstated by $12,500.** The Mark Gonzalez line
+> is filed here as education spend, but it may have bought *metal*, not
+> advice — in which case it is an asset Robert still owns, not a sunk
+> coaching fee, and the real mentor total is **$91,500**. Unresolved; see
+> the silver-holdings note directly below.
+
 ### Active portfolio (one-time / long-tail spend, as of 5/26/26)
 
 | Category | Mentor / Educator | Service | Invested | Measured ROI |
 |---|---|---|---|---|
 | Funnels | Mike Barron | Done-for-you marketing + video team | $60,000 | $0 |
 | Sleep Academy | Simon Severino | 90 Day Sprint / CSA build | $20,000 | $0 |
-| Silver | Mark Gonzalez | Silver investment guidance | $12,500 | $0 |
+| Silver | Mark Gonzalez | Silver investment guidance | $12,500 ⚠️ | $0 — **see the silver-holdings note below; this line may not belong in this table at all** |
 | Relationships | Jay Abraham | Relational capital + deal making | $5,000 | $0 |
 | CA EDD SDI | Alex Mandossian | SDI patient acquisition | $5,000 | $0 |
 | Blockchain | Eleanor | Bitcoin / blockchain education | $1,500 | $0 |
@@ -3612,6 +3628,69 @@ and IP that the active mentors are building on top of.
 | Pitch + Positioning | Daymond John | CEO Day, Miami, March 2025 | $15,000 | Pitch refinement that anchors current CSA / Pathfinder positioning (durable, multi-year). The Pathfinder Unique Ability + Core Business Issue work in May 2026 is downstream of this. |
 | Marketing / Business | Tai Lopez | Dormant | $5,000 | TBD — Robert has not yet described what Tai's work specifically produced |
 | **Subtotal — dormant** | | | **$20,000** | |
+
+### Silver holdings — settled 2026-09-02 (do not re-derive this)
+
+**Robert bought 150 one-ounce silver rounds.** That is his own figure, given
+directly on 2026-09-02, and it is the number of record. Stop calculating it
+from spreadsheets.
+
+He also holds about **0.6 oz of fractional "silver bits"** — the
+transactionable sub-ounce pieces Mark Gonzalez taught him to keep (see the
+mentor ecosystem section, adjacent educators).
+
+**Where it is tracked:** two Google Sheets owned by `zeravicarobert@gmail.com`
+— **Money** (summary; `1E5rp4E8RgIGC_d8ygIBj2mj-kMrpvz1CmHuMppb2ZdE`) and
+**Money Mar 2026** (daily; `1jH6-SHQ8G7JBexb-3gjfW1k2Bn0sr1KCIUU9I9jAsDs`).
+Last recorded value **$10,648 at $66.55/oz on 2026-08-27**.
+
+#### ⚠️ Open discrepancy — the sheet says 160, Robert says 150
+
+Every dated row in *Money Mar 2026* divides out to **exactly 160.0 oz**
+(value ÷ spot), across twelve separate dates — 6/8, 6/13, 6/15, 6/17, 6/18,
+6/20, 6/24, 6/30, 7/1, and the 8/27 summary. It is a hard-set formula
+(`count × spot`), not rounding, and not premium — premium is tracked in its
+own column.
+
+So one of three things is true, and **nobody has resolved which**:
+
+1. The formula was typed as 160 in error, and the sheet **overstates the
+   silver by ~$666**
+2. Robert owns 10 oz from another source that got folded into the same cell
+3. The purchase was actually 160
+
+**Until this is settled, do not quote the silver value in any financial
+summary without noting the 10 oz uncertainty.**
+
+#### No purchase record exists
+
+Searched 2026-09-02 and found **nothing**:
+
+- **Gmail** (`zeravicarobert@gmail.com`) — silver/bullion/rounds crossed with
+  receipt/invoice/order/confirmation/shipped; Mark Gonzalez, Local Silver
+  Mint, First National Bullion, APMEX, JM Bullion, SD Bullion; and
+  Zelle/wire/cashier's check across March–June 2026. Every hit was marketing
+  or unrelated.
+- **Drive** — no file titled silver, bullion, metals, or receipt; no document
+  containing a silver invoice.
+
+**Caveat that matters:** this environment reads only
+`zeravicarobert@gmail.com`. Robert's payment traffic (Zelle, Venmo) lands in
+`DrZeravicaOffice@gmail.com`, which is not visible here. A receipt could
+easily be sitting there. **Checking the office inbox for an April–May 2026
+Zelle memo would close this in minutes** — and would also settle whether the
+$12,500 above bought metal or advice.
+
+**What the arithmetic hints, and why it is not proof:** $12,500 ÷ 150 rounds
+= $83.33/oz against April 2026 spot of $71–78. That is a ~10% premium — high
+but ordinary for physical rounds. Suggestive. Not evidence. Do not record it
+as fact.
+
+> **Lesson already learned once this session** (see the license-status entry
+> in the current-state section): an unrecorded outcome is indistinguishable
+> from an unresolved problem. The silver count sat underivable for months
+> because the quantity was never written down anywhere. It is written down
+> now.
 
 ### What counts as ROI
 
