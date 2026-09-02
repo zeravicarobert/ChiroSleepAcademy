@@ -58,11 +58,36 @@ $3,000 has produced nothing measurable so far.
 | Invoice | #147095 · Customer ID 118238 · TX `3YX24128JB236792J` · **PAID, $0 balance** |
 | Billed by | **Transform Destiny LLC** (Michael Stevenson's NLP company), Cheyenne WY — this is why the receipt does not say "Pathfinder" |
 | Venue | **Acqua Hotel, Mill Valley, CA.** The invoice's "San Francisco" is loose; Mill Valley is ~15 min over the Golden Gate |
-| Hosts | Alex Mandossian · Michael Stevenson · Kayla Stevenson. Robert met them at **Wizard Academy** |
+| Owner | **Alex Mandossian.** It is his event; he revived it after a break — *"Michael and Kayla Stevenson have convinced me to bring back Pathfinder Mastermind"* (6/9/26) |
+| Machinery | The Stevensons' **Transform Destiny** runs billing, email, and registration |
 | Size / theme | ~40 curated entrepreneurs · *The Persuasive Power of Nostalgia* |
 | Included | Lodging + most meals. **Spouse free.** Robert covers flight + Fri/Sat dinners |
 | Prep done | Directory profile submitted (Unique Ability + Core Business Issue) |
 | Prep open | Headshot is still the provisional cap photo · Nestor *Breath* quote wording unverified · flights unbooked |
+
+**How Robert got in:** no prior relationship path. He met Alex at FabLife in
+San Diego, engaged him as a mentor in April 2026 for $5,000 — writing at the
+time *"I've spent over $150,000 on Mentors in the last 18 months. I don't want
+another mentor"* — and bought this ticket a month later. **The referrer and
+the seller are the same person.** Ordinary in that world, and Alex has been
+genuinely generous; worth seeing plainly all the same against a mentor stack
+carrying $0 measured ROI.
+
+> **Do not trust the personalization in the 6/9/26 "tacos" email.** It opens
+> *"since we last got together at the Wizard Academy"* — **Robert has never
+> been to Wizard Academy and had not heard of it** (confirmed 2026-09-02). It
+> is a broadcast to Alex's older alumni list, sent from
+> `cs@transformdestiny.com` with tracking links, an unsubscribe, and the NLP
+> list footer. Robert landed on that list when the ticket purchase auto-
+> enrolled him in Transform Destiny **sixteen seconds before the invoice**,
+> which is also why his inbox has been filling with hypnotherapy and NLP
+> marketing since May 22.
+>
+> Two claims in that email are therefore mass-mail copy, not statements made
+> to Robert: *"Everyone attending is personally vetted by me"* and *"many of
+> your friends are returning."* They may be true. Do not plan around them.
+> Alex's 6/3 email, sent from his own address, opens *"this is NOT a broadcast
+> email"* — he draws the distinction himself.
 
 **Missed:** the alumni pre-event call, **August 27, 1 PM Pacific**. Alex's
 invite of 8/19 is still unread in `zeravicarobert@gmail.com`; the promised
@@ -117,10 +142,15 @@ decision and not an oversight.
 | Source | Dates |
 |---|---|
 | Invoice #147095 | 10/2/2026 |
-| Alex's email, 8/19 | "Oct. 1-3" |
+| **Alex, 6/9/26 — the most specific** | **reception Oct 2 (tacos + wine), event Oct 3–4** |
+| Alex, 8/19/26 | "Oct. 1-3" |
 | Project memory | Oct 1–4 |
 
-**Confirm before booking flights.** Do not book against any of the three.
+**Alex contradicts himself between June and August.** The June version is the
+detailed one and it matches the invoice date, so *reception 10/2, event
+10/3–4* is the best current reading — but it is a reading, not a confirmation.
+**Do not book flights against any of the four.** One email to Alex settles it,
+and it pairs naturally with acknowledging the missed 8/27 call.
 
 ### D. Cost
 
