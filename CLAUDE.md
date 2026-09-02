@@ -3208,6 +3208,31 @@ Still open:
   it was actually the purchase. **No receipt exists in `zeravicarobert@gmail.com`
   or Drive** — both were searched. An April–May 2026 Zelle or Venmo memo in
   `DrZeravicaOffice@gmail.com` would settle both at once.
+- **Mentor spend — confirm paid vs. quoted** (Robert's request, 2026-09-02;
+  **reminder set for 2026-10-20**). The `Money Gameplan` sheet
+  (`1jb1ASfikfqCq0xfdLeg_czsgk-3OW6A7oFiD1JEB78I`, personal Drive) holds **two
+  tables that look alike and mean different things**: *"INVESTED / Paid Into
+  Amount"* is real spend; *"Invested info / Pmts Left / Monthly / Investment"*
+  is the **contract price**. Reading the second as the first once already
+  produced a wrong answer in session — Tai Lopez showed $25,000 there when
+  Robert had paid **$5,000**. Treat every figure from the price table as
+  unconfirmed until checked.
+  - **To verify:** Polaris $16,000 · ClickFunnels $10,000 · Suprahuman $9,000 ·
+    Daymond John ($8,000 course vs. $12,000 in logged payments — does not
+    reconcile) · SMM Pro $5,365 · ChiroThin $5,000 · Enagic Kangen $4,000 ·
+    TedX $3,000 · Beyond Connections $1,415 · Funnel Hacking Live $1,041 ·
+    Terra Boost $1,000 · DNA Vibe $715 · RayBan $400 · Judge Anthony
+    $397/$450/$197 · Mike Barron Inner Circle Ch 5 $25,000 · Alienation
+    Coaching $1,500 · Russell Brunson and Marko Juhant (both unknown).
+  - **Settled, do not re-ask:** Tai Lopez **$5,000** (Robert, 2026-09-02),
+    Jay Abraham $5,000, Mike Barron $60,000, Simon Severino $20,000,
+    Alex Mandossian $5,000, Eleanor $1,500.
+  - **Fastest route:** not memory — **Complete Controller** (bookkeeping) and
+    **SingerLewak** (CPA) can produce a 2024–2026 vendor breakdown of
+    coaching/education spend in one pass.
+  - **What it changes:** only the mentor-investment section's ~$124,000
+    lifetime figure and how the next mentor pitch gets evaluated. **It does
+    not touch the balance sheet** — this is past money, not debt.
 - **LinkedIn** — an unworked professional network on the office account.
   Decide whether it becomes a real CSA outreach channel or gets ignored on
   purpose.
