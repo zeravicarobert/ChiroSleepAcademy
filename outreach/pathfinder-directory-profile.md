@@ -69,8 +69,11 @@ imagery, claim attributed to what patients report rather than promised:
 > can assess and treat structurally, and I get happy patients. But happy
 > patients are anecdotes. Without objective before-and-after data on my cases, I
 > can't stand in front of the MDs and DDSs who run sleep medicine and say
-> anything they're obligated to take seriously. Chiropractic has been kept
-> outside that conversation; I've been told to my face in a dental office that a
+> anything they're obligated to take seriously. And I want it longitudinal — a
+> two-year follow-up on every patient I treat, so I can say whether the thing
+> they walked in complaining about is better, the same, or worse two years
+> later. Almost nobody in this space is tracking that. Chiropractic has been
+> kept outside that conversation; I've been told to my face in a dental office that a
 > DC has no business talking about the head, neck and jaw. So I stopped asking
 > for a seat and set my own table, with a place for everyone who actually helps
 > sleep-disordered patients — physicians, dentists, chiropractors, myofunctional
@@ -123,6 +126,33 @@ Two linked builds, not one:
    - Evaluates feet and casts for a heel lift or custom orthotic
 
    In most cities that doctor is unidentified or doesn't exist.
+
+**Longitudinal requirement (added by Robert):** before/after is not enough. The
+standard is a **two-year follow-up on every patient treated** — is the complaint
+they walked in with better, the same, or worse two years later? Cross-sectional
+before/after produces a case series; longitudinal follow-up produces something a
+sleep conference has to engage with, because the standing objection to any
+structural intervention is whether the change holds.
+
+What that commits CSA to operationally:
+
+- **Capture the presenting complaint in the patient's own words at intake.** The
+  two-year comparison is against what they actually said, not a diagnosis code.
+  Costs nothing, should start on every patient immediately, before any vendor
+  decision is made.
+- **Written consent to re-contact, taken at the first visit.** Chasing consent
+  two years after the fact does not work.
+- **Fixed re-test intervals:** baseline → post-treatment → 90 days (end of the
+  corrective window) → 1 year → 2 years. The 90-day mark does double duty: it
+  also measures what the local co-treating DC contributed.
+- **Data export rights from the HST vendor.** Already a CSA requirement
+  (CLAUDE.md §8); this is why it matters — a two-year study is worthless if the
+  data is locked inside a vendor portal.
+
+The 90-day and 2-year marks together are what make the co-treatment network
+fundable: they separate what the two-day treatment does alone from what it does
+with a trained local DC working the window. That comparison is the recruiting
+argument for Step 6.
 
 **Why this matters strategically:** the co-treatment network and the Step 6
 doctor-training business are the same people. Every DC recruited to carry the
