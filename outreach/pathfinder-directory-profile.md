@@ -62,27 +62,85 @@ imagery, claim attributed to what patients report rather than promised:
 
 ## Core business issue to solve
 
-> I don't have a demand problem, I have a growth-management problem. I can open
-> someone's breathing in one visit, and word is moving. What caps me is
-> upstream: every patient needs a home sleep test and a large field-of-view
-> CBCT before they reach my table. The sleep test ships to their door. The CBCT
-> lives inside someone else's office — usually a dental practice with the right
-> size machine. I need a national referral network of those sites. That's the
-> constraint on how fast I can grow.
+> I don't have a demand problem. I have an evidence-and-infrastructure problem,
+> and it's two halves of the same thing.
+>
+> First, evidence. I don't need a home sleep test or a CBCT to do what I do — I
+> can assess and treat structurally, and I get happy patients. But happy
+> patients are anecdotes. Without objective before-and-after data on my cases, I
+> can't stand in front of the MDs and DDSs who run sleep medicine and say
+> anything they're obligated to take seriously. Chiropractic has been kept
+> outside that conversation; I've been told to my face in a dental office that a
+> DC has no business talking about the head, neck and jaw. So I stopped asking
+> for a seat and set my own table, with a place for everyone who actually helps
+> sleep-disordered patients — physicians, dentists, chiropractors, myofunctional
+> therapists.
+>
+> Second, co-treatment. A patient flies in, gets my two-day treatment at the hot
+> springs, and goes home — and that treatment opens roughly a 90-day window
+> where the structure is movable. Somebody local has to work that window.
+> Ideally an Applied Kinesiologist who also does SOT, a CBP-trained DC running
+> traction to correct forward head posture, and a DC who evaluates feet and
+> casts for a heel lift or orthotic. In most cities that doctor either doesn't
+> exist or I don't know who they are.
+>
+> So what I need built is a vetted national network of chiropractors trained to
+> carry that 90-day window after my treatment, plus the testing infrastructure
+> to prove what the combined care did. That's the constraint on how fast I can
+> grow — and it's also the business, because those doctors are my referral base
+> and eventually the doctors I train.
 
-**Underlying constraint, stated plainly:** HST is solved (ships to the patient,
-disposable). CBCT is not — it requires a large field-of-view machine covering
-head, neck and jaw, not a dental-arch cone, and that equipment is owned by
-someone else, usually a dental practice. Solving it looks like a vetted
-national referral network of large-FOV CBCT sites that will scan a CSA patient
-to protocol. This is an access and relationship problem, not a clinical one.
+### Shorter variant
+
+> I don't have a demand problem, I have an infrastructure problem. I can open
+> someone's breathing in a two-day treatment at the hot springs — but two things
+> are missing after that. One, objective before-and-after data; without it all I
+> have is happy patients and anecdote, which isn't enough to stand in front of
+> the MDs and DDSs who run sleep medicine. Two, a local doctor to carry the
+> 90-day corrective window once the patient goes home — ideally an Applied
+> Kinesiologist doing SOT, CBP traction for forward head posture, and foot
+> casting for a lift or orthotic. I need a vetted national network of those
+> chiropractors, and the testing to prove what the combined care did.
+
+### What is actually being asked for
+
+Two linked builds, not one:
+
+1. **Evidence infrastructure.** HST and CBCT are *not* required for Robert to
+   assess or treat — he assesses clinically. They are required to convert
+   results from anecdote into presentable, publishable evidence. Objective
+   before-and-after data is what buys standing in front of MDs and DDSs at
+   sleep conferences, which is the room chiropractic has historically been shut
+   out of. (The large-FOV CBCT access problem — head/neck/jaw, not a dental
+   arch cone, and the machine sits in someone else's office — is a sub-problem
+   of this, not the headline.)
+
+2. **A co-treatment network.** The two-day hot springs treatment opens roughly a
+   90-day window in which the structure is movable. That window needs a local
+   doctor to work it. The ideal profile:
+   - Applied Kinesiologist who also practices SOT
+   - CBP-trained for traction to correct forward head posture
+   - Evaluates feet and casts for a heel lift or custom orthotic
+
+   In most cities that doctor is unidentified or doesn't exist.
+
+**Why this matters strategically:** the co-treatment network and the Step 6
+doctor-training business are the same people. Every DC recruited to carry the
+90-day window is simultaneously a referral partner, a data-collection point,
+and a future training customer. This paragraph is effectively the CSA business
+model stated in plain language.
+
+**The table:** Robert's response to being marginalized as a DC in the sleep
+conversation was to build a multidisciplinary table rather than fight for a
+seat at someone else's — a place set for everyone who helps sleep-disordered
+patients: physicians, dentists, chiropractors, myofunctional therapists, and
+the alternative-health space. Tell this story factually and without indicting
+dentistry; dentists are partners CSA wants at that table (see CLAUDE.md §5).
 
 **Timing note:** this profile is read at Alex's event, which lands *after* the
 Vegas Book to Buyer event. By then patient acquisition for VAET in
 Vegas/Hot Springs is expected to be handled, so the ask to that room is the
-CBCT network, not lead generation.
-
----
+evidence base and the co-treatment network, not lead generation.
 
 ## Favorite non-fiction book
 
