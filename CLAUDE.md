@@ -3171,6 +3171,13 @@ Still open:
   AHI/ODI, and the structural-vs-medical diagnosis boundary is arguably a
   prerequisite to Step 6 (training other DCs), not just to Robert's own
   practice.
+- **Rosen in-person courses — which cohort, and at what price?** (researched
+  2026-09-27, `education/2026-09-27-martin-rosen-in-person-courses.md`).
+  Robert says he will take Rosen's courses. Every in-person date is the SOT®
+  Pediatric Certificate Program; TMJ/cranial are online only. Open cohorts:
+  **Minneapolis** (5/15–16/27 + 7/10–11/27) and **Calgary** (4/10–11/27 +
+  6/19–20/27). **Calgary early-bird price ends 10/19/26.** Tuition is not
+  published — ask Rosen's office.
 - **Dr. Rosen's TMJ course** — as of 8/22 there is no evidence Robert
   enrolled. *Mastering TMJ Dysfunction* is an **online** program (not a live
   seminar) in Peak Potential's Fall semester; **classes begin Sept 8, 2026**.
