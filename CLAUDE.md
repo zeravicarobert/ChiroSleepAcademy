@@ -6,7 +6,7 @@ to stay aligned across sessions.
 
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
-**Last updated:** 2026-09-02
+**Last updated:** 2026-09-28
 
 > **Reconciled 2026-08-30.** On 2026-05-21 this file forked into two lines that
 > never rejoined, and 32 different versions accumulated across 68 branches —
@@ -3263,6 +3263,9 @@ Still open:
     2026-09-02 — Delfina $35,000, Locos CBD $5,000, Vladimir Shagramanov
     $2,000, Zoran $2,000 — from the *Money Gameplan* sheet. They are removed
     from the balance sheet but the sheet still reports them.
+- **EntreLeadership Summit (May 23–26, 2027, San Diego) — register and pay.**
+  Robert committed to attend (2026-09-28). Early-bird price can rise without
+  notice. Reminders set for 9/29, 10/1, and 10/6. See section 24.
 - **LinkedIn** — an unworked professional network on the office account.
   Decide whether it becomes a real CSA outreach channel or gets ignored on
   purpose.
@@ -4437,6 +4440,17 @@ ready? Who picks them up if delayed?).
   and Peter Martone DC is on the alumni list — confirm whether he is
   attending in 2026. Treat 10/1–10/4 as a hard calendar block. Directory
   profile complete as of 5/26/26.
+
+### May 2027
+- **5/23/27 (Sun) – 5/26/27 (Wed) — EntreLeadership Summit, Gaylord Pacific
+  Resort, San Diego, CA.** Robert: "Have to attend." Ramsey Solutions event;
+  Dave Ramsey, Jocko Willink, Joe Montana; ~3,000 entrepreneurs. Link:
+  https://www.ramseysolutions.com/events/entreleadership-summit
+  - **Not yet registered or paid (as of 2026-09-28).** Super Early Bird price is
+    live; no fixed deadline is published, so the price can rise any time.
+  - Reminders set 2026-09-28: calendar 9/29 9 AM PT (register + pay), backup
+    calendar 10/6 9 AM PT, and a session check-in 10/1. Summit days blocked on
+    the calendar. When paid, record the amount here and delete the 10/6 backup.
 
 ### Workstream status snapshot
 - **CSA (doctor-facing, §7–§8):** Simon's lane. Active. May goals
