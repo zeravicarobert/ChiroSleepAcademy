@@ -3226,9 +3226,14 @@ Still open:
     Coaching $1,500 · Marko Juhant (unknown).
   - **Settled, do not re-ask:** Tai Lopez **$5,000** (Robert, 2026-09-02),
     Jay Abraham $5,000, Mike Barron $60,000, Simon Severino $20,000,
-    Alex Mandossian $5,000, Eleanor $1,500, **ClickFunnels / Russell
-    Brunson $10,240.95** (Robert, 2026-09-30 — the $10,000 in the price
-    table was close; itemized in the mentor-investment section).
+    Alex Mandossian $5,000, Eleanor $1,500.
+  - **ClickFunnels / Russell Brunson — partly settled.** One account shows
+    **$10,240.95** paid (itemized in the mentor-investment section). Robert
+    may have paid ClickFunnels from other accounts too. **Still to check:**
+    `DrZeravicaOffice@gmail.com` and `robertzeravica91324@gmail.com` (the
+    91324 address is the known ClickFunnels 2.0 login). Ask ClickFunnels
+    support for billing history on every account. Until then, $10,240.95
+    is a floor, not the total.
   - **Fastest route:** not memory — **Complete Controller** (bookkeeping) and
     **SingerLewak** (CPA) can produce a 2024–2026 vendor breakdown of
     coaching/education spend in one pass.
@@ -3670,14 +3675,20 @@ Measuring it is the work.
 
 ### ClickFunnels / Russell Brunson — payment record (Robert, 2026-09-30)
 
-Only **three** payments were actually processed:
+> ⚠️ **One account only.** Robert may have opened ClickFunnels under more
+> than one email. Not yet checked: `DrZeravicaOffice@gmail.com` and
+> `robertzeravica91324@gmail.com`. Which account these three payments came
+> from is not recorded. Treat $10,240.95 as a floor until all accounts are
+> checked.
+
+On this account, **three** payments were processed:
 
 | Date | Amount | What it bought |
 |---|---|---|
 | 2024-02-05 | $143.95 | Traffic Secrets, Funnel University, and other items |
 | 2024-02-09 | $9,997.00 | Funnel Hacker Certification setup fee |
 | 2025-04-12 | $100.00 | One Funnel Away VIP |
-| | **$10,240.95** | **Total paid** |
+| | **$10,240.95** | **Total paid (this account)** |
 
 - The **FBCC Legacy** subscription renews at **$0.00**. It has renewed
   **21 times**, the latest period Sep 9 – Oct 9, 2026.
