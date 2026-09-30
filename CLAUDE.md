@@ -6,7 +6,7 @@ to stay aligned across sessions.
 
 **Owner:** Robert (ZeravicaRobert@gmail.com)
 **Project:** Chiropractic Sleep Academy (CSA)
-**Last updated:** 2026-09-02
+**Last updated:** 2026-09-30
 
 > **Reconciled 2026-08-30.** On 2026-05-21 this file forked into two lines that
 > never rejoined, and 32 different versions accumulated across 68 branches —
@@ -3217,16 +3217,18 @@ Still open:
   produced a wrong answer in session — Tai Lopez showed $25,000 there when
   Robert had paid **$5,000**. Treat every figure from the price table as
   unconfirmed until checked.
-  - **To verify:** Polaris $16,000 · ClickFunnels $10,000 · Suprahuman $9,000 ·
+  - **To verify:** Polaris $16,000 · Suprahuman $9,000 ·
     Daymond John ($8,000 course vs. $12,000 in logged payments — does not
     reconcile) · SMM Pro $5,365 · ChiroThin $5,000 · Enagic Kangen $4,000 ·
     TedX $3,000 · Beyond Connections $1,415 · Funnel Hacking Live $1,041 ·
     Terra Boost $1,000 · DNA Vibe $715 · RayBan $400 · Judge Anthony
     $397/$450/$197 · Mike Barron Inner Circle Ch 5 $25,000 · Alienation
-    Coaching $1,500 · Russell Brunson and Marko Juhant (both unknown).
+    Coaching $1,500 · Marko Juhant (unknown).
   - **Settled, do not re-ask:** Tai Lopez **$5,000** (Robert, 2026-09-02),
     Jay Abraham $5,000, Mike Barron $60,000, Simon Severino $20,000,
-    Alex Mandossian $5,000, Eleanor $1,500.
+    Alex Mandossian $5,000, Eleanor $1,500, **ClickFunnels / Russell
+    Brunson $10,240.95** (Robert, 2026-09-30 — the $10,000 in the price
+    table was close; itemized in the mentor-investment section).
   - **Fastest route:** not memory — **Complete Controller** (bookkeeping) and
     **SingerLewak** (CPA) can produce a 2024–2026 vendor breakdown of
     coaching/education spend in one pass.
@@ -3663,8 +3665,29 @@ Measuring it is the work.
 
 | Mentor / Service | What it is | Monthly | Annualized | Measured ROI |
 |---|---|---|---|---|
-| Russell Brunson — program | Unspecified Brunson coaching / membership tier | ~$400 | ~$4,800 | $0 (TBD — confirm which program and whether being used) |
+| Russell Brunson — FBCC Legacy | Funnel Hacker subscription (see ClickFunnels record below) | **$0.00** | $0 | Renewing at $0.00 — 21 periods through Oct 9, 2026 |
 | ClickFunnels 2.0 | SaaS that hosts the CSA site (§6) — operational, not optional | TBD | TBD | Operational infrastructure (site lives here) |
+
+### ClickFunnels / Russell Brunson — payment record (Robert, 2026-09-30)
+
+Only **three** payments were actually processed:
+
+| Date | Amount | What it bought |
+|---|---|---|
+| 2024-02-05 | $143.95 | Traffic Secrets, Funnel University, and other items |
+| 2024-02-09 | $9,997.00 | Funnel Hacker Certification setup fee |
+| 2025-04-12 | $100.00 | One Funnel Away VIP |
+| | **$10,240.95** | **Total paid** |
+
+- The **FBCC Legacy** subscription renews at **$0.00**. It has renewed
+  **21 times**, the latest period Sep 9 – Oct 9, 2026.
+- **No upcoming charge.** The next FBCC renewal is expected at $0.00.
+- This replaces the old "~$400/month" Brunson line — that figure is not
+  supported by these records. If a ~$400 monthly charge exists anywhere, it
+  is something else (possibly the ClickFunnels 2.0 platform subscription,
+  which is billed separately and still unconfirmed).
+- Not included here: the Funnel Hacking Live $1,041 line, which is still on
+  the to-verify list.
 
 Recurring spend deserves its own audit rhythm — every dollar that
 renews automatically is a dollar Robert isn't actively re-deciding to
